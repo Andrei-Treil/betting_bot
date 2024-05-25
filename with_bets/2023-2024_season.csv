@@ -1,0 +1,717 @@
+date,away_team,away_pt,home_team,home_pt,home_spread,home_total,home_ml,away_spread,away_total,away_ml
+Tue Oct 24 2023,Los Angeles Lakers,107,Denver Nuggets,119,-5 (-106),o229 (-110),-190,+5 (-114),u229 (-110),+160
+Tue Oct 24 2023,Phoenix Suns,108,Golden State Warriors,104,-2.5 (-110),o235 (-108),-148,+2.5 (-110),u235 (-112),+126
+Wed Oct 25 2023,Houston Rockets,86,Orlando Magic,116,-4.5 (-110),o219.5 (-110),-184,+4.5 (-110),u219.5 (-110),+154
+Wed Oct 25 2023,Boston Celtics,108,New York Knicks,104,+4 (-110),o223 (-110),+146,-4 (-110),u223 (-110),-174
+Wed Oct 25 2023,Washington Wizards,120,Indiana Pacers,143,-5 (-110),o235.5 (-110),-210,+5 (-110),u235.5 (-110),+176
+Wed Oct 25 2023,Atlanta Hawks,110,Charlotte Hornets,116,+4 (-110),o236 (-110),+152,-4 (-110),u236 (-110),-180
+Wed Oct 25 2023,Detroit Pistons,102,Miami Heat,103,-9.5 (-108),o218.5 (-110),-450,+9.5 (-112),u218.5 (-110),+350
+Wed Oct 25 2023,Minnesota Timberwolves,94,Toronto Raptors,97,-1 (-108),o220.5 (-110),-112,+1 (-112),u220.5 (-110),-104
+Wed Oct 25 2023,Cleveland Cavaliers,114,Brooklyn Nets,113,+1.5 (-108),o218.5 (-110),+104,-1.5 (-112),u218.5 (-110),-122
+Wed Oct 25 2023,New Orleans Pelicans,111,Memphis Grizzlies,104,-1 (-108),o224.5 (-110),-112,+1 (-112),u224.5 (-110),-104
+Wed Oct 25 2023,Oklahoma City Thunder,124,Chicago Bulls,104,-2.5 (-112),o225 (-108),-146,+2.5 (-108),u225 (-112),+124
+Wed Oct 25 2023,Sacramento Kings,130,Utah Jazz,114,+1.5 (-108),o234 (-110),+106,-1.5 (-112),u234 (-110),-124
+Wed Oct 25 2023,Dallas Mavericks,126,San Antonio Spurs,119,+4.5 (-114),o230.5 (-110),+152,-4.5 (-106),u230.5 (-110),-180
+Wed Oct 25 2023,Portland Trail Blazers,111,Los Angeles Clippers,123,-9.5 (-108),o226 (-108),-420,+9.5 (-112),u226 (-112),+330
+Thu Oct 26 2023,Philadelphia 76ers,117,Milwaukee Bucks,118,-6 (-114),o227.5 (-110),-245,+6 (-106),u227.5 (-110),+200
+Thu Oct 26 2023,Phoenix Suns,95,Los Angeles Lakers,100,-6.5 (-106),o226.5 (-108),-235,+6.5 (-114),u226.5 (-112),+194
+Fri Oct 27 2023,Denver Nuggets,108,Memphis Grizzlies,104,+6 (-110),o221.5 (-110),+190,-6 (-110),u221.5 (-110),-230
+Fri Oct 27 2023,Detroit Pistons,111,Charlotte Hornets,99,-4.5 (-110),o227 (-110),-188,+4.5 (-110),u227 (-110),+158
+Fri Oct 27 2023,New York Knicks,126,Atlanta Hawks,120,+1.5 (-112),o228.5 (-110),even,-1.5 (-108),u228.5 (-110),-118
+Fri Oct 27 2023,Oklahoma City Thunder,108,Cleveland Cavaliers,105,-2 (-112),o226.5 (-110),-130,+2 (-108),u226.5 (-110),+110
+Fri Oct 27 2023,Miami Heat,111,Boston Celtics,119,-8.5 (-110),o218 (-110),-405,+8.5 (-110),u218 (-110),+320
+Fri Oct 27 2023,Toronto Raptors,103,Chicago Bulls,104,-2.5 (-110),o216.5 (-110),-134,+2.5 (-110),u216.5 (-110),+114
+Fri Oct 27 2023,Houston Rockets,122,San Antonio Spurs,126,-3.5 (-108),o224.5 (-110),-156,+3.5 (-112),u224.5 (-110),+132
+Fri Oct 27 2023,Brooklyn Nets,120,Dallas Mavericks,125,-6 (-110),o230 (-110),-240,+6 (-110),u230 (-110),+198
+Fri Oct 27 2023,Los Angeles Clippers,118,Utah Jazz,120,+4 (-108),o228 (-108),+150,-4 (-112),u228 (-112),-178
+Fri Oct 27 2023,Orlando Magic,102,Portland Trail Blazers,97,+4 (-114),o220.5 (-110),+144,-4 (-106),u220.5 (-110),-172
+Fri Oct 27 2023,Golden State Warriors,122,Sacramento Kings,114,-3 (-112),o237.5 (-110),-154,+3 (-108),u237.5 (-110),+130
+Sat Oct 28 2023,Chicago Bulls,102,Detroit Pistons,118,+2.5 (-114),o214.5 (-110),+114,-2.5 (-106),u214.5 (-110),-134
+Sat Oct 28 2023,Memphis Grizzlies,106,Washington Wizards,113,+1 (-110),o227.5 (-110),-102,-1 (-110),u227.5 (-110),-116
+Sat Oct 28 2023,New York Knicks,87,New Orleans Pelicans,96,-3 (-108),o224 (-110),-146,+3 (-112),u224 (-110),+124
+Sat Oct 28 2023,Indiana Pacers,125,Cleveland Cavaliers,113,-3 (-110),o224 (-110),-148,+3 (-110),u224 (-110),+126
+Sat Oct 28 2023,Philadelphia 76ers,114,Toronto Raptors,107,+4.5 (-110),o214.5 (-108),+152,-4.5 (-110),u214.5 (-112),-180
+Sat Oct 28 2023,Miami Heat,90,Minnesota Timberwolves,106,-5 (-110),o216.5 (-110),-198,+5 (-110),u216.5 (-110),+166
+Sat Oct 28 2023,Utah Jazz,104,Phoenix Suns,126,-5.5 (-110),o223 (-110),-215,+5.5 (-110),u223 (-110),+180
+Sun Oct 29 2023,Denver Nuggets,128,Oklahoma City Thunder,95,+2 (-110),o229.5 (-110),+110,-2 (-110),u229.5 (-110),-130
+Sun Oct 29 2023,Golden State Warriors,106,Houston Rockets,95,+4.5 (-110),o226.5 (-110),+152,-4.5 (-110),u226.5 (-110),-180
+Sun Oct 29 2023,Atlanta Hawks,127,Milwaukee Bucks,110,-7.5 (-110),o238.5 (-110),-320,+7.5 (-110),u238.5 (-110),+260
+Sun Oct 29 2023,Portland Trail Blazers,98,Philadelphia 76ers,126,-10 (-110),o218.5 (-110),-500,+10 (-110),u218.5 (-110),+385
+Sun Oct 29 2023,San Antonio Spurs,83,Los Angeles Clippers,123,-8.5 (-110),o228.5 (-110),-370,+8.5 (-110),u228.5 (-110),+295
+Sun Oct 29 2023,Los Angeles Lakers,127,Sacramento Kings,132,-2.5 (-110),o234 (-110),-142,+2.5 (-110),u234 (-110),+118
+Mon Oct 30 2023,Chicago Bulls,112,Indiana Pacers,105,-3.5 (-110),o226.5 (-110),-154,+3.5 (-110),u226.5 (-110),+130
+Mon Oct 30 2023,Boston Celtics,126,Washington Wizards,107,+10 (-112),o229 (-112),+385,-10 (-108),u229 (-108),-500
+Mon Oct 30 2023,Brooklyn Nets,133,Charlotte Hornets,121,+1 (-110),o228.5 (-110),+102,-1 (-110),u228.5 (-110),-120
+Mon Oct 30 2023,Portland Trail Blazers,99,Toronto Raptors,91,-7.5 (-110),o217.5 (-110),-330,+7.5 (-110),u217.5 (-110),+265
+Mon Oct 30 2023,Minnesota Timberwolves,113,Atlanta Hawks,127,+1.5 (-110),o234.5 (-110),+106,-1.5 (-112),u234.5 (-110),-124
+Mon Oct 30 2023,Dallas Mavericks,125,Memphis Grizzlies,110,+2.5 (-110),o227.5 (-110),+120,-2.5 (-110),u227.5 (-110),-142
+Mon Oct 30 2023,Miami Heat,114,Milwaukee Bucks,122,-5 (-110),o223.5 (-110),-205,+5 (-110),u223.5 (-110),+172
+Mon Oct 30 2023,Golden State Warriors,130,New Orleans Pelicans,102,-3.5 (-110),o232.5 (-110),-158,+3.5 (-110),u232.5 (-110),+134
+Mon Oct 30 2023,Detroit Pistons,112,Oklahoma City Thunder,124,-5.5 (-110),o226.5 (-110),-220,+5.5 (-110),u226.5 (-110),+184
+Mon Oct 30 2023,Utah Jazz,102,Denver Nuggets,110,-8.5 (-110),o230.5 (-110),-330,+8.5 (-110),u230.5 (-110),+265
+Mon Oct 30 2023,Orlando Magic,103,Los Angeles Lakers,106,-2.5 (-110),o220.5 (-110),-144,+2.5 (-110),u220.5 (-110),+122
+Tue Oct 31 2023,New York Knicks,109,Cleveland Cavaliers,91,+4.5 (-122),o214.5 (-122),+168,-4.5 (-106),u214.5 (-106),-220
+Tue Oct 31 2023,San Antonio Spurs,115,Phoenix Suns,114,-7 (-112),o224.5 (-112),-300,+7 (-108),u224.5 (-108),+245
+Tue Oct 31 2023,Orlando Magic,102,Los Angeles Clippers,118,-6.5 (-112),o220.5 (-108),-260,+6.5 (-108),u220.5 (-112),+215
+Wed Nov 1 2023,Portland Trail Blazers,110,Detroit Pistons,101,-3.5 (-112),o216.5 (-110),-162,+3.5 (-108),u216.5 (-110),+136
+Wed Nov 1 2023,Milwaukee Bucks,111,Toronto Raptors,130,+4.5 (-114),o223.5 (-110),+160,-4.5 (-106),u223.5 (-110),-190
+Wed Nov 1 2023,Washington Wizards,121,Atlanta Hawks,130,-9 (-112),o240.5 (-108),-430,+9 (-108),u240.5 (-112),+350
+Wed Nov 1 2023,Indiana Pacers,104,Boston Celtics,155,-13.5 (-108),o233.5 (-110),-850,+13.5 (-112),u233.5 (-110),+590
+Wed Nov 1 2023,Brooklyn Nets,109,Miami Heat,105,-7 (-110),o222.5 (-110),-270,+7 (-110),u222.5 (-110),+220
+Wed Nov 1 2023,Cleveland Cavaliers,95,New York Knicks,89,-5.5 (-110),o210.5 (-112),-225,+5.5 (-110),u210.5 (-108),+188
+Wed Nov 1 2023,New Orleans Pelicans,110,Oklahoma City Thunder,106,-3.5 (-110),o227.5 (-110),-154,+3.5 (-110),u227.5 (-110),+130
+Wed Nov 1 2023,Charlotte Hornets,119,Houston Rockets,128,-3 (-112),o222 (-110),-154,+3 (-108),u222 (-110),+130
+Wed Nov 1 2023,Denver Nuggets,89,Minnesota Timberwolves,110,+2.5 (-108),o219.5 (-110),+114,-2.5 (-112),u219.5 (-110),-134
+Wed Nov 1 2023,Chicago Bulls,105,Dallas Mavericks,114,-4 (-108),o220 (-110),-164,+4 (-112),u220 (-110),+136
+Wed Nov 1 2023,Memphis Grizzlies,109,Utah Jazz,133,-2 (-112),o225.5 (-110),-130,+2 (-110),u225.5 (-110),+110
+Wed Nov 1 2023,Sacramento Kings,101,Golden State Warriors,102,-6.5 (-112),o228 (-108),-255,+6.5 (-108),u228 (-112),+210
+Wed Nov 1 2023,Los Angeles Clippers,125,Los Angeles Lakers,130,-3 (-108),o227.5 (-108),-138,+3 (-114),u227.5 (-112),+118
+Thu Nov 2 2023,Toronto Raptors,99,Philadelphia 76ers,114,-7.5 (-108),o214.5 (-110),-295,+7.5 (-112),u214.5 (-110),+240
+Thu Nov 2 2023,Detroit Pistons,116,New Orleans Pelicans,125,-4.5 (-110),o215.5 (-110),-194,+4.5 (-110),u215.5 (-110),+162
+Thu Nov 2 2023,Orlando Magic,115,Utah Jazz,113,+1.5 (-110),o224 (-110),+102,-1.5 (-110),u224 (-110),-120
+Thu Nov 2 2023,San Antonio Spurs,132,Phoenix Suns,121,-10.5 (-110),o229.5 (-106),-490,+10.5 (-110),u229.5 (-114),+380
+Fri Nov 3 2023,Cleveland Cavaliers,116,Indiana Pacers,121,+2.5 (-112),o230 (-110),+122,-2.5 (-110),u230 (-110),-144
+Fri Nov 3 2023,New York Knicks,105,Milwaukee Bucks,110,-5.5 (-110),o224.5 (-110),-225,+5.5 (-110),u224.5 (-110),+188
+Fri Nov 3 2023,Brooklyn Nets,109,Chicago Bulls,107,-4 (-114),o221 (-110),-178,+4 (-106),u221 (-110),+150
+Fri Nov 3 2023,Washington Wizards,114,Miami Heat,121,-8.5 (-112),o224.5 (-110),-405,+8.5 (-108),u224.5 (-110),+320
+Fri Nov 3 2023,Golden State Warriors,141,Oklahoma City Thunder,139,+6 (-108),o225 (-110),+205,-6 (-112),u225 (-110),-250
+Fri Nov 3 2023,Dallas Mavericks,114,Denver Nuggets,125,-6 (-106),o230 (-108),-230,+6 (-114),u230 (-112),+190
+Fri Nov 3 2023,Memphis Grizzlies,113,Portland Trail Blazers,115,+3.5 (-106),o219.5 (-110),+140,-3.5 (-114),u219.5 (-110),-166
+Sat Nov 4 2023,Phoenix Suns,100,Philadelphia 76ers,112,-6.5 (-108),o220.5 (-110),-260,+6.5 (-112),u220.5 (-110),+215
+Sat Nov 4 2023,Charlotte Hornets,125,Indiana Pacers,124,-5 (-108),o241.5 (-110),-194,+5 (-112),u241.5 (-110),+162
+Sat Nov 4 2023,Atlanta Hawks,123,New Orleans Pelicans,105,-2 (-114),o237.5 (-110),-134,+2 (-106),u237.5 (-110),+114
+Sat Nov 4 2023,Los Angeles Lakers,101,Orlando Magic,120,+3.5 (-106),o222.5 (-108),+136,-3.5 (-114),u222.5 (-112),-162
+Sat Nov 4 2023,Boston Celtics,124,Brooklyn Nets,114,+10 (-110),o227 (-110),+370,-10 (-110),u227 (-110),-480
+Sat Nov 4 2023,Sacramento Kings,89,Houston Rockets,107,+2.5 (-108),o220.5 (-110),+118,-2.5 (-112),u220.5 (-110),-138
+Sat Nov 4 2023,Utah Jazz,95,Minnesota Timberwolves,123,-8 (-110),o224.5 (-110),-320,+8 (-110),u224.5 (-110),+260
+Sat Nov 4 2023,Chicago Bulls,101,Denver Nuggets,123,-9 (-110),o217.5 (-108),-420,+9 (-110),u217.5 (-112),+330
+Sun Nov 5 2023,Phoenix Suns,120,Detroit Pistons,106,+3.5 (-110),o218 (-110),+138,-3.5 (-110),u218 (-110),-164
+Sun Nov 5 2023,Toronto Raptors,123,San Antonio Spurs,116,+3.5 (-106),o222 (-110),+138,-3.5 (-114),u222 (-110),-164
+Sun Nov 5 2023,Golden State Warriors,104,Cleveland Cavaliers,115,-1.5 (-110),o223 (-110),-120,+1.5 (-110),u223 (-110),+102
+Sun Nov 5 2023,Charlotte Hornets,118,Dallas Mavericks,124,-11.5 (-112),o235 (-110),-590,+11.5 (-108),u235 (-110),+440
+Sun Nov 5 2023,Memphis Grizzlies,112,Portland Trail Blazers,100,+3.5 (-114),o219 (-108),+130,-3.5 (-106),u219 (-112),-154
+Mon Nov 6 2023,Golden State Warriors,120,Detroit Pistons,109,+9 (-110),o224.5 (-112),+320,-9 (-110),u224.5 (-108),-405
+Mon Nov 6 2023,San Antonio Spurs,111,Indiana Pacers,152,-8.5 (-110),o239 (-108),-375,+8.5 (-110),u239 (-112),+300
+Mon Nov 6 2023,Dallas Mavericks,117,Orlando Magic,102,+1.5 (-112),o230.5 (-110),-104,-1.5 (-108),u230.5 (-110),-112
+Mon Nov 6 2023,Washington Wizards,128,Philadelphia 76ers,146,-11 (-112),o229 (-110),-560,+11 (-108),u229 (-110),+430
+Mon Nov 6 2023,Milwaukee Bucks,129,Brooklyn Nets,125,+4.5 (-110),o232.5 (-110),+152,-4.5 (-110),u232.5 (-110),-180
+Mon Nov 6 2023,Los Angeles Lakers,107,Miami Heat,108,-1.5 (-110),o222.5 (-110),-126,+1.5 (-110),u222.5 (-110),+108
+Mon Nov 6 2023,Los Angeles Clippers,97,New York Knicks,111,-1 (-110),o223 (-110),-116,+1 (-110),u223 (-110),-102
+Mon Nov 6 2023,Utah Jazz,113,Chicago Bulls,130,-4 (-114),o223 (-112),-184,+4 (-106),u223 (-108),+154
+Mon Nov 6 2023,Sacramento Kings,97,Houston Rockets,122,+2 (-110),o217.5 (-108),+108,-2 (-110),u217.5 (-112),-126
+Mon Nov 6 2023,Boston Celtics,109,Minnesota Timberwolves,114,+3.5 (-112),o222 (-110),+134,-3.5 (-108),u222 (-110),-158
+Mon Nov 6 2023,Atlanta Hawks,117,Oklahoma City Thunder,126,-1 (-112),o243 (-110),-118,+1 (-108),u243 (-110),-100
+Mon Nov 6 2023,New Orleans Pelicans,116,Denver Nuggets,134,-6.5 (-110),o222 (-108),-255,+6.5 (-110),u222 (-112),+210
+Wed Nov 8 2023,Washington Wizards,132,Charlotte Hornets,116,-2 (-110),o239 (-110),-130,+2 (-110),u239 (-110),+110
+Wed Nov 8 2023,Utah Jazz,118,Indiana Pacers,134,-6 (-112),o243 (-110),-240,+6 (-108),u243 (-110),+198
+Wed Nov 8 2023,Boston Celtics,103,Philadelphia 76ers,106,+2.5 (-110),o229.5 (-108),+116,-2.5 (-110),u229.5 (-112),-136
+Wed Nov 8 2023,Los Angeles Clippers,93,Brooklyn Nets,100,+5.5 (-112),o231.5 (-110),+180,-5.5 (-108),u231.5 (-110),-215
+Wed Nov 8 2023,San Antonio Spurs,105,New York Knicks,126,-9 (-112),o223.5 (-110),-390,+9 (-108),u223.5 (-110),+310
+Wed Nov 8 2023,Phoenix Suns,116,Chicago Bulls,115,+1 (-110),o218 (-108),-102,-1 (-110),u218 (-112),-116
+Wed Nov 8 2023,Los Angeles Lakers,94,Houston Rockets,128,+2 (-114),o222 (-110),+108,-2 (-106),u222 (-110),-126
+Wed Nov 8 2023,Miami Heat,108,Memphis Grizzlies,102,+2 (-108),o217 (-108),+112,-2 (-112),u217 (-112),-132
+Wed Nov 8 2023,Detroit Pistons,118,Milwaukee Bucks,120,-12 (-110),o227 (-110),-650,+12 (-110),u227 (-110),+480
+Wed Nov 8 2023,New Orleans Pelicans,101,Minnesota Timberwolves,122,-9.5 (-112),o216 (-110),-420,+9.5 (-108),u216 (-110),+330
+Wed Nov 8 2023,Cleveland Cavaliers,120,Oklahoma City Thunder,128,+2 (-106),o227.5 (-108),+114,-2 (-114),u227.5 (-112),-134
+Wed Nov 8 2023,Toronto Raptors,127,Dallas Mavericks,116,-4 (-112),o225.5 (-110),-168,+4 (-108),u225.5 (-110),+142
+Wed Nov 8 2023,Golden State Warriors,105,Denver Nuggets,108,-4.5 (-110),o228 (-108),-180,+4.5 (-110),u228 (-112),+152
+Wed Nov 8 2023,Portland Trail Blazers,118,Sacramento Kings,121,-8 (-108),o220.5 (-112),-340,+8 (-112),u220.5 (-108),+275
+Thu Nov 9 2023,Milwaukee Bucks,124,Indiana Pacers,126,+1 (-112),o239.5 (-110),-104,-1 (-108),u239.5 (-110),-112
+Thu Nov 9 2023,Atlanta Hawks,120,Orlando Magic,119,+3.5 (-110),o232.5 (-108),+130,-3.5 (-110),u232.5 (-112),-154
+Fri Nov 10 2023,Philadelphia 76ers,114,Detroit Pistons,106,+9 (-114),o224 (-112),+300,-9 (-106),u224 (-108),-375
+Fri Nov 10 2023,Charlotte Hornets,124,Washington Wizards,117,-3.5 (-110),o240.5 (-110),-162,+3.5 (-110),u240.5 (-110),+136
+Fri Nov 10 2023,Brooklyn Nets,107,Boston Celtics,121,-12 (-110),o229.5 (-110),-750,+12 (-110),u229.5 (-110),+530
+Fri Nov 10 2023,New Orleans Pelicans,101,Houston Rockets,104,-3 (-112),o219.5 (-110),-154,+3 (-108),u219.5 (-110),+130
+Fri Nov 10 2023,Utah Jazz,127,Memphis Grizzlies,121,-5 (-110),o230.5 (-112),-190,+5 (-110),u230.5 (-108),+160
+Fri Nov 10 2023,Minnesota Timberwolves,117,San Antonio Spurs,110,+7.5 (-110),o225 (-112),+235,-7.5 (-110),u225 (-108),-290
+Fri Nov 10 2023,Los Angeles Clippers,126,Dallas Mavericks,144,-1.5 (-108),o236.5 (-110),-118,+1.5 (-112),u236.5 (-110),-100
+Fri Nov 10 2023,Los Angeles Lakers,122,Phoenix Suns,119,-2 (-112),o224.5 (-110),-130,+2 (-108),u224.5 (-110),+108
+Fri Nov 10 2023,Oklahoma City Thunder,98,Sacramento Kings,105,+2 (-110),o232.5 (-108),+110,-2 (-110),u232.5 (-112),-130
+Sat Nov 11 2023,Milwaukee Bucks,97,Orlando Magic,112,+2.5 (-110),o226.5 (-110),+118,-2.5 (-110),u226.5 (-110),-138
+Sat Nov 11 2023,Toronto Raptors,94,Boston Celtics,117,-9 (-108),o222.5 (-112),-390,+9 (-112),u222.5 (-108),+310
+Sat Nov 11 2023,Miami Heat,117,Atlanta Hawks,109,-7.5 (-112),o227.5 (-112),-310,+7.5 (-108),u227.5 (-108),+250
+Sat Nov 11 2023,Cleveland Cavaliers,118,Golden State Warriors,110,-4.5 (-110),o224 (-110),-178,+4.5 (-110),u224 (-110),+150
+Sun Nov 12 2023,Charlotte Hornets,107,New York Knicks,129,-10.5 (-110),o224 (-108),-560,+10.5 (-110),u224 (-112),+420
+Sun Nov 12 2023,Washington Wizards,94,Brooklyn Nets,102,-7 (-110),o233.5 (-108),-270,+7 (-110),u233.5 (-112),+220
+Sun Nov 12 2023,Memphis Grizzlies,105,Los Angeles Clippers,101,-8 (-112),o224.5 (-110),-340,+8 (-108),u224.5 (-110),+275
+Sun Nov 12 2023,Indiana Pacers,126,Philadelphia 76ers,137,-7 (-108),o237 (-112),-260,+7 (-112),u237 (-108),+215
+Sun Nov 12 2023,Detroit Pistons,108,Chicago Bulls,119,-6.5 (-112),o219.5 (-110),-250,+6.5 (-108),u219.5 (-110),+205
+Sun Nov 12 2023,Denver Nuggets,104,Houston Rockets,107,+4.5 (-110),o215.5 (-105),+164,-4.5 (-110),u215.5 (-115),-196
+Sun Nov 12 2023,Dallas Mavericks,136,New Orleans Pelicans,124,+3.5 (-110),o237 (-108),+138,-3.5 (-110),u237 (-112),-164
+Sun Nov 12 2023,Miami Heat,118,San Antonio Spurs,113,+2 (-108),o221.5 (-114),+108,-2 (-112),u221.5 (-106),-126
+Sun Nov 12 2023,Oklahoma City Thunder,111,Phoenix Suns,99,-3.5 (-112),o231.5 (-112),-168,+3.5 (-108),u231.5 (-108),+142
+Sun Nov 12 2023,Minnesota Timberwolves,116,Golden State Warriors,110,-3.5 (-106),o222 (-110),-156,+3.5 (-114),u222 (-110),+132
+Sun Nov 12 2023,Portland Trail Blazers,110,Los Angeles Lakers,116,-8.5 (-108),o220.5 (-110),-375,+8.5 (-112),u220.5 (-110),+300
+Mon Nov 13 2023,New York Knicks,98,Boston Celtics,114,-9.5 (-112),o220 (-110),-430,+9.5 (-108),u220 (-110),+340
+Mon Nov 13 2023,Washington Wizards,107,Toronto Raptors,111,-8 (-110),o230.5 (-110),-355,+8 (-110),u230.5 (-110),+285
+Mon Nov 13 2023,Chicago Bulls,109,Milwaukee Bucks,118,-9.5 (-112),o230.5 (-112),-430,+9.5 (-108),u230.5 (-108),+350
+Mon Nov 13 2023,Cleveland Cavaliers,120,Sacramento Kings,132,-1 (-110),o229 (-110),-116,+1 (-110),u229 (-110),-102
+Tue Nov 14 2023,Miami Heat,111,Charlotte Hornets,105,+6.5 (-108),o221.5 (-110),+210,-6.5 (-112),u221.5 (-110),-255
+Tue Nov 14 2023,Atlanta Hawks,126,Detroit Pistons,120,+4.5 (-108),o225 (-112),+160,-4.5 (-112),u225 (-108),-190
+Tue Nov 14 2023,Indiana Pacers,132,Philadelphia 76ers,126,-6.5 (-112),o241 (-110),-255,+6.5 (-110),u241 (-110),+210
+Tue Nov 14 2023,Orlando Magic,104,Brooklyn Nets,124,-2.5 (-112),o218 (-108),-142,+2.5 (-108),u218 (-112),+120
+Tue Nov 14 2023,San Antonio Spurs,87,Oklahoma City Thunder,123,-10 (-110),o237 (-110),-480,+10 (-110),u237 (-110),+370
+Tue Nov 14 2023,Dallas Mavericks,110,New Orleans Pelicans,131,+3.5 (-112),o239.5 (-112),+132,-3.5 (-108),u239.5 (-108),-156
+Tue Nov 14 2023,Portland Trail Blazers,99,Utah Jazz,115,-7 (-108),o230 (-110),-270,+7 (-112),u230 (-110),+220
+Tue Nov 14 2023,Los Angeles Clippers,108,Denver Nuggets,111,-4.5 (-110),o226 (-110),-180,+4.5 (-110),u226 (-110),+152
+Tue Nov 14 2023,Minnesota Timberwolves,104,Golden State Warriors,101,+3.5 (-112),o215.5 (-110),+134,-3.5 (-108),u215.5 (-110),-158
+Tue Nov 14 2023,Memphis Grizzlies,107,Los Angeles Lakers,134,-6.5 (-106),o225.5 (-108),-255,+6.5 (-114),u225.5 (-112),+210
+Wed Nov 15 2023,Dallas Mavericks,130,Washington Wizards,117,+3.5 (-110),o243.5 (-112),+138,-3.5 (-110),u243.5 (-108),-164
+Wed Nov 15 2023,New York Knicks,116,Atlanta Hawks,114,-1.5 (-108),o229 (-110),-118,+1.5 (-112),u229 (-110),-100
+Wed Nov 15 2023,Boston Celtics,117,Philadelphia 76ers,107,+1.5 (-110),o223.5 (-110),+106,-1.5 (-110),u223.5 (-110),-124
+Wed Nov 15 2023,Milwaukee Bucks,128,Toronto Raptors,112,+1.5 (-112),o224.5 (-112),-100,-1.5 (-108),u224.5 (-108),-118
+Wed Nov 15 2023,Orlando Magic,96,Chicago Bulls,94,-2 (-112),o215.5 (-110),-132,+2 (-108),u215.5 (-110),+112
+Wed Nov 15 2023,Minnesota Timberwolves,115,Phoenix Suns,133,-4 (-110),o223 (-110),-180,+4 (-110),u223 (-110),+152
+Wed Nov 15 2023,Sacramento Kings,125,Los Angeles Lakers,110,-1 (-108),o237 (-110),-112,+1 (-112),u237 (-110),-104
+Wed Nov 15 2023,Cleveland Cavaliers,109,Portland Trail Blazers,95,+9.5 (-110),o217.5 (-112),+340,-9.5 (-110),u217.5 (-108),-430
+Thu Nov 16 2023,Brooklyn Nets,115,Miami Heat,122,-3.5 (-112),o214.5 (-110),-168,+3.5 (-108),u214.5 (-112),+142
+Thu Nov 16 2023,Oklahoma City Thunder,128,Golden State Warriors,109,+3.5 (-110),o226 (-108),+138,-3.5 (-110),u226 (-112),-164
+Fri Nov 17 2023,Milwaukee Bucks,130,Charlotte Hornets,99,+8 (-108),o243 (-110),+290,-8 (-112),u243 (-110),-360
+Fri Nov 17 2023,New York Knicks,120,Washington Wizards,99,+7 (-110),o225.5 (-110),+230,-7 (-110),u225.5 (-112),-280
+Fri Nov 17 2023,Philadelphia 76ers,126,Atlanta Hawks,116,+1.5 (-110),o236.5 (-110),+102,-1.5 (-110),u236.5 (-110),-120
+Fri Nov 17 2023,Detroit Pistons,100,Cleveland Cavaliers,108,-9 (-110),o218.5 (-110),-400,+9 (-110),u218.5 (-110),+315
+Fri Nov 17 2023,Sacramento Kings,129,San Antonio Spurs,120,+8.5 (-108),o238.5 (-110),+290,-8.5 (-112),u238.5 (-110),-360
+Fri Nov 17 2023,Boston Celtics,108,Toronto Raptors,105,+9 (-110),o224 (-110),+300,-9 (-110),u224 (-110),-375
+Fri Nov 17 2023,Orlando Magic,103,Chicago Bulls,97,-3.5 (-112),o215.5 (-110),-168,+3.5 (-108),u215.5 (-110),+142
+Fri Nov 17 2023,Denver Nuggets,110,New Orleans Pelicans,115,+5 (-114),o226.5 (-110),+152,-5 (-106),u226.5 (-110),-180
+Fri Nov 17 2023,Los Angeles Lakers,107,Portland Trail Blazers,95,+9.5 (-108),o227 (-108),+350,-9.5 (-112),u227 (-112),-450
+Fri Nov 17 2023,Phoenix Suns,131,Utah Jazz,128,+5.5 (-106),o238.5 (-108),+190,-5.5 (-114),u238.5 (-112),-230
+Fri Nov 17 2023,Houston Rockets,100,Los Angeles Clippers,106,-7.5 (-108),o217.5 (-112),-290,+7.5 (-112),u217.5 (-108),+235
+Sat Nov 18 2023,New York Knicks,122,Charlotte Hornets,108,+6.5 (-114),o224.5 (-118),+220,-6.5 (-114),u224.5 (-110),-295
+Sat Nov 18 2023,Minnesota Timberwolves,121,New Orleans Pelicans,120,+7.5 (-110),o221 (-110),+240,-7.5 (-110),u221 (-110),-300
+Sat Nov 18 2023,Miami Heat,97,Chicago Bulls,102,+2 (-108),o212 (-108),+112,-2 (-112),u212 (-112),-132
+Sat Nov 18 2023,Dallas Mavericks,125,Milwaukee Bucks,132,-2 (-110),o247.5 (-108),-130,+2 (-110),u247.5 (-112),+110
+Sat Nov 18 2023,Memphis Grizzlies,120,San Antonio Spurs,108,+3.5 (-112),o226 (-110),+136,-3.5 (-108),u226 (-110),-162
+Sat Nov 18 2023,Oklahoma City Thunder,130,Golden State Warriors,123,-2 (-112),o235.5 (-110),-134,+2 (-108),u235.5 (-110),+114
+Sun Nov 19 2023,Philadelphia 76ers,121,Brooklyn Nets,99,+3.5 (-106),o224 (-110),+138,-3.5 (-114),u224 (-110),-164
+Sun Nov 19 2023,Detroit Pistons,113,Toronto Raptors,142,-9.5 (-114),o219 (-112),-450,+9.5 (-106),u219 (-108),+350
+Sun Nov 19 2023,Orlando Magic,128,Indiana Pacers,116,-4.5 (-112),o236 (-108),-186,+4.5 (-108),u236 (-112),+156
+Sun Nov 19 2023,Denver Nuggets,109,Cleveland Cavaliers,121,+4.5 (-108),o215.5 (-110),+162,-4.5 (-112),u215.5 (-110),-194
+Sun Nov 19 2023,Sacramento Kings,129,Dallas Mavericks,113,-1.5 (-114),o247 (-110),-120,+1.5 (-106),u247 (-110),+102
+Sun Nov 19 2023,Boston Celtics,102,Memphis Grizzlies,100,+12 (-112),o221.5 (-110),+460,-12 (-108),u221.5 (-110),-620
+Sun Nov 19 2023,Phoenix Suns,140,Utah Jazz,137,+5.5 (-122),o238.5 (-118),+176,-5.5 (-106),u238.5 (-110),-230
+Sun Nov 19 2023,Oklahoma City Thunder,134,Portland Trail Blazers,91,+6.5 (-112),o223.5 (-110),+210,-6.5 (-108),u223.5 (-110),-255
+Sun Nov 19 2023,Houston Rockets,104,Los Angeles Lakers,105,-6.5 (-108),o221.5 (-110),-235,+6.5 (-112),u221.5 (-110),+194
+Mon Nov 20 2023,Boston Celtics,118,Charlotte Hornets,121,+8.5 (-114),o234.5 (-110),+275,-8.5 (-106),u234.5 (-110),-335
+Mon Nov 20 2023,Denver Nuggets,107,Detroit Pistons,103,+9.5 (-108),o225.5 (-112),+360,-9.5 (-112),u225.5 (-108),-460
+Mon Nov 20 2023,Milwaukee Bucks,142,Washington Wizards,129,+10 (-110),o246 (-110),+360,-10 (-110),u246 (-110),-460
+Mon Nov 20 2023,Miami Heat,118,Chicago Bulls,100,+1.5 (-110),o209.5 (-108),+102,-1.5 (-110),u209.5 (-112),-120
+Mon Nov 20 2023,New York Knicks,100,Minnesota Timberwolves,117,-2.5 (-110),o214.5 (-110),-136,+2.5 (-112),u214.5 (-110),+116
+Mon Nov 20 2023,Sacramento Kings,93,New Orleans Pelicans,129,+1.5 (-110),o237.5 (-110),+104,-1.5 (-110),u237.5 (-110),-122
+Mon Nov 20 2023,Los Angeles Clippers,124,San Antonio Spurs,99,+8.5 (-106),o230.5 (-112),+310,-8.5 (-114),u230.5 (-108),-390
+Mon Nov 20 2023,Houston Rockets,116,Golden State Warriors,121,-7.5 (-110),o220.5 (-110),-310,+7.5 (-110),u220.5 (-110),+250
+Tue Nov 21 2023,Toronto Raptors,107,Orlando Magic,126,-1.5 (-110),o215.5 (-110),-118,+1.5 (-110),u215.5 (-110),-100
+Tue Nov 21 2023,Indiana Pacers,157,Atlanta Hawks,152,-3.5 (-114),o252.5 (-108),-164,+3.5 (-106),u252.5 (-112),+138
+Tue Nov 21 2023,Cleveland Cavaliers,122,Philadelphia 76ers,119,-8 (-112),o218.5 (-110),-340,+8 (-108),u218.5 (-110),+275
+Tue Nov 21 2023,Portland Trail Blazers,107,Phoenix Suns,120,-12.5 (-106),o223.5 (-110),-800,+12.5 (-114),u223.5 (-110),+560
+Tue Nov 21 2023,Utah Jazz,99,Los Angeles Lakers,131,-7.5 (-114),o239.5 (-110),-320,+7.5 (-106),u239.5 (-110),+260
+Wed Nov 22 2023,Washington Wizards,114,Charlotte Hornets,117,-3.5 (-112),o240.5 (-108),-156,+3.5 (-108),u240.5 (-112),+132
+Wed Nov 22 2023,Denver Nuggets,119,Orlando Magic,124,+3 (-106),o219 (-112),+130,-3 (-114),u219 (-108),-154
+Wed Nov 22 2023,Brooklyn Nets,145,Atlanta Hawks,147,-3.5 (-110),o236 (-110),-162,+3.5 (-110),u236 (-110),+136
+Wed Nov 22 2023,Milwaukee Bucks,116,Boston Celtics,119,-6 (-110),o236.5 (-108),-245,+6 (-110),u236.5 (-112),+200
+Wed Nov 22 2023,Miami Heat,129,Cleveland Cavaliers,96,-1.5 (-110),o213 (-110),-120,+1.5 (-110),u213 (-110),+102
+Wed Nov 22 2023,Toronto Raptors,132,Indiana Pacers,131,-2.5 (-110),o242 (-108),-146,+2.5 (-110),u242 (-112),+124
+Wed Nov 22 2023,Memphis Grizzlies,91,Houston Rockets,111,-5 (-114),o213 (-112),-205,+5 (-106),u213 (-108),+172
+Wed Nov 22 2023,Philadelphia 76ers,99,Minnesota Timberwolves,112,-7 (-110),o221 (-108),-270,+7 (-110),u221 (-112),+220
+Wed Nov 22 2023,Sacramento Kings,112,New Orleans Pelicans,117,+1.5 (-110),o235 (-112),+104,-1.5 (-110),u235 (-108),-122
+Wed Nov 22 2023,Chicago Bulls,102,Oklahoma City Thunder,116,-8 (-106),o223 (-110),-370,+8 (-114),u223 (-110),+265
+Wed Nov 22 2023,Los Angeles Clippers,109,San Antonio Spurs,102,+8 (-110),o231 (-110),+265,-8 (-110),u231 (-110),-330
+Wed Nov 22 2023,Golden State Warriors,115,Phoenix Suns,123,-2.5 (-114),o233.5 (-110),-142,+2.5 (-106),u233.5 (-110),+120
+Wed Nov 22 2023,Utah Jazz,105,Portland Trail Blazers,121,+3.5 (-112),o228 (-112),+134,-3.5 (-108),u228 (-108),-158
+Wed Nov 22 2023,Dallas Mavericks,104,Los Angeles Lakers,101,+1 (-110),o244 (-114),-102,-1 (-110),u244 (-108),-116
+Fri Nov 24 2023,Boston Celtics,96,Orlando Magic,113,+5 (-108),o221 (-112),+176,-5 (-112),u221 (-108),-210
+Fri Nov 24 2023,Phoenix Suns,110,Memphis Grizzlies,89,+3.5 (-108),o220.5 (-112),+140,-3.5 (-112),u220.5 (-108),-166
+Fri Nov 24 2023,Miami Heat,98,New York Knicks,100,-5.5 (-110),o209.5 (-110),-205,+5.5 (-110),u209.5 (-110),+172
+Fri Nov 24 2023,Chicago Bulls,108,Toronto Raptors,121,-5 (-106),o218 (-110),-188,+5 (-114),u218 (-110),+158
+Fri Nov 24 2023,Denver Nuggets,86,Houston Rockets,105,+3 (-112),o216.5 (-110),+124,-3 (-108),u216.5 (-110),-146
+Fri Nov 24 2023,Detroit Pistons,113,Indiana Pacers,136,-9.5 (-108),o247 (-110),-430,+9.5 (-112),u247 (-110),+340
+Fri Nov 24 2023,Washington Wizards,128,Milwaukee Bucks,131,-13.5 (-110),o248 (-110),-900,+13.5 (-110),u248 (-110),+610
+Fri Nov 24 2023,Sacramento Kings,124,Minnesota Timberwolves,111,-4.5 (-108),o230.5 (-110),-190,+4.5 (-112),u230.5 (-110),+160
+Fri Nov 24 2023,San Antonio Spurs,112,Golden State Warriors,118,-10 (-108),o236.5 (-112),-450,+10 (-112),u236.5 (-108),+350
+Fri Nov 24 2023,New Orleans Pelicans,116,Los Angeles Clippers,106,-5.5 (-106),o228 (-110),-215,+5.5 (-114),u228 (-110),+180
+Sat Nov 25 2023,Philadelphia 76ers,127,Oklahoma City Thunder,123,+1 (-108),o231 (-110),-102,-1 (-112),u231 (-110),-118
+Sat Nov 25 2023,Miami Heat,97,Brooklyn Nets,112,-7.5 (-112),o217 (-110),-300,+7.5 (-108),u217 (-110),+245
+Sat Nov 25 2023,Atlanta Hawks,136,Washington Wizards,108,+9.5 (-110),o248.5 (-110),+300,-9.5 (-110),u248.5 (-110),-375
+Sat Nov 25 2023,Los Angeles Lakers,121,Cleveland Cavaliers,115,-4 (-112),o228 (-108),-168,+4 (-108),u228 (-112),+142
+Sat Nov 25 2023,New Orleans Pelicans,100,Utah Jazz,105,+3.5 (-112),o227.5 (-110),+130,-3.5 (-108),u227.5 (-110),-158
+Sat Nov 25 2023,Dallas Mavericks,88,Los Angeles Clippers,107,-1 (-110),o237 (-108),-116,+1 (-110),u237 (-112),-102
+Sun Nov 26 2023,Portland Trail Blazers,102,Milwaukee Bucks,108,-13 (-110),o231.5 (-110),-900,+13 (-110),u231.5 (-110),+610
+Sun Nov 26 2023,Atlanta Hawks,103,Boston Celtics,113,-7.5 (-110),o235.5 (-108),-295,+7.5 (-110),u235.5 (-112),+240
+Sun Nov 26 2023,Minnesota Timberwolves,119,Memphis Grizzlies,97,+6.5 (-108),o217.5 (-110),+200,-6.5 (-112),u217.5 (-110),-245
+Sun Nov 26 2023,Phoenix Suns,116,New York Knicks,113,-6.5 (-108),o218.5 (-110),-240,+6.5 (-112),u218.5 (-110),+194
+Sun Nov 26 2023,Charlotte Hornets,117,Orlando Magic,130,-6.5 (-108),o228.5 (-112),-245,+6.5 (-112),u228.5 (-108),+205
+Sun Nov 26 2023,Chicago Bulls,109,Brooklyn Nets,118,-3 (-110),o221.5 (-110),-148,+3 (-110),u221.5 (-110),+126
+Sun Nov 26 2023,Toronto Raptors,102,Cleveland Cavaliers,105,-3 (-110),o222.5 (-110),-156,+3 (-110),u222.5 (-110),+132
+Sun Nov 26 2023,San Antonio Spurs,120,Denver Nuggets,132,-10.5 (-112),o229.5 (-110),-520,+10.5 (-108),u229.5 (-110),+400
+Mon Nov 27 2023,Washington Wizards,126,Detroit Pistons,107,-2 (-112),o236.5 (-108),-136,+2 (-108),u236.5 (-112),+116
+Mon Nov 27 2023,Portland Trail Blazers,114,Indiana Pacers,110,-12 (-108),o240.5 (-110),-670,+12 (-112),u240.5 (-110),+490
+Mon Nov 27 2023,Los Angeles Lakers,94,Philadelphia 76ers,138,-6 (-106),o230.5 (-110),-230,+6 (-114),u230.5 (-110),+190
+Mon Nov 27 2023,New Orleans Pelicans,112,Utah Jazz,114,+6.5 (-110),o232 (-110),+215,-6.5 (-110),u232 (-110),-260
+Mon Nov 27 2023,Denver Nuggets,113,Los Angeles Clippers,104,-11.5 (-110),o217.5 (-110),-590,+11.5 (-110),u217.5 (-110),+430
+Tue Nov 28 2023,Chicago Bulls,97,Boston Celtics,124,-12.5 (-112),o219 (-110),-770,+12.5 (-108),u219 (-110),+540
+Tue Nov 28 2023,Toronto Raptors,103,Brooklyn Nets,115,-1.5 (-114),o223.5 (-110),-124,+1.5 (-106),u223.5 (-110),+106
+Tue Nov 28 2023,Atlanta Hawks,105,Cleveland Cavaliers,128,-4 (-112),o238.5 (-110),-180,+4 (-108),u238.5 (-110),+152
+Tue Nov 28 2023,Milwaukee Bucks,131,Miami Heat,124,+4.5 (-108),o230.5 (-110),+154,-4.5 (-112),u230.5 (-110),-184
+Tue Nov 28 2023,Charlotte Hornets,91,New York Knicks,115,-11.5 (-112),o220 (-112),-590,+11.5 (-108),u220 (-108),+430
+Tue Nov 28 2023,Oklahoma City Thunder,103,Minnesota Timberwolves,106,-3 (-108),o228.5 (-110),-142,+3 (-112),u228.5 (-110),+120
+Tue Nov 28 2023,Houston Rockets,115,Dallas Mavericks,121,-4 (-110),o227.5 (-112),-184,+4 (-110),u227.5 (-108),+154
+Tue Nov 28 2023,Golden State Warriors,123,Sacramento Kings,124,-2 (-112),o237.5 (-112),-134,+2 (-110),u237.5 (-108),+114
+Wed Nov 29 2023,Los Angeles Lakers,133,Detroit Pistons,107,+7.5 (-110),o229 (-110),+245,-7.5 (-110),u229 (-110),-300
+Wed Nov 29 2023,Washington Wizards,120,Orlando Magic,139,-10 (-110),o235.5 (-112),-460,+10 (-110),u235.5 (-108),+360
+Wed Nov 29 2023,Phoenix Suns,105,Toronto Raptors,112,+3.5 (-108),o227 (-110),+140,-3.5 (-112),u227 (-110),-166
+Wed Nov 29 2023,Utah Jazz,91,Memphis Grizzlies,105,-3.5 (-110),o223.5 (-110),-164,+3.5 (-110),u223.5 (-110),+138
+Wed Nov 29 2023,Philadelphia 76ers,114,New Orleans Pelicans,124,-2.5 (-106),o228.5 (-110),-130,+2.5 (-114),u228.5 (-110),+110
+Wed Nov 29 2023,Houston Rockets,124,Denver Nuggets,134,-10 (-110),o217.5 (-110),-450,+10 (-110),u217.5 (-110),+350
+Wed Nov 29 2023,Los Angeles Clippers,131,Sacramento Kings,117,+1 (-110),o231.5 (-110),-102,-1 (-110),u231.5 (-110),-116
+Thu Nov 30 2023,Portland Trail Blazers,103,Cleveland Cavaliers,95,-12.5 (-110),o218.5 (-110),-620,+12.5 (-110),u218.5 (-110),+460
+Thu Nov 30 2023,Charlotte Hornets,129,Brooklyn Nets,128,-9 (-112),o223 (-110),-375,+9 (-108),u223 (-110),+300
+Thu Nov 30 2023,Indiana Pacers,132,Miami Heat,142,-3.5 (-110),o237.5 (-110),-164,+3.5 (-110),u237.5 (-110),+138
+Thu Nov 30 2023,Detroit Pistons,112,New York Knicks,118,-14.5 (-110),o218.5 (-112),-1100,+14.5 (-110),u218.5 (-108),+700
+Thu Nov 30 2023,Milwaukee Bucks,113,Chicago Bulls,120,+10.5 (-108),o226 (-110),+420,-10.5 (-112),u226 (-110),-560
+Thu Nov 30 2023,Utah Jazz,90,Minnesota Timberwolves,101,-11.5 (-108),o219.5 (-110),-590,+11.5 (-112),u219.5 (-110),+440
+Thu Nov 30 2023,Los Angeles Lakers,110,Oklahoma City Thunder,133,-5 (-110),o235 (-110),-190,+5 (-110),u235 (-110),+160
+Thu Nov 30 2023,Atlanta Hawks,137,San Antonio Spurs,135,+6.5 (-112),o246 (-108),+215,-6.5 (-108),u246 (-112),-260
+Thu Nov 30 2023,Los Angeles Clippers,114,Golden State Warriors,120,-2 (-112),o230.5 (-110),-126,+2 (-108),u230.5 (-110),+108
+Fri Dec 1 2023,Washington Wizards,125,Orlando Magic,130,-10.5 (-110),o236 (-112),-510,+10.5 (-110),u236 (-108),+390
+Fri Dec 1 2023,Philadelphia 76ers,119,Boston Celtics,125,-12 (-108),o218 (-108),-770,+12 (-114),u218 (-112),+540
+Fri Dec 1 2023,Memphis Grizzlies,108,Dallas Mavericks,94,-6 (-110),o224.5 (-110),-240,+6 (-110),u224.5 (-110),+198
+Fri Dec 1 2023,New York Knicks,119,Toronto Raptors,106,-1.5 (-114),o218.5 (-110),-120,+1.5 (-106),u218.5 (-110),+102
+Fri Dec 1 2023,San Antonio Spurs,106,New Orleans Pelicans,121,-13 (-110),o239 (-110),-750,+13 (-110),u239 (-110),+530
+Fri Dec 1 2023,Denver Nuggets,119,Phoenix Suns,111,+1 (-112),o224.5 (-112),-104,-1 (-108),u224.5 (-108),-112
+Sat Dec 2 2023,Golden State Warriors,112,Los Angeles Clippers,113,-5.5 (-110),o229.5 (-110),-220,+5.5 (-110),u229.5 (-110),+184
+Sat Dec 2 2023,Minnesota Timberwolves,123,Charlotte Hornets,117,+5.5 (-112),o219.5 (-110),+176,-5.5 (-108),u219.5 (-110),-210
+Sat Dec 2 2023,Orlando Magic,101,Brooklyn Nets,129,-2.5 (-108),o225.5 (-112),-134,+2.5 (-112),u225.5 (-108),+114
+Sat Dec 2 2023,Cleveland Cavaliers,110,Detroit Pistons,101,+9 (-110),o225 (-110),+310,-9 (-110),u225 (-110),-390
+Sat Dec 2 2023,New Orleans Pelicans,118,Chicago Bulls,124,+1.5 (-108),o219 (-112),-100,-1.5 (-112),u219 (-108),-118
+Sat Dec 2 2023,Indiana Pacers,144,Miami Heat,129,-4.5 (-110),o237 (-110),-190,+4.5 (-110),u237 (-110),+160
+Sat Dec 2 2023,Atlanta Hawks,121,Milwaukee Bucks,132,-6.5 (-110),o251.5 (-110),-260,+6.5 (-110),u251.5 (-110),+215
+Sat Dec 2 2023,Oklahoma City Thunder,126,Dallas Mavericks,120,+5.5 (-112),o234.5 (-110),+180,-5.5 (-108),u234.5 (-110),-220
+Sat Dec 2 2023,Memphis Grizzlies,109,Phoenix Suns,116,-10 (-110),o220 (-110),-490,+10 (-110),u220 (-110),+380
+Sat Dec 2 2023,Portland Trail Blazers,113,Utah Jazz,118,-1.5 (-110),o217.5 (-112),-120,+1.5 (-110),u217.5 (-108),+102
+Sat Dec 2 2023,Denver Nuggets,117,Sacramento Kings,123,-3.5 (-110),o235 (-110),-154,+3.5 (-110),u235 (-110),+130
+Sat Dec 2 2023,Houston Rockets,97,Los Angeles Lakers,107,-4.5 (-114),o226.5 (-112),-194,+4.5 (-106),u226.5 (-108),+162
+Mon Dec 4 2023,Boston Celtics,112,Indiana Pacers,122,+4.5 (-106),o244.5 (-112),+166,-4.5 (-114),u244.5 (-108),-198
+Mon Dec 4 2023,New Orleans Pelicans,127,Sacramento Kings,117,-3.5 (-114),o237.5 (-108),-170,+3.5 (-114),u237.5 (-120),+132
+Tue Dec 5 2023,New York Knicks,122,Milwaukee Bucks,146,-4.5 (-112),o229.5 (-112),-184,+4.5 (-108),u229.5 (-108),+154
+Tue Dec 5 2023,Phoenix Suns,103,Los Angeles Lakers,106,-2 (-108),o232 (-110),-126,+2 (-112),u232 (-110),+108
+Wed Dec 6 2023,Orlando Magic,111,Cleveland Cavaliers,121,-4 (-112),o225 (-112),-164,+4 (-108),u225 (-108),+138
+Wed Dec 6 2023,Memphis Grizzlies,116,Detroit Pistons,102,+2 (-106),o220 (-112),+108,-2 (-114),u220 (-108),-126
+Wed Dec 6 2023,Philadelphia 76ers,131,Washington Wizards,126,+10.5 (-108),o241.5 (-110),+385,-10.5 (-112),u241.5 (-110),-500
+Wed Dec 6 2023,Brooklyn Nets,114,Atlanta Hawks,113,-3.5 (-112),o242.5 (-112),-158,+3.5 (-108),u242.5 (-108),+134
+Wed Dec 6 2023,San Antonio Spurs,94,Minnesota Timberwolves,102,-12 (-112),o231 (-108),-700,+12 (-108),u231 (-112),+500
+Wed Dec 6 2023,Miami Heat,112,Toronto Raptors,103,-4 (-112),o219.5 (-110),-176,+4 (-108),u219.5 (-110),+148
+Wed Dec 6 2023,Charlotte Hornets,100,Chicago Bulls,111,-5 (-112),o220.5 (-108),-200,+5 (-108),u220.5 (-112),+168
+Wed Dec 6 2023,Oklahoma City Thunder,101,Houston Rockets,110,+1.5 (-106),o224.5 (-110),+108,-1.5 (-114),u224.5 (-110),-126
+Wed Dec 6 2023,Utah Jazz,97,Dallas Mavericks,147,-12 (-106),o235 (-110),-620,+12 (-114),u235 (-110),+460
+Wed Dec 6 2023,Portland Trail Blazers,106,Golden State Warriors,110,-13 (-106),o225.5 (-112),-750,+13 (-114),u225.5 (-108),+530
+Wed Dec 6 2023,Denver Nuggets,102,Los Angeles Clippers,111,-1 (-112),o230 (-110),-116,+1 (-108),u230 (-110),-102
+Thu Dec 7 2023,Indiana Pacers,128,Milwaukee Bucks,119,-5 (-114),o257 (-112),-200,+5 (-106),u257 (-108),+168
+Thu Dec 7 2023,New Orleans Pelicans,89,Los Angeles Lakers,133,-2 (-108),o229.5 (-110),-130,+2 (-112),u229.5 (-110),+110
+Fri Dec 8 2023,Toronto Raptors,116,Charlotte Hornets,119,+5.5 (-110),o222.5 (-110),+180,-5.5 (-110),u222.5 (-110),-215
+Fri Dec 8 2023,Detroit Pistons,91,Orlando Magic,123,-10.5 (-110),o229.5 (-110),-500,+10.5 (-110),u229.5 (-110),+385
+Fri Dec 8 2023,Atlanta Hawks,114,Philadelphia 76ers,125,-8.5 (-110),o235 (-110),-370,+8.5 (-110),u235 (-110),+295
+Fri Dec 8 2023,New York Knicks,123,Boston Celtics,133,-7.5 (-110),o220.5 (-112),-310,+7.5 (-110),u220.5 (-108),+250
+Fri Dec 8 2023,Washington Wizards,97,Brooklyn Nets,124,-9.5 (-108),o239.5 (-110),-405,+9.5 (-112),u239.5 (-110),+320
+Fri Dec 8 2023,Minnesota Timberwolves,127,Memphis Grizzlies,103,+5.5 (-108),o213.5 (-110),+180,-5.5 (-112),u213.5 (-110),-215
+Fri Dec 8 2023,Cleveland Cavaliers,111,Miami Heat,99,+1.5 (-108),o223 (-110),+106,-1.5 (-112),u223 (-110),-124
+Fri Dec 8 2023,Golden State Warriors,136,Oklahoma City Thunder,138,-3 (-114),o236 (-108),-154,+3 (-108),u236 (-112),+130
+Fri Dec 8 2023,Chicago Bulls,121,San Antonio Spurs,112,+2.5 (-112),o224 (-110),+108,-2.5 (-108),u224 (-110),-126
+Fri Dec 8 2023,Houston Rockets,114,Denver Nuggets,106,-9 (-112),o221 (-108),-390,+9 (-108),u221 (-112),+310
+Fri Dec 8 2023,Sacramento Kings,114,Phoenix Suns,106,+3 (-108),o235.5 (-110),+130,-3 (-112),u235.5 (-110),-154
+Fri Dec 8 2023,Dallas Mavericks,125,Portland Trail Blazers,112,+9.5 (-108),o233.5 (-110),+360,-9.5 (-112),u233.5 (-110),-460
+Fri Dec 8 2023,Los Angeles Clippers,117,Utah Jazz,103,+8 (-112),o225 (-110),+260,-8 (-108),u225 (-110),-320
+Sat Dec 9 2023,Indiana Pacers,109,Los Angeles Lakers,123,-4 (-110),o242 (-110),-176,+4 (-110),u242 (-110),+148
+Mon Dec 11 2023,Miami Heat,116,Charlotte Hornets,114,+4.5 (-110),o222.5 (-112),+156,-4.5 (-110),u222.5 (-108),-186
+Mon Dec 11 2023,Indiana Pacers,131,Detroit Pistons,123,+7 (-108),o247.5 (-112),+235,-7 (-112),u247.5 (-108),-290
+Mon Dec 11 2023,Cleveland Cavaliers,94,Orlando Magic,104,-2 (-112),o226 (-110),-136,+2 (-108),u226 (-110),+116
+Mon Dec 11 2023,Washington Wizards,101,Philadelphia 76ers,146,-13.5 (-110),o243.5 (-110),-800,+13.5 (-110),u243.5 (-110),+560
+Mon Dec 11 2023,Denver Nuggets,129,Atlanta Hawks,122,+3.5 (-112),o242 (-108),+138,-3.5 (-108),u242 (-112),-164
+Mon Dec 11 2023,Toronto Raptors,130,New York Knicks,136,-4 (-108),o222 (-110),-158,+4 (-112),u222 (-110),+134
+Mon Dec 11 2023,San Antonio Spurs,82,Houston Rockets,93,-9 (-112),o224 (-108),-390,+9 (-108),u224 (-112),+310
+Mon Dec 11 2023,Dallas Mavericks,120,Memphis Grizzlies,113,+1.5 (-114),o227.5 (-110),-104,-1.5 (-108),u227.5 (-110),-112
+Mon Dec 11 2023,Chicago Bulls,129,Milwaukee Bucks,133,-12 (-108),o233 (-110),-650,+12 (-112),u233 (-110),+480
+Mon Dec 11 2023,Minnesota Timberwolves,107,New Orleans Pelicans,121,-4 (-110),o222 (-112),-164,+4 (-110),u222 (-108),+138
+Mon Dec 11 2023,Utah Jazz,120,Oklahoma City Thunder,134,-13 (-110),o235.5 (-112),-750,+13 (-110),u235.5 (-108),+530
+Mon Dec 11 2023,Brooklyn Nets,118,Sacramento Kings,131,-5 (-110),o237 (-110),-198,+5 (-110),u237 (-110),+166
+Mon Dec 11 2023,Portland Trail Blazers,127,Los Angeles Clippers,132,-14.5 (-112),o220.5 (-110),-1150,+14.5 (-108),u220.5 (-110),+730
+Tue Dec 12 2023,Cleveland Cavaliers,113,Boston Celtics,120,-11 (-110),o226.5 (-112),-560,+11 (-110),u226.5 (-108),+420
+Tue Dec 12 2023,Los Angeles Lakers,125,Dallas Mavericks,127,+3.5 (-112),o235 (-110),+130,-3.5 (-108),u235 (-110),-154
+Tue Dec 12 2023,Denver Nuggets,114,Chicago Bulls,106,+6.5 (-112),o220 (-110),+210,-6.5 (-108),u220 (-110),-255
+Tue Dec 12 2023,Golden State Warriors,116,Phoenix Suns,119,+1.5 (-110),o228.5 (-110),+102,-1.5 (-110),u228.5 (-110),-120
+Tue Dec 12 2023,Sacramento Kings,99,Los Angeles Clippers,119,-3.5 (-110),o238 (-110),-168,+3.5 (-110),u238 (-110),+142
+Wed Dec 13 2023,Philadelphia 76ers,129,Detroit Pistons,111,+12 (-110),o233.5 (-112),+480,-12 (-110),u233.5 (-108),-650
+Wed Dec 13 2023,New Orleans Pelicans,142,Washington Wizards,122,+7 (-114),o240 (-108),+210,-7 (-106),u240 (-112),-255
+Wed Dec 13 2023,Charlotte Hornets,104,Miami Heat,115,-7.5 (-110),o223.5 (-112),-330,+7.5 (-110),u223.5 (-108),+265
+Wed Dec 13 2023,Atlanta Hawks,128,Toronto Raptors,135,-2.5 (-112),o240.5 (-112),-142,+2.5 (-108),u240.5 (-108),+120
+Wed Dec 13 2023,Memphis Grizzlies,104,Houston Rockets,117,-10 (-110),o210.5 (-108),-450,+10 (-110),u210.5 (-112),+350
+Wed Dec 13 2023,Indiana Pacers,126,Milwaukee Bucks,140,-6.5 (-108),o258 (-110),-245,+6.5 (-112),u258 (-110),+200
+Wed Dec 13 2023,Los Angeles Lakers,122,San Antonio Spurs,119,+3.5 (-110),o231 (-110),+138,-3.5 (-110),u231 (-110),-164
+Wed Dec 13 2023,Brooklyn Nets,116,Phoenix Suns,112,-4.5 (-122),o229.5 (-120),-235,+4.5 (-106),u229.5 (-108),+180
+Wed Dec 13 2023,New York Knicks,113,Utah Jazz,117,+6 (-112),o229.5 (-108),+188,-6 (-108),u229.5 (-112),-220
+Thu Dec 14 2023,Cleveland Cavaliers,107,Boston Celtics,116,-8.5 (-110),o227 (-110),-360,+8.5 (-110),u227 (-110),+290
+Thu Dec 14 2023,Chicago Bulls,124,Miami Heat,116,-3.5 (-110),o213 (-110),-162,+3.5 (-110),u213 (-110),+136
+Thu Dec 14 2023,Minnesota Timberwolves,119,Dallas Mavericks,101,+2 (-110),o231 (-108),+110,-2 (-110),u231 (-112),-130
+Thu Dec 14 2023,Brooklyn Nets,101,Denver Nuggets,124,-9.5 (-110),o231 (-110),-420,+9.5 (-110),u231 (-110),+330
+Thu Dec 14 2023,Utah Jazz,122,Portland Trail Blazers,114,-5 (-110),o226.5 (-110),-200,+5 (-110),u226.5 (-110),+168
+Thu Dec 14 2023,Oklahoma City Thunder,123,Sacramento Kings,128,-2 (-110),o245.5 (-110),-132,+2 (-110),u245.5 (-110),+112
+Thu Dec 14 2023,Golden State Warriors,113,Los Angeles Clippers,121,-2.5 (-114),o230.5 (-110),-138,+2.5 (-106),u230.5 (-110),+118
+Fri Dec 15 2023,New Orleans Pelicans,112,Charlotte Hornets,107,+9.5 (-112),o234 (-110),+310,-9.5 (-108),u234 (-110),-390
+Fri Dec 15 2023,Detroit Pistons,92,Philadelphia 76ers,124,-15.5 (-110),o235 (-110),-1000,+15.5 (-110),u235 (-110),+660
+Fri Dec 15 2023,Indiana Pacers,123,Washington Wizards,137,+8 (-110),o260 (-110),+265,-8 (-110),u260 (-110),-330
+Fri Dec 15 2023,Orlando Magic,111,Boston Celtics,128,-5.5 (-112),o227.5 (-110),-220,+5.5 (-108),u227.5 (-110),+184
+Fri Dec 15 2023,Los Angeles Lakers,115,San Antonio Spurs,129,+4 (-110),o235.5 (-110),+150,-4 (-110),u235.5 (-110),-178
+Fri Dec 15 2023,Atlanta Hawks,125,Toronto Raptors,104,-1.5 (-112),o240.5 (-110),-124,+1.5 (-108),u240.5 (-110),+106
+Fri Dec 15 2023,Houston Rockets,103,Memphis Grizzlies,96,+2.5 (-106),o212.5 (-110),+120,-2.5 (-114),u212.5 (-110),-142
+Fri Dec 15 2023,New York Knicks,139,Phoenix Suns,122,-5 (-112),o230 (-112),-210,+5 (-108),u230 (-108),+176
+Sat Dec 16 2023,Detroit Pistons,114,Milwaukee Bucks,146,-16.5 (-110),o241 (-110),-1200,+16.5 (-110),u241 (-110),+750
+Sat Dec 16 2023,Philadelphia 76ers,135,Charlotte Hornets,82,+12 (-110),o228 (-112),+490,-12 (-110),u228 (-108),-670
+Sat Dec 16 2023,Atlanta Hawks,119,Cleveland Cavaliers,127,-4.5 (-112),o236.5 (-110),-178,+4.5 (-108),u236.5 (-110),+150
+Sat Dec 16 2023,Chicago Bulls,116,Miami Heat,118,-5 (-106),o219.5 (-112),-188,+5 (-114),u219.5 (-108),+158
+Sat Dec 16 2023,Indiana Pacers,109,Minnesota Timberwolves,127,-10.5 (-112),o238 (-110),-500,+10.5 (-108),u238 (-110),+385
+Sat Dec 16 2023,Brooklyn Nets,120,Golden State Warriors,124,-3.5 (-110),o235.5 (-108),-162,+3.5 (-110),u235.5 (-112),+136
+Sat Dec 16 2023,Oklahoma City Thunder,118,Denver Nuggets,117,-5 (-110),o237.5 (-110),-215,+5 (-110),u237.5 (-110),+180
+Sat Dec 16 2023,Dallas Mavericks,131,Portland Trail Blazers,120,+4.5 (-110),o233 (-112),+158,-4.5 (-110),u233 (-108),-188
+Sat Dec 16 2023,Utah Jazz,104,Sacramento Kings,125,-8 (-112),o235 (-110),-330,+8 (-108),u235 (-110),+265
+Sat Dec 16 2023,New York Knicks,122,Los Angeles Clippers,144,-6.5 (-112),o230.5 (-110),-260,+6.5 (-110),u230.5 (-110),+215
+Sun Dec 17 2023,Orlando Magic,97,Boston Celtics,114,-9 (-108),o226 (-110),-340,+9 (-112),u226 (-110),+275
+Sun Dec 17 2023,New Orleans Pelicans,146,San Antonio Spurs,110,+8 (-110),o239 (-110),+265,-8 (-110),u239 (-110),-330
+Sun Dec 17 2023,Houston Rockets,119,Milwaukee Bucks,128,-7 (-112),o231.5 (-110),-275,+7 (-108),u231.5 (-110),+225
+Sun Dec 17 2023,Washington Wizards,108,Phoenix Suns,112,-13 (-110),o245.5 (-112),-820,+13 (-110),u245.5 (-108),+570
+Sun Dec 17 2023,Golden State Warriors,118,Portland Trail Blazers,114,+6 (-110),o233 (-112),+198,-6 (-110),u233 (-108),-240
+Mon Dec 18 2023,Houston Rockets,130,Cleveland Cavaliers,135,-3.5 (-112),o215.5 (-110),-164,+3.5 (-108),u215.5 (-110),+138
+Mon Dec 18 2023,Los Angeles Clippers,151,Indiana Pacers,127,+4 (-110),o252.5 (-108),+156,-4 (-110),u252.5 (-112),-186
+Mon Dec 18 2023,Chicago Bulls,108,Philadelphia 76ers,104,-10.5 (-110),o227 (-112),-490,+10.5 (-110),u227 (-108),+380
+Mon Dec 18 2023,Detroit Pistons,124,Atlanta Hawks,130,-11.5 (-112),o247 (-110),-600,+11.5 (-108),u247 (-110),+450
+Mon Dec 18 2023,Minnesota Timberwolves,112,Miami Heat,108,+2 (-112),o217 (-112),+108,-2 (-108),u217 (-108),-126
+Mon Dec 18 2023,Charlotte Hornets,99,Toronto Raptors,114,-12.5 (-114),o224 (-110),-770,+12.5 (-106),u224 (-110),+540
+Mon Dec 18 2023,Memphis Grizzlies,97,Oklahoma City Thunder,116,-10.5 (-110),o228.5 (-110),-500,+10.5 (-110),u228.5 (-110),+385
+Mon Dec 18 2023,Dallas Mavericks,104,Denver Nuggets,130,-8 (-112),o239.5 (-112),-330,+8 (-108),u239.5 (-108),+265
+Mon Dec 18 2023,Brooklyn Nets,108,Utah Jazz,125,+3.5 (-114),o233 (-112),+132,-3.5 (-106),u233 (-108),-156
+Mon Dec 18 2023,Washington Wizards,131,Sacramento Kings,143,-14.5 (-110),o252 (-110),-1100,+14.5 (-110),u252 (-110),+700
+Mon Dec 18 2023,New York Knicks,114,Los Angeles Lakers,109,-4.5 (-112),o235.5 (-112),-194,+4.5 (-110),u235.5 (-108),+162
+Tue Dec 19 2023,Memphis Grizzlies,115,New Orleans Pelicans,113,-8.5 (-112),o228.5 (-110),-375,+8.5 (-108),u228.5 (-110),+300
+Tue Dec 19 2023,San Antonio Spurs,119,Milwaukee Bucks,132,-16.5 (-110),o249 (-110),-1500,+16.5 (-110),u249 (-110),+870
+Tue Dec 19 2023,Boston Celtics,126,Golden State Warriors,132,+5 (-110),o233.5 (-110),+176,-5 (-110),u233.5 (-110),-210
+Tue Dec 19 2023,Phoenix Suns,104,Portland Trail Blazers,109,+7.5 (-112),o230.5 (-110),+240,-7.5 (-108),u230.5 (-110),-295
+Wed Dec 20 2023,Utah Jazz,116,Cleveland Cavaliers,124,-3.5 (-108),o225.5 (-112),-158,+3.5 (-112),u225.5 (-108),+134
+Wed Dec 20 2023,Charlotte Hornets,113,Indiana Pacers,144,-10.5 (-110),o245.5 (-110),-500,+10.5 (-110),u245.5 (-110),+385
+Wed Dec 20 2023,Miami Heat,115,Orlando Magic,106,-5.5 (-110),o219.5 (-108),-215,+5.5 (-110),u219.5 (-112),+180
+Wed Dec 20 2023,Minnesota Timberwolves,113,Philadelphia 76ers,127,-4 (-110),o226 (-110),-172,+4 (-110),u226 (-110),+144
+Wed Dec 20 2023,New York Knicks,121,Brooklyn Nets,102,+1.5 (-110),o232.5 (-110),+102,-1.5 (-110),u232.5 (-110),-120
+Wed Dec 20 2023,Denver Nuggets,113,Toronto Raptors,104,+3.5 (-108),o229 (-112),+142,-3.5 (-112),u229 (-108),-168
+Wed Dec 20 2023,Los Angeles Lakers,108,Chicago Bulls,124,+3.5 (-112),o225 (-110),+138,-3.5 (-108),u225 (-110),-164
+Wed Dec 20 2023,Atlanta Hawks,134,Houston Rockets,127,-2.5 (-112),o233 (-108),-142,+2.5 (-108),u233 (-112),+120
+Wed Dec 20 2023,Los Angeles Clippers,120,Dallas Mavericks,111,+2 (-108),o237.5 (-108),+112,-2 (-112),u237.5 (-112),-132
+Wed Dec 20 2023,Boston Celtics,144,Sacramento Kings,119,-3.5 (-108),o238.5 (-110),-166,+3.5 (-112),u238.5 (-110),+140
+Thu Dec 21 2023,Utah Jazz,119,Detroit Pistons,111,-2 (-112),o233 (-112),-132,+2 (-108),u233 (-108),+112
+Thu Dec 21 2023,New Orleans Pelicans,123,Cleveland Cavaliers,104,+3.5 (-110),o225 (-110),+138,-3.5 (-110),u225 (-110),-164
+Thu Dec 21 2023,San Antonio Spurs,95,Chicago Bulls,114,-6.5 (-108),o229.5 (-110),-240,+6.5 (-112),u229.5 (-110),+198
+Thu Dec 21 2023,Indiana Pacers,103,Memphis Grizzlies,116,-2 (-110),o246.5 (-110),-132,+2 (-110),u246.5 (-110),+112
+Thu Dec 21 2023,Orlando Magic,114,Milwaukee Bucks,118,-8.5 (-114),o238 (-110),-360,+8.5 (-106),u238 (-110),+290
+Thu Dec 21 2023,Los Angeles Clippers,115,Oklahoma City Thunder,134,-6 (-112),o237.5 (-110),-235,+6 (-108),u237.5 (-110),+194
+Thu Dec 21 2023,Los Angeles Lakers,111,Minnesota Timberwolves,118,-8.5 (-110),o222.5 (-110),-360,+8.5 (-110),u222.5 (-110),+290
+Thu Dec 21 2023,Washington Wizards,118,Portland Trail Blazers,117,-4 (-110),o239.5 (-108),-168,+4 (-110),u239.5 (-112),+142
+Fri Dec 22 2023,Toronto Raptors,111,Philadelphia 76ers,121,-8 (-112),o230.5 (-110),-300,+8 (-108),u230.5 (-110),+245
+Fri Dec 22 2023,Denver Nuggets,122,Brooklyn Nets,117,+5 (-112),o231.5 (-110),+180,-5 (-108),u231.5 (-110),-215
+Fri Dec 22 2023,Dallas Mavericks,96,Houston Rockets,122,-8.5 (-110),o222.5 (-110),-340,+8.5 (-110),u222.5 (-110),+275
+Fri Dec 22 2023,Atlanta Hawks,113,Miami Heat,122,+1 (-110),o238.5 (-110),-110,-1 (-110),u238.5 (-110),-106
+Fri Dec 22 2023,Washington Wizards,118,Golden State Warriors,129,-11 (-108),o248.5 (-108),-520,+11 (-112),u248.5 (-112),+400
+Fri Dec 22 2023,Phoenix Suns,105,Sacramento Kings,120,-4 (-110),o244.5 (-108),-180,+4 (-110),u244.5 (-112),+152
+Sat Dec 23 2023,Milwaukee Bucks,130,New York Knicks,111,+2.5 (-112),o244.5 (-112),+120,-2.5 (-108),u244.5 (-108),-142
+Sat Dec 23 2023,Boston Celtics,145,Los Angeles Clippers,108,+4.5 (-110),o231 (-110),+148,-4.5 (-110),u231 (-110),-176
+Sat Dec 23 2023,Denver Nuggets,102,Charlotte Hornets,95,+11 (-114),o224.5 (-108),+430,-11 (-108),u224.5 (-112),-590
+Sat Dec 23 2023,Orlando Magic,117,Indiana Pacers,110,-2.5 (-108),o245 (-110),-136,+2.5 (-112),u245 (-110),+116
+Sat Dec 23 2023,Houston Rockets,106,New Orleans Pelicans,104,-7.5 (-108),o227 (-110),-290,+7.5 (-112),u227 (-110),+235
+Sat Dec 23 2023,Memphis Grizzlies,125,Atlanta Hawks,119,-1.5 (-112),o237 (-112),-124,+1.5 (-108),u237 (-108),+106
+Sat Dec 23 2023,Detroit Pistons,115,Brooklyn Nets,126,-9.5 (-110),o231 (-114),-490,+9.5 (-110),u231 (-108),+380
+Sat Dec 23 2023,Utah Jazz,126,Toronto Raptors,119,-5.5 (-108),o232.5 (-110),-210,+5.5 (-112),u232.5 (-110),+176
+Sat Dec 23 2023,Cleveland Cavaliers,109,Chicago Bulls,95,-6.5 (-110),o213.5 (-112),-255,+6.5 (-110),u213.5 (-108),+200
+Sat Dec 23 2023,Los Angeles Lakers,129,Oklahoma City Thunder,120,-3.5 (-110),o239 (-110),-164,+3.5 (-110),u239 (-110),+138
+Sat Dec 23 2023,San Antonio Spurs,119,Dallas Mavericks,144,-8 (-112),o242.5 (-110),-330,+8 (-108),u242.5 (-110),+265
+Sat Dec 23 2023,Portland Trail Blazers,106,Golden State Warriors,126,-8 (-112),o231 (-110),-350,+8 (-108),u231 (-110),+280
+Sat Dec 23 2023,Minnesota Timberwolves,110,Sacramento Kings,98,-2 (-110),o232.5 (-112),-130,+2 (-110),u232.5 (-108),+110
+Mon Dec 25 2023,Milwaukee Bucks,122,New York Knicks,129,+3 (-110),o243.5 (-108),+134,-3 (-110),u243.5 (-112),-158
+Mon Dec 25 2023,Golden State Warriors,114,Denver Nuggets,120,-7.5 (-110),o235 (-112),-310,+7.5 (-110),u235 (-108),+250
+Mon Dec 25 2023,Boston Celtics,126,Los Angeles Lakers,115,+5 (-112),o235 (-110),+166,-5 (-108),u235 (-110),-198
+Mon Dec 25 2023,Philadelphia 76ers,113,Miami Heat,119,-2.5 (-110),o228 (-108),-138,+2.5 (-110),u228 (-112),+118
+Mon Dec 25 2023,Dallas Mavericks,128,Phoenix Suns,114,-4 (-112),o243.5 (-110),-178,+4 (-108),u243.5 (-110),+150
+Tue Dec 26 2023,Brooklyn Nets,118,Detroit Pistons,112,+6.5 (-106),o228.5 (-110),+215,-6.5 (-114),u228.5 (-110),-260
+Tue Dec 26 2023,Orlando Magic,127,Washington Wizards,119,+7 (-112),o236.5 (-110),+225,-7 (-108),u236.5 (-110),-275
+Tue Dec 26 2023,Atlanta Hawks,113,Chicago Bulls,118,+2.5 (-110),o238 (-110),+110,-2.5 (-110),u238 (-110),-130
+Tue Dec 26 2023,Indiana Pacers,123,Houston Rockets,117,-3 (-110),o240.5 (-108),-148,+3 (-110),u240.5 (-112),+126
+Tue Dec 26 2023,Memphis Grizzlies,116,New Orleans Pelicans,115,-5 (-108),o229 (-110),-198,+5 (-112),u229 (-110),+166
+Tue Dec 26 2023,Minnesota Timberwolves,106,Oklahoma City Thunder,129,-2.5 (-110),o230.5 (-110),-130,+2.5 (-110),u230.5 (-110),+110
+Tue Dec 26 2023,Utah Jazz,130,San Antonio Spurs,118,+3 (-108),o241.5 (-110),+130,-3 (-112),u241.5 (-110),-154
+Tue Dec 26 2023,Sacramento Kings,113,Portland Trail Blazers,130,+9 (-110),o236.5 (-110),+315,-9 (-112),u236.5 (-110),-400
+Tue Dec 26 2023,Charlotte Hornets,104,Los Angeles Clippers,113,-11 (-112),o227 (-106),-550,+11 (-108),u227 (-114),+410
+Wed Dec 27 2023,Philadelphia 76ers,112,Orlando Magic,92,-2 (-112),o228.5 (-110),-138,+2 (-108),u228.5 (-110),+118
+Wed Dec 27 2023,Toronto Raptors,132,Washington Wizards,102,+6.5 (-110),o242 (-110),+220,-6.5 (-110),u242 (-110),-270
+Wed Dec 27 2023,Milwaukee Bucks,144,Brooklyn Nets,122,+10 (-110),o244 (-110),+350,-10 (-110),u244 (-110),-450
+Wed Dec 27 2023,Phoenix Suns,129,Houston Rockets,113,+3 (-110),o225 (-108),+128,-3 (-110),u225 (-112),-152
+Wed Dec 27 2023,New York Knicks,120,Oklahoma City Thunder,129,-3.5 (-108),o241 (-110),-158,+3.5 (-112),u241 (-110),+134
+Wed Dec 27 2023,Cleveland Cavaliers,113,Dallas Mavericks,110,-6.5 (-112),o232.5 (-110),-290,+6.5 (-108),u232.5 (-110),+235
+Thu Dec 28 2023,Detroit Pistons,122,Boston Celtics,128,-17 (-110),o234 (-112),-1400,+17 (-110),u234 (-108),+830
+Thu Dec 28 2023,Indiana Pacers,120,Chicago Bulls,104,+1 (-110),o238.5 (-110),-102,-1 (-110),u238.5 (-110),-116
+Thu Dec 28 2023,Dallas Mavericks,110,Minnesota Timberwolves,118,-12 (-112),o228 (-114),-700,+12 (-108),u228 (-106),+500
+Thu Dec 28 2023,Utah Jazz,105,New Orleans Pelicans,112,-9 (-108),o239.5 (-110),-400,+9 (-114),u239.5 (-110),+315
+Thu Dec 28 2023,Memphis Grizzlies,105,Denver Nuggets,142,-9 (-114),o222.5 (-112),-405,+9 (-106),u222.5 (-108),+320
+Thu Dec 28 2023,Miami Heat,114,Golden State Warriors,102,-6.5 (-110),o232 (-110),-260,+6.5 (-110),u232 (-110),+215
+Thu Dec 28 2023,San Antonio Spurs,118,Portland Trail Blazers,105,-3 (-110),o233 (-108),-152,+3 (-110),u233 (-112),+128
+Thu Dec 28 2023,Charlotte Hornets,112,Los Angeles Lakers,133,-13 (-114),o227.5 (-110),-900,+13 (-106),u227.5 (-110),+610
+Fri Dec 29 2023,New York Knicks,108,Orlando Magic,117,+1.5 (-112),o226.5 (-112),-100,-1.5 (-108),u226.5 (-108),-118
+Fri Dec 29 2023,Brooklyn Nets,104,Washington Wizards,110,+6 (-110),o242 (-110),+190,-6 (-110),u242 (-110),-230
+Fri Dec 29 2023,Sacramento Kings,117,Atlanta Hawks,110,+1.5 (-110),o253 (-110),-100,-1.5 (-110),u253 (-110),-118
+Fri Dec 29 2023,Toronto Raptors,118,Boston Celtics,120,-5 (-106),o228.5 (-110),-198,+5 (-114),u228.5 (-110),+166
+Fri Dec 29 2023,Milwaukee Bucks,119,Cleveland Cavaliers,111,+5 (-110),o241.5 (-110),+168,-5 (-110),u241.5 (-110),-200
+Fri Dec 29 2023,Philadelphia 76ers,131,Houston Rockets,127,+1.5 (-112),o224 (-110),-100,-1.5 (-108),u224 (-110),-118
+Fri Dec 29 2023,Oklahoma City Thunder,119,Denver Nuggets,93,-2 (-110),o236.5 (-110),-126,+2 (-110),u236.5 (-110),+108
+Fri Dec 29 2023,Charlotte Hornets,119,Phoenix Suns,133,-15.5 (-108),o231.5 (-108),-1200,+15.5 (-114),u231.5 (-112),+750
+Fri Dec 29 2023,San Antonio Spurs,128,Portland Trail Blazers,134,-4.5 (-108),o233.5 (-110),-188,+4.5 (-112),u233.5 (-110),+158
+Fri Dec 29 2023,Memphis Grizzlies,106,Los Angeles Clippers,117,-4 (-110),o230.5 (-110),-180,+4 (-110),u230.5 (-110),+152
+Sat Dec 30 2023,Miami Heat,109,Utah Jazz,117,+3 (-108),o231 (-110),+128,-3 (-112),u231 (-110),-152
+Sat Dec 30 2023,Toronto Raptors,127,Detroit Pistons,129,+4 (-110),o233.5 (-110),+142,-4 (-110),u233.5 (-110),-168
+Sat Dec 30 2023,New York Knicks,126,Indiana Pacers,140,-4 (-112),o248.5 (-112),-168,+4 (-108),u248.5 (-108),+142
+Sat Dec 30 2023,Philadelphia 76ers,92,Chicago Bulls,105,-1 (-110),o225.5 (-110),-116,+1 (-110),u225.5 (-110),-102
+Sat Dec 30 2023,Los Angeles Lakers,106,Minnesota Timberwolves,108,-4.5 (-106),o227 (-110),-168,+4.5 (-114),u227 (-110),+142
+Sat Dec 30 2023,Dallas Mavericks,132,Golden State Warriors,122,-4 (-110),o243 (-110),-174,+4 (-110),u243 (-110),+146
+Sun Dec 31 2023,Atlanta Hawks,130,Washington Wizards,126,+6.5 (-108),o252 (-110),+215,-6.5 (-112),u252 (-110),-260
+Sun Dec 31 2023,Los Angeles Lakers,109,New Orleans Pelicans,129,-5.5 (-108),o233 (-110),-210,+5.5 (-112),u233 (-110),+176
+Sun Dec 31 2023,Brooklyn Nets,108,Oklahoma City Thunder,124,-7.5 (-110),o235 (-108),-290,+7.5 (-110),u235 (-112),+235
+Sun Dec 31 2023,Boston Celtics,134,San Antonio Spurs,101,+14.5 (-108),o241.5 (-108),+750,-14.5 (-112),u241.5 (-112),-1200
+Sun Dec 31 2023,Sacramento Kings,123,Memphis Grizzlies,92,-1 (-110),o237 (-110),-116,+1 (-110),u237 (-110),-102
+Sun Dec 31 2023,Orlando Magic,107,Phoenix Suns,112,-5.5 (-114),o232 (-110),-225,+5.5 (-106),u232 (-110),+188
+Mon Jan 1 2024,Minnesota Timberwolves,106,New York Knicks,112,+1 (-110),o222 (-110),-104,-1 (-110),u222 (-110),-112
+Mon Jan 1 2024,Cleveland Cavaliers,121,Toronto Raptors,124,-2.5 (-114),o227.5 (-110),-144,+2.5 (-108),u227.5 (-110),+122
+Mon Jan 1 2024,Detroit Pistons,113,Houston Rockets,136,-9.5 (-110),o227.5 (-110),-420,+9.5 (-110),u227.5 (-110),+330
+Mon Jan 1 2024,Indiana Pacers,122,Milwaukee Bucks,113,-8 (-108),o261.5 (-110),-330,+8 (-112),u261.5 (-110),+265
+Mon Jan 1 2024,Charlotte Hornets,93,Denver Nuggets,111,-17 (-110),o224.5 (-110),-1600,+17 (-110),u224.5 (-110),+900
+Mon Jan 1 2024,Portland Trail Blazers,88,Phoenix Suns,109,-9 (-110),o229 (-110),-405,+9 (-110),u229 (-110),+320
+Mon Jan 1 2024,Dallas Mavericks,90,Utah Jazz,127,+4.5 (-110),o247.5 (-108),+162,-4.5 (-110),u247.5 (-112),-194
+Mon Jan 1 2024,Miami Heat,104,Los Angeles Clippers,121,-8 (-110),o228.5 (-110),-335,+8 (-110),u228.5 (-110),+270
+Tue Jan 2 2024,Chicago Bulls,97,Philadelphia 76ers,110,-10 (-110),o222.5 (-110),-460,+10 (-110),u222.5 (-110),+360
+Tue Jan 2 2024,San Antonio Spurs,98,Memphis Grizzlies,106,-11 (-112),o236.5 (-110),-590,+11 (-108),u236.5 (-110),+430
+Tue Jan 2 2024,Brooklyn Nets,85,New Orleans Pelicans,112,-5.5 (-108),o227 (-110),-215,+5.5 (-112),u227 (-110),+180
+Tue Jan 2 2024,Boston Celtics,123,Oklahoma City Thunder,127,+4 (-106),o240 (-110),+146,-4 (-114),u240 (-110),-174
+Tue Jan 2 2024,Orlando Magic,115,Golden State Warriors,121,-3.5 (-110),o229.5 (-110),-166,+3.5 (-110),u229.5 (-110),+140
+Tue Jan 2 2024,Charlotte Hornets,111,Sacramento Kings,104,-15 (-110),o233.5 (-110),-1400,+15 (-110),u233.5 (-110),+810
+Wed Jan 3 2024,Washington Wizards,101,Cleveland Cavaliers,140,-9 (-110),o239.5 (-110),-400,+9 (-110),u239.5 (-110),+315
+Wed Jan 3 2024,Milwaukee Bucks,130,Indiana Pacers,142,+3.5 (-114),o258 (-112),+136,-3.5 (-106),u258 (-108),-162
+Wed Jan 3 2024,Oklahoma City Thunder,138,Atlanta Hawks,141,-1 (-110),o249 (-110),-116,+1 (-110),u249 (-110),-102
+Wed Jan 3 2024,Brooklyn Nets,101,Houston Rockets,112,-4 (-110),o222 (-110),-172,+4 (-110),u222 (-110),+144
+Wed Jan 3 2024,Toronto Raptors,116,Memphis Grizzlies,111,-1.5 (-108),o228 (-112),-118,+1.5 (-112),u228 (-108),-100
+Wed Jan 3 2024,New Orleans Pelicans,117,Minnesota Timberwolves,106,-6 (-110),o221 (-110),-240,+6 (-110),u221 (-110),+198
+Wed Jan 3 2024,Portland Trail Blazers,97,Dallas Mavericks,126,-11 (-108),o239 (-112),-560,+11 (-112),u239 (-108),+420
+Wed Jan 3 2024,Chicago Bulls,100,New York Knicks,116,-8.5 (-112),o221 (-112),-330,+8.5 (-108),u221 (-108),+265
+Wed Jan 3 2024,Los Angeles Clippers,131,Phoenix Suns,122,+4.5 (-112),o231 (-108),+146,-4.5 (-108),u231 (-112),-174
+Wed Jan 3 2024,Detroit Pistons,148,Utah Jazz,154,-8.5 (-110),o241.5 (-110),-360,+8.5 (-110),u241.5 (-110),+290
+Wed Jan 3 2024,Miami Heat,110,Los Angeles Lakers,96,-4.5 (-112),o229 (-112),-198,+4.5 (-108),u229 (-108),+166
+Wed Jan 3 2024,Orlando Magic,135,Sacramento Kings,138,-5.5 (-108),o232 (-110),-210,+5.5 (-112),u232 (-110),+176
+Thu Jan 4 2024,Milwaukee Bucks,125,San Antonio Spurs,121,+11 (-112),o248 (-108),+440,-11 (-108),u248 (-112),-590
+Thu Jan 4 2024,Denver Nuggets,130,Golden State Warriors,127,+4 (-108),o234 (-112),+146,-4 (-112),u234 (-108),-174
+Fri Jan 5 2024,Utah Jazz,97,Boston Celtics,126,-14 (-110),o240.5 (-110),-1150,+14 (-110),u240.5 (-110),+730
+Fri Jan 5 2024,Atlanta Hawks,116,Indiana Pacers,150,-2.5 (-112),o262 (-108),-138,+2.5 (-108),u262 (-112),+118
+Fri Jan 5 2024,Oklahoma City Thunder,115,Brooklyn Nets,124,+4.5 (-108),o234 (-110),+160,-4.5 (-112),u234 (-110),-190
+Fri Jan 5 2024,Washington Wizards,90,Cleveland Cavaliers,114,-10.5 (-110),o237.5 (-110),-550,+10.5 (-110),u237.5 (-110),+410
+Fri Jan 5 2024,New York Knicks,128,Philadelphia 76ers,92,-6 (-110),o233.5 (-110),-245,+6 (-110),u233.5 (-110),+200
+Fri Jan 5 2024,Charlotte Hornets,91,Chicago Bulls,104,-8.5 (-108),o217.5 (-110),-360,+8.5 (-112),u217.5 (-110),+290
+Fri Jan 5 2024,Minnesota Timberwolves,122,Houston Rockets,95,+4 (-105),o215.5 (-112),+152,-4 (-115),u215.5 (-108),-180
+Fri Jan 5 2024,Los Angeles Clippers,111,New Orleans Pelicans,95,+1 (-112),o230.5 (-110),-104,-1 (-108),u230.5 (-110),-112
+Fri Jan 5 2024,Portland Trail Blazers,103,Dallas Mavericks,139,-7 (-114),o234 (-110),-310,+7 (-106),u234 (-110),+250
+Fri Jan 5 2024,Orlando Magic,122,Denver Nuggets,120,-10 (-114),o224 (-108),-550,+10 (-106),u224 (-112),+410
+Fri Jan 5 2024,Miami Heat,97,Phoenix Suns,113,-2.5 (-112),o227.5 (-110),-144,+2.5 (-108),u227.5 (-110),+122
+Fri Jan 5 2024,Detroit Pistons,109,Golden State Warriors,113,-11 (-108),o240.5 (-110),-590,+11 (-112),u240.5 (-110),+440
+Fri Jan 5 2024,Memphis Grizzlies,127,Los Angeles Lakers,113,-4.5 (-108),o225.5 (-112),-180,+4.5 (-112),u225.5 (-108),+152
+Fri Jan 5 2024,Toronto Raptors,130,Sacramento Kings,135,-4.5 (-110),o237.5 (-110),-178,+4.5 (-110),u237.5 (-110),+150
+Sat Jan 6 2024,Boston Celtics,118,Indiana Pacers,101,+7 (-106),o250 (-110),+225,-7 (-114),u250 (-110),-275
+Sat Jan 6 2024,New York Knicks,121,Washington Wizards,105,+9.5 (-110),o239.5 (-110),+315,-9.5 (-110),u239.5 (-110),-400
+Sat Jan 6 2024,Utah Jazz,120,Philadelphia 76ers,109,-6.5 (-110),o236.5 (-110),-245,+6.5 (-110),u236.5 (-110),+200
+Sat Jan 6 2024,Milwaukee Bucks,108,Houston Rockets,112,+7 (-106),o237 (-110),+235,-7 (-114),u237 (-110),-290
+Sun Jan 7 2024,San Antonio Spurs,115,Cleveland Cavaliers,117,-10.5 (-114),o232 (-112),-590,+10.5 (-106),u232 (-108),+440
+Sun Jan 7 2024,Portland Trail Blazers,134,Brooklyn Nets,127,-9 (-112),o226.5 (-110),-375,+9 (-108),u226.5 (-110),+300
+Sun Jan 7 2024,Atlanta Hawks,110,Orlando Magic,117,+2.5 (-110),o240 (-110),+120,-2.5 (-110),u240 (-110),-142
+Sun Jan 7 2024,New Orleans Pelicans,133,Sacramento Kings,100,-4.5 (-110),o233.5 (-110),-190,+4.5 (-110),u233.5 (-110),+160
+Sun Jan 7 2024,Minnesota Timberwolves,108,Dallas Mavericks,115,+2 (-110),o234 (-110),+114,-2 (-110),u234 (-110),-134
+Sun Jan 7 2024,Detroit Pistons,114,Denver Nuggets,131,-16 (-106),o235.5 (-110),-1500,+16 (-114),u235.5 (-110),+870
+Sun Jan 7 2024,Memphis Grizzlies,121,Phoenix Suns,115,-8 (-110),o229 (-110),-300,+8 (-110),u229 (-110),+245
+Sun Jan 7 2024,Toronto Raptors,133,Golden State Warriors,118,-2.5 (-108),o238 (-108),-134,+2.5 (-112),u238 (-112),+114
+Sun Jan 7 2024,Los Angeles Clippers,103,Los Angeles Lakers,106,+5 (-112),o232 (-112),+168,-5 (-108),u232 (-108),-200
+Mon Jan 8 2024,Chicago Bulls,119,Charlotte Hornets,112,+7 (-114),o215.5 (-108),+220,-7 (-106),u215.5 (-112),-270
+Mon Jan 8 2024,Boston Celtics,131,Indiana Pacers,133,+3.5 (-112),o246.5 (-110),+130,-3.5 (-108),u246.5 (-110),-154
+Mon Jan 8 2024,Oklahoma City Thunder,136,Washington Wizards,128,+11 (-106),o245 (-108),+460,-11 (-114),u245 (-112),-620
+Mon Jan 8 2024,Houston Rockets,113,Miami Heat,120,-4 (-114),o218.5 (-112),-180,+4 (-106),u218.5 (-108),+152
+Mon Jan 8 2024,Utah Jazz,132,Milwaukee Bucks,116,-8 (-112),o242.5 (-110),-360,+8 (-108),u242.5 (-110),+290
+Mon Jan 8 2024,Phoenix Suns,111,Los Angeles Clippers,138,-5 (-112),o235 (-110),-198,+5 (-108),u235 (-110),+166
+Tue Jan 9 2024,Sacramento Kings,131,Detroit Pistons,110,+11 (-110),o241.5 (-108),+440,-11 (-110),u241.5 (-112),-590
+Tue Jan 9 2024,Minnesota Timberwolves,113,Orlando Magic,92,+5.5 (-110),o217.5 (-110),+184,-5.5 (-110),u217.5 (-110),-220
+Tue Jan 9 2024,Portland Trail Blazers,84,New York Knicks,112,-13 (-110),o229 (-112),-750,+13 (-110),u229 (-108),+530
+Tue Jan 9 2024,Memphis Grizzlies,120,Dallas Mavericks,103,-9.5 (-112),o236.5 (-112),-490,+9.5 (-108),u236.5 (-108),+380
+Tue Jan 9 2024,Toronto Raptors,131,Los Angeles Lakers,132,-4.5 (-114),o238 (-108),-194,+4.5 (-106),u238 (-112),+162
+Wed Jan 10 2024,Minnesota Timberwolves,120,Boston Celtics,127,-10.5 (-112),o228 (-110),-550,+10.5 (-108),u228 (-110),+410
+Wed Jan 10 2024,Sacramento Kings,123,Charlotte Hornets,98,+9 (-112),o230 (-110),+275,-9 (-108),u230 (-110),-335
+Wed Jan 10 2024,San Antonio Spurs,130,Detroit Pistons,108,+3 (-110),o238 (-110),+126,-3 (-110),u238 (-110),-148
+Wed Jan 10 2024,Washington Wizards,104,Indiana Pacers,112,-8 (-114),o251.5 (-112),-310,+8 (-106),u251.5 (-108),+250
+Wed Jan 10 2024,Philadelphia 76ers,132,Atlanta Hawks,139,-1 (-112),o246.5 (-110),-112,+1 (-108),u246.5 (-110),-104
+Wed Jan 10 2024,Oklahoma City Thunder,128,Miami Heat,120,+4.5 (-110),o232.5 (-110),+158,-4.5 (-110),u232.5 (-110),-188
+Wed Jan 10 2024,Houston Rockets,119,Chicago Bulls,124,-4 (-110),o216.5 (-110),-172,+4 (-110),u216.5 (-110),+144
+Wed Jan 10 2024,New Orleans Pelicans,141,Golden State Warriors,105,+2.5 (-110),o234.5 (-110),+120,-2.5 (-110),u234.5 (-110),-142
+Wed Jan 10 2024,Denver Nuggets,111,Utah Jazz,124,+6.5 (-108),o238.5 (-110),+220,-6.5 (-114),u238.5 (-110),-270
+Wed Jan 10 2024,Toronto Raptors,120,Los Angeles Clippers,126,-11.5 (-112),o233.5 (-110),-620,+11.5 (-108),u233.5 (-110),+460
+Thu Jan 11 2024,Brooklyn Nets,102,Cleveland Cavaliers,111,-3 (-112),o221.5 (-110),-164,+3 (-108),u221.5 (-110),+138
+Thu Jan 11 2024,Boston Celtics,102,Milwaukee Bucks,135,-2.5 (-106),o247.5 (-110),-126,+2.5 (-114),u247.5 (-110),+108
+Thu Jan 11 2024,Portland Trail Blazers,77,Oklahoma City Thunder,139,-13.5 (-112),o237 (-108),-950,+13.5 (-108),u237 (-112),+640
+Thu Jan 11 2024,New York Knicks,124,Dallas Mavericks,128,+5 (-110),o234.5 (-110),+172,-5 (-110),u234.5 (-110),-205
+Thu Jan 11 2024,Phoenix Suns,127,Los Angeles Lakers,109,+1 (-112),o238.5 (-112),-104,-1 (-108),u238.5 (-108),-112
+Fri Jan 12 2024,Indiana Pacers,126,Atlanta Hawks,108,-6 (-110),o249.5 (-110),-220,+6 (-110),u249.5 (-110),+184
+Fri Jan 12 2024,Houston Rockets,112,Detroit Pistons,110,+9 (-114),o225 (-108),+315,-9 (-106),u225 (-112),-400
+Fri Jan 12 2024,Sacramento Kings,93,Philadelphia 76ers,112,+1 (-110),o242.5 (-110),-104,-1 (-110),u242.5 (-110),-112
+Fri Jan 12 2024,Golden State Warriors,140,Chicago Bulls,131,-3 (-108),o228 (-110),-144,+3 (-112),u228 (-110),+122
+Fri Jan 12 2024,Los Angeles Clippers,128,Memphis Grizzlies,119,+8.5 (-106),o224.5 (-112),+290,-8.5 (-114),u224.5 (-108),-360
+Fri Jan 12 2024,Orlando Magic,96,Miami Heat,99,-1.5 (-112),o219.5 (-112),-124,+1.5 (-108),u219.5 (-108),+106
+Fri Jan 12 2024,Portland Trail Blazers,93,Minnesota Timberwolves,116,-16 (-108),o220 (-110),-1400,+16 (-112),u220 (-110),+830
+Fri Jan 12 2024,Charlotte Hornets,99,San Antonio Spurs,135,-3 (-106),o236.5 (-112),-142,+3 (-114),u236.5 (-108),+120
+Fri Jan 12 2024,Toronto Raptors,113,Utah Jazz,145,-1 (-112),o242.5 (-110),-118,+1 (-108),u242.5 (-110),-100
+Fri Jan 12 2024,New Orleans Pelicans,113,Denver Nuggets,125,-5.5 (-112),o230 (-110),-225,+5.5 (-108),u230 (-110),+190
+Sat Jan 13 2024,Houston Rockets,113,Boston Celtics,145,-15 (-108),o226.5 (-110),-1100,+15 (-112),u226.5 (-110),+700
+Sat Jan 13 2024,Washington Wizards,127,Atlanta Hawks,99,-8 (-110),o248.5 (-108),-330,+8 (-110),u248.5 (-112),+265
+Sat Jan 13 2024,New York Knicks,106,Memphis Grizzlies,94,+11 (-112),o219.5 (-110),+420,-11 (-108),u219.5 (-110),-560
+Sat Jan 13 2024,Golden State Warriors,118,Milwaukee Bucks,129,-14 (-108),o241.5 (-110),-1000,+14 (-112),u241.5 (-110),+660
+Sat Jan 13 2024,Orlando Magic,100,Oklahoma City Thunder,112,-11.5 (-110),o232 (-112),-590,+11.5 (-110),u232 (-108),+440
+Sat Jan 13 2024,New Orleans Pelicans,118,Dallas Mavericks,108,-6 (-110),o227.5 (-110),-225,+6 (-110),u227.5 (-110),+188
+Sat Jan 13 2024,Chicago Bulls,122,San Antonio Spurs,116,+7 (-112),o229.5 (-110),+215,-7 (-108),u229.5 (-110),-260
+Sat Jan 13 2024,Los Angeles Lakers,125,Utah Jazz,132,-2.5 (-110),o237.5 (-110),-142,+2.5 (-110),u237.5 (-110),+120
+Sun Jan 14 2024,Indiana Pacers,109,Denver Nuggets,117,-10.5 (-108),o239.5 (-110),-560,+10.5 (-112),u239.5 (-110),+420
+Sun Jan 14 2024,Charlotte Hornets,87,Miami Heat,104,-8.5 (-110),o225.5 (-110),-360,+8.5 (-110),u225.5 (-110),+290
+Sun Jan 14 2024,Sacramento Kings,142,Milwaukee Bucks,143,-4 (-110),o246.5 (-110),-178,+4 (-110),u246.5 (-110),+150
+Sun Jan 14 2024,Los Angeles Clippers,105,Minnesota Timberwolves,109,-1 (-110),o224 (-108),-110,+1 (-110),u224 (-112),-106
+Sun Jan 14 2024,Phoenix Suns,127,Portland Trail Blazers,116,+14.5 (-114),o234 (-110),+640,-14.5 (-108),u234 (-110),-950
+Mon Jan 15 2024,Houston Rockets,115,Philadelphia 76ers,124,-8.5 (-110),o229.5 (-112),-370,+8.5 (-110),u229.5 (-108),+295
+Mon Jan 15 2024,New Orleans Pelicans,120,Dallas Mavericks,125,+4.5 (-106),o236 (-108),+160,-4.5 (-114),u236 (-112),-190
+Mon Jan 15 2024,Orlando Magic,98,New York Knicks,94,-5.5 (-114),o217 (-110),-215,+5.5 (-106),u217 (-110),+180
+Mon Jan 15 2024,Detroit Pistons,129,Washington Wizards,117,-6 (-110),o239 (-110),-240,+6 (-110),u239 (-110),+198
+Mon Jan 15 2024,San Antonio Spurs,99,Atlanta Hawks,109,-8.5 (-110),o246 (-108),-340,+8.5 (-110),u246 (-112),+275
+Mon Jan 15 2024,Golden State Warriors,107,Memphis Grizzlies,116,+7.5 (-112),o226.5 (-110),+240,-7.5 (-110),u226.5 (-110),-295
+Mon Jan 15 2024,Chicago Bulls,91,Cleveland Cavaliers,109,-4.5 (-110),o222.5 (-110),-176,+4.5 (-110),u222.5 (-110),+148
+Mon Jan 15 2024,Miami Heat,96,Brooklyn Nets,95,+1 (-112),o221 (-112),-104,-1 (-108),u221 (-108),-112
+Mon Jan 15 2024,Boston Celtics,105,Toronto Raptors,96,+6.5 (-106),o238.5 (-110),+215,-6.5 (-114),u238.5 (-110),-260
+Mon Jan 15 2024,Indiana Pacers,105,Utah Jazz,132,-7.5 (-110),o247.5 (-118),-330,+7.5 (-118),u247.5 (-110),+240
+Mon Jan 15 2024,Oklahoma City Thunder,105,Los Angeles Lakers,112,+3 (-110),o241.5 (-110),+126,-3 (-110),u241.5 (-110),-148
+Tue Jan 16 2024,Denver Nuggets,121,Philadelphia 76ers,126,-1.5 (-112),o232.5 (-110),-124,+1.5 (-108),u232.5 (-110),+106
+Tue Jan 16 2024,Sacramento Kings,117,Phoenix Suns,119,-4.5 (-110),o245 (-110),-180,+4.5 (-110),u245 (-110),+152
+Tue Jan 16 2024,Oklahoma City Thunder,117,Los Angeles Clippers,128,-6 (-106),o240 (-110),-230,+6 (-114),u240 (-110),+190
+Wed Jan 17 2024,Minnesota Timberwolves,124,Detroit Pistons,117,+12.5 (-110),o223.5 (-110),+530,-12.5 (-110),u223.5 (-110),-750
+Wed Jan 17 2024,Orlando Magic,104,Atlanta Hawks,106,-4.5 (-108),o228.5 (-110),-186,+4.5 (-112),u228.5 (-110),+156
+Wed Jan 17 2024,San Antonio Spurs,98,Boston Celtics,117,-14.5 (-112),o237 (-110),-1200,+14.5 (-108),u237 (-110),+750
+Wed Jan 17 2024,Milwaukee Bucks,95,Cleveland Cavaliers,135,-2 (-104),o236.5 (-110),-126,+2 (-118),u236.5 (-110),+108
+Wed Jan 17 2024,Houston Rockets,94,New York Knicks,109,-7.5 (-108),o223.5 (-110),-295,+7.5 (-112),u223.5 (-110),+240
+Wed Jan 17 2024,Miami Heat,97,Toronto Raptors,121,+3 (-112),o226 (-108),+130,-3 (-108),u226 (-112),-154
+Wed Jan 17 2024,Charlotte Hornets,112,New Orleans Pelicans,132,-12 (-108),o229.5 (-112),-720,+12 (-112),u229.5 (-108),+520
+Wed Jan 17 2024,Dallas Mavericks,110,Los Angeles Lakers,127,-3 (-112),o245 (-110),-154,+3 (-108),u245 (-110),+130
+Wed Jan 17 2024,Brooklyn Nets,103,Portland Trail Blazers,105,+5 (-110),o221.5 (-110),+172,-5 (-110),u221.5 (-110),-205
+Thu Jan 18 2024,Washington Wizards,109,New York Knicks,113,-12 (-108),o233 (-110),-670,+12 (-112),u233 (-110),+490
+Thu Jan 18 2024,Chicago Bulls,116,Toronto Raptors,110,+2 (-112),o228 (-112),+112,-2 (-108),u228 (-108),-132
+Thu Jan 18 2024,Oklahoma City Thunder,134,Utah Jazz,129,+3 (-108),o246 (-110),+126,-3 (-112),u246 (-110),-148
+Thu Jan 18 2024,Memphis Grizzlies,103,Minnesota Timberwolves,118,-12.5 (-110),o214 (-110),-720,+12.5 (-110),u214 (-110),+520
+Thu Jan 18 2024,Indiana Pacers,126,Sacramento Kings,121,-8.5 (-110),o244.5 (-110),-360,+8.5 (-110),u244.5 (-110),+290
+Fri Jan 19 2024,San Antonio Spurs,120,Charlotte Hornets,124,-5 (-110),o236 (-110),-196,+5 (-110),u236 (-110),+164
+Fri Jan 19 2024,Philadelphia 76ers,124,Orlando Magic,109,+5 (-106),o222.5 (-110),+176,-5 (-114),u222.5 (-110),-210
+Fri Jan 19 2024,Denver Nuggets,102,Boston Celtics,100,-7 (-110),o234 (-112),-270,+7 (-110),u234 (-108),+220
+Fri Jan 19 2024,Atlanta Hawks,109,Miami Heat,108,-7 (-110),o222 (-108),-295,+7 (-110),u222 (-112),+240
+Fri Jan 19 2024,Phoenix Suns,123,New Orleans Pelicans,109,-2.5 (-110),o237 (-112),-142,+2.5 (-110),u237 (-108),+120
+Fri Jan 19 2024,Indiana Pacers,115,Portland Trail Blazers,118,+8.5 (-114),o237.5 (-110),+275,-8.5 (-106),u237.5 (-110),-340
+Fri Jan 19 2024,Brooklyn Nets,130,Los Angeles Lakers,112,-7 (-112),o226.5 (-110),-295,+7 (-108),u226.5 (-110),+240
+Sat Jan 20 2024,Milwaukee Bucks,141,Detroit Pistons,135,+13 (-106),o245.5 (-112),+660,-13 (-114),u245.5 (-108),-1000
+Sat Jan 20 2024,Philadelphia 76ers,97,Charlotte Hornets,89,+12 (-108),o227 (-110),+480,-12 (-112),u227 (-110),-650
+Sat Jan 20 2024,San Antonio Spurs,131,Washington Wizards,127,-2 (-112),o241.5 (-112),-134,+2 (-108),u241.5 (-108),+114
+Sat Jan 20 2024,Cleveland Cavaliers,116,Atlanta Hawks,95,+2 (-110),o231.5 (-110),+108,-2 (-110),u231.5 (-110),-126
+Sat Jan 20 2024,Toronto Raptors,100,New York Knicks,126,-7.5 (-110),o229.5 (-110),-295,+7.5 (-110),u229.5 (-110),+240
+Sat Jan 20 2024,Memphis Grizzlies,96,Chicago Bulls,125,-7.5 (-112),o215 (-112),-295,+7.5 (-108),u215 (-108),+240
+Sat Jan 20 2024,Utah Jazz,126,Houston Rockets,127,-2 (-110),o235 (-108),-130,+2 (-110),u235 (-112),+110
+Sat Jan 20 2024,Oklahoma City Thunder,102,Minnesota Timberwolves,97,-3 (-112),o229.5 (-110),-152,+3 (-108),u229.5 (-110),+128
+Sun Jan 21 2024,Brooklyn Nets,114,Los Angeles Clippers,125,-10.5 (-106),o227.5 (-110),-500,+10.5 (-114),u227.5 (-110),+385
+Sun Jan 21 2024,Miami Heat,87,Orlando Magic,105,-1 (-110),o214 (-110),-116,+1 (-110),u214 (-110),-102
+Sun Jan 21 2024,Denver Nuggets,113,Washington Wizards,104,+12.5 (-110),o237 (-112),+520,-12.5 (-110),u237 (-108),-720
+Sun Jan 21 2024,Boston Celtics,116,Houston Rockets,107,+11.5 (-110),o226.5 (-110),+460,-11.5 (-110),u226.5 (-110),-620
+Sun Jan 21 2024,Indiana Pacers,110,Phoenix Suns,117,-7 (-110),o245 (-110),-270,+7 (-110),u245 (-110),+220
+Sun Jan 21 2024,Portland Trail Blazers,110,Los Angeles Lakers,134,-11.5 (-110),o229.5 (-112),-590,+11.5 (-110),u229.5 (-108),+430
+Mon Jan 22 2024,Milwaukee Bucks,122,Detroit Pistons,113,+12 (-110),o247.5 (-112),+500,-12 (-110),u247.5 (-108),-700
+Mon Jan 22 2024,Cleveland Cavaliers,126,Orlando Magic,99,+2.5 (-108),o215.5 (-106),+120,-2.5 (-112),u215.5 (-114),-142
+Mon Jan 22 2024,San Antonio Spurs,123,Philadelphia 76ers,133,-13.5 (-110),o237.5 (-112),-900,+13.5 (-110),u237.5 (-108),+610
+Mon Jan 22 2024,Memphis Grizzlies,108,Toronto Raptors,100,-7 (-108),o225.5 (-110),-260,+7 (-110),u225.5 (-110),+215
+Mon Jan 22 2024,Charlotte Hornets,128,Minnesota Timberwolves,125,-14 (-108),o221.5 (-110),-950,+14 (-112),u221.5 (-110),+640
+Mon Jan 22 2024,Boston Celtics,119,Dallas Mavericks,110,+2.5 (-108),o241 (-110),+122,-2.5 (-112),u241 (-110),-144
+Mon Jan 22 2024,Chicago Bulls,113,Phoenix Suns,115,-5 (-114),o228.5 (-108),-215,+5 (-106),u228.5 (-112),+180
+Mon Jan 22 2024,Atlanta Hawks,107,Sacramento Kings,122,-8.5 (-110),o237.5 (-110),-360,+8.5 (-110),u237.5 (-110),+290
+Tue Jan 23 2024,Denver Nuggets,114,Indiana Pacers,109,+5 (-110),o237 (-112),+166,-5 (-110),u237 (-108),-198
+Tue Jan 23 2024,New York Knicks,108,Brooklyn Nets,103,+3.5 (-108),o223.5 (-108),+134,-3.5 (-112),u223.5 (-112),-158
+Tue Jan 23 2024,Utah Jazz,124,New Orleans Pelicans,153,-6.5 (-112),o240 (-112),-270,+6.5 (-108),u240 (-108),+220
+Tue Jan 23 2024,Portland Trail Blazers,109,Oklahoma City Thunder,111,-13.5 (-112),o232 (-110),-900,+13.5 (-108),u232 (-110),+610
+Tue Jan 23 2024,Los Angeles Lakers,116,Los Angeles Clippers,127,-9.5 (-114),o235.5 (-112),-405,+9.5 (-106),u235.5 (-108),+320
+Wed Jan 24 2024,Charlotte Hornets,106,Detroit Pistons,113,-2.5 (-110),o230 (-112),-144,+2.5 (-110),u230 (-108),+122
+Wed Jan 24 2024,Minnesota Timberwolves,118,Washington Wizards,107,+10.5 (-108),o229.5 (-110),+400,-10.5 (-112),u229.5 (-110),-520
+Wed Jan 24 2024,Memphis Grizzlies,105,Miami Heat,96,-11.5 (-110),o215 (-110),-620,+11.5 (-110),u215 (-110),+460
+Wed Jan 24 2024,Portland Trail Blazers,137,Houston Rockets,131,-10 (-110),o220 (-108),-430,+10 (-110),u220 (-112),+340
+Wed Jan 24 2024,Cleveland Cavaliers,116,Milwaukee Bucks,126,-6.5 (-112),o238 (-108),-260,+6.5 (-108),u238 (-112),+215
+Wed Jan 24 2024,Phoenix Suns,132,Dallas Mavericks,109,+2 (-106),o241.5 (-110),+116,-2 (-114),u241.5 (-110),-136
+Wed Jan 24 2024,Oklahoma City Thunder,140,San Antonio Spurs,114,+9 (-112),o241 (-112),+315,-9 (-108),u241 (-108),-400
+Wed Jan 24 2024,Atlanta Hawks,112,Golden State Warriors,134,-6.5 (-114),o235 (-110),-260,+6.5 (-106),u235 (-110),+215
+Thu Jan 25 2024,Philadelphia 76ers,122,Indiana Pacers,134,+4 (-110),o240.5 (-110),+144,-4 (-110),u240.5 (-110),-172
+Thu Jan 25 2024,Utah Jazz,123,Washington Wizards,108,+7 (-108),o247.5 (-110),+220,-7 (-112),u247.5 (-110),-270
+Thu Jan 25 2024,Minnesota Timberwolves,96,Brooklyn Nets,94,+4 (-110),o218 (-112),+140,-4 (-110),u218 (-108),-166
+Thu Jan 25 2024,Boston Celtics,143,Miami Heat,110,+8.5 (-110),o224.5 (-110),+270,-8.5 (-110),u224.5 (-110),-335
+Thu Jan 25 2024,Denver Nuggets,84,New York Knicks,122,+2.5 (-110),o222.5 (-112),+118,-2.5 (-110),u222.5 (-108),-138
+Thu Jan 25 2024,Sacramento Kings,134,Golden State Warriors,133,+1 (-112),o244 (-110),-104,-1 (-108),u244 (-110),-112
+Thu Jan 25 2024,Chicago Bulls,132,Los Angeles Lakers,141,-6 (-106),o229.5 (-110),-250,+6 (-114),u229.5 (-110),+205
+Fri Jan 26 2024,Dallas Mavericks,148,Atlanta Hawks,143,-2 (-114),o246 (-112),-136,+2 (-106),u246 (-108),+116
+Fri Jan 26 2024,Houston Rockets,138,Charlotte Hornets,104,+5 (-112),o223.5 (-108),+166,-5 (-108),u223.5 (-112),-198
+Fri Jan 26 2024,Phoenix Suns,131,Indiana Pacers,133,+5 (-112),o244 (-110),+166,-5 (-108),u244 (-110),-198
+Fri Jan 26 2024,Los Angeles Clippers,127,Toronto Raptors,107,+8 (-108),o236.5 (-108),+265,-8 (-112),u236.5 (-112),-330
+Fri Jan 26 2024,Orlando Magic,106,Memphis Grizzlies,107,+6 (-110),o212 (-108),+190,-6 (-110),u212 (-112),-230
+Fri Jan 26 2024,Cleveland Cavaliers,112,Milwaukee Bucks,100,-5 (-114),o237.5 (-110),-210,+5 (-106),u237.5 (-110),+176
+Fri Jan 26 2024,Oklahoma City Thunder,107,New Orleans Pelicans,83,+1.5 (-114),o238 (-112),+102,-1.5 (-114),u238 (-118),-130
+Fri Jan 26 2024,Portland Trail Blazers,100,San Antonio Spurs,116,-5 (-110),o232 (-112),-205,+5 (-110),u232 (-108),+172
+Sat Jan 27 2024,Washington Wizards,118,Detroit Pistons,104,-3.5 (-108),o241 (-108),-156,+3.5 (-112),u241 (-112),+132
+Sat Jan 27 2024,Miami Heat,109,New York Knicks,125,-5 (-112),o220 (-110),-205,+5 (-108),u220 (-110),+172
+Sat Jan 27 2024,Philadelphia 76ers,105,Denver Nuggets,111,-13 (-110),o223.5 (-110),-750,+13 (-110),u223.5 (-110),+530
+Sat Jan 27 2024,Houston Rockets,104,Brooklyn Nets,106,-4 (-112),o221.5 (-110),-176,+4 (-108),u221.5 (-110),+148
+Sat Jan 27 2024,Los Angeles Clippers,115,Boston Celtics,96,-7 (-108),o232 (-110),-260,+7 (-112),u232 (-110),+215
+Sat Jan 27 2024,Utah Jazz,134,Charlotte Hornets,122,+10 (-112),o231.5 (-110),+385,-10 (-108),u231.5 (-110),-500
+Sat Jan 27 2024,New Orleans Pelicans,117,Milwaukee Bucks,141,-3.5 (-110),o242.5 (-112),-158,+3.5 (-110),u242.5 (-108),+134
+Sat Jan 27 2024,Los Angeles Lakers,145,Golden State Warriors,144,-1.5 (-112),o245.5 (-110),-124,+1.5 (-108),u245.5 (-110),+106
+Sat Jan 27 2024,Minnesota Timberwolves,112,San Antonio Spurs,113,+10.5 (-108),o228 (-110),+420,-10.5 (-112),u228 (-110),-560
+Sat Jan 27 2024,Sacramento Kings,120,Dallas Mavericks,115,+4 (-106),o246.5 (-112),+148,-4 (-114),u246.5 (-108),-176
+Sun Jan 28 2024,Oklahoma City Thunder,104,Detroit Pistons,120,+12.5 (-110),o237.5 (-110),+590,-12.5 (-110),u237.5 (-110),-850
+Sun Jan 28 2024,Memphis Grizzlies,110,Indiana Pacers,116,-7 (-110),o229 (-112),-270,+7 (-110),u229 (-108),+220
+Sun Jan 28 2024,Toronto Raptors,125,Atlanta Hawks,126,-6.5 (-112),o240 (-110),-255,+6.5 (-108),u240 (-110),+210
+Sun Jan 28 2024,Phoenix Suns,98,Orlando Magic,113,+2 (-110),o227.5 (-110),+106,-2 (-110),u227.5 (-110),-124
+Sun Jan 28 2024,Chicago Bulls,104,Portland Trail Blazers,96,+5.5 (-108),o222 (-110),+180,-5.5 (-112),u222 (-110),-220
+Mon Jan 29 2024,New York Knicks,113,Charlotte Hornets,92,+9 (-110),o218.5 (-110),+330,-9 (-110),u218.5 (-110),-420
+Mon Jan 29 2024,Los Angeles Clippers,108,Cleveland Cavaliers,118,+1.5 (-108),o226.5 (-112),+104,-1.5 (-112),u226.5 (-108),-122
+Mon Jan 29 2024,New Orleans Pelicans,112,Boston Celtics,118,-8 (-108),o232.5 (-110),-310,+8 (-112),u232.5 (-110),+250
+Mon Jan 29 2024,Utah Jazz,114,Brooklyn Nets,147,+1 (-112),o236.5 (-108),-108,-1 (-108),u236.5 (-112),-108
+Mon Jan 29 2024,Phoenix Suns,118,Miami Heat,105,-2.5 (-106),o230.5 (-108),-136,+2.5 (-114),u230.5 (-112),+116
+Mon Jan 29 2024,Los Angeles Lakers,119,Houston Rockets,135,+1 (-110),o235 (-110),-102,-1 (-110),u235 (-110),-116
+Mon Jan 29 2024,Sacramento Kings,103,Memphis Grizzlies,94,+11 (-108),o223.5 (-108),+440,-11 (-112),u223.5 (-112),-590
+Mon Jan 29 2024,Minnesota Timberwolves,107,Oklahoma City Thunder,101,-2.5 (-112),o225.5 (-110),-148,+2.5 (-108),u225.5 (-110),+126
+Mon Jan 29 2024,Washington Wizards,118,San Antonio Spurs,113,-3.5 (-110),o242 (-108),-158,+3.5 (-110),u242 (-112),+134
+Mon Jan 29 2024,Orlando Magic,129,Dallas Mavericks,131,-3.5 (-112),o227.5 (-108),-172,+3.5 (-108),u227.5 (-112),+144
+Mon Jan 29 2024,Milwaukee Bucks,107,Denver Nuggets,113,-4 (-110),o238 (-110),-172,+4 (-110),u238 (-110),+144
+Mon Jan 29 2024,Philadelphia 76ers,104,Portland Trail Blazers,130,+5.5 (-112),o221 (-108),+176,-5.5 (-108),u221 (-112),-210
+Tue Jan 30 2024,Los Angeles Lakers,122,Atlanta Hawks,138,-5.5 (-110),o248.5 (-110),-225,+5.5 (-110),u248.5 (-110),+188
+Tue Jan 30 2024,Indiana Pacers,124,Boston Celtics,129,-8.5 (-108),o249 (-108),-330,+8.5 (-112),u249 (-112),+265
+Tue Jan 30 2024,Utah Jazz,103,New York Knicks,118,-3 (-108),o230 (-110),-146,+3 (-112),u230 (-110),+124
+Tue Jan 30 2024,Toronto Raptors,118,Chicago Bulls,107,-7 (-106),o226 (-112),-290,+7 (-114),u226 (-108),+235
+Tue Jan 30 2024,Philadelphia 76ers,107,Golden State Warriors,119,-2.5 (-110),o233.5 (-110),-138,+2.5 (-110),u233.5 (-110),+118
+Wed Jan 31 2024,Chicago Bulls,117,Charlotte Hornets,110,+6 (-110),o214 (-110),+184,-6 (-110),u214 (-110),-220
+Wed Jan 31 2024,Detroit Pistons,121,Cleveland Cavaliers,128,-13.5 (-112),o231 (-110),-950,+13.5 (-108),u231 (-110),+640
+Wed Jan 31 2024,Los Angeles Clippers,125,Washington Wizards,109,+10.5 (-110),o235.5 (-110),+410,-10.5 (-110),u235.5 (-110),-550
+Wed Jan 31 2024,Sacramento Kings,106,Miami Heat,115,-2.5 (-110),o229 (-110),-138,+2.5 (-110),u229 (-110),+118
+Wed Jan 31 2024,New Orleans Pelicans,110,Houston Rockets,99,-1 (-108),o230.5 (-110),-110,+1 (-112),u230.5 (-110),-106
+Wed Jan 31 2024,Dallas Mavericks,87,Minnesota Timberwolves,121,-13 (-112),o221.5 (-110),-900,+13 (-108),u221.5 (-110),+610
+Wed Jan 31 2024,Denver Nuggets,100,Oklahoma City Thunder,105,-6 (-110),o223 (-108),-220,+6 (-110),u223 (-112),+184
+Wed Jan 31 2024,Orlando Magic,108,San Antonio Spurs,98,+6.5 (-110),o226 (-110),+205,-6.5 (-110),u226 (-110),-250
+Wed Jan 31 2024,Phoenix Suns,136,Brooklyn Nets,120,+3.5 (-106),o234 (-110),+144,-3.5 (-114),u234 (-110),-172
+Wed Jan 31 2024,Milwaukee Bucks,116,Portland Trail Blazers,119,+10.5 (-110),o238 (-108),+385,-10.5 (-110),u238 (-112),-500
+Thu Feb 1 2024,Los Angeles Lakers,114,Boston Celtics,105,-15.5 (-108),o237.5 (-110),-1500,+15.5 (-112),u237.5 (-110),+870
+Thu Feb 1 2024,Indiana Pacers,105,New York Knicks,109,-2 (-108),o235 (-110),-126,+2 (-112),u235 (-110),+108
+Thu Feb 1 2024,Cleveland Cavaliers,108,Memphis Grizzlies,101,+8.5 (-108),o215 (-110),+290,-8.5 (-112),u215 (-110),-360
+Thu Feb 1 2024,Philadelphia 76ers,127,Utah Jazz,124,-5 (-110),o243 (-110),-196,+5 (-110),u243 (-110),+164

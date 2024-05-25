@@ -7,6 +7,7 @@ import csv
 from collections import defaultdict
 import pickle
 import random
+import pandas as pd
 
 class Nba_Season():
     # CONSTANTS
@@ -69,7 +70,7 @@ class Nba_Season():
         "Dec" : "12",
     }
 
-    def __init__(self, start_year, end_year, team_stats=defaultdict(list), team_on_off=defaultdict(dict), features=None, samples=None):
+    def __init__(self, start_year, end_year, team_stats=None, team_on_off=None, features=None, samples=None):
         '''
         start_year: String representing start year of NBA season
         end_year: String representing end year of NBA season
@@ -80,8 +81,8 @@ class Nba_Season():
         '''
         self.start_year = start_year
         self.end_year = end_year
-        self.team_stats = team_stats
-        self.team_on_off = team_on_off
+        self.team_stats = defaultdict(list) if team_stats is None else team_stats
+        self.team_on_off = defaultdict(dict) if team_on_off is None else team_on_off
         self.features = features
         self.samples = samples
     
@@ -252,6 +253,84 @@ class Nba_Season():
         self.features = features
         self.samples = samples
         return features,samples
+    
+
+    def add_bet_info(self,games_path,out_path):
+        '''
+        Populates CSV with betting info from https://www.vegasinsider.com/nba/odds/las-vegas/
+        file_path: path of CSV containing games
+        out_path: output path for games with betting info
+        '''
+
+        fail_count = 0
+        # store odds in dict to avoid accessing same page, map date -> team -> odds
+        odds_dict = defaultdict(dict)
+        new_games = []
+        header = ["date","away_team","away_pt","home_team","home_pt","home_spread","home_total","home_ml","away_spread","away_total","away_ml"]
+
+        with open(games_path, mode='r') as f:
+            lines = csv.reader(f)
+            for date,away_team,away_pt,home_team,home_pt in lines:
+                try:
+                    date_list = date.split()
+                    month = self.MONTH_TO_NUM[date_list[1]]
+                    day = date_list[2] if len(date_list[2]) == 2 else "0{day}".format(day=date_list[2])
+                    year = date_list[3]
+                    # TODO: change to 1d here?
+                    results = [1,0] if away_pt > home_pt else [0,1]
+
+                    game_with_odds = [date,away_team,away_pt,home_team,home_pt]
+                    
+                    # populate odds for that day and store in odds_dict
+                    if len(odds_dict[date]) == 0:
+                        team_dict = defaultdict(list)
+                        odds_page = "https://www.vegasinsider.com/nba/odds/las-vegas/?date={YEAR}-{MO}-{DA}&table=moneyline".format(YEAR=year,MO=month,DA=day)
+                        page = requests.get(odds_page)
+                        soup = BeautifulSoup(page.content, 'html.parser')
+                        result = soup.find('table')
+                        odds_table = list(result.stripped_strings)
+
+                        # 4 = Home vs, 5 = Away, 6-11 alternating home and away for each team
+                        # Headers: Home, Away, Spread, Total, Moneyline
+                        for i in range(4,len(odds_table)-7,8):
+                            home_t = odds_table[i][0:-3].upper()
+                            home_st = [odds_table[j] for j in range(i+2,i+8,2)]
+                            away_t = odds_table[i+1].upper()
+                            away_st = [odds_table[j] for j in range(i+3,i+8,2)]
+                            team_dict[home_t] = home_st
+                            team_dict[away_t] = away_st
+                        
+                        odds_dict[date] = team_dict
+                    
+                    home_fixed = home_team.upper().split()[-1]
+                    away_fixed = away_team.upper().split()[-1]
+
+                    if home_fixed == 'BLAZERS':
+                        home_fixed = 'TRAIL BLAZERS'
+                    if away_fixed == 'BLAZERS':
+                        away_fixed = 'TRAIL BLAZERS'
+
+                    game_with_odds.extend(odds_dict[date][home_fixed])
+                    game_with_odds.extend(odds_dict[date][away_fixed])
+                    new_games.append(game_with_odds)
+                    
+
+                except Exception as e:
+                    print(e)
+                    #print(box_score_page)
+                    fail_count += 1
+                    time.sleep(random.randint(1, 5))
+                    if fail_count > 5:
+                        print("Too many failures, terminating...")
+                        games_df = pd.DataFrame(new_games)
+                        games_df.to_csv(out_path,header=header,index=False)
+                        return new_games
+                    continue
+        
+        games_df = pd.DataFrame(new_games)
+        games_df.to_csv(out_path,header=header,index=False) 
+        return new_games
+
 
     # populate team stats and on off stats for new season
     def pop_const_new(self):
