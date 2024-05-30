@@ -31,6 +31,7 @@ These datasets were generated using [`util/client.py`](util/client.py) by scrapi
     - Creating Bayesian Neural Networks using [Pyro](https://github.com/pyro-ppl/pyro)
 
 # Installing
-It is recommended to use a virtual environment running Python >= 3.8 when cloning this repository (for instruction on how to do so see [here](https://docs.python.org/3/library/venv.html). To install the required dependancies, simply run `python -m pip install -r requirements.txt` in the root directory of the project. 
+It is recommended to use a virtual environment running Python >= 3.8 when cloning this repository (for instruction on how to do so see [here](https://docs.python.org/3/library/venv.html). To install the required dependancies, simply run :
+`python -m pip install -r requirements.txt` in the root directory of the project. 
 
 Note: add the name of your venv folder to the gitignore file to avoid tracking dependencies built. To update the requirements.txt with any new packages run `pip freeze > requirements.txt` in the root directory.
