@@ -29,3 +29,6 @@ These datasets were generated using [`util/client.py`](util/client.py) by scrapi
     - Makes bets based on MLP predictions
   - [`bnn_betting.ipynb`](notebooks/bnn_betting.ipynb)
     - Creating Bayesian Neural Networks using [Pyro](https://github.com/pyro-ppl/pyro)
+
+# Installing
+It is recommended to use a virtual environment running Python >= 3.8 when cloning this repository. To install the required dependancies, simply run `python -m pip install -r requirements.txt` in the root directory of the project
