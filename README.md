@@ -1,7 +1,7 @@
 # Welcome
 This project is an attempt to analyze NBA games using neural networks in order to make accurate betting predictions. Currently, this project is able to scrape data for a given NBA season to train a scikit MLP. 
 
-Tools for scraping the necessary data as well as generating features and samples are present in [`util/client.py`](util/client.py). For examples on how to use these tools, see the notebook [`mlp_betting.ipynb`](notebooks/mlp_betting.ipynb).
+Tools for scraping the necessary data as well as generating features and samples are present in [`util/client.py`](notebooks/util/client.py). For examples on how to use these tools, see the notebook [`mlp_betting.ipynb`](notebooks/mlp_betting.ipynb).
 
 Currently, new work is being done in [`bnn_betting.ipynb`](notebooks/bnn_betting.ipynb), which explores the application of Bayesian Neural Networks for this task
 
@@ -16,10 +16,10 @@ Currently, new work is being done in [`bnn_betting.ipynb`](notebooks/bnn_betting
 These datasets were generated using [`util/client.py`](util/client.py) by scraping relevant information from basketball reference and vegas insider
 
 ### Utils
-- [`client.py`](util/client.py)
+- [`client.py`](notebooks/util/client.py)
   - Class for scraping data on an individual season
   - Generates on/off statistics and accounts for injuries
-- [`NeuralNet.py`](util/NeuralNet.py)
+- [`NeuralNet.py`](notebooks/util/NeuralNet.py)
   - Custom neural network design
 
 ### Notebooks
