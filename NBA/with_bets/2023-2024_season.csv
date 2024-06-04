@@ -715,3 +715,601 @@ Thu Feb 1 2024,Los Angeles Lakers,114,Boston Celtics,105,-15.5 (-108),o237.5 (-1
 Thu Feb 1 2024,Indiana Pacers,105,New York Knicks,109,-2 (-108),o235 (-110),-126,+2 (-112),u235 (-110),+108
 Thu Feb 1 2024,Cleveland Cavaliers,108,Memphis Grizzlies,101,+8.5 (-108),o215 (-110),+290,-8.5 (-112),u215 (-110),-360
 Thu Feb 1 2024,Philadelphia 76ers,127,Utah Jazz,124,-5 (-110),o243 (-110),-196,+5 (-110),u243 (-110),+164
+Fri Feb 2 2024,Los Angeles Clippers,136,Detroit Pistons,125,+12 (-110),o240 (-108),+500,-12 (-110),u240 (-112),-700
+Fri Feb 2 2024,Miami Heat,110,Washington Wizards,102,+7.5 (-110),o228.5 (-110),+240,-7.5 (-112),u228.5 (-110),-295
+Fri Feb 2 2024,Phoenix Suns,120,Atlanta Hawks,129,+3.5 (-110),o249.5 (-112),+130,-3.5 (-110),u249.5 (-108),-154
+Fri Feb 2 2024,Sacramento Kings,133,Indiana Pacers,122,+3.5 (-110),o250.5 (-110),+138,-3.5 (-110),u250.5 (-110),-164
+Fri Feb 2 2024,Toronto Raptors,106,Houston Rockets,135,-4.5 (-112),o233.5 (-112),-190,+4.5 (-108),u233.5 (-108),+160
+Fri Feb 2 2024,Golden State Warriors,121,Memphis Grizzlies,101,+7.5 (-110),o225 (-110),+245,-7.5 (-110),u225 (-110),-300
+Fri Feb 2 2024,Orlando Magic,108,Minnesota Timberwolves,106,-6 (-112),o213.5 (-112),-245,+6 (-108),u213.5 (-108),+200
+Fri Feb 2 2024,Charlotte Hornets,106,Oklahoma City Thunder,126,-15.5 (-110),o225 (-110),-1350,+15.5 (-110),u225 (-110),+810
+Fri Feb 2 2024,New Orleans Pelicans,114,San Antonio Spurs,113,+8 (-110),o233.5 (-110),+260,-8 (-110),u233.5 (-110),-320
+Fri Feb 2 2024,Portland Trail Blazers,108,Denver Nuggets,120,-12.5 (-110),o219 (-110),-820,+12.5 (-110),u219 (-110),+570
+Sat Feb 3 2024,Brooklyn Nets,136,Philadelphia 76ers,121,-1 (-112),o232 (-110),-118,+1 (-108),u232 (-110),-100
+Sat Feb 3 2024,Golden State Warriors,134,Atlanta Hawks,141,-2 (-110),o246 (-110),-134,+2 (-110),u246 (-110),+114
+Sat Feb 3 2024,Sacramento Kings,123,Chicago Bulls,115,-1 (-110),o228.5 (-110),-116,+1 (-110),u228.5 (-110),-102
+Sat Feb 3 2024,Milwaukee Bucks,129,Dallas Mavericks,117,+4 (-110),o248 (-112),+142,-4 (-110),u248 (-108),-168
+Sat Feb 3 2024,Los Angeles Lakers,113,New York Knicks,105,-2 (-114),o227.5 (-110),-134,+2 (-106),u227.5 (-110),+114
+Sat Feb 3 2024,Cleveland Cavaliers,117,San Antonio Spurs,101,+10.5 (-114),o232 (-110),+390,-10.5 (-106),u232 (-110),-510
+Sun Feb 4 2024,Orlando Magic,111,Detroit Pistons,99,+6.5 (-110),o230.5 (-112),+200,-6.5 (-110),u230.5 (-108),-245
+Sun Feb 4 2024,Phoenix Suns,140,Washington Wizards,112,+11 (-108),o240 (-110),+400,-11 (-112),u240 (-110),-520
+Sun Feb 4 2024,Memphis Grizzlies,91,Boston Celtics,131,-19.5 (-108),o219 (-112),-4000,+19.5 (-112),u219 (-108),+1500
+Sun Feb 4 2024,Indiana Pacers,115,Charlotte Hornets,99,+11.5 (-112),o237 (-110),+460,-11.5 (-108),u237 (-110),-620
+Sun Feb 4 2024,Los Angeles Clippers,103,Miami Heat,95,+5.5 (-112),o223.5 (-112),+184,-5.5 (-108),u223.5 (-108),-220
+Sun Feb 4 2024,Houston Rockets,90,Minnesota Timberwolves,111,-7.5 (-112),o222 (-112),-320,+7.5 (-108),u222 (-108),+260
+Sun Feb 4 2024,Toronto Raptors,127,Oklahoma City Thunder,135,-8.5 (-110),o237 (-110),-390,+8.5 (-110),u237 (-110),+310
+Sun Feb 4 2024,Milwaukee Bucks,108,Utah Jazz,123,-2 (-114),o249.5 (-108),-130,+2 (-106),u249.5 (-112),+110
+Sun Feb 4 2024,Portland Trail Blazers,103,Denver Nuggets,112,-15 (-112),o220.5 (-110),-1350,+15 (-108),u220.5 (-110),+810
+Mon Feb 5 2024,Los Angeles Lakers,124,Charlotte Hornets,118,+13.5 (-112),o228.5 (-108),+610,-13.5 (-108),u228.5 (-112),-900
+Mon Feb 5 2024,Sacramento Kings,110,Cleveland Cavaliers,136,-4.5 (-112),o235 (-110),-184,+4.5 (-108),u235 (-110),+154
+Mon Feb 5 2024,Dallas Mavericks,118,Philadelphia 76ers,102,+2 (-112),o241.5 (-110),+108,-2 (-108),u241.5 (-110),-126
+Mon Feb 5 2024,Los Angeles Clippers,149,Atlanta Hawks,144,+4 (-108),o245.5 (-110),+152,-4 (-112),u245.5 (-110),-180
+Mon Feb 5 2024,Golden State Warriors,109,Brooklyn Nets,98,+1 (-112),o238.5 (-112),-106,-1 (-108),u238.5 (-108),-112
+Mon Feb 5 2024,Toronto Raptors,100,New Orleans Pelicans,138,-10.5 (-114),o231.5 (-113),-650,+10.5 (-114),u231.5 (-115),+420
+Tue Feb 6 2024,Houston Rockets,129,Indiana Pacers,132,-8 (-110),o245 (-108),-310,+8 (-110),u245 (-112),+250
+Tue Feb 6 2024,Dallas Mavericks,119,Brooklyn Nets,107,+2.5 (-106),o236 (-110),+118,-2.5 (-114),u236 (-110),-138
+Tue Feb 6 2024,Orlando Magic,95,Miami Heat,121,-3.5 (-108),o214 (-110),-154,+3.5 (-112),u214 (-110),+130
+Tue Feb 6 2024,Memphis Grizzlies,113,New York Knicks,123,-13.5 (-110),o212.5 (-112),-950,+13.5 (-110),u212.5 (-108),+640
+Tue Feb 6 2024,Minnesota Timberwolves,123,Chicago Bulls,129,+4.5 (-108),o216 (-108),+164,-4.5 (-112),u216 (-112),-196
+Tue Feb 6 2024,Oklahoma City Thunder,117,Utah Jazz,124,+3 (-108),o237 (-112),+132,-3 (-112),u237 (-108),-154
+Tue Feb 6 2024,Milwaukee Bucks,106,Phoenix Suns,114,-6 (-106),o242.5 (-110),-245,+6 (-114),u242.5 (-110),+198
+Wed Feb 7 2024,Toronto Raptors,123,Charlotte Hornets,117,+7 (-110),o227 (-110),+225,-7 (-110),u227 (-110),-275
+Wed Feb 7 2024,Cleveland Cavaliers,114,Washington Wizards,106,+11.5 (-108),o234.5 (-108),+500,-11.5 (-112),u234.5 (-112),-700
+Wed Feb 7 2024,Atlanta Hawks,117,Boston Celtics,125,-11.5 (-114),o244 (-108),-700,+11.5 (-106),u244 (-112),+500
+Wed Feb 7 2024,San Antonio Spurs,104,Miami Heat,116,-8 (-110),o228 (-110),-355,+8 (-110),u228 (-110),+285
+Wed Feb 7 2024,Golden State Warriors,127,Philadelphia 76ers,104,+3 (-108),o235.5 (-112),+126,-3 (-112),u235.5 (-108),-148
+Wed Feb 7 2024,New Orleans Pelicans,117,Los Angeles Clippers,106,-5.5 (-108),o234.5 (-114),-210,+5.5 (-112),u234.5 (-106),+176
+Wed Feb 7 2024,Detroit Pistons,133,Sacramento Kings,120,-13.5 (-108),o239 (-108),-900,+13.5 (-114),u239 (-112),+610
+Thu Feb 8 2024,Golden State Warriors,131,Indiana Pacers,109,-6 (-106),o249 (-112),-225,+6 (-114),u249 (-108),+188
+Thu Feb 8 2024,San Antonio Spurs,111,Orlando Magic,127,-10 (-110),o224.5 (-110),-480,+10 (-110),u224.5 (-110),+370
+Thu Feb 8 2024,Cleveland Cavaliers,118,Brooklyn Nets,95,+8 (-114),o224 (-112),+250,-8 (-106),u224 (-108),-310
+Thu Feb 8 2024,Dallas Mavericks,122,New York Knicks,108,+5.5 (-106),o224 (-108),+194,-5.5 (-114),u224 (-112),-235
+Thu Feb 8 2024,Chicago Bulls,118,Memphis Grizzlies,110,+5.5 (-108),o217 (-110),+184,-5.5 (-112),u217 (-110),-220
+Thu Feb 8 2024,Minnesota Timberwolves,129,Milwaukee Bucks,105,+2 (-110),o222.5 (-108),+110,-2 (-110),u222.5 (-112),-130
+Thu Feb 8 2024,Utah Jazz,115,Phoenix Suns,129,-5 (-110),o238 (-112),-198,+5 (-110),u238 (-110),+166
+Thu Feb 8 2024,Denver Nuggets,114,Los Angeles Lakers,106,+3 (-110),o232.5 (-110),+130,-3 (-110),u232.5 (-110),-154
+Thu Feb 8 2024,Detroit Pistons,128,Portland Trail Blazers,122,-4.5 (-112),o225.5 (-110),-180,+4.5 (-108),u225.5 (-110),+152
+Fri Feb 9 2024,Atlanta Hawks,127,Philadelphia 76ers,121,+3.5 (-112),o244.5 (-110),+134,-3.5 (-108),u244.5 (-110),-158
+Fri Feb 9 2024,Washington Wizards,129,Boston Celtics,133,-18 (-110),o236.5 (-110),-2500,+18 (-110),u236.5 (-110),+1200
+Fri Feb 9 2024,Houston Rockets,104,Toronto Raptors,107,-2.5 (-112),o235 (-110),-142,+2.5 (-110),u235 (-110),+120
+Fri Feb 9 2024,Charlotte Hornets,84,Milwaukee Bucks,120,-16 (-110),o229.5 (-110),-1600,+16 (-110),u229.5 (-110),+900
+Fri Feb 9 2024,Denver Nuggets,106,Sacramento Kings,135,-3 (-112),o231 (-110),-152,+3 (-108),u231 (-110),+128
+Fri Feb 9 2024,New Orleans Pelicans,122,Los Angeles Lakers,139,+2 (-110),o237.5 (-108),+108,-2 (-110),u237.5 (-112),-126
+Sat Feb 10 2024,Oklahoma City Thunder,111,Dallas Mavericks,146,+1.5 (-108),o238.5 (-110),+106,-1.5 (-112),u238.5 (-110),-124
+Sat Feb 10 2024,Detroit Pistons,106,Los Angeles Clippers,112,-17 (-110),o236 (-108),-1800,+17 (-110),u236 (-112),+980
+Sat Feb 10 2024,San Antonio Spurs,103,Brooklyn Nets,123,-6 (-110),o232 (-110),-235,+6 (-110),u232 (-110),+194
+Sat Feb 10 2024,Memphis Grizzlies,106,Charlotte Hornets,115,+5 (-110),o216 (-110),+166,-5 (-110),u216 (-110),-198
+Sat Feb 10 2024,Chicago Bulls,108,Orlando Magic,114,-5 (-112),o218 (-112),-205,+5 (-108),u218 (-108),+172
+Sat Feb 10 2024,Philadelphia 76ers,119,Washington Wizards,113,+5.5 (-110),o243.5 (-110),+176,-5.5 (-110),u243.5 (-110),-210
+Sat Feb 10 2024,Houston Rockets,113,Atlanta Hawks,122,-7.5 (-110),o241 (-112),-295,+7.5 (-110),u241 (-108),+240
+Sat Feb 10 2024,Indiana Pacers,125,New York Knicks,111,+3 (-112),o237.5 (-110),+124,-3 (-108),u237.5 (-110),-146
+Sat Feb 10 2024,Cleveland Cavaliers,119,Toronto Raptors,95,+9 (-112),o230.5 (-110),+295,-9 (-108),u230.5 (-110),-370
+Sat Feb 10 2024,Phoenix Suns,112,Golden State Warriors,113,+1.5 (-112),o242.5 (-110),-100,-1.5 (-108),u242.5 (-110),-118
+Sat Feb 10 2024,New Orleans Pelicans,93,Portland Trail Blazers,84,+8.5 (-110),o219 (-112),+295,-8.5 (-110),u219 (-108),-370
+Sun Feb 11 2024,Boston Celtics,110,Miami Heat,106,+8 (-112),o225 (-108),+250,-8 (-108),u225 (-114),-310
+Sun Feb 11 2024,Sacramento Kings,113,Oklahoma City Thunder,127,-3 (-112),o239.5 (-112),-154,+3 (-108),u239.5 (-108),+130
+Mon Feb 12 2024,Indiana Pacers,102,Charlotte Hornets,111,+10 (-112),o239 (-108),+350,-10 (-108),u239 (-112),-450
+Mon Feb 12 2024,Philadelphia 76ers,123,Cleveland Cavaliers,121,-11.5 (-110),o231 (-110),-650,+11.5 (-110),u231 (-110),+480
+Mon Feb 12 2024,Chicago Bulls,136,Atlanta Hawks,126,-5 (-110),o240.5 (-110),-215,+5 (-110),u240.5 (-110),+180
+Mon Feb 12 2024,San Antonio Spurs,122,Toronto Raptors,99,-6 (-112),o235.5 (-112),-250,+6 (-108),u235.5 (-108),+205
+Mon Feb 12 2024,New York Knicks,103,Houston Rockets,105,-1 (-104),o224.5 (-110),-108,+1 (-118),u224.5 (-110),-108
+Mon Feb 12 2024,New Orleans Pelicans,96,Memphis Grizzlies,87,+9.5 (-108),o220.5 (-110),+350,-9.5 (-112),u220.5 (-110),-450
+Mon Feb 12 2024,Denver Nuggets,95,Milwaukee Bucks,112,-1 (-112),o230 (-108),-118,+1 (-108),u230 (-112),-100
+Mon Feb 12 2024,Washington Wizards,104,Dallas Mavericks,112,-12 (-106),o247.5 (-110),-700,+12 (-114),u247.5 (-110),+500
+Mon Feb 12 2024,Golden State Warriors,129,Utah Jazz,107,+1 (-110),o240 (-110),-102,-1 (-110),u240 (-110),-116
+Mon Feb 12 2024,Minnesota Timberwolves,121,Los Angeles Clippers,100,-5 (-114),o224 (-110),-205,+5 (-106),u224 (-110),+172
+Tue Feb 13 2024,Boston Celtics,118,Brooklyn Nets,110,+8 (-112),o227 (-112),+260,-8 (-108),u227 (-108),-320
+Tue Feb 13 2024,Oklahoma City Thunder,127,Orlando Magic,113,+2.5 (-110),o222.5 (-110),+124,-2.5 (-110),u222.5 (-110),-146
+Tue Feb 13 2024,Miami Heat,123,Milwaukee Bucks,97,-7.5 (-110),o224 (-112),-290,+7.5 (-110),u224 (-108),+235
+Tue Feb 13 2024,Sacramento Kings,125,Phoenix Suns,130,-4.5 (-110),o245.5 (-110),-186,+4.5 (-110),u245.5 (-110),+154
+Tue Feb 13 2024,Minnesota Timberwolves,121,Portland Trail Blazers,109,+8.5 (-110),o213.5 (-112),+290,-8.5 (-110),u213.5 (-108),-360
+Tue Feb 13 2024,Detroit Pistons,111,Los Angeles Lakers,125,-11.5 (-114),o244 (-110),-620,+11.5 (-106),u244 (-110),+460
+Wed Feb 14 2024,Atlanta Hawks,99,Charlotte Hornets,122,+7 (-112),o238.5 (-108),+210,-7 (-108),u238.5 (-112),-255
+Wed Feb 14 2024,New York Knicks,100,Orlando Magic,118,-3.5 (-112),o210.5 (-112),-172,+3.5 (-108),u210.5 (-108),+144
+Wed Feb 14 2024,Miami Heat,109,Philadelphia 76ers,104,-2.5 (-112),o226 (-114),-142,+2.5 (-108),u226 (-106),+120
+Wed Feb 14 2024,Brooklyn Nets,86,Boston Celtics,136,-11.5 (-114),o227 (-112),-750,+11.5 (-106),u227 (-108),+530
+Wed Feb 14 2024,Chicago Bulls,105,Cleveland Cavaliers,108,-9.5 (-108),o223 (-108),-430,+9.5 (-112),u223 (-112),+340
+Wed Feb 14 2024,Indiana Pacers,127,Toronto Raptors,125,+2.5 (-108),o246.5 (-112),+124,-2.5 (-112),u246.5 (-108),-146
+Wed Feb 14 2024,Houston Rockets,113,Memphis Grizzlies,121,+2.5 (-114),o218 (-112),+108,-2.5 (-106),u218 (-108),-130
+Wed Feb 14 2024,Washington Wizards,126,New Orleans Pelicans,133,-14.5 (-110),o234.5 (-110),-1200,+14.5 (-110),u234.5 (-110),+750
+Wed Feb 14 2024,San Antonio Spurs,93,Dallas Mavericks,116,-11.5 (-110),o242 (-110),-650,+11.5 (-110),u242 (-110),+480
+Wed Feb 14 2024,Sacramento Kings,102,Denver Nuggets,98,-5.5 (-112),o228 (-112),-215,+5.5 (-108),u228 (-108),+180
+Wed Feb 14 2024,Detroit Pistons,100,Phoenix Suns,116,-13 (-112),o238 (-110),-900,+13 (-108),u238 (-110),+610
+Wed Feb 14 2024,Los Angeles Lakers,138,Utah Jazz,122,-6 (-108),o240.5 (-110),-215,+6 (-112),u240.5 (-110),+180
+Wed Feb 14 2024,Los Angeles Clippers,130,Golden State Warriors,125,-3.5 (-110),o237.5 (-110),-164,+3.5 (-110),u237.5 (-110),+138
+Thu Feb 15 2024,Milwaukee Bucks,110,Memphis Grizzlies,113,+14 (-108),o222.5 (-112),+700,-14 (-112),u222.5 (-108),-1100
+Thu Feb 15 2024,Golden State Warriors,140,Utah Jazz,137,+2.5 (-106),o241.5 (-110),+118,-2.5 (-114),u241.5 (-110),-138
+Thu Feb 15 2024,Minnesota Timberwolves,128,Portland Trail Blazers,91,+9.5 (-106),o216.5 (-108),+390,-9.5 (-114),u216.5 (-112),-510
+Thu Feb 22 2024,Orlando Magic,116,Cleveland Cavaliers,109,-5 (-114),o214.5 (-110),-215,+5 (-106),u214.5 (-110),+180
+Thu Feb 22 2024,Detroit Pistons,115,Indiana Pacers,129,-12 (-112),o248 (-110),-700,+12 (-108),u248 (-110),+500
+Thu Feb 22 2024,New York Knicks,110,Philadelphia 76ers,96,-1.5 (-114),o228 (-110),-122,+1.5 (-106),u228 (-110),+104
+Thu Feb 22 2024,Brooklyn Nets,93,Toronto Raptors,121,-1.5 (-108),o231.5 (-110),-118,+1.5 (-112),u231.5 (-110),-100
+Thu Feb 22 2024,Phoenix Suns,113,Dallas Mavericks,123,-2.5 (-106),o244.5 (-112),-136,+2.5 (-114),u244.5 (-108),+116
+Thu Feb 22 2024,Boston Celtics,129,Chicago Bulls,112,+8.5 (-110),o224 (-112),+270,-8.5 (-110),u224 (-108),-330
+Thu Feb 22 2024,Houston Rockets,105,New Orleans Pelicans,127,-6.5 (-110),o227 (-110),-260,+6.5 (-110),u227 (-110),+215
+Thu Feb 22 2024,Los Angeles Clippers,107,Oklahoma City Thunder,129,-1.5 (-110),o235.5 (-112),-120,+1.5 (-110),u235.5 (-108),+102
+Thu Feb 22 2024,Washington Wizards,110,Denver Nuggets,130,-15.5 (-113),o232.5 (-110),-1800,+15.5 (-115),u232.5 (-110),+800
+Thu Feb 22 2024,Charlotte Hornets,115,Utah Jazz,107,-9.5 (-110),o229 (-110),-450,+9.5 (-110),u229 (-110),+350
+Thu Feb 22 2024,Los Angeles Lakers,110,Golden State Warriors,128,-6 (-114),o243 (-110),-240,+6 (-106),u243 (-110),+194
+Thu Feb 22 2024,San Antonio Spurs,122,Sacramento Kings,127,-10.5 (-110),o243 (-108),-510,+10.5 (-110),u243 (-112),+390
+Fri Feb 23 2024,Toronto Raptors,123,Atlanta Hawks,121,-7.5 (-108),o244.5 (-110),-300,+7.5 (-112),u244.5 (-110),+245
+Fri Feb 23 2024,Cleveland Cavaliers,97,Philadelphia 76ers,104,+2 (-106),o225 (-110),+114,-2 (-114),u225 (-110),-134
+Fri Feb 23 2024,Phoenix Suns,110,Houston Rockets,114,+3 (-106),o235 (-110),+130,-3 (-114),u235 (-110),-154
+Fri Feb 23 2024,Los Angeles Clippers,101,Memphis Grizzlies,95,+9.5 (-112),o224 (-110),+330,-9.5 (-108),u224 (-110),-420
+Fri Feb 23 2024,Miami Heat,106,New Orleans Pelicans,95,-2 (-114),o220.5 (-112),-134,+2 (-106),u220.5 (-108),+114
+Fri Feb 23 2024,Washington Wizards,106,Oklahoma City Thunder,147,-16 (-112),o243 (-108),-1400,+16 (-108),u243 (-112),+830
+Fri Feb 23 2024,Charlotte Hornets,84,Golden State Warriors,97,-12.5 (-112),o228 (-112),-670,+12.5 (-108),u228 (-108),+490
+Fri Feb 23 2024,Milwaukee Bucks,112,Minnesota Timberwolves,107,-4.5 (-108),o225.5 (-110),-188,+4.5 (-112),u225.5 (-110),+158
+Fri Feb 23 2024,Denver Nuggets,127,Portland Trail Blazers,112,+8.5 (-110),o215.5 (-110),+290,-8.5 (-110),u215.5 (-110),-360
+Fri Feb 23 2024,San Antonio Spurs,118,Los Angeles Lakers,123,-11 (-110),o241.5 (-110),-550,+11 (-110),u241.5 (-110),+410
+Sat Feb 24 2024,Orlando Magic,112,Detroit Pistons,109,+8 (-108),o224.5 (-110),+285,-8 (-112),u224.5 (-110),-355
+Sat Feb 24 2024,Boston Celtics,116,New York Knicks,102,+6 (-108),o224 (-110),+200,-6 (-112),u224 (-110),-245
+Sat Feb 24 2024,Brooklyn Nets,86,Minnesota Timberwolves,101,-8 (-114),o221 (-112),-335,+8 (-106),u221 (-108),+270
+Sun Feb 25 2024,Milwaukee Bucks,119,Philadelphia 76ers,98,+4.5 (-106),o234 (-110),+168,-4.5 (-114),u234 (-110),-200
+Sun Feb 25 2024,Los Angeles Lakers,113,Phoenix Suns,123,-3.5 (-106),o241 (-110),-154,+3.5 (-114),u241 (-110),+130
+Sun Feb 25 2024,Dallas Mavericks,111,Indiana Pacers,133,+2 (-110),o252 (-110),+108,-2 (-110),u252 (-110),-126
+Sun Feb 25 2024,Cleveland Cavaliers,114,Washington Wizards,105,+13.5 (-108),o234.5 (-110),+660,-13.5 (-112),u234.5 (-110),-1000
+Sun Feb 25 2024,Orlando Magic,92,Atlanta Hawks,109,-2 (-108),o223 (-110),-130,+2 (-112),u223 (-110),+110
+Sun Feb 25 2024,Denver Nuggets,119,Golden State Warriors,103,-1.5 (-110),o233 (-108),-118,+1.5 (-110),u233 (-112),-100
+Sun Feb 25 2024,Oklahoma City Thunder,123,Houston Rockets,110,+6.5 (-112),o233 (-110),+198,-6.5 (-108),u233 (-110),-240
+Sun Feb 25 2024,Chicago Bulls,114,New Orleans Pelicans,106,-5 (-110),o225 (-110),-215,+5 (-110),u225 (-110),+180
+Sun Feb 25 2024,San Antonio Spurs,109,Utah Jazz,128,-6.5 (-112),o239.5 (-110),-260,+6.5 (-108),u239.5 (-110),+215
+Sun Feb 25 2024,Charlotte Hornets,93,Portland Trail Blazers,80,-3.5 (-114),o213.5 (-108),-168,+3.5 (-106),u213.5 (-112),+142
+Sun Feb 25 2024,Sacramento Kings,123,Los Angeles Clippers,107,-4 (-112),o239 (-110),-196,+4 (-108),u239 (-110),+164
+Mon Feb 26 2024,Toronto Raptors,130,Indiana Pacers,122,-5.5 (-114),o246.5 (-110),-225,+5.5 (-106),u246.5 (-110),+188
+Mon Feb 26 2024,Detroit Pistons,111,New York Knicks,113,-11 (-110),u226 (-108),-590,+11 (-110),o226 (-112),+440
+Mon Feb 26 2024,Brooklyn Nets,111,Memphis Grizzlies,86,+2.5 (-110),o214.5 (-112),+118,-2.5 (-110),u214.5 (-108),-138
+Mon Feb 26 2024,Miami Heat,121,Sacramento Kings,110,-7.5 (-112),o224.5 (-108),-300,+7.5 (-108),u224.5 (-112),+245
+Tue Feb 27 2024,Dallas Mavericks,119,Cleveland Cavaliers,121,-4 (-108),o231.5 (-110),-172,+4 (-112),u231.5 (-110),+144
+Tue Feb 27 2024,Brooklyn Nets,81,Orlando Magic,108,-6.5 (-110),o210 (-112),-255,+6.5 (-110),u210 (-108),+205
+Tue Feb 27 2024,Golden State Warriors,123,Washington Wizards,112,+10.5 (-108),o245 (-110),+430,-10.5 (-112),u245 (-110),-590
+Tue Feb 27 2024,Utah Jazz,97,Atlanta Hawks,124,-1.5 (-112),o238.5 (-108),-124,+1.5 (-108),u238.5 (-112),+106
+Tue Feb 27 2024,Philadelphia 76ers,99,Boston Celtics,117,-11.5 (-110),o231.5 (-108),-620,+11.5 (-110),u231.5 (-112),+460
+Tue Feb 27 2024,New Orleans Pelicans,115,New York Knicks,92,+6.5 (-112),o215 (-110),+210,-6.5 (-108),u215 (-110),-255
+Tue Feb 27 2024,Detroit Pistons,105,Chicago Bulls,95,-9.5 (-112),o223.5 (-108),-460,+9.5 (-108),u223.5 (-112),+360
+Tue Feb 27 2024,Charlotte Hornets,85,Milwaukee Bucks,123,-14 (-108),o219.5 (-108),-1200,+14 (-112),u219.5 (-112),+750
+Tue Feb 27 2024,San Antonio Spurs,105,Minnesota Timberwolves,114,-13 (-108),o222 (-112),-820,+13 (-112),u222 (-108),+570
+Tue Feb 27 2024,Houston Rockets,95,Oklahoma City Thunder,112,-10 (-108),o234 (-110),-405,+10 (-112),u234 (-110),+320
+Tue Feb 27 2024,Miami Heat,106,Portland Trail Blazers,96,+7 (-114),o212 (-110),+240,-7 (-106),u212 (-110),-295
+Wed Feb 28 2024,New Orleans Pelicans,114,Indiana Pacers,123,-4 (-112),o239.5 (-108),-166,+4 (-108),u239.5 (-112),+140
+Wed Feb 28 2024,Dallas Mavericks,136,Toronto Raptors,125,+4 (-110),o241.5 (-108),+144,-4 (-110),u241.5 (-112),-172
+Wed Feb 28 2024,Cleveland Cavaliers,123,Chicago Bulls,132,+5.5 (-108),o216.5 (-112),+172,-5.5 (-112),u216.5 (-108),-205
+Wed Feb 28 2024,Memphis Grizzlies,101,Minnesota Timberwolves,110,-13.5 (-112),o209.5 (-110),-1000,+13.5 (-108),u209.5 (-110),+660
+Wed Feb 28 2024,Sacramento Kings,96,Denver Nuggets,117,-9.5 (-108),o227 (-108),-420,+9.5 (-112),u227 (-112),+320
+Wed Feb 28 2024,Los Angeles Lakers,116,Los Angeles Clippers,112,-1.5 (-110),o236.5 (-110),-116,+1.5 (-110),u236.5 (-110),-102
+Thu Feb 29 2024,Milwaukee Bucks,111,Charlotte Hornets,99,+11.5 (-108),o219 (-108),+490,-11.5 (-112),u219 (-112),-670
+Thu Feb 29 2024,Utah Jazz,107,Orlando Magic,115,-7.5 (-106),o226 (-110),-275,+7.5 (-114),u226 (-110),+225
+Thu Feb 29 2024,Atlanta Hawks,97,Brooklyn Nets,124,-1.5 (-108),o220.5 (-110),-112,+1.5 (-112),u220.5 (-110),-104
+Thu Feb 29 2024,Golden State Warriors,110,New York Knicks,99,+3.5 (-110),o223 (-110),+136,-3.5 (-110),u223 (-110),-162
+Thu Feb 29 2024,Oklahoma City Thunder,118,San Antonio Spurs,132,+11 (-110),o238.5 (-112),+420,-11 (-110),u238.5 (-108),-560
+Thu Feb 29 2024,Houston Rockets,105,Phoenix Suns,110,-8.5 (-114),o230.5 (-110),-390,+8.5 (-106),u230.5 (-110),+310
+Thu Feb 29 2024,Miami Heat,97,Denver Nuggets,103,-6.5 (-108),o214.5 (-110),-250,+6.5 (-112),u214.5 (-110),+205
+Thu Feb 29 2024,Washington Wizards,131,Los Angeles Lakers,134,-11 (-108),o244.5 (-110),-590,+11 (-112),u244.5 (-110),+430
+Fri Mar 1 2024,Cleveland Cavaliers,110,Detroit Pistons,100,+7 (-112),o219 (-110),+215,-7 (-108),u219 (-110),-260
+Fri Mar 1 2024,Charlotte Hornets,114,Philadelphia 76ers,121,-12 (-108),o213 (-108),-650,+12 (-112),u213 (-112),+480
+Fri Mar 1 2024,Dallas Mavericks,110,Boston Celtics,138,-8.5 (-112),o237.5 (-112),-375,+8.5 (-108),u237.5 (-108),+300
+Fri Mar 1 2024,Golden State Warriors,120,Toronto Raptors,105,+3 (-114),o237 (-110),+124,-3 (-106),u237 (-110),-146
+Fri Mar 1 2024,Portland Trail Blazers,122,Memphis Grizzlies,92,-1 (-108),o209 (-112),-108,+1 (-112),u209 (-108),-108
+Fri Mar 1 2024,Sacramento Kings,124,Minnesota Timberwolves,120,-8.5 (-108),o222.5 (-112),-340,+8.5 (-112),u222.5 (-108),+275
+Fri Mar 1 2024,Indiana Pacers,102,New Orleans Pelicans,129,-5 (-112),o238.5 (-110),-200,+5 (-108),u238.5 (-110),+168
+Fri Mar 1 2024,Milwaukee Bucks,113,Chicago Bulls,97,+4 (-114),o222 (-110),+136,-4 (-106),u222 (-110),-162
+Fri Mar 1 2024,Washington Wizards,115,Los Angeles Clippers,140,-16 (-110),o239 (-110),-1200,+16 (-110),u239 (-110),+750
+Sat Mar 2 2024,Atlanta Hawks,102,Brooklyn Nets,114,+1 (-110),o218.5 (-108),-102,-1 (-110),u218.5 (-112),-116
+Sat Mar 2 2024,Utah Jazz,120,Miami Heat,126,-9 (-110),o223.5 (-112),-400,+9 (-110),u223.5 (-108),+315
+Sat Mar 2 2024,Portland Trail Blazers,107,Memphis Grizzlies,100,-2.5 (-108),o210 (-112),-136,+2.5 (-112),u210 (-108),+116
+Sat Mar 2 2024,Denver Nuggets,124,Los Angeles Lakers,114,+1 (-108),o230.5 (-110),-104,-1 (-112),u230.5 (-110),-112
+Sat Mar 2 2024,Houston Rockets,118,Phoenix Suns,109,-9 (-112),o232 (-108),-420,+9 (-108),u232 (-112),+330
+Sun Mar 3 2024,Philadelphia 76ers,120,Dallas Mavericks,116,-7.5 (-110),o239 (-108),-330,+7.5 (-110),u239 (-112),+265
+Sun Mar 3 2024,Golden State Warriors,88,Boston Celtics,140,-8 (-110),o231 (-110),-335,+8 (-110),u231 (-110),+270
+Sun Mar 3 2024,Los Angeles Clippers,89,Minnesota Timberwolves,88,-2.5 (-108),o219.5 (-110),-136,+2.5 (-112),u219.5 (-110),+116
+Sun Mar 3 2024,Detroit Pistons,91,Orlando Magic,113,-11 (-110),o216.5 (-112),-590,+11 (-110),u216.5 (-108),+440
+Sun Mar 3 2024,Charlotte Hornets,106,Toronto Raptors,111,-7 (-110),o224 (-108),-295,+7 (-110),u224 (-112),+240
+Sun Mar 3 2024,New York Knicks,107,Cleveland Cavaliers,98,-4 (-112),o208.5 (-110),-176,+4 (-108),u208.5 (-110),+148
+Sun Mar 3 2024,Indiana Pacers,105,San Antonio Spurs,117,+6.5 (-110),o244.5 (-110),+190,-6.5 (-110),u244.5 (-110),-230
+Sun Mar 3 2024,Oklahoma City Thunder,118,Phoenix Suns,110,+4.5 (-110),o233 (-110),+156,-4.5 (-110),u233 (-110),-186
+Mon Mar 4 2024,Memphis Grizzlies,106,Brooklyn Nets,102,-9.5 (-110),o206 (-108),-450,+9.5 (-110),u206 (-112),+350
+Mon Mar 4 2024,Los Angeles Clippers,106,Milwaukee Bucks,113,+3 (-110),o222.5 (-110),+124,-3 (-110),u222.5 (-110),-146
+Mon Mar 4 2024,Portland Trail Blazers,114,Minnesota Timberwolves,119,-15 (-112),o210.5 (-110),-1500,+15 (-108),u210.5 (-110),+870
+Mon Mar 4 2024,Washington Wizards,115,Utah Jazz,127,-5 (-106),o240.5 (-110),-194,+5 (-114),u240.5 (-110),+162
+Mon Mar 4 2024,Chicago Bulls,113,Sacramento Kings,109,-6.5 (-110),o230 (-108),-250,+6.5 (-110),u230 (-112),+205
+Mon Mar 4 2024,Oklahoma City Thunder,104,Los Angeles Lakers,116,+1 (-110),o241.5 (-110),-104,-1 (-110),u241.5 (-110),-112
+Tue Mar 5 2024,Orlando Magic,101,Charlotte Hornets,89,+8.5 (-108),o208 (-110),+295,-8.5 (-112),u208 (-110),-370
+Tue Mar 5 2024,Philadelphia 76ers,107,Brooklyn Nets,112,-1 (-108),o212.5 (-110),-112,+1 (-112),u212.5 (-110),-104
+Tue Mar 5 2024,Boston Celtics,104,Cleveland Cavaliers,105,+8.5 (-112),o217 (-112),+280,-8.5 (-108),u217 (-108),-350
+Tue Mar 5 2024,Detroit Pistons,110,Miami Heat,118,-11 (-110),o217 (-112),-620,+11 (-110),u217 (-108),+460
+Tue Mar 5 2024,Atlanta Hawks,116,New York Knicks,100,-1 (-112),o213.5 (-110),-120,+1 (-108),u213.5 (-110),+102
+Tue Mar 5 2024,New Orleans Pelicans,139,Toronto Raptors,98,+9 (-112),o230.5 (-110),+290,-9 (-108),u230.5 (-110),-360
+Tue Mar 5 2024,San Antonio Spurs,101,Houston Rockets,114,-7 (-110),o227.5 (-110),-275,+7 (-110),u227.5 (-110),+225
+Tue Mar 5 2024,Indiana Pacers,137,Dallas Mavericks,120,-5.5 (-110),o247.5 (-112),-215,+5.5 (-110),u247.5 (-108),+180
+Tue Mar 5 2024,Phoenix Suns,117,Denver Nuggets,107,-9 (-108),o225 (-110),-390,+9 (-112),u225 (-110),+310
+Wed Mar 6 2024,Orlando Magic,119,Washington Wizards,109,+6.5 (-108),o224.5 (-110),+215,-6.5 (-112),u224.5 (-110),-260
+Wed Mar 6 2024,Cleveland Cavaliers,101,Atlanta Hawks,112,-3 (-112),o217.5 (-108),-154,+3 (-108),u217.5 (-112),+130
+Wed Mar 6 2024,Los Angeles Clippers,122,Houston Rockets,116,+6.5 (-108),o222.5 (-110),+210,-6.5 (-112),u222.5 (-110),-255
+Wed Mar 6 2024,Memphis Grizzlies,115,Philadelphia 76ers,109,-4 (-110),o214 (-108),-178,+4 (-106),u214 (-112),+150
+Wed Mar 6 2024,Chicago Bulls,119,Utah Jazz,117,+4 (-110),o224 (-110),+146,-4 (-110),u224 (-110),-174
+Wed Mar 6 2024,Milwaukee Bucks,90,Golden State Warriors,125,-2.5 (-112),o230 (-112),-134,+2.5 (-108),u230 (-108),+114
+Wed Mar 6 2024,Oklahoma City Thunder,128,Portland Trail Blazers,120,+13 (-112),o224.5 (-108),+570,-13 (-108),u224.5 (-112),-820
+Wed Mar 6 2024,Sacramento Kings,130,Los Angeles Lakers,120,-3 (-110),o240 (-112),-152,+3 (-110),u240 (-108),+128
+Thu Mar 7 2024,Brooklyn Nets,112,Detroit Pistons,118,+2.5 (-110),o216 (-110),+118,-2.5 (-110),u216 (-110),-138
+Thu Mar 7 2024,Minnesota Timberwolves,113,Indiana Pacers,111,-1.5 (-110),o227.5 (-112),-116,+1.5 (-110),u227.5 (-108),-102
+Thu Mar 7 2024,Miami Heat,108,Dallas Mavericks,114,-4.5 (-108),o231 (-110),-198,+4.5 (-112),u231 (-110),+166
+Thu Mar 7 2024,Toronto Raptors,113,Phoenix Suns,120,-10.5 (-112),o235.5 (-110),-560,+10.5 (-108),u235.5 (-110),+420
+Thu Mar 7 2024,Boston Celtics,109,Denver Nuggets,115,+2 (-112),o222.5 (-110),+112,-2 (-108),u222.5 (-110),-132
+Thu Mar 7 2024,Chicago Bulls,125,Golden State Warriors,122,-8.5 (-112),o223.5 (-110),-375,+8.5 (-108),u223.5 (-110),+300
+Thu Mar 7 2024,San Antonio Spurs,129,Sacramento Kings,131,-12 (-108),o234.5 (-112),-720,+12 (-112),u234.5 (-108),+520
+Fri Mar 8 2024,New Orleans Pelicans,103,Philadelphia 76ers,95,+8 (-112),o221 (-110),+250,-8 (-108),u221 (-110),-310
+Fri Mar 8 2024,Charlotte Hornets,100,Washington Wizards,112,-2.5 (-110),o225 (-110),-142,+2.5 (-110),u225 (-110),+120
+Fri Mar 8 2024,Minnesota Timberwolves,104,Cleveland Cavaliers,113,-1 (-108),o206.5 (-108),-112,+1 (-112),u206.5 (-112),-104
+Fri Mar 8 2024,Orlando Magic,74,New York Knicks,98,-3 (-110),o207.5 (-110),-146,+3 (-110),u207.5 (-108),+124
+Fri Mar 8 2024,Atlanta Hawks,99,Memphis Grizzlies,92,+3.5 (-112),o215 (-110),+132,-3.5 (-108),u215 (-110),-156
+Fri Mar 8 2024,Miami Heat,100,Oklahoma City Thunder,107,-8.5 (-114),o226 (-110),-370,+8.5 (-106),u226 (-110),+295
+Fri Mar 8 2024,Milwaukee Bucks,122,Los Angeles Lakers,123,+4 (-108),o229 (-110),+150,-4 (-112),u229 (-110),-178
+Fri Mar 8 2024,Houston Rockets,123,Portland Trail Blazers,107,+6.5 (-112),o219 (-110),+215,-6.5 (-108),u219 (-110),-260
+Sat Mar 9 2024,Chicago Bulls,102,Los Angeles Clippers,112,-8 (-110),o219.5 (-110),-340,+8 (-110),u219.5 (-110),+275
+Sat Mar 9 2024,Brooklyn Nets,99,Charlotte Hornets,110,+6.5 (-112),o207.5 (-110),+198,-6.5 (-108),u207.5 (-110),-240
+Sat Mar 9 2024,Dallas Mavericks,142,Detroit Pistons,124,+9 (-110),o238 (-110),+315,-9 (-110),u238 (-110),-400
+Sat Mar 9 2024,San Antonio Spurs,126,Golden State Warriors,113,-12.5 (-106),o225.5 (-110),-850,+12.5 (-114),u225.5 (-110),+590
+Sat Mar 9 2024,Boston Celtics,117,Phoenix Suns,107,+5.5 (-106),o226 (-112),+180,-5.5 (-114),u226 (-108),-215
+Sat Mar 9 2024,Utah Jazz,121,Denver Nuggets,142,-12.5 (-112),o227 (-108),-820,+12.5 (-108),u227 (-112),+570
+Sat Mar 9 2024,Toronto Raptors,118,Portland Trail Blazers,128,+2 (-110),o228 (-110),+108,-2 (-110),u228 (-110),-126
+Sun Mar 10 2024,Milwaukee Bucks,124,Los Angeles Clippers,117,+6.5 (-110),o221 (-110),+205,-6.5 (-110),u221 (-110),-250
+Sun Mar 10 2024,New Orleans Pelicans,116,Atlanta Hawks,103,+7 (-112),o222 (-114),+220,-7 (-108),u222 (-112),-270
+Sun Mar 10 2024,Washington Wizards,110,Miami Heat,108,-11.5 (-114),o228.5 (-110),-670,+11.5 (-106),u228.5 (-110),+490
+Sun Mar 10 2024,Indiana Pacers,111,Orlando Magic,97,+1 (-110),o222.5 (-112),-104,-1 (-110),u222.5 (-108),-112
+Sun Mar 10 2024,Houston Rockets,112,Sacramento Kings,104,-7 (-108),o234 (-110),-270,+7 (-112),u234 (-110),+220
+Sun Mar 10 2024,Brooklyn Nets,120,Cleveland Cavaliers,101,-6.5 (-114),o208.5 (-112),-280,+6.5 (-106),u208.5 (-108),+230
+Sun Mar 10 2024,Philadelphia 76ers,79,New York Knicks,73,-7 (-114),o211.5 (-112),-295,+7 (-106),u211.5 (-108),+240
+Sun Mar 10 2024,Memphis Grizzlies,93,Oklahoma City Thunder,124,-15 (-112),o219.5 (-110),-1200,+15 (-108),u219.5 (-110),+750
+Sun Mar 10 2024,Minnesota Timberwolves,109,Los Angeles Lakers,120,-5 (-110),o226 (-110),-225,+5 (-110),u226 (-110),+188
+Mon Mar 11 2024,Charlotte Hornets,97,Detroit Pistons,114,-5 (-110),o217.5 (-110),-200,+5 (-110),u217.5 (-110),+168
+Mon Mar 11 2024,Phoenix Suns,117,Cleveland Cavaliers,111,+7 (-106),o221 (-110),+225,-7 (-114),u221 (-110),-275
+Mon Mar 11 2024,Dallas Mavericks,127,Chicago Bulls,92,+3.5 (-108),o233 (-110),+136,-3.5 (-112),u233 (-110),-162
+Mon Mar 11 2024,Golden State Warriors,112,San Antonio Spurs,102,+5 (-110),o226 (-108),+166,-5 (-110),u226 (-112),-198
+Mon Mar 11 2024,Toronto Raptors,119,Denver Nuggets,125,-17.5 (-112),o233 (-108),-2500,+17.5 (-108),u233 (-112),+1200
+Mon Mar 11 2024,Boston Celtics,121,Portland Trail Blazers,99,+11.5 (-112),o220.5 (-110),+480,-11.5 (-108),u220.5 (-110),-650
+Tue Mar 12 2024,Philadelphia 76ers,79,New York Knicks,106,-6 (-112),o208.5 (-110),-235,+6 (-108),u208.5 (-110),+194
+Tue Mar 12 2024,Washington Wizards,97,Memphis Grizzlies,109,+2.5 (-112),o223 (-110),+116,-2.5 (-108),u223 (-110),-136
+Tue Mar 12 2024,Indiana Pacers,121,Oklahoma City Thunder,111,-5.5 (-110),o240.5 (-110),-215,+5.5 (-110),u240.5 (-110),+180
+Tue Mar 12 2024,Houston Rockets,103,San Antonio Spurs,101,+3 (-112),o221 (-110),+122,-3 (-108),u221 (-110),-144
+Tue Mar 12 2024,Boston Celtics,123,Utah Jazz,107,+6.5 (-108),o230 (-110),+220,-6.5 (-112),u230 (-110),-270
+Tue Mar 12 2024,Minnesota Timberwolves,118,Los Angeles Clippers,100,-5.5 (-114),o213.5 (-112),-230,+5.5 (-106),u213.5 (-108),+190
+Tue Mar 12 2024,Milwaukee Bucks,94,Sacramento Kings,129,-1.5 (-112),o235.5 (-110),-124,+1.5 (-108),u235.5 (-110),+106
+Wed Mar 13 2024,Toronto Raptors,104,Detroit Pistons,113,-3.5 (-112),o233 (-108),-164,+3.5 (-108),u233 (-112),+138
+Wed Mar 13 2024,Brooklyn Nets,106,Orlando Magic,114,-6 (-110),o205 (-110),-240,+6 (-110),u205 (-110),+198
+Wed Mar 13 2024,Chicago Bulls,132,Indiana Pacers,129,-5 (-112),o228.5 (-110),-210,+5 (-108),u228.5 (-110),+176
+Wed Mar 13 2024,Denver Nuggets,100,Miami Heat,88,+3.5 (-108),o216.5 (-110),+136,-3.5 (-112),u216.5 (-110),-162
+Wed Mar 13 2024,Charlotte Hornets,110,Memphis Grizzlies,98,+2.5 (-112),o201.5 (-112),+112,-2.5 (-108),u201.5 (-108),-132
+Wed Mar 13 2024,Cleveland Cavaliers,116,New Orleans Pelicans,95,-6 (-112),o218 (-108),-240,+6 (-108),u218 (-112),+198
+Wed Mar 13 2024,Golden State Warriors,99,Dallas Mavericks,109,-8.5 (-112),o233.5 (-110),-360,+8.5 (-108),u233.5 (-110),+290
+Wed Mar 13 2024,Atlanta Hawks,102,Portland Trail Blazers,106,+4 (-106),o216.5 (-110),+152,-4 (-114),u216.5 (-110),-180
+Wed Mar 13 2024,Los Angeles Lakers,107,Sacramento Kings,120,+2.5 (-114),o237.5 (-108),+116,-2.5 (-106),u237.5 (-112),-136
+Thu Mar 14 2024,Phoenix Suns,112,Boston Celtics,127,-5.5 (-112),o227 (-110),-225,+5.5 (-108),u227 (-110),+188
+Thu Mar 14 2024,Los Angeles Clippers,126,Chicago Bulls,111,+6 (-106),o214.5 (-110),+205,-6 (-114),u214.5 (-110),-250
+Thu Mar 14 2024,Washington Wizards,119,Houston Rockets,135,-8.5 (-110),o228.5 (-110),-375,+8.5 (-110),u228.5 (-110),+300
+Thu Mar 14 2024,Philadelphia 76ers,105,Milwaukee Bucks,114,-7 (-112),o219 (-110),-295,+7 (-108),u219 (-110),+240
+Thu Mar 14 2024,Dallas Mavericks,119,Oklahoma City Thunder,126,-9.5 (-114),o233.5 (-112),-430,+9.5 (-106),u233.5 (-108),+340
+Thu Mar 14 2024,New York Knicks,105,Portland Trail Blazers,93,+12 (-108),o203 (-112),+480,-12 (-112),u203 (-108),-650
+Fri Mar 15 2024,Phoenix Suns,107,Charlotte Hornets,96,+10.5 (-112),o220.5 (-110),+410,-10.5 (-108),u220.5 (-110),-550
+Fri Mar 15 2024,Miami Heat,108,Detroit Pistons,95,+7.5 (-108),o217 (-110),+270,-7.5 (-112),u217 (-110),-335
+Fri Mar 15 2024,Orlando Magic,113,Toronto Raptors,103,+8 (-112),o218 (-110),+250,-8 (-108),u218 (-110),-320
+Fri Mar 15 2024,Los Angeles Clippers,104,New Orleans Pelicans,112,-7 (-108),o219 (-112),-260,+7 (-112),u219 (-108),+215
+Fri Mar 15 2024,Denver Nuggets,117,San Antonio Spurs,106,+10.5 (-114),o224.5 (-110),+385,-10.5 (-106),u224.5 (-110),-500
+Fri Mar 15 2024,Atlanta Hawks,122,Utah Jazz,124,+1 (-110),o223 (-110),-104,-1 (-110),u223 (-110),-112
+Sat Mar 16 2024,Cleveland Cavaliers,103,Houston Rockets,117,+5 (-114),o216 (-110),+172,-5 (-106),u216 (-110),-205
+Sat Mar 16 2024,Brooklyn Nets,100,Indiana Pacers,121,-8.5 (-108),o229 (-108),-310,+8.5 (-112),u229 (-112),+250
+Sat Mar 16 2024,Portland Trail Blazers,107,New Orleans Pelicans,126,-13 (-108),o215.5 (-112),-820,+13 (-112),u215.5 (-108),+570
+Sat Mar 16 2024,Charlotte Hornets,98,Philadelphia 76ers,109,-10.5 (-110),o209 (-110),-480,+10.5 (-110),u209 (-110),+370
+Sat Mar 16 2024,Washington Wizards,98,Chicago Bulls,127,-9.5 (-110),o223.5 (-110),-430,+9.5 (-110),u223.5 (-110),+340
+Sat Mar 16 2024,Oklahoma City Thunder,118,Memphis Grizzlies,112,+10.5 (-110),o219.5 (-112),+390,-10.5 (-110),u219.5 (-108),-510
+Sat Mar 16 2024,Golden State Warriors,128,Los Angeles Lakers,121,-1.5 (-114),o233.5 (-110),-126,+1.5 (-106),u233.5 (-110),+108
+Sat Mar 16 2024,Minnesota Timberwolves,119,Utah Jazz,100,+7.5 (-114),o224.5 (-108),+240,-7.5 (-106),u224.5 (-112),-295
+Sat Mar 16 2024,New York Knicks,98,Sacramento Kings,91,-3 (-110),o216.5 (-110),-146,+3 (-110),u216.5 (-110),+124
+Sun Mar 17 2024,Phoenix Suns,129,Milwaukee Bucks,140,+2.5 (-106),o227.5 (-105),+120,-2.5 (-114),u227.5 (-115),-142
+Sun Mar 17 2024,Miami Heat,104,Detroit Pistons,101,+5.5 (-112),o214 (-112),+180,-5.5 (-108),u214 (-108),-215
+Sun Mar 17 2024,Denver Nuggets,105,Dallas Mavericks,107,+1 (-112),o231.5 (-110),-102,-1 (-108),u231.5 (-110),-116
+Sun Mar 17 2024,Toronto Raptors,96,Orlando Magic,111,-11 (-110),o219 (-110),-590,+11 (-110),u219 (-110),+440
+Sun Mar 17 2024,Boston Celtics,130,Washington Wizards,104,+14.5 (-110),o225.5 (-110),+750,-14.5 (-110),u225.5 (-110),-1200
+Sun Mar 17 2024,Brooklyn Nets,115,San Antonio Spurs,122,-2 (-110),o218 (-110),-126,+2 (-110),u218 (-110),+108
+Sun Mar 17 2024,Atlanta Hawks,110,Los Angeles Clippers,93,-9.5 (-110),o221 (-110),-480,+9.5 (-110),u221 (-110),+370
+Mon Mar 18 2024,Cleveland Cavaliers,108,Indiana Pacers,103,-6.5 (-110),o225.5 (-110),-255,+6.5 (-110),u225.5 (-112),+210
+Mon Mar 18 2024,Detroit Pistons,94,Boston Celtics,119,-15 (-108),o221 (-112),-1500,+15 (-112),u221 (-108),+870
+Mon Mar 18 2024,Miami Heat,91,Philadelphia 76ers,98,-3 (-112),o205.5 (-108),-152,+3 (-110),u205.5 (-112),+128
+Mon Mar 18 2024,Portland Trail Blazers,107,Chicago Bulls,110,-8.5 (-108),o213.5 (-110),-350,+8.5 (-112),u213.5 (-110),+280
+Mon Mar 18 2024,Minnesota Timberwolves,114,Utah Jazz,104,+4 (-108),o225.5 (-108),+152,-4 (-112),u225.5 (-112),-180
+Mon Mar 18 2024,New York Knicks,119,Golden State Warriors,112,-7 (-108),o213 (-106),-260,+7 (-112),u213 (-114),+215
+Mon Mar 18 2024,Memphis Grizzlies,111,Sacramento Kings,121,-11.5 (-110),o220.5 (-110),-650,+11.5 (-110),u220.5 (-110),+480
+Mon Mar 18 2024,Atlanta Hawks,105,Los Angeles Lakers,136,-9 (-110),o226.5 (-110),-450,+9 (-110),u226.5 (-110),+350
+Tue Mar 19 2024,Charlotte Hornets,92,Orlando Magic,112,-13 (-110),o204 (-112),-900,+13 (-110),u204 (-108),+610
+Tue Mar 19 2024,Houston Rockets,137,Washington Wizards,114,+10.5 (-112),o228 (-110),+385,-10.5 (-108),u228 (-110),-500
+Tue Mar 19 2024,New Orleans Pelicans,104,Brooklyn Nets,91,+7 (-110),o216 (-108),+220,-7 (-110),u216 (-112),-270
+Tue Mar 19 2024,Dallas Mavericks,113,San Antonio Spurs,107,+9 (-110),o236.5 (-110),+310,-9 (-110),u236.5 (-110),-390
+Tue Mar 19 2024,Denver Nuggets,115,Minnesota Timberwolves,112,+8 (-110),o216.5 (-110),+260,-8 (-110),u216.5 (-110),-320
+Wed Mar 20 2024,Miami Heat,107,Cleveland Cavaliers,104,-3 (-110),o208 (-110),-146,+3 (-110),u208 (-110),+124
+Wed Mar 20 2024,Indiana Pacers,122,Detroit Pistons,103,+11 (-112),o235 (-108),+420,-11 (-108),u235 (-112),-560
+Wed Mar 20 2024,Milwaukee Bucks,119,Boston Celtics,122,-10.5 (-108),o226 (-110),-500,+10.5 (-112),u226 (-110),+385
+Wed Mar 20 2024,Sacramento Kings,123,Toronto Raptors,89,+11.5 (-112),o234 (-108),+500,-11.5 (-108),u234 (-112),-700
+Wed Mar 20 2024,Utah Jazz,107,Oklahoma City Thunder,119,-16 (-110),o232.5 (-108),-1500,+16 (-110),u232.5 (-112),+870
+Wed Mar 20 2024,Memphis Grizzlies,116,Golden State Warriors,137,-11.5 (-106),o220 (-112),-620,+11.5 (-114),u220 (-108),+460
+Wed Mar 20 2024,Philadelphia 76ers,102,Phoenix Suns,115,-9.5 (-112),o222.5 (-110),-405,+9.5 (-110),u222.5 (-110),+320
+Wed Mar 20 2024,Los Angeles Clippers,116,Portland Trail Blazers,103,+12 (-108),o216 (-112),+520,-12 (-112),u216 (-108),-720
+Thu Mar 21 2024,New Orleans Pelicans,106,Orlando Magic,121,+3 (-114),o208 (-110),+118,-3 (-106),u208 (-110),-138
+Thu Mar 21 2024,Sacramento Kings,102,Washington Wizards,109,+11 (-110),o238.5 (-110),+440,-11 (-110),u238.5 (-110),-600
+Thu Mar 21 2024,Chicago Bulls,117,Houston Rockets,127,-3.5 (-110),o219.5 (-110),-158,+3.5 (-110),u219.5 (-110),+134
+Thu Mar 21 2024,Brooklyn Nets,108,Milwaukee Bucks,115,-10.5 (-112),o222 (-110),-500,+10.5 (-108),u222 (-110),+385
+Thu Mar 21 2024,Utah Jazz,97,Dallas Mavericks,113,-14 (-114),o236.5 (-110),-1150,+14 (-106),u236.5 (-110),+730
+Thu Mar 21 2024,New York Knicks,100,Denver Nuggets,113,-8.5 (-110),o208.5 (-110),-375,+8.5 (-110),u208.5 (-110),+300
+Thu Mar 21 2024,Atlanta Hawks,115,Phoenix Suns,128,-9.5 (-110),o227 (-110),-420,+9.5 (-110),u227 (-110),+330
+Fri Mar 22 2024,Boston Celtics,129,Detroit Pistons,102,+13.5 (-110),o224 (-112),+660,-13.5 (-110),u224 (-108),-1000
+Fri Mar 22 2024,Oklahoma City Thunder,123,Toronto Raptors,103,+16.5 (-108),o229.5 (-110),+900,-16.5 (-112),u229.5 (-110),-1600
+Fri Mar 22 2024,New Orleans Pelicans,111,Miami Heat,88,-3 (-108),o207.5 (-110),-142,+3 (-112),u207.5 (-110),+120
+Fri Mar 22 2024,Cleveland Cavaliers,91,Minnesota Timberwolves,104,-7.5 (-110),o206.5 (-110),-300,+7.5 (-110),u206.5 (-110),+245
+Fri Mar 22 2024,Memphis Grizzlies,99,San Antonio Spurs,97,-6.5 (-112),o216.5 (-110),-260,+6.5 (-108),u216.5 (-110),+215
+Fri Mar 22 2024,Indiana Pacers,123,Golden State Warriors,111,-4.5 (-112),o243 (-108),-198,+4.5 (-108),u243 (-112),+166
+Fri Mar 22 2024,Los Angeles Clippers,125,Portland Trail Blazers,117,+14.5 (-110),o216 (-108),+870,-14.5 (-110),u216 (-112),-1500
+Fri Mar 22 2024,Philadelphia 76ers,94,Los Angeles Lakers,101,-7.5 (-112),o228.5 (-110),-310,+7.5 (-108),u228.5 (-110),+250
+Sat Mar 23 2024,Brooklyn Nets,93,New York Knicks,105,-7.5 (-110),o205 (-110),-300,+7.5 (-112),u205 (-110),+245
+Sat Mar 23 2024,Sacramento Kings,109,Orlando Magic,107,-3 (-110),o219 (-110),-144,+3 (-110),u219 (-110),+122
+Sat Mar 23 2024,Charlotte Hornets,91,Atlanta Hawks,132,-7.5 (-110),o211.5 (-110),-300,+7.5 (-110),u211.5 (-110),+245
+Sat Mar 23 2024,Boston Celtics,124,Chicago Bulls,113,+5 (-108),o219 (-110),+168,-5 (-112),u219 (-110),-200
+Sat Mar 23 2024,Utah Jazz,119,Houston Rockets,147,-10.5 (-110),o227.5 (-110),-550,+10.5 (-110),u227.5 (-110),+410
+Sat Mar 23 2024,Phoenix Suns,131,San Antonio Spurs,106,+10 (-106),o231.5 (-110),+350,-10 (-114),u231.5 (-110),-450
+Sat Mar 23 2024,Toronto Raptors,109,Washington Wizards,112,-6 (-110),o232.5 (-110),-230,+6 (-110),u232.5 (-110),+190
+Sat Mar 23 2024,Denver Nuggets,114,Portland Trail Blazers,111,+10.5 (-106),o210.5 (-110),+400,-10.5 (-114),u210.5 (-110),-520
+Sun Mar 24 2024,New Orleans Pelicans,114,Detroit Pistons,101,+15 (-110),o218 (-112),+830,-15 (-110),u218 (-108),-1400
+Sun Mar 24 2024,Philadelphia 76ers,121,Los Angeles Clippers,107,-9 (-114),o216 (-110),-405,+9 (-106),u216 (-110),+320
+Sun Mar 24 2024,Cleveland Cavaliers,84,Miami Heat,121,-3.5 (-108),o202.5 (-112),-162,+3.5 (-112),u202.5 (-108),+136
+Sun Mar 24 2024,Oklahoma City Thunder,93,Milwaukee Bucks,118,-2.5 (-110),o233.5 (-110),-136,+2.5 (-110),u233.5 (-110),+116
+Sun Mar 24 2024,Golden State Warriors,110,Minnesota Timberwolves,114,-2.5 (-110),o219.5 (-110),-138,+2.5 (-110),u219.5 (-110),+118
+Sun Mar 24 2024,Indiana Pacers,145,Los Angeles Lakers,150,-2.5 (-110),o240 (-110),-156,+2.5 (-110),u240 (-110),+132
+Mon Mar 25 2024,Charlotte Hornets,92,Cleveland Cavaliers,115,-10.5 (-110),o206 (-108),-560,+10.5 (-110),u206 (-112),+420
+Mon Mar 25 2024,Boston Celtics,118,Atlanta Hawks,120,+10.5 (-110),o225 (-110),+420,-10.5 (-110),u225 (-110),-560
+Mon Mar 25 2024,Detroit Pistons,99,New York Knicks,124,-17 (-110),o211 (-112),-2000,+17 (-110),u211 (-108),+1040
+Mon Mar 25 2024,Brooklyn Nets,96,Toronto Raptors,88,+6.5 (-110),o218.5 (-108),+205,-6.5 (-110),u218.5 (-112),-250
+Mon Mar 25 2024,Washington Wizards,107,Chicago Bulls,105,-13.5 (-108),o226 (-110),-820,+13.5 (-112),u226 (-110),+570
+Mon Mar 25 2024,Portland Trail Blazers,92,Houston Rockets,110,-14.5 (-112),o224 (-110),-1000,+14.5 (-108),u224 (-110),+660
+Mon Mar 25 2024,Phoenix Suns,102,San Antonio Spurs,104,+12 (-110),o234.5 (-112),+490,-12 (-110),u234.5 (-108),-670
+Mon Mar 25 2024,Memphis Grizzlies,103,Denver Nuggets,128,-12.5 (-112),o214.5 (-108),-900,+12.5 (-108),u214.5 (-112),+610
+Mon Mar 25 2024,Dallas Mavericks,115,Utah Jazz,105,+8 (-108),o238.5 (-110),+275,-8 (-112),u238.5 (-110),-340
+Mon Mar 25 2024,Philadelphia 76ers,96,Sacramento Kings,108,-7.5 (-108),o219.5 (-112),-310,+7.5 (-112),u219.5 (-108),+250
+Mon Mar 25 2024,Indiana Pacers,133,Los Angeles Clippers,116,-6 (-110),o236.5 (-110),-240,+6 (-110),u236.5 (-110),+198
+Tue Mar 26 2024,Golden State Warriors,113,Miami Heat,92,+4.5 (-110),o217 (-110),+172,-4.5 (-110),u217 (-110),-205
+Tue Mar 26 2024,Los Angeles Lakers,128,Milwaukee Bucks,124,-9.5 (-112),o234.5 (-110),-430,+9.5 (-108),u234.5 (-110),+340
+Tue Mar 26 2024,Oklahoma City Thunder,119,New Orleans Pelicans,112,+1 (-108),o223.5 (-110),-100,-1 (-112),u223.5 (-110),-118
+Tue Mar 26 2024,Dallas Mavericks,132,Sacramento Kings,96,-1 (-110),o233.5 (-112),-116,+1 (-110),u233.5 (-108),-102
+Wed Mar 27 2024,Cleveland Cavaliers,111,Charlotte Hornets,118,+9.5 (-108),o208 (-110),+340,-9.5 (-112),u208 (-110),-430
+Wed Mar 27 2024,Golden State Warriors,101,Orlando Magic,93,-4 (-110),o218 (-112),-168,+4 (-110),u218 (-108),+142
+Wed Mar 27 2024,Brooklyn Nets,122,Washington Wizards,119,+4 (-112),o220.5 (-110),+148,-4 (-108),u220.5 (-110),-176
+Wed Mar 27 2024,Portland Trail Blazers,106,Atlanta Hawks,120,-12 (-110),o219.5 (-108),-700,+12 (-110),u219.5 (-112),+500
+Wed Mar 27 2024,Los Angeles Clippers,108,Philadelphia 76ers,107,+6.5 (-108),o214.5 (-112),+215,-6.5 (-112),u214.5 (-108),-260
+Wed Mar 27 2024,New York Knicks,145,Toronto Raptors,101,+14 (-110),o211.5 (-110),+700,-14 (-110),u211.5 (-110),-1100
+Wed Mar 27 2024,Indiana Pacers,99,Chicago Bulls,125,+3 (-108),o235 (-108),+130,-3 (-112),u235 (-112),-154
+Wed Mar 27 2024,Los Angeles Lakers,136,Memphis Grizzlies,124,+4.5 (-115),o225.5 (-110),+158,-4.5 (-113),u225.5 (-118),-205
+Wed Mar 27 2024,Detroit Pistons,91,Minnesota Timberwolves,106,-16.5 (-114),o215.5 (-108),-2000,+16.5 (-108),u215.5 (-112),+1040
+Wed Mar 27 2024,Houston Rockets,132,Oklahoma City Thunder,126,-5 (-108),o225.5 (-112),-198,+5 (-112),u225.5 (-108),+166
+Wed Mar 27 2024,San Antonio Spurs,118,Utah Jazz,111,-4 (-106),o228 (-110),-168,+4 (-114),u228 (-110),+142
+Wed Mar 27 2024,Phoenix Suns,104,Denver Nuggets,97,-5.5 (-106),o229.5 (-112),-215,+5.5 (-114),u229.5 (-108),+180
+Thu Mar 28 2024,Boston Celtics,122,Atlanta Hawks,123,+16 (-112),o228.5 (-108),+750,-16 (-108),u228.5 (-112),-1200
+Thu Mar 28 2024,Milwaukee Bucks,100,New Orleans Pelicans,107,+2 (-108),o226 (-112),+118,-2 (-112),u226 (-108),-138
+Fri Mar 29 2024,Golden State Warriors,115,Charlotte Hornets,97,+12 (-110),o219.5 (-112),+540,-12 (-110),u219.5 (-108),-770
+Fri Mar 29 2024,Los Angeles Lakers,90,Indiana Pacers,109,-3.5 (-108),o245.5 (-108),-152,+3.5 (-112),u245.5 (-112),+128
+Fri Mar 29 2024,Los Angeles Clippers,100,Orlando Magic,97,+1.5 (-108),o212.5 (-110),+106,-1.5 (-112),u212.5 (-110),-124
+Fri Mar 29 2024,Detroit Pistons,96,Washington Wizards,87,-3.5 (-108),o230 (-110),-154,+3.5 (-112),u230 (-110),+130
+Fri Mar 29 2024,Chicago Bulls,108,Brooklyn Nets,125,+3 (-112),o214.5 (-110),+120,-3 (-108),u214.5 (-110),-154
+Fri Mar 29 2024,Philadelphia 76ers,114,Cleveland Cavaliers,117,-7 (-110),o212.5 (-112),-270,+7 (-110),u212.5 (-110),+220
+Fri Mar 29 2024,Portland Trail Blazers,82,Miami Heat,142,-14 (-110),o208.5 (-108),-1100,+14 (-110),u208.5 (-112),+700
+Fri Mar 29 2024,Phoenix Suns,103,Oklahoma City Thunder,128,+2.5 (-110),o228 (-108),+118,-2.5 (-110),u228 (-112),-138
+Fri Mar 29 2024,New York Knicks,126,San Antonio Spurs,130,+8.5 (-110),o213.5 (-114),+295,-8.5 (-112),u213.5 (-106),-370
+Fri Mar 29 2024,Minnesota Timberwolves,111,Denver Nuggets,98,-3 (-114),o209.5 (-110),-148,+3 (-106),u209.5 (-110),+126
+Fri Mar 29 2024,Houston Rockets,101,Utah Jazz,100,+8.5 (-112),o231.5 (-110),+265,-8.5 (-108),u231.5 (-110),-330
+Fri Mar 29 2024,Dallas Mavericks,107,Sacramento Kings,103,+1 (-110),o232 (-108),-100,-1 (-110),u232 (-112),-118
+Sat Mar 30 2024,Boston Celtics,104,New Orleans Pelicans,92,+6 (-106),o223.5 (-110),+190,-6 (-114),u223.5 (-110),-230
+Sat Mar 30 2024,Memphis Grizzlies,88,Orlando Magic,118,-13 (-108),o209 (-110),-820,+13 (-112),u209 (-110),+570
+Sat Mar 30 2024,Milwaukee Bucks,122,Atlanta Hawks,113,+4.5 (-106),o222.5 (-110),+168,-4.5 (-114),u222.5 (-110),-200
+Sun Mar 31 2024,Cleveland Cavaliers,101,Denver Nuggets,130,-4.5 (-108),o217.5 (-110),-188,+4.5 (-112),u217.5 (-110),+158
+Sun Mar 31 2024,Los Angeles Lakers,116,Brooklyn Nets,104,+6.5 (-110),o225.5 (-110),+215,-6.5 (-112),u225.5 (-110),-260
+Sun Mar 31 2024,Los Angeles Clippers,130,Charlotte Hornets,118,+14 (-112),o216 (-110),+730,-14 (-108),u216 (-110),-1150
+Sun Mar 31 2024,Philadelphia 76ers,135,Toronto Raptors,120,+9 (-108),o214.5 (-110),+320,-9 (-112),u214.5 (-110),-405
+Sun Mar 31 2024,Miami Heat,119,Washington Wizards,107,+12 (-110),o214 (-110),+520,-12 (-110),u214 (-110),-720
+Sun Mar 31 2024,Dallas Mavericks,125,Houston Rockets,107,+4 (-110),o229.5 (-110),+144,-4 (-110),u229.5 (-110),-172
+Sun Mar 31 2024,Chicago Bulls,109,Minnesota Timberwolves,101,-9 (-108),o211.5 (-112),-375,+9 (-112),u211.5 (-108),+300
+Sun Mar 31 2024,Oklahoma City Thunder,113,New York Knicks,112,+2 (-110),o220 (-110),+108,-2 (-110),u220 (-110),-126
+Sun Mar 31 2024,Golden State Warriors,117,San Antonio Spurs,113,+10.5 (-110),o228 (-112),+400,-10.5 (-110),u228 (-108),-520
+Sun Mar 31 2024,Utah Jazz,106,Sacramento Kings,127,-13 (-108),o220.5 (-110),-950,+13 (-112),u220.5 (-110),+640
+Mon Apr 1 2024,Boston Celtics,118,Charlotte Hornets,104,+18.5 (-114),o219.5 (-128),+1200,-18.5 (-106),u219.5 (+102),-2500
+Mon Apr 1 2024,Memphis Grizzlies,110,Detroit Pistons,108,-3 (-108),o216 (-112),-146,+3 (-112),u216 (-108),+124
+Mon Apr 1 2024,Brooklyn Nets,111,Indiana Pacers,133,-12.5 (-108),o227.5 (-108),-700,+12.5 (-112),u227.5 (-112),+500
+Mon Apr 1 2024,Portland Trail Blazers,103,Orlando Magic,104,-17 (-112),o210.5 (-108),-2200,+17 (-108),u210.5 (-112),+1100
+Mon Apr 1 2024,Atlanta Hawks,113,Chicago Bulls,101,-2 (-112),o221 (-108),-134,+2 (-108),u221 (-112),+114
+Mon Apr 1 2024,Phoenix Suns,124,New Orleans Pelicans,111,-1 (-112),o222.5 (-108),-112,+1 (-108),u222.5 (-112),-104
+Tue Apr 2 2024,Los Angeles Lakers,128,Toronto Raptors,111,+13.5 (-108),o236.5 (-112),+730,-13.5 (-112),u236.5 (-108),-1150
+Tue Apr 2 2024,Milwaukee Bucks,113,Washington Wizards,117,+13 (-108),o225.5 (-110),+610,-13 (-112),u225.5 (-110),-900
+Tue Apr 2 2024,New York Knicks,99,Miami Heat,109,-2.5 (-110),o205.5 (-110),-136,+2.5 (-110),u205.5 (-110),+116
+Tue Apr 2 2024,Oklahoma City Thunder,105,Philadelphia 76ers,109,-3 (-108),o219.5 (-110),-154,+3 (-112),u219.5 (-110),+130
+Tue Apr 2 2024,Houston Rockets,106,Minnesota Timberwolves,113,-7.5 (-110),o214 (-110),-295,+7.5 (-110),u214 (-110),+240
+Tue Apr 2 2024,San Antonio Spurs,105,Denver Nuggets,110,-15.5 (-110),o223.5 (-110),-1500,+15.5 (-110),u223.5 (-110),+870
+Tue Apr 2 2024,Cleveland Cavaliers,129,Utah Jazz,113,+9.5 (-106),o218 (-112),+370,-9.5 (-114),u218 (-108),-480
+Tue Apr 2 2024,Dallas Mavericks,100,Golden State Warriors,104,+1 (-110),u231.5 (-112),-104,-1 (-110),o231.5 (-108),-112
+Tue Apr 2 2024,Los Angeles Clippers,95,Sacramento Kings,109,-2.5 (-110),o222 (-110),-136,+2.5 (-110),u222 (-110),+116
+Wed Apr 3 2024,Portland Trail Blazers,89,Charlotte Hornets,86,-1.5 (-112),o211.5 (-112),-122,+1.5 (-108),u211.5 (-108),+104
+Wed Apr 3 2024,Los Angeles Lakers,125,Washington Wizards,120,+13 (-110),o237 (-110),+610,-13 (-110),u237 (-110),-900
+Wed Apr 3 2024,Detroit Pistons,113,Atlanta Hawks,121,-12.5 (-110),o223 (-110),-750,+12.5 (-110),u223 (-110),+530
+Wed Apr 3 2024,Oklahoma City Thunder,100,Boston Celtics,135,-12 (-114),o228.5 (-108),-800,+12 (-106),u228.5 (-112),+570
+Wed Apr 3 2024,Indiana Pacers,111,Brooklyn Nets,115,+7 (-112),o233 (-110),+225,-7 (-108),u233 (-110),-275
+Wed Apr 3 2024,Memphis Grizzlies,111,Milwaukee Bucks,101,-12.5 (-110),o218 (-110),-900,+12.5 (-110),u218 (-110),+610
+Wed Apr 3 2024,Toronto Raptors,85,Minnesota Timberwolves,133,-18 (-110),o213.5 (-110),-3000,+18 (-110),u213.5 (-110),+1300
+Wed Apr 3 2024,Orlando Magic,117,New Orleans Pelicans,108,-4.5 (-112),o208 (-110),-205,+4.5 (-108),u208 (-110),+172
+Wed Apr 3 2024,Cleveland Cavaliers,101,Phoenix Suns,122,-6 (-110),o226 (-112),-250,+6 (-110),u226 (-108),+205
+Thu Apr 4 2024,Atlanta Hawks,95,Dallas Mavericks,109,-12 (-110),o228 (-110),-700,+12 (-110),u228 (-110),+500
+Thu Apr 4 2024,Philadelphia 76ers,109,Miami Heat,105,-2.5 (-114),o212.5 (-110),-154,+2.5 (-106),u212.5 (-110),+132
+Thu Apr 4 2024,Sacramento Kings,109,New York Knicks,120,-4 (-110),o212.5 (-110),-180,+4 (-110),u212.5 (-110),+152
+Thu Apr 4 2024,Golden State Warriors,133,Houston Rockets,110,+3 (-106),o227.5 (-110),+134,-3 (-114),u227.5 (-110),-158
+Thu Apr 4 2024,Denver Nuggets,100,Los Angeles Clippers,102,+3.5 (-112),o219.5 (-112),+130,-3.5 (-108),u219.5 (-108),-154
+Fri Apr 5 2024,Orlando Magic,115,Charlotte Hornets,124,+12.5 (-110),o207 (-108),+570,-12.5 (-110),u207 (-112),-820
+Fri Apr 5 2024,Oklahoma City Thunder,112,Indiana Pacers,126,-6.5 (-108),o234.5 (-112),-255,+6.5 (-112),u234.5 (-108),+210
+Fri Apr 5 2024,Portland Trail Blazers,108,Washington Wizards,102,-3 (-110),o225 (-110),-146,+3 (-110),u225 (-110),+124
+Fri Apr 5 2024,Sacramento Kings,100,Boston Celtics,101,-9.5 (-106),o226 (-108),-405,+9.5 (-114),u226 (-112),+320
+Fri Apr 5 2024,New York Knicks,100,Chicago Bulls,108,+1.5 (-108),o211 (-110),+106,-1.5 (-112),u211 (-110),-124
+Fri Apr 5 2024,Miami Heat,119,Houston Rockets,104,+3 (-108),o217.5 (-110),+134,-3 (-112),u217.5 (-110),-158
+Fri Apr 5 2024,Detroit Pistons,90,Memphis Grizzlies,108,+1 (-112),o213.5 (-112),-104,-1 (-108),u213.5 (-108),-112
+Fri Apr 5 2024,Toronto Raptors,117,Milwaukee Bucks,111,-14 (-110),o233 (-110),-1000,+14 (-110),u233 (-110),+660
+Fri Apr 5 2024,San Antonio Spurs,111,New Orleans Pelicans,109,-11 (-108),o218.5 (-110),-650,+11 (-112),u218.5 (-110),+480
+Fri Apr 5 2024,Golden State Warriors,106,Dallas Mavericks,108,+1 (-110),o224 (-110),-104,-1 (-110),u224 (-110),-112
+Fri Apr 5 2024,Minnesota Timberwolves,87,Phoenix Suns,97,-4.5 (-114),o216 (-110),-200,+4.5 (-106),u216 (-110),+168
+Fri Apr 5 2024,Utah Jazz,102,Los Angeles Clippers,131,-12.5 (-112),o224.5 (-110),-820,+12.5 (-108),u224.5 (-110),+570
+Sat Apr 6 2024,Cleveland Cavaliers,97,Los Angeles Lakers,116,-5 (-106),o230 (-110),-205,+5 (-114),u230 (-110),+172
+Sat Apr 6 2024,Detroit Pistons,103,Brooklyn Nets,113,-10 (-114),o216 (-110),-460,+10 (-106),u216 (-110),+360
+Sat Apr 6 2024,Philadelphia 76ers,116,Memphis Grizzlies,96,+14.5 (-108),o214.5 (-110),+730,-14.5 (-112),u214.5 (-110),-1150
+Sat Apr 6 2024,Atlanta Hawks,110,Denver Nuggets,142,-10.5 (-110),o225 (-110),-650,+10.5 (-110),u225 (-110),+480
+Sun Apr 7 2024,Houston Rockets,136,Dallas Mavericks,147,-9 (-112),o227.5 (-110),-405,+9 (-108),u227.5 (-110),+320
+Sun Apr 7 2024,Cleveland Cavaliers,118,Los Angeles Clippers,120,-4 (-110),o217 (-110),-180,+4 (-110),u217 (-110),+152
+Sun Apr 7 2024,Miami Heat,115,Indiana Pacers,117,-3 (-112),o228 (-110),-144,+3 (-108),u228 (-110),+122
+Sun Apr 7 2024,Portland Trail Blazers,107,Boston Celtics,124,-17 (-112),o216 (-110),-1800,+17 (-108),u216 (-110),+980
+Sun Apr 7 2024,Oklahoma City Thunder,121,Charlotte Hornets,118,+7.5 (-110),o218 (-110),+245,-7.5 (-110),u218 (-110),-300
+Sun Apr 7 2024,Chicago Bulls,98,Orlando Magic,113,-7 (-112),o212 (-110),-295,+7 (-108),u212 (-110),+240
+Sun Apr 7 2024,New Orleans Pelicans,113,Phoenix Suns,105,-5.5 (-114),o222 (-110),-220,+5.5 (-106),u222 (-110),+184
+Sun Apr 7 2024,Washington Wizards,122,Toronto Raptors,130,-5 (-112),o235 (-112),-198,+5 (-108),u235 (-108),+166
+Sun Apr 7 2024,New York Knicks,122,Milwaukee Bucks,109,-4.5 (-108),o220.5 (-110),-184,+4.5 (-112),u220.5 (-110),+154
+Sun Apr 7 2024,Philadelphia 76ers,133,San Antonio Spurs,126,+3.5 (-108),o226 (-112),+136,-3.5 (-112),u226 (-108),-162
+Sun Apr 7 2024,Sacramento Kings,107,Brooklyn Nets,77,+11 (-110),o217.5 (-110),+400,-11 (-110),u217.5 (-110),-520
+Sun Apr 7 2024,Utah Jazz,110,Golden State Warriors,118,-13 (-110),o225.5 (-112),-950,+13 (-110),u225.5 (-108),+640
+Sun Apr 7 2024,Minnesota Timberwolves,127,Los Angeles Lakers,117,+2 (-110),o218 (-110),+112,-2 (-110),u218 (-110),-132
+Tue Apr 9 2024,Dallas Mavericks,130,Charlotte Hornets,104,+12.5 (-113),o224 (-115),+560,-12.5 (-115),u224 (-113),-1000
+Tue Apr 9 2024,Detroit Pistons,102,Philadelphia 76ers,120,-15.5 (-106),o220.5 (-108),-1350,+15.5 (-114),u220.5 (-112),+810
+Tue Apr 9 2024,Indiana Pacers,140,Toronto Raptors,123,+14 (-110),o240 (-110),+660,-14 (-110),u240 (-110),-1000
+Tue Apr 9 2024,Miami Heat,117,Atlanta Hawks,111,+3.5 (-112),o217 (-112),+132,-3.5 (-108),u217 (-108),-156
+Tue Apr 9 2024,Boston Celtics,91,Milwaukee Bucks,104,-3.5 (-110),o231 (-110),-174,+3.5 (-110),u231 (-110),+146
+Tue Apr 9 2024,New York Knicks,128,Chicago Bulls,117,+5 (-108),o212.5 (-110),+164,-5 (-112),u212.5 (-110),-196
+Tue Apr 9 2024,Orlando Magic,106,Houston Rockets,118,+2.5 (-106),o216.5 (-110),+118,-2.5 (-114),u216.5 (-110),-138
+Tue Apr 9 2024,San Antonio Spurs,102,Memphis Grizzlies,87,+5.5 (-110),o217 (-110),+184,-5.5 (-110),u217 (-110),-220
+Tue Apr 9 2024,Washington Wizards,121,Minnesota Timberwolves,130,-18 (-110),o223 (-112),-2000,+18 (-110),u223 (-108),+1040
+Tue Apr 9 2024,Sacramento Kings,105,Oklahoma City Thunder,112,-5.5 (-110),o227.5 (-110),-215,+5.5 (-110),u227.5 (-110),+180
+Tue Apr 9 2024,Denver Nuggets,111,Utah Jazz,95,+15.5 (-110),o223.5 (-112),+980,-15.5 (-110),u223.5 (-108),-1800
+Tue Apr 9 2024,Golden State Warriors,134,Los Angeles Lakers,120,+2 (-110),o235.5 (-112),+110,-2 (-110),u235.5 (-108),-130
+Tue Apr 9 2024,Los Angeles Clippers,105,Phoenix Suns,92,-9.5 (-108),o226.5 (-108),-390,+9.5 (-112),u226.5 (-112),+310
+Tue Apr 9 2024,New Orleans Pelicans,110,Portland Trail Blazers,100,+14 (-110),o213.5 (-110),+700,-14 (-110),u213.5 (-110),-1100
+Wed Apr 10 2024,Memphis Grizzlies,98,Cleveland Cavaliers,110,-18.5 (-124),o213.5 (-106),-2000,+18.5 (+102),u213.5 (-114),+1040
+Wed Apr 10 2024,Charlotte Hornets,115,Atlanta Hawks,114,-8.5 (-112),o227.5 (-112),-390,+8.5 (-108),u227.5 (-108),+310
+Wed Apr 10 2024,Toronto Raptors,102,Brooklyn Nets,106,-12 (-110),o220.5 (-110),-700,+12 (-110),u220.5 (-110),+500
+Wed Apr 10 2024,Dallas Mavericks,111,Miami Heat,92,+3 (-110),o218 (-110),+122,-3 (-110),u218 (-110),-144
+Wed Apr 10 2024,Orlando Magic,99,Milwaukee Bucks,117,+2 (-110),o212 (-110),+110,-2 (-110),u212 (-110),-130
+Wed Apr 10 2024,San Antonio Spurs,89,Oklahoma City Thunder,127,-17 (-110),o231 (-108),-2200,+17 (-110),u231 (-112),+1100
+Wed Apr 10 2024,Minnesota Timberwolves,107,Denver Nuggets,116,-7.5 (-110),o215.5 (-110),-320,+7.5 (-110),u215.5 (-110),+260
+Wed Apr 10 2024,Phoenix Suns,124,Los Angeles Clippers,108,+12 (-110),o220.5 (-110),+460,-12 (-110),u220.5 (-110),-620
+Thu Apr 11 2024,Chicago Bulls,127,Detroit Pistons,105,+11 (-108),o220 (-110),+430,-11 (-112),u220 (-110),-590
+Thu Apr 11 2024,New York Knicks,118,Boston Celtics,109,-3.5 (-108),o221.5 (-108),-148,+3.5 (-112),u221.5 (-112),+126
+Thu Apr 11 2024,Houston Rockets,121,Utah Jazz,124,+11.5 (-112),o227 (-112),+440,-11.5 (-108),u227 (-108),-590
+Thu Apr 11 2024,Golden State Warriors,100,Portland Trail Blazers,92,+13.5 (-108),o220.5 (-108),+610,-13.5 (-112),u220.5 (-112),-900
+Thu Apr 11 2024,New Orleans Pelicans,135,Sacramento Kings,123,-1.5 (-112),o218 (-110),-124,+1.5 (-108),u218 (-110),+106
+Fri Apr 12 2024,Orlando Magic,113,Philadelphia 76ers,125,-6.5 (-108),o215 (-110),-250,+6.5 (-112),u215 (-110),+205
+Fri Apr 12 2024,Chicago Bulls,129,Washington Wizards,127,-1.5 (-112),o224.5 (-110),-124,+1.5 (-108),u224.5 (-110),+106
+Fri Apr 12 2024,Charlotte Hornets,98,Boston Celtics,131,-7.5 (-112),o217.5 (-110),-310,+7.5 (-108),u217.5 (-110),+250
+Fri Apr 12 2024,Indiana Pacers,120,Cleveland Cavaliers,129,-3 (-108),o232 (-110),-142,+3 (-112),u232 (-110),+120
+Fri Apr 12 2024,Brooklyn Nets,107,New York Knicks,111,-11.5 (-108),o211.5 (-110),-670,+11.5 (-112),u211.5 (-110),+490
+Fri Apr 12 2024,Los Angeles Lakers,123,Memphis Grizzlies,120,+16 (-110),o226 (-110),+870,-16 (-110),u226 (-110),-1500
+Fri Apr 12 2024,Toronto Raptors,103,Miami Heat,125,-14 (-110),o220 (-110),-1100,+14 (-110),u220 (-110),+700
+Fri Apr 12 2024,Atlanta Hawks,106,Minnesota Timberwolves,109,-12.5 (-110),o226.5 (-110),-770,+12.5 (-110),u226.5 (-110),+540
+Fri Apr 12 2024,Milwaukee Bucks,107,Oklahoma City Thunder,125,-14 (-112),o223.5 (-110),-950,+14 (-108),u223.5 (-110),+640
+Fri Apr 12 2024,Denver Nuggets,120,San Antonio Spurs,121,+11.5 (-112),o223.5 (-108),+460,-11.5 (-108),u223.5 (-112),-620
+Fri Apr 12 2024,Detroit Pistons,107,Dallas Mavericks,89,-11 (-110),o217 (-110),-590,+11 (-110),u217 (-110),+430
+Fri Apr 12 2024,New Orleans Pelicans,114,Golden State Warriors,109,-4 (-110),o223 (-110),-178,+4 (-110),u223 (-110),+150
+Fri Apr 12 2024,Houston Rockets,116,Portland Trail Blazers,107,+6 (-110),o218 (-110),+190,-6 (-110),u218 (-110),-230
+Fri Apr 12 2024,Utah Jazz,110,Los Angeles Clippers,109,-15.5 (-112),o225 (-110),-1400,+15.5 (-108),u225 (-110),+830
+Fri Apr 12 2024,Phoenix Suns,108,Sacramento Kings,107,+4.5 (-108),o227 (-110),+168,-4.5 (-112),u227 (-110),-200
+Sun Apr 14 2024,Washington Wizards,122,Boston Celtics,132,-10 (-112),o229.5 (-110),-450,+10 (-108),u229.5 (-110),+350
+Sun Apr 14 2024,Charlotte Hornets,120,Cleveland Cavaliers,110,-14.5 (-110),o208.5 (-110),-1000,+14.5 (-110),u208.5 (-110),+660
+Sun Apr 14 2024,Atlanta Hawks,115,Indiana Pacers,157,-14 (-110),o245 (-110),-900,+14 (-110),u245 (-110),+610
+Sun Apr 14 2024,Toronto Raptors,103,Miami Heat,118,-16.5 (-110),o219 (-110),-2000,+16.5 (-110),u219 (-110),+1040
+Sun Apr 14 2024,Chicago Bulls,119,New York Knicks,120,-13.5 (-110),o218 (-110),-950,+13.5 (-110),u218 (-110),+640
+Sun Apr 14 2024,Milwaukee Bucks,88,Orlando Magic,113,-6 (-110),o216.5 (-110),-230,+6 (-110),u216.5 (-110),+190
+Sun Apr 14 2024,Brooklyn Nets,86,Philadelphia 76ers,107,-13 (-110),o215 (-110),-950,+13 (-110),u215 (-110),+640
+Sun Apr 14 2024,Utah Jazz,116,Golden State Warriors,123,-11 (-110),o224 (-110),-670,+11 (-110),u224 (-110),+490
+Sun Apr 14 2024,Houston Rockets,116,Los Angeles Clippers,105,+4 (-108),o222.5 (-110),+150,-4 (-112),u222.5 (-110),-178
+Sun Apr 14 2024,Denver Nuggets,126,Memphis Grizzlies,111,+14 (-110),o216.5 (-110),+660,-14 (-110),u216.5 (-110),-1000
+Sun Apr 14 2024,Phoenix Suns,125,Minnesota Timberwolves,106,-2 (-114),o216.5 (-110),-134,+2 (-106),u216.5 (-110),+114
+Sun Apr 14 2024,Los Angeles Lakers,124,New Orleans Pelicans,108,-2 (-108),o231.5 (-110),-120,+2 (-112),u231.5 (-110),+102
+Sun Apr 14 2024,Dallas Mavericks,86,Oklahoma City Thunder,135,-19.5 (-112),o225 (-110),-2200,+19.5 (-108),u225 (-110),+1100
+Sun Apr 14 2024,Portland Trail Blazers,82,Sacramento Kings,121,-17.5 (-110),o214 (-110),-2000,+17.5 (-110),u214 (-110),+1040
+Sun Apr 14 2024,Detroit Pistons,95,San Antonio Spurs,123,-4.5 (-110),o221.5 (-110),-205,+4.5 (-110),u221.5 (-110),+172
+Tue Apr 16 2024,Los Angeles Lakers,110,New Orleans Pelicans,106,-1 (-108),o224.5 (-110),-112,+1 (-112),u224.5 (-110),-104
+Tue Apr 16 2024,Golden State Warriors,94,Sacramento Kings,118,+3 (-106),o221 (-110),+128,-3 (-114),u221 (-110),-152
+Wed Apr 17 2024,Miami Heat,104,Philadelphia 76ers,105,-6 (-108),o208.5 (-110),-225,+6 (-112),u208.5 (-110),+188
+Wed Apr 17 2024,Atlanta Hawks,116,Chicago Bulls,131,-3 (-110),o222.5 (-110),-154,+3 (-110),u222.5 (-110),+130
+Fri Apr 19 2024,Chicago Bulls,91,Miami Heat,112,-2 (-112),o207 (-110),-136,+2 (-108),u207 (-110),+116
+Fri Apr 19 2024,Sacramento Kings,98,New Orleans Pelicans,105,-1.5 (-110),o211.5 (-110),-122,+1.5 (-110),u211.5 (-110),+104
+Sat Apr 20 2024,Orlando Magic,83,Cleveland Cavaliers,97,-5.5 (-112),o206.5 (-110),-230,+5.5 (-108),u206.5 (-110),+190
+Sat Apr 20 2024,Phoenix Suns,95,Minnesota Timberwolves,120,-2.5 (-110),o213.5 (-108),-138,+2.5 (-110),u213.5 (-112),+118
+Sat Apr 20 2024,Philadelphia 76ers,104,New York Knicks,111,-4.5 (-112),o208 (-110),-194,+4.5 (-108),u208 (-110),+162
+Sat Apr 20 2024,Los Angeles Lakers,103,Denver Nuggets,114,-6.5 (-112),o227 (-110),-270,+6.5 (-108),u227 (-110),+220
+Sun Apr 21 2024,Miami Heat,94,Boston Celtics,114,-14.5 (-108),o210 (-112),-1150,+14.5 (-112),u210 (-108),+730
+Sun Apr 21 2024,Dallas Mavericks,97,Los Angeles Clippers,109,+3.5 (-112),o221 (-108),+144,-3.5 (-108),u221 (-112),-172
+Sun Apr 21 2024,Indiana Pacers,94,Milwaukee Bucks,109,+1.5 (-112),o230 (-108),-100,-1.5 (-108),u230 (-112),-118
+Sun Apr 21 2024,New Orleans Pelicans,92,Oklahoma City Thunder,94,-9.5 (-108),o216.5 (-110),-390,+9.5 (-112),u216.5 (-110),+310
+Mon Apr 22 2024,Orlando Magic,86,Cleveland Cavaliers,96,-5.5 (-112),o205.5 (-108),-210,+5.5 (-108),u205.5 (-112),+176
+Mon Apr 22 2024,Philadelphia 76ers,101,New York Knicks,104,-4.5 (-108),o206.5 (-110),-178,+4.5 (-112),u206.5 (-110),+150
+Mon Apr 22 2024,Los Angeles Lakers,99,Denver Nuggets,101,-7 (-114),o223.5 (-110),-280,+7 (-106),u223.5 (-110),+230
+Tue Apr 23 2024,Phoenix Suns,93,Minnesota Timberwolves,105,-3 (-110),o211.5 (-112),-154,+3 (-110),u211.5 (-108),+130
+Tue Apr 23 2024,Indiana Pacers,125,Milwaukee Bucks,108,-1 (-112),o223.5 (-108),-118,+1 (-108),u223.5 (-112),-102
+Tue Apr 23 2024,Dallas Mavericks,96,Los Angeles Clippers,93,-1 (-110),o217 (-110),-116,+1 (-110),u217 (-110),-102
+Wed Apr 24 2024,Miami Heat,111,Boston Celtics,101,-10.5 (-110),o219.5 (-114),-900,+10.5 (-118),u219.5 (-114),+520
+Wed Apr 24 2024,New Orleans Pelicans,92,Oklahoma City Thunder,124,-7.5 (-110),o210.5 (-110),-300,+7.5 (-110),u210.5 (-110),+245
+Thu Apr 25 2024,Cleveland Cavaliers,83,Orlando Magic,121,-3 (-110),o202 (-110),-152,+3 (-110),u202 (-110),+128
+Thu Apr 25 2024,New York Knicks,114,Philadelphia 76ers,125,-5.5 (-112),o205 (-110),-235,+5.5 (-108),u205 (-110),+194
+Thu Apr 25 2024,Denver Nuggets,112,Los Angeles Lakers,105,-1.5 (-110),o217.5 (-110),-122,+1.5 (-110),u217.5 (-110),+104
+Fri Apr 26 2024,Milwaukee Bucks,118,Indiana Pacers,121,-6.5 (-112),o223 (-112),-275,+6.5 (-108),u223 (-108),+225
+Fri Apr 26 2024,Los Angeles Clippers,90,Dallas Mavericks,101,-4.5 (-112),o213 (-114),-190,+4.5 (-108),u213 (-106),+160
+Fri Apr 26 2024,Minnesota Timberwolves,126,Phoenix Suns,109,-5.5 (-106),o208.5 (-112),-230,+5.5 (-114),u208.5 (-108),+190
+Sat Apr 27 2024,Cleveland Cavaliers,89,Orlando Magic,112,-2.5 (-112),o202.5 (-112),-142,+2.5 (-108),u202.5 (-108),+120
+Sat Apr 27 2024,Oklahoma City Thunder,106,New Orleans Pelicans,85,+2 (-112),o210 (-112),+108,-2 (-108),u210 (-108),-126
+Sat Apr 27 2024,Boston Celtics,104,Miami Heat,84,+9.5 (-106),o205.5 (-110),+330,-9.5 (-114),u205.5 (-110),-420
+Sat Apr 27 2024,Denver Nuggets,108,Los Angeles Lakers,119,+3.5 (-110),o220 (-110),+132,-3.5 (-110),u220 (-110),-154
+Sun Apr 28 2024,New York Knicks,97,Philadelphia 76ers,92,-5 (-108),o209 (-110),-200,+5 (-112),u209 (-110),+168
+Sun Apr 28 2024,Los Angeles Clippers,116,Dallas Mavericks,111,-7 (-110),o209.5 (-110),-270,+7 (-110),u209.5 (-110),+220
+Sun Apr 28 2024,Milwaukee Bucks,113,Indiana Pacers,126,-10 (-114),o214.5 (-110),-480,+10 (-106),u214.5 (-110),+370
+Sun Apr 28 2024,Minnesota Timberwolves,122,Phoenix Suns,116,-1 (-108),o212.5 (-110),-112,+1 (-112),u212.5 (-110),-104
+Mon Apr 29 2024,Boston Celtics,102,Miami Heat,88,+10.5 (-110),o204.5 (-108),+400,-10.5 (-110),u204.5 (-112),-520
+Mon Apr 29 2024,Oklahoma City Thunder,97,New Orleans Pelicans,89,+5 (-110),o208.5 (-112),+164,-5 (-110),u208.5 (-108),-196
+Mon Apr 29 2024,Los Angeles Lakers,106,Denver Nuggets,108,-6.5 (-112),o217.5 (-110),-250,+6.5 (-108),u217.5 (-110),+205
+Tue Apr 30 2024,Philadelphia 76ers,112,New York Knicks,106,-4 (-112),o204 (-112),-168,+4 (-108),u204 (-108),+142
+Tue Apr 30 2024,Orlando Magic,103,Cleveland Cavaliers,104,-4.5 (-108),o203.5 (-110),-178,+4.5 (-112),u203.5 (-110),+150
+Tue Apr 30 2024,Indiana Pacers,92,Milwaukee Bucks,115,+5.5 (-110),o218 (-108),+180,-5.5 (-110),u218 (-112),-215
+Wed May 1 2024,Miami Heat,84,Boston Celtics,118,-13.5 (-112),o201.5 (-112),-1000,+13.5 (-108),u201.5 (-108),+660
+Wed May 1 2024,Dallas Mavericks,123,Los Angeles Clippers,93,+3 (-112),o209 (-108),+120,-3 (-108),u209 (-112),-142
+Thu May 2 2024,Milwaukee Bucks,98,Indiana Pacers,120,-6 (-110),o217 (-108),-240,+6 (-110),u217 (-112),+198
+Thu May 2 2024,New York Knicks,118,Philadelphia 76ers,115,-3 (-106),o202 (-112),-142,+3 (-114),u202 (-108),+120
+Fri May 3 2024,Cleveland Cavaliers,96,Orlando Magic,103,-4.5 (-110),o201 (-110),-190,+4.5 (-110),u201 (-110),+162
+Fri May 3 2024,Los Angeles Clippers,101,Dallas Mavericks,114,-8.5 (-112),o209.5 (-112),-350,+8.5 (-108),u209.5 (-108),+280
+Sat May 4 2024,Minnesota Timberwolves,106,Denver Nuggets,99,-4.5 (-108),o210 (-108),-180,+4.5 (-112),u210 (-112),+152
+Sun May 5 2024,Orlando Magic,94,Cleveland Cavaliers,106,-3.5 (-106),o195.5 (-113),-158,+3.5 (-122),u195.5 (-115),+124
+Mon May 6 2024,Indiana Pacers,117,New York Knicks,121,-6 (-110),o217 (-108),-250,+6 (-110),u217 (-112),+205
+Mon May 6 2024,Minnesota Timberwolves,106,Denver Nuggets,80,-7.5 (-110),o210 (-110),-300,+7.5 (-110),u210 (-110),+245
+Tue May 7 2024,Cleveland Cavaliers,95,Boston Celtics,120,-12.5 (-114),o211.5 (-108),-850,+12.5 (-106),u211.5 (-112),+590
+Tue May 7 2024,Dallas Mavericks,95,Oklahoma City Thunder,117,-4.5 (-106),o219 (-112),-180,+4.5 (-114),u219 (-108),+152
+Wed May 8 2024,Indiana Pacers,121,New York Knicks,130,-4.5 (-108),o219 (-110),-180,+4.5 (-112),u219 (-110),+152
+Thu May 9 2024,Cleveland Cavaliers,118,Boston Celtics,94,-13 (-110),o212.5 (-108),-950,+13 (-110),u212.5 (-112),+640
+Thu May 9 2024,Dallas Mavericks,119,Oklahoma City Thunder,110,-4.5 (-114),o217.5 (-108),-200,+4.5 (-106),u217.5 (-112),+168
+Fri May 10 2024,New York Knicks,106,Indiana Pacers,111,-7 (-110),o220.5 (-112),-290,+7 (-110),u220.5 (-108),+230
+Fri May 10 2024,Denver Nuggets,117,Minnesota Timberwolves,90,-3.5 (-106),o205.5 (-112),-154,+3.5 (-114),u205.5 (-108),+130
+Sat May 11 2024,Oklahoma City Thunder,101,Dallas Mavericks,105,-1.5 (-108),o217 (-108),-116,+1.5 (-112),u217 (-112),-102
+Sat May 11 2024,Boston Celtics,106,Cleveland Cavaliers,93,+7.5 (-108),o211 (-110),+245,-7.5 (-112),u211 (-110),-300
+Sun May 12 2024,New York Knicks,89,Indiana Pacers,121,-6 (-108),o219 (-108),-230,+6 (-112),u219 (-112),+190
+Sun May 12 2024,Denver Nuggets,115,Minnesota Timberwolves,107,-3.5 (-112),o205 (-112),-158,+3.5 (-108),u205 (-108),+136
+Mon May 13 2024,Boston Celtics,109,Cleveland Cavaliers,102,+12 (-110),o204.5 (-110),+490,-12 (-110),u204.5 (-110),-670
+Mon May 13 2024,Oklahoma City Thunder,100,Dallas Mavericks,96,-1 (-110),o215 (-110),-110,+1 (-110),u215 (-110),-106
+Tue May 14 2024,Indiana Pacers,91,New York Knicks,121,-1.5 (-110),o218 (-110),-118,+1.5 (-110),u218 (-110),-100
+Tue May 14 2024,Minnesota Timberwolves,97,Denver Nuggets,112,-4.5 (-106),o204.5 (-108),-186,+4.5 (-122),u204.5 (-112),+156
+Wed May 15 2024,Cleveland Cavaliers,98,Boston Celtics,113,-16 (-110),o205 (-108),-1800,+16 (-110),u205 (-112),+980
+Wed May 15 2024,Dallas Mavericks,104,Oklahoma City Thunder,92,-4.5 (-114),o213.5 (-110),-196,+4.5 (-106),u213.5 (-110),+164
+Thu May 16 2024,Denver Nuggets,70,Minnesota Timberwolves,115,-2 (-112),o205 (-112),-126,+2 (-108),u205 (-108),+108
+Fri May 17 2024,New York Knicks,103,Indiana Pacers,116,-4.5 (-114),o216 (-112),-194,+4.5 (-106),u216 (-108),+162
+Sat May 18 2024,Oklahoma City Thunder,116,Dallas Mavericks,117,-4 (-110),o209 (-110),-184,+4 (-110),u209 (-110),+154
+Sun May 19 2024,Indiana Pacers,130,New York Knicks,109,-3 (-106),o207 (-110),-158,+3 (-114),u207 (-110),+134
+Sun May 19 2024,Minnesota Timberwolves,98,Denver Nuggets,90,-4.5 (-106),o201 (-112),-180,+4.5 (-114),u201 (-108),+152
+Tue May 21 2024,Indiana Pacers,128,Boston Celtics,133,-10 (-108),o223 (-106),-450,+10 (-112),u223 (-114),+350
+Wed May 22 2024,Dallas Mavericks,108,Minnesota Timberwolves,105,-4.5 (-110),o207 (-110),-190,+4.5 (-110),u207 (-110),+160
+Thu May 23 2024,Indiana Pacers,110,Boston Celtics,126,-9 (-110),o224.5 (-110),-390,+9 (-110),u224.5 (-110),+310
+Fri May 24 2024,Dallas Mavericks,109,Minnesota Timberwolves,108,-6 (-112),o207 (-108),-255,+6 (-108),u207 (-112),+210
+Sat May 25 2024,Boston Celtics,114,Indiana Pacers,111,+7.5 (-114),o220.5 (-110),+240,-7.5 (-106),u220.5 (-110),-295
+Sun May 26 2024,Minnesota Timberwolves,107,Dallas Mavericks,116,-1.5 (-108),o207.5 (-110),-116,+1.5 (-112),u207.5 (-110),-104
+Mon May 27 2024,Boston Celtics,105,Indiana Pacers,102,+7.5 (-112),o222.5 (-110),+230,-7.5 (-108),u222.5 (-110),-280
+Tue May 28 2024,Minnesota Timberwolves,105,Dallas Mavericks,100,-1.5 (-110),o211 (-110),-118,+1.5 (-110),u211 (-110),-100
+Thu May 30 2024,Dallas Mavericks,124,Minnesota Timberwolves,103,-4.5 (-112),o209 (-110),-186,+4.5 (-108),u209 (-110),+156

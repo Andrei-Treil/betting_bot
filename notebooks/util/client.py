@@ -214,7 +214,6 @@ class Nba_Season():
         '''
         features = []
         samples = []
-        #file_path = "old_games/{file_name}".format(file_name=file_name)
         line_count = 1
         fail_count = 0
 
@@ -333,20 +332,21 @@ class Nba_Season():
 
 
     # populate team stats and on off stats for new season
-    def pop_const_new(self):
+    def pop_const_new(self,save_folder='../NBA/on_off_stats/'):
         '''
-        Populate team stats and on-off data
+        Populate team stats and on-off data, exports to .pkl with name '{start}-{end}_team_stats.pkl'
+        save_folder: leading file path to store outputs, default: '../NBA/on_off_stats/'
         '''
         self.pop_team_stats()
 
-        with open('{start}-{end}_team_stats.pkl'.format(start=self.start_year,end=self.end_year), 'wb') as f:
+        with open('{save}{start}-{end}_team_stats.pkl'.format(save=save_folder,start=self.start_year,end=self.end_year), 'wb') as f:
             pickle.dump(self.team_stats, f)
 
         time.sleep(30)
 
         self.pop_team_on_off()
 
-        with open('{start}-{end}_on_off.pkl'.format(start=self.start_year,end=self.end_year), 'wb') as f:
+        with open('{save}{start}-{end}_on_off.pkl'.format(save=save_folder,start=self.start_year,end=self.end_year), 'wb') as f:
             pickle.dump(self.team_on_off, f)
     
     def save_data(self,save_path=''):
