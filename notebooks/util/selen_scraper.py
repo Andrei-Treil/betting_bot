@@ -345,36 +345,320 @@ def one_szn_par(games_df,szn):
 
     return results
 
+import datetime
+# TODO: add batch size parameter/fix pooling 
+def get_on_off(info):
+    '''
+    Gets cumulative advanced stats for a given season, NOT INCLUDING LAST 10
+    input: [dates,url,abr,reg_szn_end,play_in_end]
+    RETURNS: dict mapping date -> [abr,adv_stats]
+    '''
+    dates = info[0]
+    base_url = info[1]
+    abr = info[2]
+    reg_szn_end = info[3]
+    play_in_end = info[4]
+    reg_szn_end_dt = datetime.datetime(int(reg_szn_end[3]),int(reg_szn_end[1]),int(reg_szn_end[2]))
+    if len(play_in_end) > 0:
+        play_in_end_dt = datetime.datetime(int(play_in_end[3]),int(play_in_end[1]),int(play_in_end[2]))
+
+    options = Options()
+    driver = webdriver.Chrome(options=options) # requires appropriate webdriver in PATH variables, or pass path to file as arg `executable_path=`
+    # teams_dict = info[2]
+    out_dict = defaultdict(list) # map date -> [abr,adv_stats]
+    missing = []
+
+    try:
+        for i in range(9,len(dates),10): # change range step to control how many tabs are opened in a batch, current set to 5
+            date_list = []
+            k = 0
+            for j in range(i-9,i+1):
+                curr_date = dates[j].split()
+                date_list.append(dates[j])
+                team_stats = base_url + f'&DateTo={MONTH_TO_NUM[curr_date[1]]}%2F{curr_date[2]}%2F{curr_date[3]}'
+
+                curr_date_dt = datetime.datetime(int(curr_date[3]),int(MONTH_TO_NUM[curr_date[1]]),int(curr_date[2]))
+
+                if curr_date_dt <= reg_szn_end_dt:
+                    team_stats += '&SeasonType=Regular+Season'
+                elif len(play_in_end) > 0 and curr_date_dt <= play_in_end_dt:
+                    team_stats += '&SeasonType=PlayIn'
+                else:
+                    team_stats += '&SeasonType=Playoffs'
+
+                driver.get(team_stats)
+                k += 1
+                if k < 10: # change range step to control how many tabs are opened in a batch, current set to 10
+                    driver.execute_script("window.open()")
+                    driver.switch_to.window(driver.window_handles[k])
+            
+            window_list = driver.window_handles
+            k = 0
+            # load JS
+            time.sleep(2)
+            for window in window_list:
+                date = date_list[k]
+                k += 1
+                driver.switch_to.window(window)
+                html = driver.page_source
+
+                soup = BeautifulSoup(html, 'html.parser')
+                results = soup.find_all('table')
+
+                try:
+                    overall = results[2].find_all('tr')[1].find_all('td')
+                    over_stats = []
+                    on_dict = defaultdict(list)
+                    off_dict = defaultdict(list)
+
+                    for over in overall[1:]:
+                        over_stats.append(float(over.text))
+
+                    out_dict[date].append(over_stats)
+
+                    # NAME	GP	MIN	OFFRTG	DEFRTG	NETRTG	AST%	AST/TO	AST RATIO	OREB%	DREB%	REB%	TOV%	EFG%	TS%	PACE	PIE
+                    on_court = results[3].find_all('tr')[1:]
+                    for player in on_court:
+                        on_stats = []
+                        player_stats = player.find_all('td')
+                        name_strip = player_stats[0].text
+                        d = ''.join(name_strip.split())
+                        full_name = ' '.join(d.split(',')[::-1]).upper()
+                        for e in player_stats[1:]:
+                            on_stats.append(float(e.text))
+                        on_dict[full_name] = on_stats
+
+                    out_dict[date].append(on_dict)
+
+                    off_court = results[4].find_all('tr')[1:]
+                    for player in off_court:
+                        off_stats = []
+                        player_stats = player.find_all('td')
+                        name_strip = player_stats[0].text
+                        d = ''.join(name_strip.split())
+                        full_name = ' '.join(d.split(',')[::-1]).upper()
+                        for e in player_stats[1:]:
+                            off_stats.append(float(e.text))
+                        off_dict[full_name] = off_stats
+
+                    out_dict[date].append(off_dict)
+
+                except Exception as e:
+                    print(f'Exception: {e} for team: {info[2]} on link: {team_stats}')
+                    missing.append(date)
+                if len(driver.window_handles) > 1:
+                    driver.close()
+        
+        date_list = []
+        k = 0
+        remaining = len(dates) % 10
+        if remaining > 0:
+            for i in range(len(dates) - remaining, len(dates)):
+                curr_date = dates[i].split()
+                date_list.append(dates[i])
+                team_stats = base_url + f'&DateTo={MONTH_TO_NUM[curr_date[1]]}%2F{curr_date[2]}%2F{curr_date[3]}'
+
+                curr_date_dt = datetime.datetime(int(curr_date[3]),int(MONTH_TO_NUM[curr_date[1]]),int(curr_date[2]))
+
+                if curr_date_dt <= reg_szn_end_dt:
+                    team_stats += '&SeasonType=Regular+Season'
+                elif len(play_in_end) > 0 and curr_date_dt <= play_in_end_dt:
+                    team_stats += '&SeasonType=PlayIn'
+                else:
+                    team_stats += '&SeasonType=Playoffs'
+
+                driver.get(team_stats)
+                k += 1
+                if k < remaining:
+                    driver.execute_script("window.open()")
+                    driver.switch_to.window(driver.window_handles[k])
+
+            
+            window_list = driver.window_handles
+            k = 0
+            # load JS
+            time.sleep(2)
+            for window in window_list:
+                date = date_list[k]
+                k += 1
+                driver.switch_to.window(window)
+                html = driver.page_source
+
+                soup = BeautifulSoup(html, 'html.parser')
+                results = soup.find_all('table')
+
+                try:
+                    overall = results[2].find_all('tr')[1].find_all('td')
+                    over_stats = []
+                    on_dict = defaultdict(list)
+                    off_dict = defaultdict(list)
+
+                    for over in overall[1:]:
+                        over_stats.append(float(over.text))
+
+                    out_dict[date].append(over_stats)
+
+                    # NAME	GP	MIN	OFFRTG	DEFRTG	NETRTG	AST%	AST/TO	AST RATIO	OREB%	DREB%	REB%	TOV%	EFG%	TS%	PACE	PIE
+                    on_court = results[3].find_all('tr')[1:]
+                    for player in on_court:
+                        on_stats = []
+                        player_stats = player.find_all('td')
+                        name_strip = player_stats[0].text
+                        d = ''.join(name_strip.split())
+                        full_name = ' '.join(d.split(',')[::-1]).upper()
+                        for e in player_stats[1:]:
+                            on_stats.append(float(e.text))
+                        on_dict[full_name] = on_stats
+
+                    out_dict[date].append(on_dict)
+
+                    off_court = results[4].find_all('tr')[1:]
+                    for player in off_court:
+                        off_stats = []
+                        player_stats = player.find_all('td')
+                        name_strip = player_stats[0].text
+                        d = ''.join(name_strip.split())
+                        full_name = ' '.join(d.split(',')[::-1]).upper()
+                        for e in player_stats[1:]:
+                            off_stats.append(float(e.text))
+                        off_dict[full_name] = off_stats
+
+                    out_dict[date].append(off_dict)
+
+                except Exception as e:
+                    print(f'Exception: {e} for team: {abr} on link: {team_stats}')
+                    missing.append(date)
+                if len(driver.window_handles) > 1:
+                    driver.close()
+
+    except Exception as e:
+        driver.quit()
+        print(f'Team: {info[2]}, Captured: {len(out_dict)}, Missing: {len(missing)}, Error: {e}')
+        return info[2],out_dict,missing
+    
+    print(f'Team: {info[2]}, Captured: {len(out_dict)}, Missing: {len(missing)}')
+    driver.quit()
+    return info[2],out_dict,missing
+
+import concurrent
+import concurrent.futures
+
+def pop_on_off(games_df,szn,reg_szn,play_in):
+    start_date = games_df['date'][0].split()
+    teams = []
+
+    # Generate list of URLS for each team
+    for team, abr in TEAM_NAME_TO_ABR.items():
+        team_games = games_df.loc[(games_df['away'].str.upper() == team) | (games_df['home'].str.upper() == team)]
+        dates = team_games['date'].to_list()
+        url = TEAM_ABR_TO_URL[abr] + f'/onoffcourt-advanced?Season={szn}&DateFrom={MONTH_TO_NUM[start_date[1]]}%2F{start_date[2]}%2F{start_date[3]}'
+        teams.append([dates,url,abr,reg_szn,play_in]) #regszn end, playin end
+        
+    with concurrent.futures.ProcessPoolExecutor(max_workers=5) as executor:
+        results = list(executor.map(get_on_off,teams))
+
+    return results
+
 if __name__ == '__main__':
-    games_df = pd.read_csv('NBA/games/2018-2019_season_inj.csv',sep=',',names=['date','away','away_pt','home','home_pt'])
-    ALL_TEAMS_CONC = dict.fromkeys(TEAM_ABR_TO_URL.keys())
-    res = one_szn_par(games_df,'2018-19')
+    df_list = []
+    szn_list = []
+    reg_szn_list = []
+    play_in_list = []
+
+    games_df_2023 = pd.read_csv('NBA/games/2022-2023_season_inj.csv',sep=',',names=['date','away','away_pt','home','home_pt'])
+    reg_szn_end_2023 = ["","04","9","2023"]
+    play_in_end_2023 = ["","04","14","2023"]
+
+    res = pop_on_off(games_df_2023,'2022-23',reg_szn_end_2023,play_in_end_2023)
+    on_off_dict = dict.fromkeys(TEAM_ABR_TO_URL.keys())
 
     for r in res:
-        ALL_TEAMS_CONC[r[0]] = r[1]
-        ALL_TEAMS_CONC[r[0]]["MISSED"] = r[2]
-    
-    with open('NBA/conc_stats/2018-2019_conc_stats.pkl', 'wb') as f:
-        pickle.dump(ALL_TEAMS_CONC,f)
+        on_off_dict[r[0]] = r[1]
+        on_off_dict[r[0]]["MISSED"] = r[2]
+        
+    with open('NBA/conc_on_off/2022-2023_conc_stats.pkl', 'wb') as f:
+        pickle.dump(on_off_dict,f)
 
-    games_df = pd.read_csv('NBA/games/2017-2018_season_inj.csv',sep=',',names=['date','away','away_pt','home','home_pt'])
-    ALL_TEAMS_CONC = dict.fromkeys(TEAM_ABR_TO_URL.keys())
-    res = one_szn_par(games_df,'2017-18')
+    games_df_2022 = pd.read_csv('NBA/games/2021-2022_season_inj.csv',sep=',',names=['date','away','away_pt','home','home_pt'])
+    reg_szn_end_2022 = ["","04","10","2022"]
+    play_in_end_2022 = ["","04","15","2022"]
 
-    for r in res:
-        ALL_TEAMS_CONC[r[0]] = r[1]
-        ALL_TEAMS_CONC[r[0]]["MISSED"] = r[2]
-    
-    with open('NBA/conc_stats/2017-2018_conc_stats.pkl', 'wb') as f:
-        pickle.dump(ALL_TEAMS_CONC,f)
-
-    games_df = pd.read_csv('NBA/games/2016-2017_season_inj.csv',sep=',',names=['date','away','away_pt','home','home_pt'])
-    ALL_TEAMS_CONC = dict.fromkeys(TEAM_ABR_TO_URL.keys())
-    res = one_szn_par(games_df,'2016-17')
+    res = pop_on_off(games_df_2022,'2021-22',reg_szn_end_2022,play_in_end_2022)
+    on_off_dict = dict.fromkeys(TEAM_ABR_TO_URL.keys())
 
     for r in res:
-        ALL_TEAMS_CONC[r[0]] = r[1]
-        ALL_TEAMS_CONC[r[0]]["MISSED"] = r[2]
-    
-    with open('NBA/conc_stats/2016-2017_conc_stats.pkl', 'wb') as f:
-        pickle.dump(ALL_TEAMS_CONC,f)
+        on_off_dict[r[0]] = r[1]
+        on_off_dict[r[0]]["MISSED"] = r[2]
+        
+    with open('NBA/conc_on_off/2021-2022_conc_stats.pkl', 'wb') as f:
+        pickle.dump(on_off_dict,f)
+
+    games_df_2021 = pd.read_csv('NBA/games/2020-2021_season_inj.csv',sep=',',names=['date','away','away_pt','home','home_pt'])
+    reg_szn_end_2021 = ["","05","16","2021"]
+    play_in_end_2021 = ["","05","21","2021"]
+
+    res = pop_on_off(games_df_2021,'2020-21',reg_szn_end_2021,play_in_end_2021)
+    on_off_dict = dict.fromkeys(TEAM_ABR_TO_URL.keys())
+
+    for r in res:
+        on_off_dict[r[0]] = r[1]
+        on_off_dict[r[0]]["MISSED"] = r[2]
+        
+    with open('NBA/conc_on_off/2020-2021_conc_stats.pkl', 'wb') as f:
+        pickle.dump(on_off_dict,f)
+
+    games_df_2020 = pd.read_csv('NBA/games/2019-2020_season_inj.csv',sep=',',names=['date','away','away_pt','home','home_pt'])
+    reg_szn_end_2020 = ["","08","14","2020"]
+    play_in_end_2020 = ["","08","15","2020"]
+
+    res = pop_on_off(games_df_2020,'2019-20',reg_szn_end_2020,play_in_end_2020)
+    on_off_dict = dict.fromkeys(TEAM_ABR_TO_URL.keys())
+
+    for r in res:
+        on_off_dict[r[0]] = r[1]
+        on_off_dict[r[0]]["MISSED"] = r[2]
+        
+    with open('NBA/conc_on_off/2019-2020_conc_stats.pkl', 'wb') as f:
+        pickle.dump(on_off_dict,f)
+
+    games_df_2019 = pd.read_csv('NBA/games/2018-2019_season_inj.csv',sep=',',names=['date','away','away_pt','home','home_pt'])
+    reg_szn_end_2019 = ["","04","10","2019"]
+    play_in_end_2019 = []
+
+    res = pop_on_off(games_df_2019,'2018-19',reg_szn_end_2019,play_in_end_2019)
+    on_off_dict = dict.fromkeys(TEAM_ABR_TO_URL.keys())
+
+    for r in res:
+        on_off_dict[r[0]] = r[1]
+        on_off_dict[r[0]]["MISSED"] = r[2]
+        
+    with open('NBA/conc_on_off/2018-2019_conc_stats.pkl', 'wb') as f:
+        pickle.dump(on_off_dict,f)
+
+    games_df_2018 = pd.read_csv('NBA/games/2017-2018_season_inj.csv',sep=',',names=['date','away','away_pt','home','home_pt'])
+    reg_szn_end_2018 = ["","04","11","2018"]
+    play_in_end_2018 = []
+
+    res = pop_on_off(games_df_2018,'2017-18',reg_szn_end_2018,play_in_end_2018)
+    on_off_dict = dict.fromkeys(TEAM_ABR_TO_URL.keys())
+
+    for r in res:
+        on_off_dict[r[0]] = r[1]
+        on_off_dict[r[0]]["MISSED"] = r[2]
+        
+    with open('NBA/conc_on_off/2017-2018_conc_stats.pkl', 'wb') as f:
+        pickle.dump(on_off_dict,f)
+
+    games_df_2017 = pd.read_csv('NBA/games/2016-2017_season_inj.csv',sep=',',names=['date','away','away_pt','home','home_pt'])
+    reg_szn_end_2017 = ["","04","12","2017"]
+    play_in_end_2017 = []
+
+    res = pop_on_off(games_df_2017,'2016-17',reg_szn_end_2017,play_in_end_2017)
+    on_off_dict = dict.fromkeys(TEAM_ABR_TO_URL.keys())
+
+    for r in res:
+        on_off_dict[r[0]] = r[1]
+        on_off_dict[r[0]]["MISSED"] = r[2]
+        
+    with open('NBA/conc_on_off/2016-2017_conc_stats.pkl', 'wb') as f:
+        pickle.dump(on_off_dict,f)
