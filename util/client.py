@@ -173,7 +173,6 @@ class Nba_Season():
             
             for pair in affected_stats_idx:
                 away_stats[pair[1]] -= (weight * float(on_off[pair[0]]))
-
         return home_stats,away_stats
 
 
