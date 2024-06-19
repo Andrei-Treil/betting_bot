@@ -70,14 +70,19 @@ class Nba_Season():
         "Dec" : "12",
     }
 
-    def __init__(self, start_year, end_year, team_stats=None, team_on_off=None, features=None, samples=None):
+    def __init__(self, start_year, end_year, team_stats=None, team_on_off=None, features=None, samples=None, conc=None):
         '''
-        start_year: String representing start year of NBA season
-        end_year: String representing end year of NBA season
-        team_stats: Dict mapping team abr to stats
-        team_on_off: Dict mapping team abr to dict of player names mapping to on-off stats
-        features: List of unnormalized features for games representing the season
-        samples: List of samples corresponding to features
+        `start_year`: String representing start year of NBA season
+        `end_year`: String representing end year of NBA season
+        `team_stats`: Dict mapping team abr to stats
+        `team_on_off`: Dict mapping team abr to dict of player names mapping to on-off stats
+        `features`: List of unnormalized features for games representing the season
+        `samples`: List of samples corresponding to features
+        `conc`: Dict from NBA/conc_on_off, holds stats for team and on/off court stats for players:
+
+            stats = GP MIN OFFRTG DEFRTG NETRTG	AST% AST/TO	AST_RATIO OREB%	DREB% REB%	TOV% EFG% TS% PACE PIE
+
+            conc[ABR] = dict[dates] -> [ [TEAM Stats], dict[player] -> stats (on court), dict[player] -> stats (on court)]
         '''
         self.start_year = start_year
         self.end_year = end_year
@@ -85,12 +90,13 @@ class Nba_Season():
         self.team_on_off = defaultdict(dict) if team_on_off is None else team_on_off
         self.features = features
         self.samples = samples
+        self.conc = conc
     
     # get team stats for a given season from https://www.basketball-reference.com/teams/
     def get_team_stats(self,team_abr):
         '''
-        team_abr: string abbreviation from basketball-reference
-        end_year: string representing end year of season to get stats
+        `team_abr`: string abbreviation from basketball-reference
+        `end_year`: string representing end year of season to get stats
         '''
         URL = "https://www.basketball-reference.com/teams/{team_abr}/{end_year}.html".format(team_abr=team_abr,end_year=self.end_year)
         page = requests.get(URL)
@@ -140,39 +146,53 @@ class Nba_Season():
 
 
     # calculate injuray impact based on on-off values
-    def calc_injury_impact(self,injured,home_abr,away_abr):
+    def calc_injury_impact(self,injured,home_abr,away_abr,date):
 
         home_injured = injured[home_abr]
         away_injured = injured[away_abr]
-        home_stats = self.team_stats[home_abr]
-        away_stats = self.team_stats[away_abr]
 
-        # map available on-off stats to respective index in team stats, ignore rest for now
-        # mapping [on_off_idx,team_stats_idx]
-        affected_stats_idx = [[1,8],[2,10],[3,14],[8,9],[9,5],[10,3],[18,13]]
+        if self.conc is None:
+            home_stats = self.team_stats[home_abr]
+            away_stats = self.team_stats[away_abr]
+            # map available on-off stats to respective index in team stats, ignore rest for now
+            # mapping [on_off_idx,team_stats_idx]
+            affected_stats_idx = [[1,8],[2,10],[3,14],[8,9],[9,5],[10,3],[18,13]]
+            # eFG%	ORB%	DRB%	TRB%	AST%	STL%	BLK%	TOV%	Pace	ORtg	eFG%	ORB%	DRB%	TRB%	AST%	STL%	BLK%	TOV%	Pace	ORtg
+            # 8      10       14    NAN     NAN      NAN     NAN     9       5       3       NAN     NAN     NAN     NAN     NAN     NAN     NAN     13      NAN     NAN
+            for player in home_injured:
+                on_off =  self.team_on_off[home_abr][player]
+                if len(on_off) == 0:
+                    continue
+                
+                weight = float(on_off[0].strip('%'))/100
+                
+                for pair in affected_stats_idx:
+                    home_stats[pair[1]] -= (weight * float(on_off[pair[0]]))
 
-        # eFG%	ORB%	DRB%	TRB%	AST%	STL%	BLK%	TOV%	Pace	ORtg	eFG%	ORB%	DRB%	TRB%	AST%	STL%	BLK%	TOV%	Pace	ORtg
-        # 8      10       14    NAN     NAN      NAN     NAN     9       5       3       NAN     NAN     NAN     NAN     NAN     NAN     NAN     13      NAN     NAN
+            for player in away_injured:
+                on_off =  self.team_on_off[away_abr][player]
+                if len(on_off) == 0:
+                    continue
+                
+                weight = float(on_off[0].strip('%'))/100
+                
+                for pair in affected_stats_idx:
+                    away_stats[pair[1]] -= (weight * float(on_off[pair[0]]))
+        else:
+            # minute % = min_on / (min_on + min_off)
+            home_team_conc = self.conc[home_abr][date]
+            away_team_conc = self.conc[away_abr][date]
+            home_stats = home_team_conc[0]
+            away_stats = away_team_conc[0]
 
-        for player in home_injured:
-            on_off =  self.team_on_off[home_abr][player]
-            if len(on_off) == 0:
-                continue
-            
-            weight = float(on_off[0].strip('%'))/100
-            
-            for pair in affected_stats_idx:
-                home_stats[pair[1]] -= (weight * float(on_off[pair[0]]))
+            # GP MIN OFFRTG DEFRTG NETRTG	AST% AST/TO	AST_RATIO OREB%	DREB% REB%	TOV% EFG% TS% PACE PIE
+            for player in home_injured:
+                player_on = home_team_conc[1][player]
+                player_off = home_team_conc[2][player]
+                min_ratio = float(player_on[1] / (player_on[1] + player_off[1]))
 
-        for player in away_injured:
-            on_off =  self.team_on_off[away_abr][player]
-            if len(on_off) == 0:
-                continue
-            
-            weight = float(on_off[0].strip('%'))/100
-            
-            for pair in affected_stats_idx:
-                away_stats[pair[1]] -= (weight * float(on_off[pair[0]]))
+                for i in range(2,len(home_stats)):
+                    
 
         return home_stats,away_stats
 
@@ -180,9 +200,9 @@ class Nba_Season():
     def check_injured(self,box_score_page,home_abr,away_abr):
         '''
         Checks list of injured players for a given game and returns a dict mapping teams to injured player
-        box_score_page: string representing URL for a given game
-        home_team: string abbreviation of home team
-        away_team: string abbreviation of away team
+        `box_score_page`: string representing URL for a given game
+        `home_team`: string abbreviation of home team
+        `away_team`: string abbreviation of away team
         '''
         page = requests.get(box_score_page)
         soup = BeautifulSoup(page.content, 'html.parser')
@@ -210,7 +230,7 @@ class Nba_Season():
     def generate_features(self,file_path):
         '''
         Returns lists containing features, samples
-        file_path: path of CSV containing games for a season
+        `file_path`: path of CSV containing games for a season
         '''
         features = []
         samples = []
@@ -237,12 +257,12 @@ class Nba_Season():
 
                     features.append(np.subtract(away_stats,home_stats))
                     samples.append(results)
+                    time.sleep(random.randint(1,3))
                 except Exception as e:
                     print(e)
                     #print(box_score_page)
-                    print("Failed at line: {count} for file: {file_name} LINK: {link}".format(count=line_count,file_name=file_path,link=box_score_page))
+                    print("Failed at count: {count} for file: {file_name} LINK: {link}".format(count=line_count,file_name=file_path,link=box_score_page))
                     fail_count += 1
-                    time.sleep(random.randint(1, 5))
                     if fail_count > 5:
                         self.features = features
                         self.samples = samples
@@ -257,8 +277,8 @@ class Nba_Season():
     def add_bet_info(self,games_path,out_path):
         '''
         Populates CSV with betting info from https://www.vegasinsider.com/nba/odds/las-vegas/
-        file_path: path of CSV containing games
-        out_path: output path for games with betting info
+        `file_path`: path of CSV containing games
+        `out_path`: output path for games with betting info
         '''
 
         fail_count = 0
@@ -335,7 +355,7 @@ class Nba_Season():
     def pop_const_new(self,save_folder='../NBA/on_off_stats/'):
         '''
         Populate team stats and on-off data, exports to .pkl with name '{start}-{end}_team_stats.pkl'
-        save_folder: leading file path to store outputs, default: '../NBA/on_off_stats/'
+        `save_folder`: leading file path to store outputs, default: '../NBA/on_off_stats/'
         '''
         self.pop_team_stats()
 
