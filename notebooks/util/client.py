@@ -196,6 +196,10 @@ class Nba_Season():
             for player in home_injured:
                 player_on = home_team_conc[1][player]
                 player_off = home_team_conc[2][player]
+
+                if len(player_on) == 0 or len(player_off) == 0:
+                    continue
+
                 min_ratio = float(player_on[1] / (home_stats[1]))
 
                 for i in range(2,len(home_stats)):
@@ -205,6 +209,10 @@ class Nba_Season():
             for player in away_injured:
                 player_on = away_team_conc[1][player]
                 player_off = away_team_conc[2][player]
+
+                if len(player_on) == 0 or len(player_off) == 0:
+                    continue
+                
                 min_ratio = float(player_on[1] / (away_stats[1]))
 
                 for i in range(2,len(away_stats)):
