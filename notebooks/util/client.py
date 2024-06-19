@@ -253,10 +253,14 @@ class Nba_Season():
         return self.calc_injury_impact(players_dict,home_abr,away_abr,date)
 
 
-    def generate_features(self,file_path):
+    def generate_features(self,file_path,set_categorical=True):
         '''
         Returns lists containing features, samples
         `file_path`: path of CSV containing games for a season
+        `use_points`: boolean flag to determine wether to create categorical samples or continuous (default True)
+            EX: Los Angeles Lakers,107,Denver Nuggets,119
+            True: sample = [0,1]
+            False: sample = [107,119]
         '''
         features = []
         samples = []
@@ -272,8 +276,11 @@ class Nba_Season():
                     month = self.MONTH_TO_NUM[date_list[1]]
                     day = date_list[2] if len(date_list[2]) == 2 else "0{day}".format(day=date_list[2])
                     year = date_list[3]
-                    # TODO: change to 1d here?
-                    results = [1,0] if away_pt > home_pt else [0,1]
+                    
+                    if set_categorical:
+                        results = [1,0] if away_pt > home_pt else [0,1]
+                    else:
+                        results = [int(away_pt),int(home_pt)]
                     
                     # get box score page
                     box_score_page = "https://www.basketball-reference.com/boxscores/{YEAR}{MO}{DA}0{HOME}.html".format(YEAR=year,MO=month,DA=day,HOME=self.TEAM_NAME_TO_ABR[home_team.upper()])
