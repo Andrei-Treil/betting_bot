@@ -255,9 +255,9 @@ class Nba_Season():
 
     def generate_features(self,file_path,set_categorical=True):
         '''
-        Returns lists containing features, samples
+        Returns lists containing features, samples for a given season
         `file_path`: path of CSV containing games for a season
-        `use_points`: boolean flag to determine wether to create categorical samples or continuous (default True)
+        `set_categorical`: boolean flag to determine wether to create categorical samples or continuous (default True)
             EX: Los Angeles Lakers,107,Denver Nuggets,119
             True: sample = [0,1]
             False: sample = [107,119]
