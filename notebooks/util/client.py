@@ -147,6 +147,13 @@ class Nba_Season():
 
     # calculate injuray impact based on on-off values
     def calc_injury_impact(self,injured,home_abr,away_abr,date):
+        '''
+        Calculate the injury impact for a game based on on/off stats
+        `injured`: dict mapping ABR -> list of injured players
+        `home_abr`: string abbreviation of home team
+        `away_abr`: string abbreviation of away team
+        `date`: date as it appears in CSV, EX: Tue Oct 24 2023
+        '''
 
         home_injured = injured[home_abr]
         away_injured = injured[away_abr]
@@ -189,20 +196,31 @@ class Nba_Season():
             for player in home_injured:
                 player_on = home_team_conc[1][player]
                 player_off = home_team_conc[2][player]
-                min_ratio = float(player_on[1] / (player_on[1] + player_off[1]))
+                min_ratio = float(player_on[1] / (home_stats[1]))
 
                 for i in range(2,len(home_stats)):
-                    
+                    on_off = player_on[i] - player_off[i]
+                    home_stats[i] -= (min_ratio * on_off)
+
+            for player in away_injured:
+                player_on = away_team_conc[1][player]
+                player_off = away_team_conc[2][player]
+                min_ratio = float(player_on[1] / (away_stats[1]))
+
+                for i in range(2,len(away_stats)):
+                    on_off = player_on[i] - player_off[i]
+                    away_stats[i] -= (min_ratio * on_off) # maybe multiply by PIE/100 ?
 
         return home_stats,away_stats
 
 
-    def check_injured(self,box_score_page,home_abr,away_abr):
+    def check_injured(self,box_score_page,home_abr,away_abr,date):
         '''
         Checks list of injured players for a given game and returns a dict mapping teams to injured player
         `box_score_page`: string representing URL for a given game
         `home_team`: string abbreviation of home team
         `away_team`: string abbreviation of away team
+        `date`: date as it appears in CSV, EX: Tue Oct 24 2023
         '''
         page = requests.get(box_score_page)
         soup = BeautifulSoup(page.content, 'html.parser')
@@ -224,7 +242,7 @@ class Nba_Season():
 
             players_dict[curr_team].append(player_name)
 
-        return self.calc_injury_impact(players_dict,home_abr,away_abr)
+        return self.calc_injury_impact(players_dict,home_abr,away_abr,date)
 
 
     def generate_features(self,file_path):
@@ -251,7 +269,7 @@ class Nba_Season():
                     
                     # get box score page
                     box_score_page = "https://www.basketball-reference.com/boxscores/{YEAR}{MO}{DA}0{HOME}.html".format(YEAR=year,MO=month,DA=day,HOME=self.TEAM_NAME_TO_ABR[home_team.upper()])
-                    home_stats,away_stats = self.check_injured(box_score_page,self.TEAM_NAME_TO_ABR[home_team.upper()],self.TEAM_NAME_TO_ABR[away_team.upper()])
+                    home_stats,away_stats = self.check_injured(box_score_page,self.TEAM_NAME_TO_ABR[home_team.upper()],self.TEAM_NAME_TO_ABR[away_team.upper()],date)
                     
                     line_count += 1
 
