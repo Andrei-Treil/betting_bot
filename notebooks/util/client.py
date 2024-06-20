@@ -426,9 +426,9 @@ class Nba_Season():
 
                 except Exception as e:
                     print(e)
-                    #print(box_score_page)
                     print("Failed at count: {count} for file: {file_name} LINK: {link}".format(count=line_count,file_name=file_path,link=box_score_page))
                     fail_count += 1
+                    line_count += 1
                     if fail_count > 5:
                         self.features = features
                         self.samples = samples
