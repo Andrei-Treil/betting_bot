@@ -8,6 +8,16 @@ from collections import defaultdict
 import pickle
 import random
 import pandas as pd
+import itertools
+from tqdm.auto import tqdm
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.common.by import By
+import concurrent
+import concurrent.futures
+
 
 class Nba_Season():
     # CONSTANTS
@@ -186,13 +196,12 @@ class Nba_Season():
                 for pair in affected_stats_idx:
                     away_stats[pair[1]] -= (weight * float(on_off[pair[0]]))
         else:
-            # minute % = min_on / (min_on + min_off)
+            # GP MIN OFFRTG DEFRTG NETRTG	AST% AST/TO	AST_RATIO OREB%	DREB% REB%	TOV% EFG% TS% PACE PIE
             home_team_conc = self.conc[home_abr][date]
             away_team_conc = self.conc[away_abr][date]
-            home_stats = home_team_conc[0]
-            away_stats = away_team_conc[0]
+            home_stats = home_team_conc[0][2:]
+            away_stats = away_team_conc[0][2:]
 
-            # GP MIN OFFRTG DEFRTG NETRTG	AST% AST/TO	AST_RATIO OREB%	DREB% REB%	TOV% EFG% TS% PACE PIE
             for player in home_injured:
                 player_on = home_team_conc[1][player]
                 player_off = home_team_conc[2][player]
@@ -200,9 +209,9 @@ class Nba_Season():
                 if len(player_on) == 0 or len(player_off) == 0:
                     continue
 
-                min_ratio = float(player_on[1] / (home_stats[1]))
+                min_ratio = float(player_on[1] / (home_team_conc[0][1]))
 
-                for i in range(2,len(home_stats)):
+                for i in range(len(home_stats)):
                     on_off = player_on[i] - player_off[i]
                     home_stats[i] -= (min_ratio * on_off)
 
@@ -213,18 +222,18 @@ class Nba_Season():
                 if len(player_on) == 0 or len(player_off) == 0:
                     continue
                 
-                min_ratio = float(player_on[1] / (away_stats[1]))
+                min_ratio = float(player_on[1] / (away_team_conc[0][1]))
 
                 for i in range(2,len(away_stats)):
                     on_off = player_on[i] - player_off[i]
-                    away_stats[i] -= (min_ratio * on_off) # maybe multiply by PIE/100 ?
+                    away_stats[i] -= (min_ratio * on_off)
 
-        return home_stats,away_stats
+        return np.subtract(away_stats,home_stats)
 
 
     def check_injured(self,box_score_page,home_abr,away_abr,date):
         '''
-        Checks list of injured players for a given game and returns a dict mapping teams to injured player
+        Checks list of injured players for a given game and features
         `box_score_page`: string representing URL for a given game
         `home_team`: string abbreviation of home team
         `away_team`: string abbreviation of away team
@@ -251,9 +260,126 @@ class Nba_Season():
             players_dict[curr_team].append(player_name)
 
         return self.calc_injury_impact(players_dict,home_abr,away_abr,date)
+    
+    def check_injured_thread(self,links):
+            '''
+            Threaded implementation of check_injured
+            `box_score_page`: string representing URL for a given game
+            `home_team`: string abbreviation of home team
+            `away_team`: string abbreviation of away team
+            `date`: date as it appears in CSV, EX: Tue Oct 24 2023
+            '''
+            chrome_ops = webdriver.ChromeOptions()
+            chrome_ops.add_argument("--headless=new")
+            chrome_ops.page_load_strategy = 'none'
+            driver = webdriver.Chrome(options=chrome_ops)
+            out = []
+            try:
+                for i in tqdm(range(9, len(links), 10)):
+                    k = 0
+                    batch = []
+                    for j in range(i-9,i+1):
+                        link = links[j]
+                        batch.append(link)
+                        box_score_page = link[0]
+                        driver.get(box_score_page)
+                        k += 1
+                        if k < 10: # change range step to control how many tabs are opened in a batch, current set to 10
+                            driver.execute_script("window.open()")
+                            driver.switch_to.window(driver.window_handles[k])
+
+                    window_list = driver.window_handles
+                    k = 0
+                    time.sleep(1)
+
+                    for window in window_list:
+                        driver.switch_to.window(window)
+                        html = driver.page_source
+                        soup = BeautifulSoup(html, 'html.parser')
+
+                        results = soup.find_all('strong')
+                        player_links = results[3].previous.find_all('a')
+
+                        home_abr = batch[k][1]
+                        away_abr = batch[k][2]
+                        date = batch[k][3]
+
+                        k += 1
+
+                        curr_team = " "
+                        players_dict = {home_abr : [], away_abr : []}
+
+                        for link in player_links:
+                            player_name = link.text.upper()
+                            prev = list(link.previous_sibling.stripped_strings)
+
+                            if prev[0] == home_abr:
+                                curr_team = home_abr
+
+                            elif prev[0] == away_abr:
+                                curr_team = away_abr
+
+                            players_dict[curr_team].append(player_name)
+                    
+                        out.append(self.calc_injury_impact(players_dict,home_abr,away_abr,date))
+                        if len(driver.window_handles) > 1:
+                            driver.close()
+
+                batch = []
+                k = 0
+                remaining = len(links) % 10
+                if remaining > 0:
+                    for i in range(len(links) - remaining, len(links)):
+                        link = links[i]
+                        batch.append(link)
+                        box_score_page = link[0]
+                        driver.get(box_score_page)
+                        k += 1
+                        if k < remaining: # change range step to control how many tabs are opened in a batch, current set to 10
+                            driver.execute_script("window.open()")
+                            driver.switch_to.window(driver.window_handles[k])
+
+                    for window in window_list:
+                        driver.switch_to.window(window)
+                        html = driver.page_source
+                        soup = BeautifulSoup(html, 'html.parser')
+
+                        results = soup.find_all('strong')
+                        player_links = results[3].previous.find_all('a')
+
+                        home_abr = batch[k][1]
+                        away_abr = batch[k][2]
+                        date = batch[k][3]
+
+                        k += 1
+
+                        curr_team = " "
+                        players_dict = {home_abr : [], away_abr : []}
+
+                        for link in player_links:
+                            player_name = link.text.upper()
+                            prev = list(link.previous_sibling.stripped_strings)
+
+                            if prev[0] == home_abr:
+                                curr_team = home_abr
+
+                            elif prev[0] == away_abr:
+                                curr_team = away_abr
+
+                            players_dict[curr_team].append(player_name)
+                    
+                        out.append(self.calc_injury_impact(players_dict,home_abr,away_abr,date))
+                        if len(driver.window_handles) > 1:
+                            driver.close()
+
+            except Exception as e:
+                driver.quit()
+                print(e)
+            driver.quit()
+            return out
 
 
-    def generate_features(self,file_path,set_categorical=True):
+    def generate_features(self,file_path,set_categorical=True,multi_threading=False):
         '''
         Returns lists containing features, samples for a given season
         `file_path`: path of CSV containing games for a season
@@ -262,15 +388,17 @@ class Nba_Season():
             True: sample = [0,1]
             False: sample = [107,119]
         '''
+        
         features = []
         samples = []
+        links = []
         line_count = 1
         fail_count = 0
 
         # construct data set, consisting of team misc stats as features and win/loss as samples
         with open(file_path, mode='r') as f:
-            lines = csv.reader(f)
-            for date,away_team,away_pt,home_team,home_pt in lines:
+            lines = list(csv.reader(f))
+            for date,away_team,away_pt,home_team,home_pt in tqdm(lines):
                 try:
                     date_list = date.split()
                     month = self.MONTH_TO_NUM[date_list[1]]
@@ -282,15 +410,20 @@ class Nba_Season():
                     else:
                         results = [int(away_pt),int(home_pt)]
                     
+                    samples.append(results)
+
+                    # time.sleep(random.uniform(1,3))
                     # get box score page
                     box_score_page = "https://www.basketball-reference.com/boxscores/{YEAR}{MO}{DA}0{HOME}.html".format(YEAR=year,MO=month,DA=day,HOME=self.TEAM_NAME_TO_ABR[home_team.upper()])
-                    home_stats,away_stats = self.check_injured(box_score_page,self.TEAM_NAME_TO_ABR[home_team.upper()],self.TEAM_NAME_TO_ABR[away_team.upper()],date)
-                    
+                    if multi_threading:
+                        links.append([box_score_page,self.TEAM_NAME_TO_ABR[home_team.upper()],self.TEAM_NAME_TO_ABR[away_team.upper()],date])
+                    else:
+                        feats = self.check_injured(box_score_page,self.TEAM_NAME_TO_ABR[home_team.upper()],self.TEAM_NAME_TO_ABR[away_team.upper()],date)
+                        time.sleep(random.randint(1,3))
+                        features.append(feats)
+                        
                     line_count += 1
 
-                    features.append(np.subtract(away_stats,home_stats))
-                    samples.append(results)
-                    time.sleep(random.randint(1,3))
                 except Exception as e:
                     print(e)
                     #print(box_score_page)
@@ -302,6 +435,20 @@ class Nba_Season():
                         print("Too many failures, terminating feature generation")
                         return features,samples
                     continue
+
+            if multi_threading:
+                all_batches = []
+                num_workers = 5
+                batch_size = len(links) // num_workers
+
+                for i in range(0,len(links),int(batch_size)):
+                    all_batches.append(links[i:i+batch_size])
+
+                with concurrent.futures.ThreadPoolExecutor(max_workers=num_workers) as executor:
+                    features = list(executor.map(self.check_injured_thread,all_batches))
+                
+                # features = self.check_injured_thread(links)
+
         self.features = features
         self.samples = samples
         return features,samples
