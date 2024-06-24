@@ -261,9 +261,9 @@ class Nba_Season():
 
         return self.calc_injury_impact(players_dict,home_abr,away_abr,date)
     
-    def check_injured_thread(self,links):
+    def check_injured_selen(self,links):
             '''
-            Threaded implementation of check_injured
+            Implementation of check_injured using Selenium
             `box_score_page`: string representing URL for a given game
             `home_team`: string abbreviation of home team
             `away_team`: string abbreviation of away team
@@ -379,7 +379,7 @@ class Nba_Season():
             return out
 
 
-    def generate_features(self,file_path,set_categorical=True,multi_threading=False):
+    def generate_features(self,file_path,set_categorical=True,use_selenium=False):
         '''
         Returns lists containing features, samples for a given season
         `file_path`: path of CSV containing games for a season
@@ -387,6 +387,7 @@ class Nba_Season():
             EX: Los Angeles Lakers,107,Denver Nuggets,119
             True: sample = [0,1]
             False: sample = [107,119]
+        `use_selenium`: boolean flag to use selenium for scraping (suggested if requests being blocked)
         '''
         
         features = []
@@ -415,7 +416,7 @@ class Nba_Season():
                     # time.sleep(random.uniform(1,3))
                     # get box score page
                     box_score_page = "https://www.basketball-reference.com/boxscores/{YEAR}{MO}{DA}0{HOME}.html".format(YEAR=year,MO=month,DA=day,HOME=self.TEAM_NAME_TO_ABR[home_team.upper()])
-                    if multi_threading:
+                    if use_selenium:
                         links.append([box_score_page,self.TEAM_NAME_TO_ABR[home_team.upper()],self.TEAM_NAME_TO_ABR[away_team.upper()],date])
                     else:
                         feats = self.check_injured(box_score_page,self.TEAM_NAME_TO_ABR[home_team.upper()],self.TEAM_NAME_TO_ABR[away_team.upper()],date)
@@ -436,7 +437,7 @@ class Nba_Season():
                         return features,samples
                     continue
 
-            if multi_threading:
+            if use_selenium:
                 all_batches = []
                 num_workers = 5
                 batch_size = len(links) // num_workers
@@ -447,8 +448,6 @@ class Nba_Season():
                 with concurrent.futures.ThreadPoolExecutor(max_workers=num_workers) as executor:
                     features = list(executor.map(self.check_injured_thread,all_batches))
                 
-                # features = self.check_injured_thread(links)
-
         self.features = features
         self.samples = samples
         return features,samples
@@ -553,5 +552,5 @@ class Nba_Season():
         '''
         Save features and samples to SAVE_PATH
         '''
-        np.savetxt('{save_path}{start_year}-{end_year}_nba_features_inj.csv'.format(save_path=save_path,start_year=self.start_year,end_year=self.end_year), self.features, delimiter=',')
-        np.savetxt('{save_path}{start_year}-{end_year}_nba_samples_inj.csv'.format(save_path=save_path,start_year=self.start_year,end_year=self.end_year), self.samples, delimiter=',')
+        np.savetxt('{save_path}{start_year}-{end_year}_nba_features.csv'.format(save_path=save_path,start_year=self.start_year,end_year=self.end_year), self.features, delimiter=',')
+        np.savetxt('{save_path}{start_year}-{end_year}_nba_samples.csv'.format(save_path=save_path,start_year=self.start_year,end_year=self.end_year), self.samples, delimiter=',')
