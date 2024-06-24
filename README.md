@@ -1,25 +1,25 @@
 # Welcome
 This project is an attempt to analyze NBA games using neural networks in order to make accurate betting predictions. Currently, this project is able to scrape data for a given NBA season to train a scikit MLP. 
 
-Tools for scraping the necessary data as well as generating features and samples are present in [`util/client.py`](util/client.py). For examples on how to use these tools, see the notebook [`mlp_betting.ipynb`](notebooks/mlp_betting.ipynb).
+Tools for scraping the necessary data as well as generating features and samples are present in [`util/client.py`](notebooks/util/client.py). For examples on how to use these tools, see the notebook [`mlp_betting.ipynb`](notebooks/mlp_betting.ipynb).
 
 Currently, new work is being done in [`bnn_betting.ipynb`](notebooks/bnn_betting.ipynb), which explores the application of Bayesian Neural Networks for this task
 
 # Structure
 ### Datasets
 - All collected datasets are contained within the NBA folder, containing 4 sub folders:
-  - [`old_games_inj`](/NBA/old_games_inj): Game information for individual seasons, consisting of involved teams and points scored
-  - [`old_on_off_stats`](/NBA/old_on_off_stats): On/off statistics and injury information for each season
-  - [`old_samps_feats`](/NBA/old_samps_feats): Features and samples for seasons generated from on/off statistics and adjusted for injury
+  - [`games`](/NBA/games): Game information for individual seasons, consisting of involved teams and points scored
+  - [`on_off_stats`](/NBA/on_off_stats): On/off statistics and injury information for each season
+  - [`samps_feats`](/NBA/samps_feats): Features and samples for seasons generated from on/off statistics and adjusted for injury
   - [`with_bets`](/NBA/with_bets): Game information for individual seaons, including betting lines
 
 These datasets were generated using [`util/client.py`](util/client.py) by scraping relevant information from basketball reference and vegas insider
 
 ### Utils
-- [`client.py`](util/client.py)
+- [`client.py`](notebooks/util/client.py)
   - Class for scraping data on an individual season
   - Generates on/off statistics and accounts for injuries
-- [`NeuralNet.py`](util/NeuralNet.py)
+- [`NeuralNet.py`](notebooks/util/NeuralNet.py)
   - Custom neural network design
 
 ### Notebooks
