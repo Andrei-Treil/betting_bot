@@ -682,7 +682,8 @@ def BNN_kelly(preds,actual,money_lines,one_hot=False,diff_thresh=0.05,diff_cap=0
 
     return correct,guessed,team_bet,probs,amount,gained
 
-def pred_performance(predictive: Predictive,x_train: torch.Tensor,x_test: torch.Tensor,y_train: torch.Tensor,y_test: torch.Tensor,use_obs=True,use_ret=True):
+def pred_performance(predictive: Predictive,x_train: torch.Tensor,x_test: torch.Tensor,y_train: torch.Tensor,
+                     y_test: torch.Tensor,use_obs=True,use_ret=True,categorical=True):
     '''
     Prints confusion matrix and classification reports of a Predictive pyro object on training and test data, using "obs" and "_RETURN" flags
 
@@ -693,6 +694,7 @@ def pred_performance(predictive: Predictive,x_train: torch.Tensor,x_test: torch.
     `y_test`: Tensor containingoutputs for x_test
     `use_obs`: Boolean flag to use the "obs" flag for predictive
     `use_ret`: Boolean flag to use the "_RETURN" flag for predictive
+    `categorical`: Boolean flag to determine whether samples are categorical
     '''
 
     y_train_1d = [0 if j[0] == 0 else 1 for j in y_train] # [0,1] -> home win -> 0 indicates home win, 1 indicates away
@@ -710,7 +712,11 @@ def pred_performance(predictive: Predictive,x_train: torch.Tensor,x_test: torch.
     print('---TRAINING SET---')
 
     if use_obs:
-        obs_preds = train_preds['obs'].float().mean(axis=1).float().mean(axis=0)
+        if categorical:
+            obs_preds = train_preds['obs'].float().mean(axis=1).float().mean(axis=0)
+        else:
+            obs_preds = train_preds['obs'].float().mean(axis=0)
+
         adj_train_preds = [0 if p[0] < p[1] else 1 for p in obs_preds]
         print('OBS:')
         print('TN, FP, FN, TP')
@@ -728,7 +734,11 @@ def pred_performance(predictive: Predictive,x_train: torch.Tensor,x_test: torch.
     print('---TEST SET---')
 
     if use_obs:
-        obs_preds = test_preds['obs'].float().mean(axis=1).float().mean(axis=0)
+        if categorical:
+            obs_preds = test_preds['obs'].float().mean(axis=1).float().mean(axis=0)
+        else:
+            obs_preds = test_preds['obs'].float().mean(axis=0)
+
         adj_test_preds = [0 if p[0] < p[1] else 1 for p in obs_preds]
         print('OBS:')
         print('TN, FP, FN, TP')
@@ -744,7 +754,7 @@ def pred_performance(predictive: Predictive,x_train: torch.Tensor,x_test: torch.
         print(classification_report(y_test_1d,adj_test_preds))
 
 def make_bets(predictive,bet_data_train,bet_data_test,bet_train,bet_test,bet_samps_train,
-              bet_samps_test,use_obs=True,use_ret=True,diff_thresh=0.05,diff_cap=0.25):
+              bet_samps_test,use_obs=True,use_ret=True,diff_thresh=0.05,diff_cap=0.25,categorical=True):
     
     '''
     Places bets using predictions made by a Pyro predictive object using the kelly critereon
@@ -760,6 +770,7 @@ def make_bets(predictive,bet_data_train,bet_data_test,bet_train,bet_test,bet_sam
     `use_ret`: Boolean flag to use the "_RETURN" flag for predictive
     `diff_thresh`: Minimum difference between implied odds and predicted
     `diff_thresh`: Maximum difference between implied odds and predicted
+    `categorical`: Boolean flag to determine whether samples are categorical
     '''
     
     if use_obs == False and use_ret == False:
@@ -777,7 +788,11 @@ def make_bets(predictive,bet_data_train,bet_data_test,bet_train,bet_test,bet_sam
 
     print('PREDICTIONS ON 2022-2023 DATA (SEEN IN TRAINING)')
     if use_obs:
-        new_y_pred = train_preds['obs'].float().mean(axis=1).float().mean(axis=0)
+        if categorical:
+            new_y_pred = train_preds['obs'].float().mean(axis=1).float().mean(axis=0)
+        else:
+            new_y_pred = train_preds['obs'].float().mean(axis=0)
+
         print('Using OBS:')
         print(f'max confidence: {new_y_pred.max():.2f}')
         correct,guessed,team_bet,probs,amount,gained = BNN_kelly(new_y_pred,bet_samps_train_1d,bet_data_train[1:],one_hot=True,diff_thresh=diff_thresh,diff_cap=diff_cap)
@@ -801,7 +816,11 @@ def make_bets(predictive,bet_data_train,bet_data_test,bet_train,bet_test,bet_sam
     print('PREDICTIONS ON 2023-2024 DATA (UNSEEN)')
     if use_obs:
         print('Using OBS:')
-        new_y_pred = test_preds['obs'].float().mean(axis=1).float().mean(axis=0)
+        if categorical:
+            new_y_pred = test_preds['obs'].float().mean(axis=1).float().mean(axis=0)
+        else:
+            new_y_pred = test_preds['obs'].float().mean(axis=0)
+            
         print(f'max confidence: {new_y_pred.max():.2f}')
         correct,guessed,team_bet,probs,amount,gained = BNN_kelly(new_y_pred,bet_samps_test_1d,bet_data_test[1:],one_hot=True,diff_thresh=diff_thresh,diff_cap=diff_cap)
         print(f'correct: {correct}')
