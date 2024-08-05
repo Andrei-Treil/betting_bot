@@ -682,14 +682,13 @@ def BNN_kelly(preds,actual,money_lines,one_hot=False,diff_thresh=0.05,diff_cap=0
 
     return correct,guessed,team_bet,probs,amount,gained
 
-def pred_performance(predictive: Predictive,x_train: torch.Tensor,x_test: torch.Tensor,y_train: torch.Tensor,
+def pred_performance(train_preds: Predictive,test_preds: Predictive,y_train: torch.Tensor,
                      y_test: torch.Tensor,use_obs=True,use_ret=True,categorical=True):
     '''
     Prints confusion matrix and classification reports of a Predictive pyro object on training and test data, using "obs" and "_RETURN" flags
 
-    `predictive`: Pyro predictive object based on a trained model
-    `x_train`: Tensor containing training data for predictive
-    `x_test`: Tensor containing testing data for predictive
+    `train_preds`: Tensor containing Pyro prediction object on training data
+    `test_preds`: Tensor containing Pyro prediction object on test data
     `y_train`: Tensor containing outputs for x_train
     `y_test`: Tensor containingoutputs for x_test
     `use_obs`: Boolean flag to use the "obs" flag for predictive
@@ -703,11 +702,6 @@ def pred_performance(predictive: Predictive,x_train: torch.Tensor,x_test: torch.
     if use_obs == False and use_ret == False:
         print('ERROR: set "use_obs" or "use_ret" to True')
         return
-    
-    pyro.clear_param_store()
-    train_preds = predictive(x_train)
-    pyro.clear_param_store()
-    test_preds = predictive(x_test)
 
     print('---TRAINING SET---')
 
@@ -753,17 +747,16 @@ def pred_performance(predictive: Predictive,x_train: torch.Tensor,x_test: torch.
         print(confusion_matrix(y_test_1d,adj_test_preds).ravel())
         print(classification_report(y_test_1d,adj_test_preds))
 
-def make_bets(predictive,bet_data_train,bet_data_test,bet_train,bet_test,bet_samps_train,
+def make_bets(train_preds,test_preds,bet_data_train,bet_data_test,bet_samps_train,
               bet_samps_test,use_obs=True,use_ret=True,diff_thresh=0.05,diff_cap=0.25,categorical=True):
     
     '''
     Places bets using predictions made by a Pyro predictive object using the kelly critereon
 
-    `predictive`: Pyro predictive object based on a trained model
+    `train_preds`: Tensor containing Pyro prediction object on training data
+    `test_preds`: Tensor containing Pyro prediction object on test data
     `bet_data_train`: Arraylike containing betting data for training
     `bet_data_test`: Arraylike containing betting data for testing
-    `bet_train`: Arraylike containing training data for predictive
-    `bet_test`: Arraylike containing testing data for predictive
     `bet_samps_train`: Arraylike containing training samples
     `bet_samps_test`: Arraylike containing test samples
     `use_obs`: Boolean flag to use the "obs" flag for predictive
@@ -779,11 +772,6 @@ def make_bets(predictive,bet_data_train,bet_data_test,bet_train,bet_test,bet_sam
     
     bet_samps_train_1d = [0 if j[0] < j[1] else 1 for j in bet_samps_train]
     bet_samps_test_1d = [0 if j[0] < j[1] else 1 for j in bet_samps_test]
-
-    pyro.clear_param_store()
-    train_preds = predictive(bet_train)
-    pyro.clear_param_store()
-    test_preds = predictive(bet_test)
 
 
     print('PREDICTIONS ON 2022-2023 DATA (SEEN IN TRAINING)')
