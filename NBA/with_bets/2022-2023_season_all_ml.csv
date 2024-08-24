@@ -1,0 +1,1321 @@
+date,away_team,away_pt,home_team,home_pt,away_open,away_fduel,away_bmgm,away_czr,away_dking,away_rivers,away_vinsider,home_open,home_fduel,home_bmgm,home_czr,home_dking,home_rivers,home_vinsider
+Tue Oct 18 2022,Philadelphia 76ers,117,Boston Celtics,126,+158,+122,+125,+130,+125,+123,+122,-188,-144,-155,-155,-145,-148,-144
+Tue Oct 18 2022,Los Angeles Lakers,109,Golden State Warriors,123,+200,+245,+250,+250,+240,+230,+245,-245,-300,-300,-320,-285,-295,-300
+Wed Oct 19 2022,Orlando Magic,109,Detroit Pistons,113,+160,+138,+135,+130,+145,+135,+138,-190,-164,-160,-155,-170,-162,-164
+Wed Oct 19 2022,Washington Wizards,114,Indiana Pacers,107,-142,-142,-140,-140,-140,-132,-142,+120,+120,+115,+118,+120,+110,+120
+Wed Oct 19 2022,Houston Rockets,107,Atlanta Hawks,117,+360,+420,+375,+400,+400,+370,+400,-460,-560,-500,-550,-500,-500,-520
+Wed Oct 19 2022,New Orleans Pelicans,130,Brooklyn Nets,108,+126,+126,+125,+126,+135,+118,+126,-148,-148,-150,-150,-155,-141,-148
+Wed Oct 19 2022,New York Knicks,112,Memphis Grizzlies,115,+235,+160,+155,+158,+165,+160,+160,-290,-190,-190,-190,-195,-186,-190
+Wed Oct 19 2022,Chicago Bulls,116,Miami Heat,108,+210,+250,+240,+250,+245,+240,+250,-255,-310,-300,-320,-295,-315,-310
+Wed Oct 19 2022,Cleveland Cavaliers,105,Toronto Raptors,108,+130,+122,+120,+115,+120,+112,+122,-154,-144,-145,-135,-140,-134,-144
+Wed Oct 19 2022,Oklahoma City Thunder,108,Minnesota Timberwolves,115,+540,+500,+400,+460,+450,+430,+500,-770,-700,-550,-650,-600,-590,-700
+Wed Oct 19 2022,Charlotte Hornets,129,San Antonio Spurs,102,-142,-116,-110,-115,-110,-112,-116,+120,-104,-110,-105,-110,-107,-104
+Wed Oct 19 2022,Denver Nuggets,102,Utah Jazz,123,-335,-275,-275,-278,-260,-250,-275,+270,+225,+225,+222,+220,+205,+225
+Wed Oct 19 2022,Dallas Mavericks,105,Phoenix Suns,107,+180,+146,+150,+152,+150,+150,+146,-215,-174,-185,-180,-175,-180,-174
+Wed Oct 19 2022,Portland Trail Blazers,115,Sacramento Kings,108,+102,+140,+125,+130,+135,+118,+140,-120,-166,-155,-155,-155,-141,-166
+Thu Oct 20 2022,Milwaukee Bucks,90,Philadelphia 76ers,88,+130,+146,+145,+150,+155,+150,+146,-154,-174,-175,-178,-180,-180,-174
+Thu Oct 20 2022,Los Angeles Clippers,103,Los Angeles Lakers,97,-200,-196,-190,-205,-195,-200,-190,+168,+164,+155,+170,+165,+163,+160
+Fri Oct 21 2022,New Orleans Pelicans,124,Charlotte Hornets,112,-240,-270,-275,-285,-265,-250,-270,+198,+220,+220,+228,+225,+210,+220
+Fri Oct 21 2022,San Antonio Spurs,137,Indiana Pacers,134,+130,even,even,+105,even,-105,even,-154,-118,-120,-125,-120,-114,-118
+Fri Oct 21 2022,Chicago Bulls,100,Washington Wizards,102,+104,+108,+110,+110,+105,+110,+108,-122,-126,-135,-130,-125,-132,-126
+Fri Oct 21 2022,Orlando Magic,98,Atlanta Hawks,108,+295,+340,+300,+320,+300,+310,+340,-370,-430,-400,-420,-365,-400,-430
+Fri Oct 21 2022,Toronto Raptors,105,Brooklyn Nets,109,+130,+118,+115,+122,+125,+123,+118,-154,-138,-140,-145,-145,-143,-138
+Fri Oct 21 2022,Boston Celtics,111,Miami Heat,104,-126,-124,-135,-135,-130,-139,-124,+108,+106,+110,+115,+110,+117,+106
+Fri Oct 21 2022,Detroit Pistons,106,New York Knicks,130,+220,+235,+240,+240,+235,+220,+235,-270,-290,-300,-305,-280,-278,-290
+Fri Oct 21 2022,Memphis Grizzlies,129,Houston Rockets,122,-215,-275,-275,-285,-285,-265,-270,+180,+225,+220,+228,+240,+215,+220
+Fri Oct 21 2022,Utah Jazz,132,Minnesota Timberwolves,126,+290,+270,+260,+270,+270,+255,+270,-360,-335,-350,-345,-325,-315,-335
+Fri Oct 21 2022,Denver Nuggets,128,Golden State Warriors,123,+198,+198,+180,+180,+180,+175,+198,-240,-240,-225,-220,-210,-215,-240
+Fri Oct 21 2022,Phoenix Suns,111,Portland Trail Blazers,113,-164,-215,-225,-210,-205,-215,-215,+138,+180,+180,+175,+175,+170,+180
+Sat Oct 22 2022,San Antonio Spurs,114,Philadelphia 76ers,105,+640,+660,+600,+550,+600,+600,+660,-950,-1000,-900,-800,-850,-910,-1000
+Sat Oct 22 2022,Detroit Pistons,115,Indiana Pacers,124,-116,-108,-110,-105,-105,-110,-108,-102,-108,-110,-115,-115,-108,-108
+Sat Oct 22 2022,Boston Celtics,126,Orlando Magic,120,-320,-375,-375,-400,-380,-360,-375,+260,+300,+290,+310,+310,+280,+300
+Sat Oct 22 2022,Cleveland Cavaliers,128,Chicago Bulls,96,-120,-110,-125,-125,-120,-122,-110,+102,-106,+105,+105,even,+104,-106
+Sat Oct 22 2022,Toronto Raptors,109,Miami Heat,112,+118,+130,+135,+140,+140,+123,+130,-138,-154,-160,-165,-165,-150,-154
+Sat Oct 22 2022,Houston Rockets,105,Milwaukee Bucks,125,+640,+610,+650,+650,+625,+575,+610,-950,-900,-1000,-1000,-900,-835,-900
+Sat Oct 22 2022,Memphis Grizzlies,96,Dallas Mavericks,137,+176,+184,+180,+185,+190,+170,+188,-210,-220,-225,-225,-225,-210,-225
+Sat Oct 22 2022,Oklahoma City Thunder,117,Denver Nuggets,122,+280,+310,+320,+320,+300,+265,+310,-350,-390,-400,-420,-365,-335,-390
+Sat Oct 22 2022,Los Angeles Clippers,111,Sacramento Kings,109,-144,-142,-140,-140,-140,-127,-142,+122,+120,+115,+118,+120,+107,+120
+Sun Oct 23 2022,Portland Trail Blazers,106,Los Angeles Lakers,104,+134,+148,+145,+150,+150,+140,+148,-158,-176,-175,-178,-175,-167,-176
+Sun Oct 23 2022,Charlotte Hornets,126,Atlanta Hawks,109,+385,+370,+360,+360,+360,+360,+370,-500,-480,-500,-480,-450,-455,-480
+Sun Oct 23 2022,Washington Wizards,107,Cleveland Cavaliers,117,+134,+138,+135,+140,+140,+135,+138,-158,-164,-160,-165,-165,-162,-164
+Sun Oct 23 2022,Utah Jazz,122,New Orleans Pelicans,121,+270,+270,+280,+275,+275,+285,+280,-335,-335,-350,-350,-330,-360,-350
+Sun Oct 23 2022,Minnesota Timberwolves,116,Oklahoma City Thunder,106,-320,-420,-500,-440,-425,-400,-420,+260,+330,+360,+335,+340,+310,+330
+Sun Oct 23 2022,Sacramento Kings,125,Golden State Warriors,130,+350,+370,+360,+360,+370,+370,+370,-450,-480,-500,-480,-460,-530,-480
+Sun Oct 23 2022,Phoenix Suns,112,Los Angeles Clippers,95,+108,-116,-110,-125,-125,-115,-116,-126,-102,-110,+105,+105,-104,-102
+Mon Oct 24 2022,Indiana Pacers,106,Philadelphia 76ers,120,+540,+640,+575,+550,+550,+525,+640,-770,-950,-900,-800,-750,-770,-950
+Mon Oct 24 2022,Toronto Raptors,98,Miami Heat,90,+134,+142,+135,+143,+140,+145,+142,-158,-168,-160,-170,-165,-177,-168
+Mon Oct 24 2022,Orlando Magic,102,New York Knicks,115,+240,+245,+240,+250,+245,+235,+245,-295,-300,-300,-320,-295,-286,-300
+Mon Oct 24 2022,Boston Celtics,102,Chicago Bulls,120,-190,-200,-250,-220,-215,-220,-200,+160,+168,+195,+180,+185,+180,+168
+Mon Oct 24 2022,Utah Jazz,108,Houston Rockets,114,-102,-142,-140,-140,-135,-134,-142,-116,+120,+115,+118,+115,+112,+120
+Mon Oct 24 2022,Brooklyn Nets,124,Memphis Grizzlies,134,+108,-104,-105,even,+105,-104,-104,-126,-112,-115,-120,-125,-115,-112
+Mon Oct 24 2022,San Antonio Spurs,115,Minnesota Timberwolves,106,+360,+310,+275,+278,+290,+290,+310,-460,-390,-350,-355,-350,-360,-390
+Mon Oct 24 2022,Denver Nuggets,110,Portland Trail Blazers,135,-158,-215,-200,-205,-205,-200,-215,+134,+180,+165,+170,+175,+163,+180
+Tue Oct 25 2022,Detroit Pistons,99,Washington Wizards,120,+180,+184,+180,+185,+190,+180,+184,-215,-210,-225,-225,-225,-215,-210
+Tue Oct 25 2022,Dallas Mavericks,111,New Orleans Pelicans,113,-146,-225,-250,-210,-215,-215,-225,+124,+190,+190,+175,+185,+175,+190
+Tue Oct 25 2022,Los Angeles Clippers,94,Oklahoma City Thunder,108,-500,-225,-225,-225,-225,-205,-225,+385,+188,+180,+185,+190,+170,+188
+Tue Oct 25 2022,Golden State Warriors,105,Phoenix Suns,134,+120,even,+105,+105,even,+104,even,-142,-118,-125,-125,-120,-122,-118
+Wed Oct 26 2022,Orlando Magic,92,Cleveland Cavaliers,103,+265,+310,+300,+320,+330,+300,+310,-330,-390,-375,-420,-410,-385,-390
+Wed Oct 26 2022,Atlanta Hawks,118,Detroit Pistons,113,-300,-320,-350,-320,-305,-286,-320,+245,+250,+260,+250,+255,+235,+250
+Wed Oct 26 2022,Brooklyn Nets,99,Milwaukee Bucks,110,+146,+128,+125,+130,+130,+132,+128,-174,-152,-155,-155,-150,-157,-152
+Wed Oct 26 2022,Charlotte Hornets,131,New York Knicks,134,+260,+245,+240,+250,+255,+235,+245,-320,-300,-300,-320,-305,-286,-300
+Wed Oct 26 2022,Philadelphia 76ers,109,Toronto Raptors,119,-112,-124,-110,-105,-105,-115,-124,-104,even,-110,-115,-115,-104,even
+Wed Oct 26 2022,Indiana Pacers,109,Chicago Bulls,124,+270,+225,+240,+228,+230,+215,+225,-335,-275,-300,-285,-275,-265,-275
+Wed Oct 26 2022,San Antonio Spurs,122,Minnesota Timberwolves,134,+280,+370,+333,+360,+350,+320,+370,-350,-480,-450,-480,-435,-400,-480
+Wed Oct 26 2022,Houston Rockets,101,Utah Jazz,109,+198,+280,+300,+278,+280,+240,+280,-240,-350,-375,-355,-340,-305,-350
+Wed Oct 26 2022,Los Angeles Lakers,99,Denver Nuggets,110,+220,+160,+180,+162,+165,+160,+160,-270,-190,-225,-195,-195,-190,-190
+Wed Oct 26 2022,Miami Heat,119,Portland Trail Blazers,98,-102,-148,-145,-145,-140,-137,-148,-116,+126,+120,+122,+120,+114,+126
+Thu Oct 27 2022,Dallas Mavericks,129,Brooklyn Nets,125,-124,-146,-150,-145,-145,-150,-146,+106,+124,+125,+122,+125,+125,+124
+Thu Oct 27 2022,Los Angeles Clippers,110,Oklahoma City Thunder,118,-290,-255,-275,-278,-255,-275,-255,+235,+210,+230,+222,+215,+220,+210
+Thu Oct 27 2022,Miami Heat,110,Golden State Warriors,123,+245,+190,+180,+180,+185,+195,+190,-300,-230,-225,-220,-215,-235,-230
+Thu Oct 27 2022,Memphis Grizzlies,125,Sacramento Kings,110,-162,-144,-150,-140,-140,-141,-144,+136,+122,+125,+118,+120,+120,+122
+Fri Oct 28 2022,Atlanta Hawks,136,Detroit Pistons,112,-280,-240,-250,-225,-210,-230,-250,+230,+198,+195,+185,+180,+188,+205
+Fri Oct 28 2022,Charlotte Hornets,93,Orlando Magic,113,-138,-118,-125,-125,-120,-122,-118,+118,even,+105,+105,even,+102,even
+Fri Oct 28 2022,Cleveland Cavaliers,132,Boston Celtics,123,+194,+220,+240,+210,+225,+225,+220,-235,-270,-300,-260,-265,-275,-270
+Fri Oct 28 2022,Philadelphia 76ers,112,Toronto Raptors,90,+102,+152,+135,+140,+150,+138,+152,-120,-180,-160,-165,-175,-165,-180
+Fri Oct 28 2022,Indiana Pacers,127,Washington Wizards,117,+225,+166,+165,+158,+160,+163,+166,-275,-198,-200,-190,-190,-200,-198
+Fri Oct 28 2022,New York Knicks,108,Milwaukee Bucks,119,+245,+198,+195,+205,+195,+195,+198,-300,-240,-250,-250,-230,-235,-240
+Fri Oct 28 2022,Los Angeles Lakers,102,Minnesota Timberwolves,111,+240,+270,+260,+250,+275,+255,+270,-295,-335,-350,-320,-330,-315,-335
+Fri Oct 28 2022,Chicago Bulls,124,San Antonio Spurs,129,-196,-166,-190,-180,-180,-177,-166,+164,+140,+155,+152,+155,+148,+140
+Fri Oct 28 2022,Utah Jazz,101,Denver Nuggets,117,+275,+260,+230,+250,+245,+255,+260,-340,-320,-300,-320,-295,-335,-320
+Fri Oct 28 2022,New Orleans Pelicans,111,Phoenix Suns,124,+205,+290,+275,+270,+270,+260,+290,-250,-360,-350,-345,-325,-335,-360
+Fri Oct 28 2022,Houston Rockets,111,Portland Trail Blazers,125,+180,+156,+145,+158,+155,+143,+156,-215,-186,-175,-190,-180,-175,-186
+Sat Oct 29 2022,Miami Heat,113,Sacramento Kings,119,N/A,-172,-165,-180,-175,-175,-172,N/A,+144,+140,+152,+150,+145,+144
+Sat Oct 29 2022,Golden State Warriors,113,Charlotte Hornets,120,N/A,-480,-500,-480,-490,-500,-480,N/A,+370,+360,+360,+390,+350,+370
+Sat Oct 29 2022,Indiana Pacers,125,Brooklyn Nets,116,N/A,+460,+450,+430,+440,+420,+460,N/A,-620,-650,-600,-580,-560,-620
+Sat Oct 29 2022,Philadelphia 76ers,114,Chicago Bulls,109,N/A,-136,-140,-140,-135,-139,-136,N/A,+118,+115,+118,+115,+117,+118
+Sat Oct 29 2022,Atlanta Hawks,115,Milwaukee Bucks,123,N/A,+176,+180,+185,+180,+185,+176,N/A,-210,-225,-225,-210,-225,-210
+Sat Oct 29 2022,Oklahoma City Thunder,117,Dallas Mavericks,111,N/A,+385,+375,+400,+400,+370,+385,N/A,-500,-500,-550,-500,-500,-500
+Sat Oct 29 2022,Memphis Grizzlies,123,Utah Jazz,124,N/A,-156,-160,-165,-155,-155,-156,N/A,+132,+135,+140,+135,+128,+132
+Sun Oct 30 2022,New Orleans Pelicans,112,Los Angeles Clippers,91,+132,+102,+110,+110,+110,+114,+102,-156,-120,-130,-130,-130,-136,-120
+Sun Oct 30 2022,Washington Wizards,94,Boston Celtics,112,+280,+340,+350,+345,+340,+335,+340,-350,-430,-450,-455,-425,-455,-430
+Sun Oct 30 2022,New York Knicks,108,Cleveland Cavaliers,121,+166,+128,+135,+143,+140,+148,+128,-198,-152,-165,-170,-165,-177,-152
+Sun Oct 30 2022,Golden State Warriors,114,Detroit Pistons,128,-370,-300,-350,-320,-275,-345,-300,+295,+245,+260,+250,+230,+235,+245
+Sun Oct 30 2022,Minnesota Timberwolves,98,San Antonio Spurs,107,-245,-255,-250,-225,-230,-220,-255,+198,+210,+190,+185,+195,+180,+210
+Sun Oct 30 2022,Orlando Magic,105,Dallas Mavericks,114,+360,+315,+310,+320,+320,+320,+315,-460,-400,-400,-420,-390,-400,-400
+Sun Oct 30 2022,Houston Rockets,109,Phoenix Suns,124,+540,+570,+600,+600,+600,+540,+570,-770,-820,-900,-900,-850,-770,-820
+Sun Oct 30 2022,Denver Nuggets,110,Los Angeles Lakers,121,-162,-142,-140,-145,-145,-129,-142,+136,+118,+115,+122,+125,+108,+118
+Mon Oct 31 2022,Sacramento Kings,115,Charlotte Hornets,108,-116,-164,-155,-170,-165,-165,-164,-102,+138,+125,+143,+140,+135,+138
+Mon Oct 31 2022,Philadelphia 76ers,118,Washington Wizards,111,-205,-152,-140,-140,-145,-148,-152,+172,+128,+115,+118,+125,+125,+128
+Mon Oct 31 2022,Indiana Pacers,109,Brooklyn Nets,116,+275,+265,+260,+270,+265,+240,+265,-340,-330,-350,-345,-320,-295,-330
+Mon Oct 31 2022,Atlanta Hawks,109,Toronto Raptors,139,+152,+104,+110,+110,+115,+106,+104,-180,-122,-135,-130,-135,-125,-122
+Mon Oct 31 2022,Detroit Pistons,108,Milwaukee Bucks,110,+610,+570,+550,+600,+625,+575,+570,-900,-820,-800,-900,-900,-910,-820
+Mon Oct 31 2022,Memphis Grizzlies,105,Utah Jazz,121,-158,-148,-140,-155,-150,-148,-142,+134,+126,+115,+130,+130,+120,+120
+Mon Oct 31 2022,Houston Rockets,93,Los Angeles Clippers,95,+340,+285,+310,+310,+290,+285,+285,-430,-355,-400,-400,-350,-360,-355
+Tue Nov 1 2022,Chicago Bulls,108,Brooklyn Nets,99,+118,+114,+105,+115,+115,+105,+114,-138,-134,-130,-135,-135,-125,-134
+Tue Nov 1 2022,Golden State Warriors,109,Miami Heat,116,-108,-108,-105,-105,even,-103,-108,-108,-108,-115,-115,-120,-117,-108
+Tue Nov 1 2022,Orlando Magic,108,Oklahoma City Thunder,116,+124,+136,+125,+140,+135,+125,+136,-146,-162,-150,-165,-155,-148,-162
+Tue Nov 1 2022,Minnesota Timberwolves,107,Phoenix Suns,116,+180,+146,+135,+140,+150,+145,+146,-215,-174,-165,-165,-175,-175,-174
+Wed Nov 2 2022,Washington Wizards,121,Philadelphia 76ers,111,+295,+180,+180,+185,+185,+175,+180,-370,-215,-225,-225,-215,-215,-215
+Wed Nov 2 2022,Boston Celtics,113,Cleveland Cavaliers,114,+114,-120,-120,-125,-125,-124,-120,-134,+102,even,+105,+105,+104,+102
+Wed Nov 2 2022,Sacramento Kings,107,Miami Heat,110,+240,+154,+145,+158,+165,+145,+154,-295,-184,-175,-190,-195,-175,-184
+Wed Nov 2 2022,Atlanta Hawks,112,New York Knicks,99,+110,+114,+110,+118,+115,+112,+114,-130,-134,-135,-140,-135,-132,-134
+Wed Nov 2 2022,Charlotte Hornets,88,Chicago Bulls,106,+210,+210,+200,+205,+210,+188,+210,-255,-255,-250,-250,-250,-235,-255
+Wed Nov 2 2022,Los Angeles Clippers,109,Houston Rockets,101,-205,-230,-225,-225,-230,-230,-230,+172,+190,+185,+185,+195,+185,+190
+Wed Nov 2 2022,Detroit Pistons,91,Milwaukee Bucks,116,+480,+420,+450,+460,+480,+430,+420,-650,-560,-650,-650,-645,-590,-560
+Wed Nov 2 2022,Toronto Raptors,143,San Antonio Spurs,100,-355,-240,-275,-260,-250,-275,-240,+285,+198,+220,+210,+210,+220,+198
+Wed Nov 2 2022,Utah Jazz,100,Dallas Mavericks,103,+210,+205,+220,+210,+215,+200,+205,-255,-250,-275,-260,-255,-250,-250
+Wed Nov 2 2022,Memphis Grizzlies,111,Portland Trail Blazers,106,-158,-230,-210,-210,-200,-195,-230,+134,+190,+170,+175,+170,+163,+190
+Wed Nov 2 2022,New Orleans Pelicans,117,Los Angeles Lakers,120,-154,-142,-145,-140,-135,-148,-142,+130,+114,+120,+118,+115,+123,+114
+Thu Nov 3 2022,Golden State Warriors,129,Orlando Magic,130,-335,-430,-450,-440,-435,-400,-430,+270,+340,+325,+335,+350,+320,+340
+Thu Nov 3 2022,Denver Nuggets,122,Oklahoma City Thunder,110,-250,-270,-250,-240,-250,-250,-270,+205,+220,+200,+196,+210,+200,+220
+Fri Nov 4 2022,Cleveland Cavaliers,112,Detroit Pistons,88,-320,-168,-165,-170,-170,-167,-168,+260,+142,+135,+143,+145,+140,+142
+Fri Nov 4 2022,Miami Heat,99,Indiana Pacers,101,-196,-162,-165,-165,-155,-155,-162,+164,+136,+135,+140,+135,+128,+136
+Fri Nov 4 2022,New York Knicks,106,Philadelphia 76ers,104,+126,+102,+110,-105,even,+112,+102,-148,-120,-135,-115,-120,-134,-120
+Fri Nov 4 2022,Brooklyn Nets,128,Washington Wizards,86,-120,+130,+120,+130,+130,+125,+130,+102,-154,-145,-155,-150,-150,-154
+Fri Nov 4 2022,Chicago Bulls,119,Boston Celtics,123,+260,+245,+240,+228,+235,+215,+245,-320,-300,-300,-285,-280,-278,-300
+Fri Nov 4 2022,Charlotte Hornets,99,Memphis Grizzlies,130,+520,+440,+450,+400,+460,+390,+440,-720,-590,-650,-550,-610,-530,-590
+Fri Nov 4 2022,Los Angeles Clippers,113,San Antonio Spurs,106,-156,-164,-165,-165,-155,-155,-164,+132,+138,+140,+140,+135,+128,+138
+Fri Nov 4 2022,Toronto Raptors,110,Dallas Mavericks,111,+150,+150,+155,+150,+150,+145,+150,-178,-178,-190,-178,-175,-175,-178
+Fri Nov 4 2022,Golden State Warriors,105,New Orleans Pelicans,114,+144,+390,+400,+400,+410,+400,+390,-172,-510,-550,-550,-520,-530,-510
+Fri Nov 4 2022,Milwaukee Bucks,115,Minnesota Timberwolves,102,-146,-136,-125,-130,-130,-129,-136,+124,+116,+105,+110,+110,+108,+116
+Fri Nov 4 2022,Portland Trail Blazers,108,Phoenix Suns,106,+385,+520,+500,+550,+510,+460,+520,-500,-720,-700,-800,-700,-625,-720
+Fri Nov 4 2022,Utah Jazz,130,Los Angeles Lakers,116,+110,+138,+140,+143,+150,+138,+138,-130,-164,-165,-170,-175,-175,-164
+Sat Nov 5 2022,Sacramento Kings,126,Orlando Magic,123,-122,-194,-190,-190,-190,-190,-194,+104,+162,+155,+158,+160,+155,+162
+Sat Nov 5 2022,Brooklyn Nets,98,Charlotte Hornets,94,-240,-178,-160,-165,-165,-167,-178,+198,+150,+135,+140,+140,+138,+150
+Sat Nov 5 2022,New Orleans Pelicans,121,Atlanta Hawks,124,+120,+106,+110,+110,even,+110,+106,-142,-124,-135,-130,-120,-130,-124
+Sat Nov 5 2022,Boston Celtics,133,New York Knicks,118,-180,-168,-185,-180,-175,-175,-168,+152,+142,+150,+152,+150,+143,+142
+Sat Nov 5 2022,Oklahoma City Thunder,94,Milwaukee Bucks,108,+265,+194,+180,+185,+170,+175,+194,-330,-235,-225,-225,-200,-210,-235
+Sat Nov 5 2022,Houston Rockets,117,Minnesota Timberwolves,129,+280,+245,+260,+250,+260,+245,+245,-350,-300,-350,-320,-315,-315,-300
+Sat Nov 5 2022,San Antonio Spurs,101,Denver Nuggets,126,+420,+440,+475,+430,+470,+440,+440,-560,-590,-650,-600,-625,-590,-590
+Sat Nov 5 2022,Portland Trail Blazers,82,Phoenix Suns,102,+385,+460,+425,+460,+440,+430,+460,-500,-650,-600,-650,-580,-590,-650
+Sun Nov 6 2022,Cleveland Cavaliers,114,Los Angeles Lakers,100,-120,-205,-225,-225,-200,-220,-205,+102,+172,+185,+185,+170,+175,+172
+Sun Nov 6 2022,Washington Wizards,97,Memphis Grizzlies,103,+270,+340,+325,+328,+330,+340,+340,-335,-430,-400,-430,-410,-435,-430
+Sun Nov 6 2022,Chicago Bulls,104,Toronto Raptors,113,even,+148,+140,+152,+150,+140,+148,-118,-176,-165,-180,-175,-167,-176
+Sun Nov 6 2022,Utah Jazz,110,Los Angeles Clippers,102,+164,+138,+140,+143,+145,+135,+138,-196,-164,-165,-170,-170,-162,-164
+Mon Nov 7 2022,Washington Wizards,108,Charlotte Hornets,100,+110,+108,+105,+110,even,+107,+108,-130,-126,-130,-130,-120,-127,-126
+Mon Nov 7 2022,Houston Rockets,134,Orlando Magic,127,+180,+158,+155,+162,+165,+160,+158,-215,-190,-190,-195,-195,-195,-190
+Mon Nov 7 2022,Oklahoma City Thunder,103,Detroit Pistons,112,+112,-134,-130,-130,-130,-125,-134,-132,+114,+110,+110,+110,+105,+114
+Mon Nov 7 2022,New Orleans Pelicans,122,Indiana Pacers,129,-250,-200,-200,-205,-205,-205,-200,+205,+168,+165,+170,+175,+170,+168
+Mon Nov 7 2022,Phoenix Suns,88,Philadelphia 76ers,100,-126,-118,-125,-120,-115,-117,-118,+108,even,+105,even,-105,-103,even
+Mon Nov 7 2022,Milwaukee Bucks,98,Atlanta Hawks,117,-138,-230,-225,-225,-215,-210,-215,+118,+190,+180,+185,+185,+170,+180
+Mon Nov 7 2022,Portland Trail Blazers,110,Miami Heat,107,+250,+168,+180,+175,+170,+170,+168,-310,-200,-225,-210,-200,-220,-200
+Mon Nov 7 2022,Toronto Raptors,97,Chicago Bulls,111,+164,+110,+120,+115,+120,+110,+110,-196,-130,-145,-135,-140,-130,-130
+Mon Nov 7 2022,Boston Celtics,109,Memphis Grizzlies,106,-120,-178,-165,-155,-165,-159,-178,+102,+150,+140,+130,+140,+135,+150
+Mon Nov 7 2022,New York Knicks,120,Minnesota Timberwolves,107,+180,+126,+115,+118,+125,+123,+126,-215,-148,-140,-140,-145,-143,-148
+Mon Nov 7 2022,Denver Nuggets,115,San Antonio Spurs,109,-330,-330,-350,-335,-300,-315,-350,+265,+265,+260,+260,+250,+255,+280
+Mon Nov 7 2022,Brooklyn Nets,94,Dallas Mavericks,96,+205,+190,+185,+185,+195,+185,+190,-245,-230,-225,-225,-230,-225,-230
+Mon Nov 7 2022,Sacramento Kings,113,Golden State Warriors,116,+410,+250,+260,+270,+270,+250,+250,-550,-320,-350,-345,-325,-335,-320
+Mon Nov 7 2022,Los Angeles Lakers,116,Utah Jazz,139,+108,+220,+220,+222,+220,+205,+220,-126,-260,-275,-278,-260,-265,-260
+Mon Nov 7 2022,Cleveland Cavaliers,117,Los Angeles Clippers,119,-108,-184,-165,-190,-175,-175,-184,-112,+154,+135,+158,+150,+145,+154
+Wed Nov 9 2022,Dallas Mavericks,87,Orlando Magic,94,-295,-355,-375,-400,-365,-360,-355,+240,+285,+290,+310,+300,+285,+285
+Wed Nov 9 2022,Portland Trail Blazers,105,Charlotte Hornets,95,-196,-120,-125,-130,-130,-129,-120,+164,+102,+105,+110,+110,+105,+102
+Wed Nov 9 2022,Denver Nuggets,122,Indiana Pacers,119,-240,-198,-225,-195,-190,-186,-198,+198,+166,+180,+162,+160,+155,+166
+Wed Nov 9 2022,Utah Jazz,125,Atlanta Hawks,119,+134,+144,+155,+158,+160,+150,+144,-158,-172,-190,-190,-190,-180,-172
+Wed Nov 9 2022,Detroit Pistons,112,Boston Celtics,128,+480,+590,+575,+600,+600,+600,+590,-650,-850,-900,-900,-850,-910,-850
+Wed Nov 9 2022,New York Knicks,85,Brooklyn Nets,112,+120,+132,+135,+130,+130,+130,+132,-142,-156,-160,-155,-150,-155,-156
+Wed Nov 9 2022,Houston Rockets,109,Toronto Raptors,116,+330,+385,+360,+360,+380,+360,+385,-420,-500,-500,-480,-475,-455,-500
+Wed Nov 9 2022,New Orleans Pelicans,115,Chicago Bulls,111,-120,-132,-130,-130,-125,-121,-132,+102,+112,+110,+110,+105,+102,+112
+Wed Nov 9 2022,Phoenix Suns,129,Minnesota Timberwolves,117,-132,+106,even,+110,+110,+102,+106,+112,-124,-120,-130,-130,-122,-124
+Wed Nov 9 2022,Milwaukee Bucks,136,Oklahoma City Thunder,132,-330,-118,-115,-120,-115,-114,-118,+265,even,-105,even,-105,-105,even
+Wed Nov 9 2022,Memphis Grizzlies,124,San Antonio Spurs,122,-280,-210,-225,-225,-225,-220,-210,+230,+176,+180,+185,+190,+185,+176
+Wed Nov 9 2022,Los Angeles Lakers,101,Los Angeles Clippers,114,+164,+138,+125,+130,+135,+128,+138,-196,-164,-155,-155,-155,-155,-164
+Wed Nov 9 2022,Cleveland Cavaliers,120,Sacramento Kings,127,-210,-200,-185,-180,-180,-177,-200,+176,+168,+150,+152,+155,+150,+168
+Thu Nov 10 2022,Dallas Mavericks,105,Washington Wizards,113,-146,-240,-225,-225,-225,-225,-240,+124,+198,+185,+185,+190,+180,+198
+Thu Nov 10 2022,Philadelphia 76ers,95,Atlanta Hawks,104,+104,+102,-105,even,even,-104,+102,-122,-120,-115,-120,-120,-115,-120
+Thu Nov 10 2022,Charlotte Hornets,112,Miami Heat,117,+385,+420,+400,+430,+430,+420,+420,-500,-560,-550,-600,-560,-560,-560
+Thu Nov 10 2022,Portland Trail Blazers,106,New Orleans Pelicans,95,+245,+330,+290,+335,+350,+310,+330,-300,-420,-375,-440,-435,-385,-420
+Fri Nov 11 2022,Denver Nuggets,112,Boston Celtics,131,+190,+146,+155,+150,+150,+138,+146,-230,-174,-190,-178,-175,-167,-174
+Fri Nov 11 2022,Phoenix Suns,97,Orlando Magic,114,-295,-295,-300,-305,-300,-295,-295,+240,+240,+230,+240,+250,+235,+240
+Fri Nov 11 2022,Detroit Pistons,112,New York Knicks,121,+265,+330,+333,+310,+340,+310,+330,-330,-420,-450,-400,-425,-400,-420
+Fri Nov 11 2022,Toronto Raptors,113,Oklahoma City Thunder,132,-198,-210,-190,-210,-205,-215,-210,+166,+176,+155,+175,+175,+175,+176
+Fri Nov 11 2022,Milwaukee Bucks,93,San Antonio Spurs,111,-215,+116,even,+105,+105,+106,+116,+180,-136,-120,-125,-125,-127,-136
+Fri Nov 11 2022,Minnesota Timberwolves,103,Memphis Grizzlies,114,+180,+152,+145,+150,+150,+140,+152,-215,-180,-175,-178,-175,-167,-180
+Fri Nov 11 2022,Cleveland Cavaliers,101,Golden State Warriors,106,+110,+134,+120,+140,+135,+116,+134,-130,-158,-145,-165,-155,-137,-158
+Fri Nov 11 2022,Sacramento Kings,120,Los Angeles Lakers,114,-130,-190,-160,-165,-165,-167,-190,+110,+160,+135,+140,+140,+135,+160
+Sat Nov 12 2022,Brooklyn Nets,110,Los Angeles Clippers,95,+110,+102,even,-105,even,+104,+102,-130,-118,-120,-115,-120,-124,-118
+Sat Nov 12 2022,Utah Jazz,112,Washington Wizards,121,-164,-174,-175,-180,-175,-175,-174,+138,+146,+145,+152,+150,+143,+146
+Sat Nov 12 2022,Boston Celtics,117,Detroit Pistons,108,-460,-360,-400,-365,-365,-315,-360,+360,+290,+310,+285,+300,+260,+290
+Sat Nov 12 2022,Toronto Raptors,104,Indiana Pacers,118,-116,+114,+115,+118,+120,+112,+114,-102,-134,-140,-140,-140,-132,-134
+Sat Nov 12 2022,Atlanta Hawks,109,Philadelphia 76ers,121,+138,+118,+120,+130,+120,+125,+118,-164,-138,-145,-155,-140,-148,-138
+Sat Nov 12 2022,Charlotte Hornets,115,Miami Heat,132,+390,+275,+260,+270,+280,+270,+275,-510,-340,-350,-345,-340,-335,-340
+Sat Nov 12 2022,Portland Trail Blazers,112,Dallas Mavericks,117,+176,+205,+190,+222,+215,+190,+205,-210,-255,-250,-278,-255,-235,-255
+Sat Nov 12 2022,Houston Rockets,106,New Orleans Pelicans,119,+420,+390,+375,+400,+400,+410,+390,-560,-510,-500,-550,-500,-560,-510
+Sun Nov 13 2022,Oklahoma City Thunder,145,New York Knicks,135,+194,+184,+165,+175,+180,+170,+184,-235,-220,-200,-210,-210,-200,-220
+Sun Nov 13 2022,Minnesota Timberwolves,129,Cleveland Cavaliers,124,+198,even,even,-105,-105,+105,even,-240,-118,-120,-115,-115,-124,-118
+Sun Nov 13 2022,Memphis Grizzlies,92,Washington Wizards,102,-120,+102,+105,+105,+105,+107,+102,+102,-120,-125,-125,-125,-127,-120
+Sun Nov 13 2022,Utah Jazz,98,Philadelphia 76ers,105,+136,+138,+135,+135,+140,+145,+138,-162,-164,-160,-160,-165,-177,-164
+Sun Nov 13 2022,Denver Nuggets,126,Chicago Bulls,103,-120,-122,-120,-125,-120,-124,-122,+102,+104,even,+105,even,+105,+104
+Sun Nov 13 2022,Golden State Warriors,115,Sacramento Kings,122,-178,-176,-190,-190,-175,-177,-176,+150,+148,+155,+158,+150,+148,+148
+Sun Nov 13 2022,Brooklyn Nets,103,Los Angeles Lakers,116,-138,-198,-200,-210,-205,-200,-210,+118,+172,+165,+175,+175,+160,+176
+Mon Nov 14 2022,Toronto Raptors,115,Detroit Pistons,111,-178,-184,-190,-190,-175,-182,-184,+150,+154,+155,+158,+150,+155,+154
+Mon Nov 14 2022,Charlotte Hornets,112,Orlando Magic,105,+102,-126,-115,-125,-125,-117,-126,-120,+108,-105,+105,+105,-103,+108
+Mon Nov 14 2022,Oklahoma City Thunder,122,Boston Celtics,126,+460,+460,+450,+500,+530,+450,+460,-620,-620,-650,-700,-730,-625,-620
+Mon Nov 14 2022,Phoenix Suns,112,Miami Heat,113,+102,+118,+115,+118,+120,+120,+118,-120,-138,-140,-140,-140,-143,-138
+Mon Nov 14 2022,Los Angeles Clippers,122,Houston Rockets,106,-240,-200,-225,-205,-195,-200,-200,+198,+168,+180,+170,+165,+165,+168
+Mon Nov 14 2022,Atlanta Hawks,121,Milwaukee Bucks,106,+144,+138,+140,+140,+145,+140,+138,-172,-164,-165,-165,-170,-167,-164
+Mon Nov 14 2022,San Antonio Spurs,95,Golden State Warriors,132,+245,+320,+300,+320,+320,+265,+320,-300,-405,-375,-420,-390,-360,-405
+Tue Nov 15 2022,Memphis Grizzlies,102,New Orleans Pelicans,113,+106,+102,even,even,even,even,+102,-124,-120,-120,-120,-120,-118,-120
+Tue Nov 15 2022,Los Angeles Clippers,101,Dallas Mavericks,103,+225,+215,+195,+210,+210,+200,+215,-275,-260,-250,-260,-250,-245,-260
+Tue Nov 15 2022,New York Knicks,118,Utah Jazz,111,+146,+152,+150,+152,+155,+155,+152,-174,-180,-185,-180,-180,-186,-180
+Tue Nov 15 2022,San Antonio Spurs,110,Portland Trail Blazers,117,+260,+260,+260,+275,+280,+260,+260,-320,-320,-350,-350,-340,-315,-320
+Tue Nov 15 2022,Brooklyn Nets,121,Sacramento Kings,153,+106,even,even,+110,+110,+102,even,-124,-118,-120,-130,-130,-122,-118
+Wed Nov 16 2022,Indiana Pacers,125,Charlotte Hornets,113,N/A,-116,-110,-120,-115,-116,N/A,-102,-110,even,-105,-102,,
+Wed Nov 16 2022,Minnesota Timberwolves,126,Orlando Magic,108,N/A,-330,-350,-345,-320,-330,N/A,+265,+260,+270,+265,+265,,
+Wed Nov 16 2022,Oklahoma City Thunder,121,Washington Wizards,120,N/A,+168,+165,+170,+170,+168,N/A,-200,-200,-205,-200,-200,,
+Wed Nov 16 2022,Boston Celtics,126,Atlanta Hawks,101,N/A,-116,-115,-110,-105,-116,N/A,-102,-105,-110,-115,-102,,
+Wed Nov 16 2022,Miami Heat,104,Toronto Raptors,112,N/A,+128,+125,+130,+130,+128,N/A,-152,-150,-155,-150,-152,,
+Wed Nov 16 2022,Cleveland Cavaliers,98,Milwaukee Bucks,113,N/A,+116,+110,+110,+105,+116,N/A,-136,-135,-130,-125,-136,,
+Wed Nov 16 2022,Chicago Bulls,110,New Orleans Pelicans,124,N/A,+114,+105,+105,+105,+114,N/A,-134,-125,-125,-125,-134,,
+Wed Nov 16 2022,Houston Rockets,101,Dallas Mavericks,92,N/A,+215,+200,+228,+220,+215,N/A,-260,-250,-285,-260,-260,,
+Wed Nov 16 2022,New York Knicks,106,Denver Nuggets,103,N/A,+108,+105,+110,+105,+108,N/A,-126,-130,-130,-125,-126,,
+Wed Nov 16 2022,Golden State Warriors,119,Phoenix Suns,130,N/A,-142,-135,-135,-130,-142,N/A,+120,+110,+115,+110,+120,,
+Thu Nov 17 2022,Brooklyn Nets,109,Portland Trail Blazers,107,+118,+130,+120,+130,+130,+118,+130,-136,-154,-145,-155,-150,-143,-154
+Thu Nov 17 2022,San Antonio Spurs,112,Sacramento Kings,130,+240,+225,+240,+240,+230,+205,+225,-295,-275,-300,-305,-275,-250,-275
+Thu Nov 17 2022,Detroit Pistons,91,Los Angeles Clippers,96,+330,+410,+375,+400,+430,+380,+410,-420,-550,-500,-550,-560,-500,-550
+Fri Nov 18 2022,Miami Heat,106,Washington Wizards,107,-118,+265,+260,+240,+255,+230,+265,even,-330,-350,-305,-305,-286,-330
+Fri Nov 18 2022,Charlotte Hornets,122,Cleveland Cavaliers,132,+350,+380,+333,+360,+410,+350,+380,-450,-490,-450,-480,-520,-455,-490
+Fri Nov 18 2022,Milwaukee Bucks,102,Philadelphia 76ers,110,+110,-112,-125,-115,-115,-112,-112,-130,-104,+105,-105,-105,-106,-104
+Fri Nov 18 2022,Orlando Magic,108,Chicago Bulls,107,+315,+275,+300,+278,+290,+270,+275,-400,-350,-375,-355,-350,-335,-350
+Fri Nov 18 2022,Indiana Pacers,99,Houston Rockets,91,-186,-215,-225,-225,-230,-205,-215,+154,+180,+185,+185,+195,+170,+180
+Fri Nov 18 2022,Oklahoma City Thunder,110,Memphis Grizzlies,121,+210,+200,+200,+205,+195,+195,+200,-255,-245,-250,-250,-230,-235,-245
+Fri Nov 18 2022,Denver Nuggets,99,Dallas Mavericks,127,+240,+350,+340,+360,+380,+340,+350,-295,-450,-450,-480,-475,-435,-450
+Fri Nov 18 2022,Boston Celtics,117,New Orleans Pelicans,109,-148,-158,-155,-155,-165,-152,-158,+126,+134,+125,+130,+140,+128,+134
+Fri Nov 18 2022,Phoenix Suns,133,Utah Jazz,134,-120,-108,-110,-115,-115,-107,-108,+102,-104,-110,-105,-105,-112,-104
+Fri Nov 18 2022,New York Knicks,101,Golden State Warriors,111,+240,+240,+240,+240,+240,+240,+240,-295,-295,-300,-305,-285,-305,-295
+Fri Nov 18 2022,Detroit Pistons,121,Los Angeles Lakers,128,+230,+210,+200,+205,+205,+195,+210,-280,-255,-250,-250,-245,-240,-255
+Sat Nov 19 2022,Toronto Raptors,122,Atlanta Hawks,124,+190,+176,+170,+185,+180,+175,+176,-230,-210,-210,-225,-210,-210,-210
+Sat Nov 19 2022,Orlando Magic,113,Indiana Pacers,114,+210,+240,+230,+260,+250,+225,+240,-255,-295,-300,-335,-300,-278,-295
+Sat Nov 19 2022,Minnesota Timberwolves,112,Philadelphia 76ers,109,-108,-162,-155,-165,-165,-155,-162,-108,+136,+130,+140,+140,+130,+136
+Sat Nov 19 2022,Utah Jazz,118,Portland Trail Blazers,113,+142,+142,+145,+152,+150,+138,+142,-168,-168,-175,-180,-175,-165,-168
+Sat Nov 19 2022,San Antonio Spurs,97,Los Angeles Clippers,119,+340,+295,+275,+278,+295,+265,+295,-430,-370,-350,-355,-360,-335,-370
+Sun Nov 20 2022,New York Knicks,95,Phoenix Suns,116,+210,+190,+190,+205,+195,+190,+190,-255,-230,-250,-250,-230,-230,-230
+Sun Nov 20 2022,Detroit Pistons,129,Sacramento Kings,137,+320,+400,+340,+400,+410,+370,+400,-405,-520,-450,-550,-520,-480,-520
+Sun Nov 20 2022,Charlotte Hornets,102,Washington Wizards,106,+205,+164,+155,+170,+165,+165,+164,-250,-196,-190,-205,-195,-215,-196
+Sun Nov 20 2022,Memphis Grizzlies,115,Brooklyn Nets,127,+240,+235,+240,+250,+250,+255,+235,-295,-290,-300,-320,-300,-315,-290
+Sun Nov 20 2022,Miami Heat,87,Cleveland Cavaliers,113,+360,+235,+240,+228,+230,+240,+230,-460,-290,-300,-285,-275,-305,-280
+Sun Nov 20 2022,Golden State Warriors,127,Houston Rockets,120,-450,-500,-450,-550,-500,-480,-500,+350,+385,+350,+400,+400,+370,+385
+Sun Nov 20 2022,Denver Nuggets,98,Dallas Mavericks,97,+380,+400,+375,+400,+410,+410,+400,-500,-520,-500,-550,-520,-530,-520
+Sun Nov 20 2022,San Antonio Spurs,92,Los Angeles Lakers,123,+215,+198,+190,+205,+205,+200,+198,-260,-240,-250,-250,-245,-250,-240
+Mon Nov 21 2022,Atlanta Hawks,102,Cleveland Cavaliers,114,+118,+138,+120,+140,+135,+138,-138,-164,-145,-165,-155,-164,,
+Mon Nov 21 2022,Orlando Magic,102,Indiana Pacers,123,N/A,+230,+220,+240,+245,+230,N/A,-280,-275,-305,-295,-280,,
+Mon Nov 21 2022,Boston Celtics,107,Chicago Bulls,121,N/A,-210,-225,-215,-215,-210,N/A,+176,+180,+178,+185,+176,,
+Mon Nov 21 2022,Portland Trail Blazers,111,Milwaukee Bucks,119,N/A,+370,+340,+360,+380,+370,N/A,-480,-450,-480,-475,-480,,
+Mon Nov 21 2022,Miami Heat,101,Minnesota Timberwolves,105,N/A,+290,+280,+278,+300,+290,N/A,-360,-350,-355,-365,-360,,
+Mon Nov 21 2022,Golden State Warriors,83,New Orleans Pelicans,128,N/A,+410,+375,+430,+410,+410,N/A,-550,-500,-600,-520,-550,,
+Mon Nov 21 2022,New York Knicks,129,Oklahoma City Thunder,119,N/A,+102,+105,+105,+105,+102,N/A,-120,-125,-125,-125,-120,,
+Mon Nov 21 2022,Utah Jazz,114,Los Angeles Clippers,121,+136,+114,+110,+115,+115,+114,-162,-134,-135,-135,-135,-134,,
+Tue Nov 22 2022,Brooklyn Nets,106,Philadelphia 76ers,115,-300,-330,-300,-345,-305,-335,-330,+245,+265,+240,+270,+255,+260,+265
+Tue Nov 22 2022,Sacramento Kings,113,Memphis Grizzlies,109,even,+132,+125,+122,+125,+118,+132,-118,-156,-155,-145,-145,-139,-156
+Tue Nov 22 2022,Detroit Pistons,110,Denver Nuggets,108,+220,+460,+475,+460,+480,+410,+460,-270,-620,-650,-650,-645,-560,-620
+Tue Nov 22 2022,Los Angeles Lakers,105,Phoenix Suns,115,+260,+315,+340,+345,+350,+330,+315,-320,-400,-450,-455,-435,-435,-400
+Wed Nov 23 2022,Philadelphia 76ers,101,Charlotte Hornets,107,+122,+150,+145,+152,+145,+155,+148,-144,-178,-175,-180,-170,-182,-176
+Wed Nov 23 2022,Portland Trail Blazers,96,Cleveland Cavaliers,114,+295,+215,+230,+240,+230,+235,+215,-370,-260,-300,-305,-275,-286,-260
+Wed Nov 23 2022,Minnesota Timberwolves,115,Indiana Pacers,101,-116,-126,-120,-130,-125,-118,-126,-102,+108,even,+110,+105,even,+108
+Wed Nov 23 2022,Sacramento Kings,106,Atlanta Hawks,115,+215,+156,+150,+158,+160,+148,+156,-260,-186,-185,-190,-190,-180,-186
+Wed Nov 23 2022,Dallas Mavericks,112,Boston Celtics,125,+220,+180,+180,+185,+185,+180,+180,-270,-215,-225,-225,-215,-220,-215
+Wed Nov 23 2022,Washington Wizards,105,Miami Heat,113,+124,+162,+155,+170,+170,+155,+162,-146,-194,-190,-205,-200,-190,-194
+Wed Nov 23 2022,Brooklyn Nets,112,Toronto Raptors,98,+102,-138,-145,-140,-140,-134,-138,-120,+118,+120,+118,+120,+114,+118
+Wed Nov 23 2022,Chicago Bulls,118,Milwaukee Bucks,113,+240,+235,+225,+222,+230,+210,+235,-295,-290,-275,-278,-275,-250,-290
+Wed Nov 23 2022,Denver Nuggets,131,Oklahoma City Thunder,126,-130,-116,-105,-110,-110,-117,-116,+110,-102,-115,-110,-110,-103,-102
+Wed Nov 23 2022,New Orleans Pelicans,129,San Antonio Spurs,110,-300,-210,-200,-210,-215,-215,-210,+245,+176,+165,+175,+185,+175,+176
+Wed Nov 23 2022,Detroit Pistons,125,Utah Jazz,116,+460,+450,+450,+460,+510,+475,+450,-620,-600,-650,-650,-700,-670,-600
+Wed Nov 23 2022,Los Angeles Clippers,107,Golden State Warriors,124,+215,+385,+375,+360,+380,+360,+385,-260,-500,-500,-480,-475,-480,-500
+Fri Nov 25 2022,Minnesota Timberwolves,108,Charlotte Hornets,110,N/A,-240,-250,-260,-240,-240,N/A,+198,+190,+210,+200,+198,,
+Fri Nov 25 2022,Philadelphia 76ers,107,Orlando Magic,99,N/A,+102,-105,-105,+105,+102,N/A,-120,-115,-115,-125,-120,,
+Fri Nov 25 2022,Portland Trail Blazers,132,New York Knicks,129,N/A,+150,+145,+143,+150,+150,N/A,-178,-175,-170,-175,-178,,
+Fri Nov 25 2022,Sacramento Kings,104,Boston Celtics,122,+300,+245,+230,+250,+245,+245,-375,-300,-275,-320,-295,-300,,
+Fri Nov 25 2022,Atlanta Hawks,122,Houston Rockets,128,N/A,-275,-275,-305,-285,-275,N/A,+225,+220,+240,+240,+225,,
+Fri Nov 25 2022,Brooklyn Nets,117,Indiana Pacers,128,N/A,-164,-155,-165,-170,-164,N/A,+138,+125,+140,+145,+138,,
+Fri Nov 25 2022,New Orleans Pelicans,111,Memphis Grizzlies,132,N/A,+122,+115,+115,+110,+122,N/A,-144,-140,-135,-130,-144,,
+Fri Nov 25 2022,Washington Wizards,107,Miami Heat,110,N/A,+128,+120,+130,+130,+128,N/A,-152,-145,-155,-150,-152,,
+Fri Nov 25 2022,Cleveland Cavaliers,102,Milwaukee Bucks,117,+130,+146,+145,+152,+145,+146,-154,-174,-175,-180,-170,-174,,
+Fri Nov 25 2022,Chicago Bulls,119,Oklahoma City Thunder,123,N/A,-146,-150,-155,-145,-146,N/A,+124,+125,+130,+125,+124,,
+Fri Nov 25 2022,Los Angeles Lakers,105,San Antonio Spurs,94,N/A,-164,-160,-180,-180,-164,N/A,+138,+135,+152,+155,+138,,
+Fri Nov 25 2022,Detroit Pistons,102,Phoenix Suns,108,N/A,+560,+500,+500,+550,+560,N/A,-800,-700,-700,-750,-800,,
+Fri Nov 25 2022,Utah Jazz,118,Golden State Warriors,129,N/A,+265,+260,+270,+270,+265,N/A,-330,-350,-345,-325,-330,,
+Fri Nov 25 2022,Denver Nuggets,114,Los Angeles Clippers,104,-120,-180,-175,-180,-175,-180,+102,+152,+145,+152,+150,+152,,
+Sat Nov 26 2022,Dallas Mavericks,100,Toronto Raptors,105,-136,-146,-135,-145,-145,-139,-146,+116,+124,+115,+122,+125,+115,+124
+Sat Nov 26 2022,Oklahoma City Thunder,105,Houston Rockets,118,-136,-134,-130,-130,-125,-127,-134,+116,+114,+110,+110,+105,+107,+114
+Sat Nov 26 2022,Los Angeles Lakers,143,San Antonio Spurs,138,-172,-102,-105,-105,even,-107,-102,+144,-116,-115,-115,-120,-112,-116
+Sat Nov 26 2022,Utah Jazz,112,Phoenix Suns,113,+245,+205,+185,+178,+200,+200,+205,-300,-250,-225,-215,-240,-245,-250
+Sun Nov 27 2022,Portland Trail Blazers,97,Brooklyn Nets,111,+194,+260,+240,+260,+260,+250,+260,-235,-320,-300,-335,-315,-315,-320
+Sun Nov 27 2022,Golden State Warriors,137,Minnesota Timberwolves,114,-118,-118,-120,-110,-120,-130,-124,even,even,even,-110,even,+112,+106
+Sun Nov 27 2022,Indiana Pacers,100,Los Angeles Clippers,114,-104,-134,-135,-130,-130,-125,-134,-112,+114,+110,+110,+110,+105,+114
+Sun Nov 27 2022,Miami Heat,106,Atlanta Hawks,98,+190,+142,+140,+152,+145,+140,+146,-230,-168,-165,-180,-170,-167,-174
+Sun Nov 27 2022,Washington Wizards,121,Boston Celtics,130,+210,+270,+275,+270,+275,+275,+270,-255,-335,-350,-345,-330,-345,-335
+Sun Nov 27 2022,Cleveland Cavaliers,102,Detroit Pistons,94,-260,-310,-300,-320,-315,-278,-310,+215,+250,+230,+250,+260,+225,+250
+Sun Nov 27 2022,Memphis Grizzlies,127,New York Knicks,123,-176,-122,-120,-125,-120,-125,-122,+148,+104,even,+105,even,+105,+104
+Sun Nov 27 2022,Philadelphia 76ers,133,Orlando Magic,103,+118,-112,-110,-110,-105,-109,-112,-138,-104,-110,-110,-115,-109,-104
+Sun Nov 27 2022,Dallas Mavericks,115,Milwaukee Bucks,124,+200,+194,+180,+185,+195,+205,+194,-245,-235,-225,-225,-230,-250,-235
+Mon Nov 28 2022,Atlanta Hawks,101,Philadelphia 76ers,104,N/A,+122,+120,+130,+130,+122,N/A,-144,-145,-155,-150,-144,,
+Mon Nov 28 2022,Minnesota Timberwolves,127,Washington Wizards,142,N/A,-104,-110,-105,-105,-104,N/A,-112,-110,-115,-115,-112,,
+Mon Nov 28 2022,Charlotte Hornets,105,Boston Celtics,140,+500,+490,+375,+460,+450,+490,-700,-670,-500,-650,-600,-670,,
+Mon Nov 28 2022,Orlando Magic,102,Brooklyn Nets,109,N/A,+460,+400,+500,+500,+460,N/A,-620,-550,-700,-675,-620,,
+Mon Nov 28 2022,Cleveland Cavaliers,88,Toronto Raptors,100,N/A,+172,+165,+170,+160,+172,N/A,-205,-200,-205,-190,-205,,
+Mon Nov 28 2022,Oklahoma City Thunder,101,New Orleans Pelicans,105,N/A,+172,+180,+185,+180,+172,N/A,-205,-225,-225,-210,-205,,
+Mon Nov 28 2022,Houston Rockets,113,Denver Nuggets,129,N/A,+450,+450,+430,+430,+450,N/A,-600,-650,-600,-560,-600,,
+Mon Nov 28 2022,Chicago Bulls,114,Utah Jazz,107,N/A,+108,+115,+115,+115,+108,N/A,-126,-140,-135,-135,-126,,
+Mon Nov 28 2022,Phoenix Suns,122,Sacramento Kings,117,N/A,-108,-110,-105,-110,-108,N/A,-108,-110,-115,-110,-108,,
+Mon Nov 28 2022,Indiana Pacers,116,Los Angeles Lakers,115,N/A,+142,+130,+143,+145,+142,N/A,-168,-160,-170,-170,-168,,
+Tue Nov 29 2022,New York Knicks,140,Detroit Pistons,110,N/A,-205,-185,-190,-180,-205,N/A,+164,+150,+158,+155,+164,,
+Tue Nov 29 2022,Golden State Warriors,113,Dallas Mavericks,116,N/A,-106,-105,-110,-105,-106,N/A,-116,-115,-110,-115,-116,,
+Tue Nov 29 2022,Los Angeles Clippers,118,Portland Trail Blazers,112,+134,+150,+135,+143,+145,+150,-158,-178,-165,-170,-170,-178,,
+Wed Nov 30 2022,Philadelphia 76ers,85,Cleveland Cavaliers,113,+152,+140,+135,+140,+140,+130,+140,-180,-166,-160,-165,-165,-157,-166
+Wed Nov 30 2022,Atlanta Hawks,125,Orlando Magic,108,-260,-255,-250,-260,-250,-245,-255,+215,+210,+190,+210,+210,+205,+210
+Wed Nov 30 2022,Miami Heat,121,Boston Celtics,134,+280,+330,+380,+360,+370,+340,+330,-350,-420,-500,-480,-460,-435,-420
+Wed Nov 30 2022,Washington Wizards,107,Brooklyn Nets,113,+198,+188,+170,+185,+185,+170,+188,-240,-225,-210,-225,-215,-205,-225
+Wed Nov 30 2022,Milwaukee Bucks,109,New York Knicks,103,-225,-230,-225,-250,-230,-225,-230,+188,+190,+185,+205,+195,+185,+190
+Wed Nov 30 2022,Memphis Grizzlies,101,Minnesota Timberwolves,109,-158,-148,-145,-150,-150,-143,-156,+134,+126,+120,+126,+130,+120,+132
+Wed Nov 30 2022,Toronto Raptors,108,New Orleans Pelicans,126,-102,-136,-145,-135,-140,-134,-136,-116,+116,+120,+115,+120,+112,+116
+Wed Nov 30 2022,San Antonio Spurs,111,Oklahoma City Thunder,119,+205,+122,+125,+130,+125,+125,+122,-250,-144,-150,-155,-145,-150,-144
+Wed Nov 30 2022,Houston Rockets,100,Denver Nuggets,120,+500,+460,+475,+430,+460,+440,+460,-700,-620,-650,-600,-610,-670,-620
+Wed Nov 30 2022,Chicago Bulls,113,Phoenix Suns,132,+176,+184,+170,+185,+180,+170,+184,-210,-220,-210,-225,-210,-205,-220
+Wed Nov 30 2022,Los Angeles Clippers,112,Utah Jazz,125,+215,+235,+240,+240,+240,+235,+235,-260,-290,-300,-305,-285,-286,-290
+Wed Nov 30 2022,Indiana Pacers,114,Sacramento Kings,137,+166,+158,+150,+158,+160,+155,+158,-198,-188,-185,-190,-190,-190,-188
+Wed Nov 30 2022,Portland Trail Blazers,109,Los Angeles Lakers,128,+190,+200,+180,+196,+200,+185,+200,-230,-245,-225,-240,-240,-230,-245
+Thu Dec 1 2022,Dallas Mavericks,125,Detroit Pistons,131,-300,-335,-300,-335,-315,-345,-335,+245,+270,+240,+260,+260,+270,+270
+Fri Dec 2 2022,Washington Wizards,116,Charlotte Hornets,117,-146,-176,-175,-175,-175,-167,-176,+124,+148,+145,+148,+150,+140,+148
+Fri Dec 2 2022,Denver Nuggets,109,Atlanta Hawks,117,+104,-196,-190,-205,-195,-195,-198,-122,+164,+155,+170,+165,+163,+166
+Fri Dec 2 2022,Miami Heat,120,Boston Celtics,116,+295,+220,+220,+228,+235,+230,+220,-370,-270,-275,-285,-280,-286,-270
+Fri Dec 2 2022,Toronto Raptors,105,Brooklyn Nets,114,+116,+108,+105,+105,+105,+104,+108,-136,-126,-125,-125,-125,-124,-126
+Fri Dec 2 2022,Orlando Magic,96,Cleveland Cavaliers,107,+440,+400,+400,+430,+450,+430,+400,-590,-520,-550,-600,-600,-590,-520
+Fri Dec 2 2022,Los Angeles Lakers,133,Milwaukee Bucks,129,+265,+300,+260,+285,+300,+265,+300,-330,-375,-350,-365,-365,-335,-375
+Fri Dec 2 2022,Philadelphia 76ers,109,Memphis Grizzlies,117,+180,+160,+145,+162,+160,+170,+160,-215,-190,-175,-195,-190,-210,-190
+Fri Dec 2 2022,New Orleans Pelicans,117,San Antonio Spurs,99,-310,-280,-300,-278,-275,-305,-280,+250,+230,+230,+222,+230,+240,+230
+Fri Dec 2 2022,Houston Rockets,122,Phoenix Suns,121,+540,+450,+450,+500,+480,+460,+450,-770,-600,-650,-700,-645,-625,-600
+Fri Dec 2 2022,Indiana Pacers,119,Utah Jazz,139,+166,+148,+125,+143,+140,+145,+148,-198,-176,-155,-170,-165,-175,-176
+Fri Dec 2 2022,Chicago Bulls,111,Golden State Warriors,119,+245,+240,+225,+228,+230,+225,+240,-300,-295,-275,-285,-275,-278,-295
+Sat Dec 3 2022,Dallas Mavericks,121,New York Knicks,100,-112,-120,-120,-120,-120,-115,-120,-104,+102,even,even,even,-104,+102
+Sat Dec 3 2022,Sacramento Kings,123,Los Angeles Clippers,96,+102,-174,-160,-175,-170,-157,-174,-120,+146,+135,+148,+145,+132,+146
+Sat Dec 3 2022,Milwaukee Bucks,105,Charlotte Hornets,96,-255,-124,-125,-125,-125,-134,-120,+210,+106,+105,+105,+105,+112,+102
+Sat Dec 3 2022,Oklahoma City Thunder,135,Minnesota Timberwolves,128,+150,+172,+170,+175,+180,+170,+172,-178,-205,-210,-210,-210,-205,-205
+Sat Dec 3 2022,Orlando Magic,108,Toronto Raptors,121,+350,+460,+400,+460,+480,+440,+460,-450,-620,-550,-650,-645,-590,-620
+Sat Dec 3 2022,Houston Rockets,101,Golden State Warriors,120,+420,+450,+375,+460,+460,+410,+450,-560,-600,-500,-650,-610,-560,-600
+Sat Dec 3 2022,Portland Trail Blazers,116,Utah Jazz,111,+142,+176,+155,+170,+175,+170,+176,-168,-210,-190,-205,-205,-205,-210
+Sun Dec 4 2022,Denver Nuggets,106,New Orleans Pelicans,121,-108,+106,+105,+110,+105,+107,+106,-108,-124,-125,-130,-125,-127,-124
+Sun Dec 4 2022,Phoenix Suns,133,San Antonio Spurs,95,-500,-500,-450,-480,-490,-530,-500,+385,+385,+333,+360,+390,+390,+385
+Sun Dec 4 2022,Boston Celtics,103,Brooklyn Nets,92,-146,-134,-140,-135,-135,-141,-134,+124,+114,+115,+115,+115,+118,+114
+Sun Dec 4 2022,Memphis Grizzlies,122,Detroit Pistons,112,-260,-255,-275,-260,-255,-265,-255,+215,+210,+220,+210,+215,+210,+210
+Sun Dec 4 2022,Cleveland Cavaliers,81,New York Knicks,92,-148,-138,-140,-145,-140,-143,-138,+126,+118,+115,+122,+120,+120,+118
+Sun Dec 4 2022,Chicago Bulls,101,Sacramento Kings,110,+120,+126,+120,+130,+125,+123,+126,-142,-148,-145,-155,-145,-148,-148
+Sun Dec 4 2022,Los Angeles Lakers,130,Washington Wizards,119,+104,even,+105,+105,+105,even,even,-122,-118,-130,-125,-125,-118,-118
+Sun Dec 4 2022,Indiana Pacers,100,Portland Trail Blazers,116,+144,+176,+165,+170,+180,+165,+176,-172,-210,-200,-205,-210,-200,-210
+Mon Dec 5 2022,Los Angeles Clippers,119,Charlotte Hornets,117,N/A,-250,-250,-250,-240,-250,N/A,+205,+200,+205,+200,+205,,
+Mon Dec 5 2022,Milwaukee Bucks,109,Orlando Magic,102,-390,-520,-550,-550,-540,-520,+310,+400,+400,+400,+420,+400,,
+Mon Dec 5 2022,Oklahoma City Thunder,121,Atlanta Hawks,114,N/A,+210,+185,+205,+200,+210,N/A,-255,-225,-250,-240,-255,,
+Mon Dec 5 2022,Boston Celtics,116,Toronto Raptors,110,N/A,+102,even,+105,+105,+102,N/A,-120,-120,-125,-125,-120,,
+Mon Dec 5 2022,Philadelphia 76ers,123,Houston Rockets,132,N/A,-320,-300,-345,-340,-320,N/A,+260,+240,+270,+280,+260,,
+Mon Dec 5 2022,Miami Heat,93,Memphis Grizzlies,101,N/A,-210,-225,-210,-210,-210,N/A,+176,+180,+175,+180,+176,,
+Mon Dec 5 2022,Phoenix Suns,111,Dallas Mavericks,130,+118,+136,+120,+130,+135,+136,-138,-162,-145,-155,-155,-162,,
+Mon Dec 5 2022,Indiana Pacers,112,Golden State Warriors,104,N/A,+540,+475,+500,+480,+540,N/A,-770,-650,-700,-645,-770,,
+Tue Dec 6 2022,Los Angeles Lakers,102,Cleveland Cavaliers,116,+160,+176,+170,+185,+190,+200,+176,-190,-210,-210,-225,-225,-245,-210
+Tue Dec 6 2022,Detroit Pistons,116,Miami Heat,96,+295,+250,+230,+250,+255,+260,+250,-370,-310,-300,-320,-305,-335,-310
+Tue Dec 6 2022,Dallas Mavericks,116,Denver Nuggets,115,+160,+152,+155,+158,+155,+163,+152,-190,-180,-190,-190,-180,-195,-180
+Wed Dec 7 2022,Los Angeles Clippers,111,Orlando Magic,116,N/A,-300,-275,-260,-260,-300,N/A,+245,+210,+210,+220,+245,,
+Wed Dec 7 2022,Charlotte Hornets,116,Brooklyn Nets,122,N/A,+370,+360,+360,+400,+370,N/A,-480,-500,-480,-500,-480,,
+Wed Dec 7 2022,Atlanta Hawks,89,New York Knicks,113,N/A,+114,+115,+118,+115,+114,N/A,-134,-140,-140,-135,-134,,
+Wed Dec 7 2022,Los Angeles Lakers,113,Toronto Raptors,126,N/A,+540,+525,+550,+550,+540,N/A,-770,-750,-800,-750,-770,,
+Wed Dec 7 2022,Washington Wizards,111,Chicago Bulls,115,N/A,+166,+165,+170,+160,+166,N/A,-198,-200,-205,-190,-198,,
+Wed Dec 7 2022,Oklahoma City Thunder,102,Memphis Grizzlies,123,N/A,+280,+260,+278,+295,+280,N/A,-350,-350,-355,-360,-350,,
+Wed Dec 7 2022,Sacramento Kings,113,Milwaukee Bucks,126,N/A,+205,+200,+210,+215,+205,N/A,-250,-250,-260,-255,-250,,
+Wed Dec 7 2022,Indiana Pacers,115,Minnesota Timberwolves,121,N/A,+154,+155,+150,+155,+154,N/A,-184,-190,-178,-180,-184,,
+Wed Dec 7 2022,Detroit Pistons,98,New Orleans Pelicans,104,N/A,+400,+400,+430,+430,+400,N/A,-520,-550,-600,-560,-520,,
+Wed Dec 7 2022,Golden State Warriors,123,Utah Jazz,124,N/A,+180,+180,+185,+185,+180,N/A,-215,-225,-225,-215,-215,,
+Wed Dec 7 2022,Boston Celtics,125,Phoenix Suns,98,N/A,+108,+105,+115,+110,+108,N/A,-132,-125,-135,-130,-132,,
+Thu Dec 8 2022,Los Angeles Clippers,110,Miami Heat,115,+146,+200,+200,+196,+220,+210,+200,-174,-245,-250,-240,-260,-265,-245
+Thu Dec 8 2022,Houston Rockets,109,San Antonio Spurs,118,-130,-134,-120,-130,-130,-117,-134,+110,+116,even,+110,+110,-103,+116
+Thu Dec 8 2022,Denver Nuggets,121,Portland Trail Blazers,120,-108,-120,-120,-125,-120,-127,-120,-108,+102,even,+105,even,+107,+102
+Fri Dec 9 2022,New York Knicks,121,Charlotte Hornets,102,-176,-176,-165,-180,-170,-157,-176,+148,+148,+140,+152,+145,+130,+148
+Fri Dec 9 2022,Washington Wizards,111,Indiana Pacers,121,+180,+146,+145,+143,+150,+150,+146,-215,-174,-175,-170,-175,-180,-174
+Fri Dec 9 2022,Toronto Raptors,109,Orlando Magic,113,-320,-335,-350,-355,-345,-375,-335,+260,+270,+260,+278,+285,+295,+270
+Fri Dec 9 2022,Atlanta Hawks,116,Brooklyn Nets,120,+265,+250,+240,+250,+255,+240,+250,-330,-310,-300,-320,-305,-295,-310
+Fri Dec 9 2022,Sacramento Kings,106,Cleveland Cavaliers,95,+198,+142,+130,+130,+140,+145,+142,-240,-168,-160,-155,-165,-175,-168
+Fri Dec 9 2022,Los Angeles Lakers,122,Philadelphia 76ers,133,+130,+164,+150,+162,+165,+160,+164,-154,-196,-185,-195,-195,-195,-196
+Fri Dec 9 2022,Detroit Pistons,103,Memphis Grizzlies,114,+385,+430,+375,+360,+420,+440,+430,-500,-590,-500,-480,-540,-590,-590
+Fri Dec 9 2022,Phoenix Suns,117,New Orleans Pelicans,128,-112,-116,-120,-120,-115,-120,-116,-104,-102,even,even,-105,+102,-102
+Fri Dec 9 2022,Minnesota Timberwolves,118,Utah Jazz,108,+118,-110,-110,-110,-115,-108,-110,-138,-106,-110,-110,-105,-110,-106
+Fri Dec 9 2022,Milwaukee Bucks,106,Dallas Mavericks,105,-112,-112,-115,-110,-110,-115,-112,-104,-104,-105,-110,-110,-104,-104
+Sat Dec 10 2022,San Antonio Spurs,115,Miami Heat,111,+530,+530,+550,+550,+575,+510,+530,-750,-670,-800,-800,-800,-715,-670
+Sat Dec 10 2022,Brooklyn Nets,136,Indiana Pacers,133,-152,+290,+260,+270,+280,+255,+290,+128,-360,-350,-345,-340,-315,-360
+Sat Dec 10 2022,Los Angeles Clippers,114,Washington Wizards,107,+152,-200,-210,-205,-195,-210,-200,-180,+168,+170,+170,+165,+175,+168
+Sat Dec 10 2022,Oklahoma City Thunder,102,Cleveland Cavaliers,110,+220,+166,+150,+162,+165,+170,+166,-270,-198,-185,-195,-195,-205,-198
+Sat Dec 10 2022,Dallas Mavericks,115,Chicago Bulls,144,-102,+158,+165,+170,+165,+165,+158,-116,-188,-200,-205,-195,-200,-188
+Sat Dec 10 2022,Boston Celtics,107,Golden State Warriors,123,-130,-136,-140,-140,-140,-141,-136,+110,+116,+115,+118,+120,+118,+116
+Sat Dec 10 2022,Utah Jazz,110,Denver Nuggets,115,+205,+440,+425,+460,+470,+440,+440,-250,-590,-600,-650,-625,-590,-590
+Sat Dec 10 2022,Minnesota Timberwolves,118,Portland Trail Blazers,124,+210,+172,+170,+178,+165,+175,+172,-255,-205,-210,-215,-195,-215,-205
+Sun Dec 11 2022,Phoenix Suns,124,New Orleans Pelicans,129,+110,+146,+135,+143,+140,+145,+140,-130,-174,-160,-170,-165,-177,-166
+Sun Dec 11 2022,Los Angeles Lakers,124,Detroit Pistons,117,-220,-210,-210,-195,-205,-205,-210,+184,+176,+170,+162,+175,+170,+176
+Sun Dec 11 2022,Sacramento Kings,99,New York Knicks,112,+110,+116,+115,+110,+120,+115,+116,-130,-136,-140,-130,-140,-136,-136
+Sun Dec 11 2022,Toronto Raptors,99,Orlando Magic,111,-275,-260,-275,-260,-265,-265,-260,+225,+215,+220,+210,+225,+215,+215
+Sun Dec 11 2022,Charlotte Hornets,113,Philadelphia 76ers,131,+440,+390,+360,+400,+410,+400,+390,-590,-510,-500,-550,-520,-530,-510
+Sun Dec 11 2022,Chicago Bulls,122,Atlanta Hawks,123,+124,+136,+125,+140,+135,+133,+136,-144,-162,-155,-165,-155,-159,-162
+Sun Dec 11 2022,Milwaukee Bucks,92,Houston Rockets,97,-500,-460,-500,-480,-460,-480,-460,+385,+360,+360,+360,+370,+370,+360
+Mon Dec 12 2022,Miami Heat,87,Indiana Pacers,82,N/A,-164,-160,-165,-155,-164,N/A,+138,+135,+140,+135,+138,,
+Mon Dec 12 2022,Brooklyn Nets,112,Washington Wizards,100,N/A,-210,-225,-225,-210,-210,N/A,+176,+180,+185,+180,+176,,
+Mon Dec 12 2022,Atlanta Hawks,103,Memphis Grizzlies,128,N/A,+315,+325,+335,+360,+315,N/A,-400,-450,-440,-450,-400,,
+Mon Dec 12 2022,Oklahoma City Thunder,114,Dallas Mavericks,121,N/A,+310,+280,+278,+280,+310,N/A,-390,-350,-355,-340,-390,,
+Mon Dec 12 2022,Cleveland Cavaliers,111,San Antonio Spurs,112,N/A,-405,-450,-430,-425,-405,N/A,+320,+325,+328,+340,+320,,
+Mon Dec 12 2022,Minnesota Timberwolves,112,Portland Trail Blazers,133,N/A,+148,+145,+143,+145,+148,N/A,-176,-175,-170,-170,-176,,
+Mon Dec 12 2022,Boston Celtics,93,Los Angeles Clippers,113,N/A,-180,-185,-180,-180,-180,N/A,+152,+150,+152,+155,+152,,
+Tue Dec 13 2022,Sacramento Kings,103,Philadelphia 76ers,123,N/A,+148,+155,+152,+155,+148,N/A,-176,-185,-180,-180,-176,,
+Tue Dec 13 2022,Golden State Warriors,111,Milwaukee Bucks,128,N/A,+118,+115,+118,+120,+118,N/A,-138,-140,-140,-140,-138,,
+Tue Dec 13 2022,Phoenix Suns,97,Houston Rockets,111,N/A,-270,-250,-260,-255,-270,N/A,+220,+200,+210,+215,+220,,
+Tue Dec 13 2022,New Orleans Pelicans,100,Utah Jazz,121,N/A,-126,-140,-130,-130,-126,N/A,+108,+115,+110,+110,+108,,
+Tue Dec 13 2022,Boston Celtics,122,Los Angeles Lakers,118,N/A,-178,-165,-170,-170,-178,N/A,+150,+140,+143,+145,+150,,
+Wed Dec 14 2022,Detroit Pistons,141,Charlotte Hornets,134,N/A,+154,+150,+158,+160,+154,N/A,-184,-185,-190,-190,-184,,
+Wed Dec 14 2022,Golden State Warriors,119,Indiana Pacers,125,N/A,-122,-120,-130,-120,-122,N/A,+104,even,+110,even,+104,,
+Wed Dec 14 2022,Atlanta Hawks,124,Orlando Magic,135,N/A,-144,-145,-140,-150,-144,N/A,+122,+120,+118,+130,+122,,
+Wed Dec 14 2022,New York Knicks,128,Chicago Bulls,120,N/A,+134,+125,+130,+135,+134,N/A,-158,-150,-155,-155,-158,,
+Wed Dec 14 2022,Sacramento Kings,124,Toronto Raptors,123,N/A,+156,+155,+170,+170,+156,N/A,-186,-190,-205,-200,-186,,
+Wed Dec 14 2022,Miami Heat,110,Oklahoma City Thunder,108,N/A,-144,-140,-140,-145,-144,N/A,+122,+115,+118,+125,+122,,
+Wed Dec 14 2022,Portland Trail Blazers,128,San Antonio Spurs,112,N/A,-275,-300,-305,-285,-275,N/A,+225,+240,+240,+240,+225,,
+Wed Dec 14 2022,Cleveland Cavaliers,105,Dallas Mavericks,90,N/A,+118,+115,+115,+120,+118,N/A,-138,-140,-135,-140,-138,,
+Wed Dec 14 2022,Washington Wizards,128,Denver Nuggets,141,N/A,+440,+425,+460,+470,+440,N/A,-590,-600,-650,-625,-590,,
+Wed Dec 14 2022,Minnesota Timberwolves,88,Los Angeles Clippers,99,N/A,+260,+220,+222,+230,+260,N/A,-320,-275,-278,-275,-320,,
+Thu Dec 15 2022,Miami Heat,111,Houston Rockets,108,N/A,-146,-145,-150,-155,-146,N/A,+124,+120,+126,+135,+124,,
+Thu Dec 15 2022,Milwaukee Bucks,101,Memphis Grizzlies,142,N/A,+128,+125,+140,+135,+128,N/A,-152,-155,-165,-155,-152,,
+Thu Dec 15 2022,New Orleans Pelicans,129,Utah Jazz,132,-118,-112,-115,-120,-120,-112,even,-104,-105,even,even,-104,,
+Thu Dec 15 2022,Phoenix Suns,111,Los Angeles Clippers,95,N/A,-250,-250,-260,-250,-250,N/A,+205,+200,+210,+210,+205,,
+Fri Dec 16 2022,Atlanta Hawks,125,Charlotte Hornets,106,-116,+120,+115,+118,+120,+120,+120,-102,-142,-140,-140,-140,-141,-142
+Fri Dec 16 2022,Sacramento Kings,122,Detroit Pistons,113,-215,-250,-250,-240,-245,-250,-250,+180,+205,+195,+196,+205,+205,+205
+Fri Dec 16 2022,Orlando Magic,117,Boston Celtics,109,+640,+660,+650,+600,+675,+575,+640,-950,-1000,-1100,-900,-975,-835,-950
+Fri Dec 16 2022,Indiana Pacers,112,Cleveland Cavaliers,118,+265,+270,+260,+250,+275,+260,+270,-330,-335,-350,-320,-330,-335,-335
+Fri Dec 16 2022,Golden State Warriors,106,Philadelphia 76ers,118,+280,+315,+275,+310,+290,+310,+315,-350,-400,-350,-400,-350,-385,-400
+Fri Dec 16 2022,Brooklyn Nets,119,Toronto Raptors,116,-118,-120,-115,-115,-125,-112,-120,even,even,-105,-105,+105,-107,even
+Fri Dec 16 2022,New York Knicks,114,Chicago Bulls,91,+124,+128,+115,+118,+125,+114,+128,-146,-152,-140,-140,-145,-136,-152
+Fri Dec 16 2022,Minnesota Timberwolves,112,Oklahoma City Thunder,110,+102,+166,+155,+158,+165,+145,+166,-120,-198,-190,-190,-195,-175,-198
+Fri Dec 16 2022,Portland Trail Blazers,110,Dallas Mavericks,130,+140,+152,+145,+152,+150,+155,+152,-166,-180,-175,-180,-175,-186,-180
+Fri Dec 16 2022,Denver Nuggets,108,Los Angeles Lakers,126,-120,-126,-125,-125,-130,-124,-126,+102,+108,+105,+105,+110,+105,+108
+Sat Dec 17 2022,Washington Wizards,93,Los Angeles Clippers,102,+225,+162,+165,+170,+165,+180,+162,-275,-194,-200,-205,-195,-220,-194
+Sat Dec 17 2022,Miami Heat,111,San Antonio Spurs,101,-350,-320,-350,-345,-300,-345,-320,+275,+260,+260,+270,+250,+275,+260
+Sat Dec 17 2022,Dallas Mavericks,99,Cleveland Cavaliers,100,+150,+300,+260,+278,+300,+295,+300,-178,-375,-350,-355,-365,-375,-375
+Sat Dec 17 2022,Portland Trail Blazers,107,Houston Rockets,95,-168,-158,-155,-160,-155,-159,-158,+142,+134,+125,+135,+135,+133,+134
+Sat Dec 17 2022,Utah Jazz,97,Milwaukee Bucks,123,+235,+112,+110,+115,+115,+116,+112,-290,-132,-130,-135,-135,-137,-132
+Sat Dec 17 2022,Memphis Grizzlies,109,Oklahoma City Thunder,115,-290,-590,-500,-600,-580,-530,-590,+235,+440,+375,+430,+440,+400,+440
+Sat Dec 17 2022,New Orleans Pelicans,114,Phoenix Suns,118,+146,+128,+120,+126,+125,+132,+128,-174,-152,-145,-150,-145,-157,-152
+Sun Dec 18 2022,Orlando Magic,95,Boston Celtics,92,+385,+410,+400,+400,+420,+420,+410,-500,-550,-550,-550,-540,-560,-550
+Sun Dec 18 2022,New York Knicks,109,Indiana Pacers,106,-106,-116,-110,-115,-110,-107,-116,-110,-102,-110,-105,-110,-112,-102
+Sun Dec 18 2022,Brooklyn Nets,124,Detroit Pistons,121,-295,-355,-350,-345,-345,-360,-355,+240,+285,+260,+270,+285,+285,+285
+Sun Dec 18 2022,Golden State Warriors,126,Toronto Raptors,110,+190,+194,+185,+185,+195,+195,+194,-230,-235,-225,-225,-230,-240,-235
+Sun Dec 18 2022,Chicago Bulls,126,Minnesota Timberwolves,150,-108,-124,-115,-125,-120,-118,-124,-108,+106,-105,+105,even,even,+106
+Sun Dec 18 2022,Charlotte Hornets,115,Denver Nuggets,119,+265,+315,+300,+310,+330,+320,+315,-330,-400,-400,-400,-410,-400,-400
+Sun Dec 18 2022,Washington Wizards,117,Los Angeles Lakers,119,+180,+124,+120,+130,+130,+123,+124,-215,-146,-145,-155,-150,-148,-146
+Mon Dec 19 2022,Utah Jazz,99,Cleveland Cavaliers,122,+200,+215,+200,+205,+220,+215,-245,-260,-250,-250,-260,-260,,
+Mon Dec 19 2022,Toronto Raptors,101,Philadelphia 76ers,104,+225,+205,+220,+222,+225,+205,-275,-250,-275,-278,-265,-250,,
+Mon Dec 19 2022,Orlando Magic,125,Atlanta Hawks,126,N/A,+290,+260,+278,+300,+290,N/A,-360,-350,-355,-365,-360,,
+Mon Dec 19 2022,San Antonio Spurs,124,Houston Rockets,105,N/A,+162,+145,+158,+160,+162,N/A,-194,-175,-190,-190,-194,,
+Mon Dec 19 2022,Dallas Mavericks,106,Minnesota Timberwolves,116,N/A,-240,-210,-235,-240,-240,N/A,+198,+170,+192,+200,+198,,
+Mon Dec 19 2022,Milwaukee Bucks,128,New Orleans Pelicans,119,N/A,-108,-105,-115,-110,-108,N/A,-108,-115,-105,-110,-108,,
+Mon Dec 19 2022,Portland Trail Blazers,121,Oklahoma City Thunder,123,N/A,-184,-175,-178,-170,-184,N/A,+154,+145,+150,+145,+154,,
+Mon Dec 19 2022,Los Angeles Lakers,104,Phoenix Suns,130,N/A,+440,+375,+460,+460,+440,N/A,-590,-500,-650,-610,-590,,
+Mon Dec 19 2022,Charlotte Hornets,125,Sacramento Kings,119,+330,+360,+375,+360,+360,+360,-420,-460,-500,-480,-450,-460,,
+Tue Dec 20 2022,Utah Jazz,126,Detroit Pistons,111,-148,-142,-140,-140,-140,-141,-142,+126,+120,+115,+118,+120,+118,+120
+Tue Dec 20 2022,Chicago Bulls,113,Miami Heat,103,+176,+102,even,even,even,+105,+102,-210,-120,-120,-120,-120,-124,-120
+Tue Dec 20 2022,Golden State Warriors,94,New York Knicks,132,+160,+198,+180,+180,+200,+195,+198,-190,-240,-225,-220,-240,-240,-240
+Tue Dec 20 2022,Washington Wizards,113,Phoenix Suns,110,+280,+225,+220,+240,+240,+245,+225,-350,-275,-275,-305,-285,-295,-275
+Tue Dec 20 2022,Memphis Grizzlies,91,Denver Nuggets,105,-118,-120,-120,-125,-120,-114,-120,even,+102,even,+105,even,-105,+102
+Wed Dec 21 2022,Milwaukee Bucks,106,Cleveland Cavaliers,114,+108,+112,+115,+115,+115,+112,-126,-132,-140,-135,-135,-132,,
+Wed Dec 21 2022,Detroit Pistons,93,Philadelphia 76ers,113,N/A,+500,+500,+550,+520,+500,N/A,-700,-700,-800,-720,-700,,
+Wed Dec 21 2022,Chicago Bulls,110,Atlanta Hawks,108,N/A,+166,+170,+170,+170,+166,N/A,-198,-210,-205,-200,-198,,
+Wed Dec 21 2022,Indiana Pacers,117,Boston Celtics,112,+390,+360,+350,+345,+340,+360,-510,-460,-450,-455,-425,-460,,
+Wed Dec 21 2022,Golden State Warriors,113,Brooklyn Nets,143,N/A,+410,+425,+400,+420,+410,N/A,-550,-600,-550,-540,-550,,
+Wed Dec 21 2022,Toronto Raptors,113,New York Knicks,106,N/A,+116,+110,+110,+110,+116,N/A,-136,-130,-130,-130,-136,,
+Wed Dec 21 2022,Orlando Magic,116,Houston Rockets,110,N/A,-102,-105,-110,-105,-102,N/A,-116,-115,-110,-115,-116,,
+Wed Dec 21 2022,Dallas Mavericks,104,Minnesota Timberwolves,99,N/A,-134,-140,-130,-135,-134,N/A,+114,+115,+110,+115,+114,,
+Wed Dec 21 2022,Portland Trail Blazers,98,Oklahoma City Thunder,101,N/A,-174,-160,-170,-165,-174,N/A,+146,+135,+143,+140,+146,,
+Wed Dec 21 2022,Los Angeles Lakers,120,Sacramento Kings,134,N/A,+295,+260,+270,+290,+295,N/A,-370,-350,-345,-350,-370,,
+Wed Dec 21 2022,Charlotte Hornets,105,Los Angeles Clippers,126,N/A,+290,+290,+285,+310,+290,N/A,-360,-375,-365,-380,-360,,
+Thu Dec 22 2022,San Antonio Spurs,117,New Orleans Pelicans,126,N/A,+295,+260,+278,+285,+295,N/A,-370,-350,-355,-345,-370,,
+Thu Dec 22 2022,Washington Wizards,112,Utah Jazz,120,N/A,+220,+220,+222,+235,+220,N/A,-270,-275,-278,-280,-270,,
+Fri Dec 23 2022,San Antonio Spurs,113,Orlando Magic,133,N/A,+194,+190,+185,+200,+194,N/A,-235,-250,-225,-240,-235,,
+Fri Dec 23 2022,Los Angeles Clippers,114,Philadelphia 76ers,119,+148,+142,+140,+143,+140,+142,-176,-168,-165,-170,-165,-168,,
+Fri Dec 23 2022,Detroit Pistons,105,Atlanta Hawks,130,N/A,+340,+300,+345,+360,+340,N/A,-430,-400,-455,-450,-430,,
+Fri Dec 23 2022,Minnesota Timberwolves,109,Boston Celtics,121,N/A,+340,+350,+345,+350,+340,N/A,-430,-450,-455,-435,-430,,
+Fri Dec 23 2022,Milwaukee Bucks,100,Brooklyn Nets,118,even,+110,+115,+115,+110,+110,-118,-130,-140,-135,-130,-130,,
+Fri Dec 23 2022,Toronto Raptors,118,Cleveland Cavaliers,107,N/A,+160,+165,+162,+170,+160,N/A,-190,-200,-195,-200,-190,,
+Fri Dec 23 2022,Chicago Bulls,118,New York Knicks,117,N/A,+194,+200,+185,+190,+194,N/A,-240,-250,-225,-225,-240,,
+Fri Dec 23 2022,Dallas Mavericks,112,Houston Rockets,106,N/A,-255,-275,-278,-265,-255,N/A,+210,+220,+222,+225,+210,,
+Fri Dec 23 2022,Indiana Pacers,111,Miami Heat,108,N/A,+194,+195,+205,+200,+194,N/A,-235,-250,-250,-240,-235,,
+Fri Dec 23 2022,New Orleans Pelicans,128,Oklahoma City Thunder,125,N/A,+114,even,even,+105,+114,N/A,-134,-120,-120,-125,-134,,
+Fri Dec 23 2022,Portland Trail Blazers,107,Denver Nuggets,120,N/A,+190,+170,+175,+180,+190,N/A,-230,-210,-210,-210,-230,,
+Fri Dec 23 2022,Memphis Grizzlies,125,Phoenix Suns,100,N/A,-152,-140,-150,-150,-152,N/A,+128,+115,+126,+130,+128,,
+Fri Dec 23 2022,Washington Wizards,125,Sacramento Kings,111,N/A,+260,+240,+260,+260,+260,N/A,-320,-300,-335,-315,-320,,
+Fri Dec 23 2022,Charlotte Hornets,134,Los Angeles Lakers,130,N/A,+126,+120,+130,+120,+126,N/A,-148,-145,-155,-140,-148,,
+Sun Dec 25 2022,Philadelphia 76ers,119,New York Knicks,112,-118,-134,-135,-125,-132,-134,even,+114,+110,+105,+110,+114,,
+Sun Dec 25 2022,Los Angeles Lakers,115,Dallas Mavericks,124,+260,+245,+240,+245,+260,+245,-320,-300,-300,-295,-315,-300,,
+Sun Dec 25 2022,Milwaukee Bucks,118,Boston Celtics,139,+130,+172,+175,+175,+175,+172,-154,-205,-210,-205,-215,-205,,
+Sun Dec 25 2022,Memphis Grizzlies,109,Golden State Warriors,123,-198,-290,-275,-285,-286,-290,+166,+235,+225,+240,+235,+235,,
+Sun Dec 25 2022,Phoenix Suns,125,Denver Nuggets,128,+112,+152,+145,+150,+143,+152,-132,-180,-175,-175,-175,-180,,
+Mon Dec 26 2022,Brooklyn Nets,125,Cleveland Cavaliers,117,+108,+108,+110,+115,+105,+110,+108,-126,-126,-135,-135,-125,-130,-126
+Mon Dec 26 2022,Los Angeles Clippers,142,Detroit Pistons,131,-198,-215,-225,-225,-210,-215,-215,+166,+180,+185,+185,+180,+175,+180
+Mon Dec 26 2022,Minnesota Timberwolves,110,Miami Heat,113,+176,-104,-110,-110,-110,-108,-104,-210,-112,-110,-110,-110,-110,-112
+Mon Dec 26 2022,Houston Rockets,133,Chicago Bulls,118,+275,+215,+230,+222,+220,+220,+215,-340,-260,-275,-278,-260,-275,-260
+Mon Dec 26 2022,Indiana Pacers,93,New Orleans Pelicans,113,+225,+110,+105,+110,+110,+112,+110,-275,-130,-130,-130,-130,-134,-130
+Mon Dec 26 2022,Utah Jazz,122,San Antonio Spurs,126,-225,-190,-190,-190,-190,-200,-188,+188,+160,+155,+158,+160,+165,+158
+Mon Dec 26 2022,Charlotte Hornets,113,Portland Trail Blazers,124,+205,+184,+170,+185,+180,+170,+184,-250,-220,-210,-225,-210,-205,-220
+Tue Dec 27 2022,Los Angeles Lakers,129,Orlando Magic,110,N/A,+122,+125,+130,+125,+122,N/A,-144,-155,-155,-145,-144,,
+Tue Dec 27 2022,Philadelphia 76ers,111,Washington Wizards,116,N/A,-198,-190,-190,-190,-198,N/A,+166,+155,+158,+160,+166,,
+Tue Dec 27 2022,Houston Rockets,102,Boston Celtics,126,N/A,+900,+900,+800,+850,+900,N/A,-1600,-1600,-1400,-1400,-1600,,
+Tue Dec 27 2022,Atlanta Hawks,114,Indiana Pacers,129,N/A,-130,-120,-125,-120,-130,N/A,+110,even,+105,even,+110,,
+Tue Dec 27 2022,Los Angeles Clippers,124,Toronto Raptors,113,N/A,+132,+145,+143,+140,+132,N/A,-156,-175,-170,-165,-156,,
+Tue Dec 27 2022,Phoenix Suns,125,Memphis Grizzlies,108,N/A,+245,+260,+260,+255,+245,N/A,-300,-350,-335,-305,-300,,
+Tue Dec 27 2022,San Antonio Spurs,114,Oklahoma City Thunder,130,N/A,+205,+220,+222,+215,+205,N/A,-255,-275,-278,-255,-255,,
+Tue Dec 27 2022,New York Knicks,121,Dallas Mavericks,126,N/A,+188,+180,+185,+185,+188,N/A,-225,-225,-225,-215,-225,,
+Tue Dec 27 2022,Charlotte Hornets,105,Golden State Warriors,110,N/A,+180,+165,+170,+180,+180,N/A,-215,-200,-205,-210,-215,,
+Tue Dec 27 2022,Denver Nuggets,113,Sacramento Kings,106,N/A,-164,-150,-160,-150,-164,N/A,+138,+125,+135,+130,+138,,
+Wed Dec 28 2022,Orlando Magic,101,Detroit Pistons,121,-126,-116,-115,-115,-115,-113,-106,+108,-102,-105,-105,-105,-106,-110
+Wed Dec 28 2022,Phoenix Suns,102,Washington Wizards,127,-116,-136,-130,-130,-125,-130,-136,-102,+116,+110,+110,+105,+112,+116
+Wed Dec 28 2022,Brooklyn Nets,108,Atlanta Hawks,107,-215,-290,-300,-305,-300,-315,-290,+180,+235,+240,+240,+250,+255,+235
+Wed Dec 28 2022,Los Angeles Lakers,98,Miami Heat,112,+220,+330,+290,+320,+330,+300,+330,-270,-420,-375,-420,-410,-375,-420
+Wed Dec 28 2022,Milwaukee Bucks,113,Chicago Bulls,119,-205,-142,-145,-140,-145,-141,-142,+172,+120,+120,+118,+125,+118,+120
+Wed Dec 28 2022,Minnesota Timberwolves,118,New Orleans Pelicans,119,+230,+205,+200,+210,+200,+215,+205,-280,-250,-250,-260,-240,-265,-250
+Wed Dec 28 2022,Utah Jazz,107,Golden State Warriors,112,-130,-184,-185,-190,-175,-177,-184,+110,+154,+150,+158,+150,+148,+154
+Wed Dec 28 2022,Denver Nuggets,126,Sacramento Kings,127,-162,+130,+135,+130,+130,+117,+130,+136,-154,-160,-155,-150,-139,-154
+Thu Dec 29 2022,Oklahoma City Thunder,113,Charlotte Hornets,121,even,+120,+115,+110,+115,+117,+120,-118,-142,-140,-130,-135,-139,-142
+Thu Dec 29 2022,Cleveland Cavaliers,126,Indiana Pacers,135,-240,-178,-165,-165,-170,-180,-178,+198,+150,+135,+140,+145,+148,+150
+Thu Dec 29 2022,Los Angeles Clippers,110,Boston Celtics,116,+210,+230,+220,+222,+225,+215,+230,-255,-280,-275,-278,-265,-265,-280
+Thu Dec 29 2022,Memphis Grizzlies,119,Toronto Raptors,106,-120,-180,-175,-180,-175,-186,-180,+102,+152,+145,+152,+150,+155,+152
+Thu Dec 29 2022,New York Knicks,115,San Antonio Spurs,122,-190,-200,-185,-190,-190,-200,-200,+160,+168,+150,+158,+160,+165,+168
+Thu Dec 29 2022,Houston Rockets,114,Dallas Mavericks,129,+410,+360,+375,+360,+370,+370,+360,-550,-460,-500,-480,-460,-500,-460
+Fri Dec 30 2022,Washington Wizards,119,Orlando Magic,100,+104,-196,-190,-190,-180,-186,-196,-122,+164,+155,+158,+155,+155,+164
+Fri Dec 30 2022,Los Angeles Lakers,130,Atlanta Hawks,121,+240,+198,+190,+205,+200,+195,+198,-295,-240,-250,-250,-240,-240,-240
+Fri Dec 30 2022,Phoenix Suns,104,Toronto Raptors,113,+114,+108,+115,+110,+110,+108,+108,-134,-126,-140,-130,-130,-129,-126
+Fri Dec 30 2022,Detroit Pistons,118,Chicago Bulls,132,+260,+235,+240,+250,+245,+235,+235,-320,-290,-300,-320,-295,-286,-290
+Fri Dec 30 2022,Minnesota Timberwolves,114,Milwaukee Bucks,123,+172,+260,+240,+250,+240,+240,+260,-205,-320,-300,-320,-285,-295,-320
+Fri Dec 30 2022,Philadelphia 76ers,116,New Orleans Pelicans,127,+108,-118,-115,-125,-115,-110,-118,-126,even,-105,+105,-105,-108,even
+Fri Dec 30 2022,Miami Heat,119,Denver Nuggets,124,+144,+148,+140,+152,+150,+150,+148,-172,-176,-165,-180,-175,-182,-176
+Fri Dec 30 2022,Portland Trail Blazers,112,Golden State Warriors,118,-134,-104,-115,-110,-115,-118,-104,+114,-112,-105,-110,-105,even,-112
+Fri Dec 30 2022,Utah Jazz,125,Sacramento Kings,126,+128,+138,+125,+130,+135,+123,+138,-152,-164,-155,-155,-155,-148,-164
+Sat Dec 31 2022,Los Angeles Clippers,130,Indiana Pacers,131,-158,-146,-140,-135,-140,-136,-146,+134,+124,+115,+115,+120,+114,+124
+Sat Dec 31 2022,Cleveland Cavaliers,103,Chicago Bulls,102,-176,-118,-115,-120,-120,-109,-120,+148,even,-105,even,even,-109,+102
+Sat Dec 31 2022,Brooklyn Nets,123,Charlotte Hornets,106,-295,-250,-250,-250,-245,-250,-250,+240,+205,+200,+205,+205,+205,+205
+Sat Dec 31 2022,New York Knicks,108,Houston Rockets,88,-194,-162,-155,-170,-170,-167,-158,+162,+136,+125,+143,+145,+140,+134
+Sat Dec 31 2022,Dallas Mavericks,126,San Antonio Spurs,125,-335,-270,-300,-305,-275,-295,-295,+270,+220,+240,+240,+230,+240,+240
+Sat Dec 31 2022,New Orleans Pelicans,101,Memphis Grizzlies,116,+215,+200,+200,+205,+200,+205,+200,-260,-245,-250,-250,-240,-250,-245
+Sat Dec 31 2022,Detroit Pistons,116,Minnesota Timberwolves,104,+280,+240,+240,+240,+230,+245,+240,-350,-295,-300,-305,-275,-335,-295
+Sat Dec 31 2022,Philadelphia 76ers,115,Oklahoma City Thunder,96,-200,-138,-140,-140,-140,-150,-138,+168,+118,+115,+118,+120,+125,+118
+Sat Dec 31 2022,Miami Heat,126,Utah Jazz,123,+124,+150,+145,+152,+155,+150,+150,-146,-178,-175,-180,-180,-182,-178
+Sun Jan 1 2023,Boston Celtics,111,Denver Nuggets,123,-116,-166,-155,-165,-170,-162,-166,-102,+140,+125,+140,+145,+133,+140
+Sun Jan 1 2023,Sacramento Kings,108,Memphis Grizzlies,118,+164,+150,+150,+150,+140,+148,+150,-196,-178,-185,-178,-165,-177,-178
+Sun Jan 1 2023,Washington Wizards,118,Milwaukee Bucks,95,+320,+118,+115,+118,+120,+120,+118,-405,-138,-140,-140,-140,-143,-138
+Mon Jan 2 2023,Phoenix Suns,83,New York Knicks,102,-106,+120,+115,+122,+120,+114,+120,-110,-142,-140,-145,-140,-134,-142
+Mon Jan 2 2023,Los Angeles Lakers,121,Charlotte Hornets,115,-116,+108,+105,+110,+105,+104,+108,-102,-126,-125,-130,-125,-122,-126
+Mon Jan 2 2023,Chicago Bulls,134,Cleveland Cavaliers,145,+128,+146,+135,+143,+145,+148,+146,-152,-174,-165,-170,-170,-180,-174
+Mon Jan 2 2023,Toronto Raptors,114,Indiana Pacers,122,+120,-126,-130,-130,-130,-124,-126,-142,+108,+105,+110,+110,+104,+108
+Mon Jan 2 2023,New Orleans Pelicans,111,Philadelphia 76ers,120,+164,+180,+165,+175,+175,+185,+184,-196,-220,-200,-210,-205,-225,-220
+Mon Jan 2 2023,San Antonio Spurs,103,Brooklyn Nets,139,+640,+500,+550,+550,+575,+550,+500,-950,-700,-800,-800,-800,-835,-700
+Mon Jan 2 2023,Dallas Mavericks,111,Houston Rockets,106,-330,-270,-300,-305,-275,-305,-270,+265,+220,+230,+240,+230,+240,+220
+Mon Jan 2 2023,Denver Nuggets,111,Minnesota Timberwolves,124,-152,-190,-185,-180,-175,-180,-190,+128,+160,+150,+152,+150,+148,+160
+Mon Jan 2 2023,Atlanta Hawks,141,Golden State Warriors,143,+122,even,even,+105,even,+106,+102,-144,-118,-120,-125,-120,-127,-120
+Mon Jan 2 2023,Detroit Pistons,106,Portland Trail Blazers,135,+350,+310,+350,+345,+330,+350,+310,-450,-390,-450,-455,-410,-455,-390
+Mon Jan 2 2023,Miami Heat,110,Los Angeles Clippers,100,+180,-108,-115,-120,-115,-122,-108,-215,-108,-105,even,-105,+102,-108
+Tue Jan 3 2023,Washington Wizards,113,Milwaukee Bucks,123,+295,+240,+240,+240,+245,+235,+240,-370,-295,-300,-305,-295,-286,-295
+Tue Jan 3 2023,Boston Celtics,117,Oklahoma City Thunder,150,-375,-620,-600,-600,-610,-625,-620,+300,+460,+425,+430,+460,+450,+460
+Tue Jan 3 2023,Sacramento Kings,117,Utah Jazz,115,+110,+134,+125,+130,+130,+128,+134,-130,-158,-155,-155,-150,-152,-158
+Wed Jan 4 2023,Memphis Grizzlies,131,Charlotte Hornets,107,-260,-295,-300,-305,-300,-275,-295,+215,+240,+240,+240,+250,+220,+240
+Wed Jan 4 2023,Phoenix Suns,88,Cleveland Cavaliers,90,+176,+168,+180,+158,+185,+185,+166,-210,-200,-225,-190,-215,-225,-198
+Wed Jan 4 2023,Oklahoma City Thunder,115,Orlando Magic,126,+110,-118,-120,-120,-115,-120,-118,-130,even,even,even,-105,even,even
+Wed Jan 4 2023,Indiana Pacers,126,Philadelphia 76ers,129,+265,+176,+155,+170,+170,+165,+176,-330,-210,-190,-205,-200,-200,-210
+Wed Jan 4 2023,San Antonio Spurs,114,New York Knicks,117,+310,+360,+350,+360,+360,+375,+360,-390,-460,-450,-480,-450,-500,-460
+Wed Jan 4 2023,Milwaukee Bucks,104,Toronto Raptors,101,-134,+176,+165,+180,+180,+170,+176,+114,-210,-200,-220,-210,-205,-210
+Wed Jan 4 2023,Brooklyn Nets,112,Chicago Bulls,121,-210,-200,-190,-205,-200,-210,-200,+176,+168,+155,+170,+170,+170,+168
+Wed Jan 4 2023,Portland Trail Blazers,106,Minnesota Timberwolves,113,-102,-130,-115,-125,-125,-117,-130,-116,+110,-105,+105,+105,-103,+110
+Wed Jan 4 2023,Houston Rockets,108,New Orleans Pelicans,119,+290,+235,+220,+222,+230,+235,+235,-360,-290,-275,-278,-275,-295,-290
+Wed Jan 4 2023,Detroit Pistons,122,Golden State Warriors,119,+220,+220,+220,+222,+220,+210,+215,-270,-270,-275,-278,-260,-265,-260
+Wed Jan 4 2023,Miami Heat,109,Los Angeles Lakers,112,-158,-355,-350,-355,-360,-360,-375,+134,+285,+260,+278,+295,+285,+300
+Wed Jan 4 2023,Atlanta Hawks,120,Sacramento Kings,117,even,+106,even,+105,+105,-104,+106,-118,-124,-120,-125,-125,-115,-124
+Thu Jan 5 2023,Memphis Grizzlies,123,Orlando Magic,115,-230,-270,-250,-250,-250,-265,-270,+190,+220,+200,+205,+210,+215,+220
+Thu Jan 5 2023,Boston Celtics,124,Dallas Mavericks,95,-132,-156,-145,-150,-150,-148,-156,+112,+132,+120,+126,+130,+123,+132
+Thu Jan 5 2023,Utah Jazz,131,Houston Rockets,114,-230,-260,-275,-305,-265,-278,-260,+190,+215,+220,+240,+225,+225,+215
+Thu Jan 5 2023,Los Angeles Clippers,91,Denver Nuggets,122,+176,+164,+150,+158,+160,+163,+164,-210,-196,-185,-190,-190,-195,-196
+Fri Jan 6 2023,Portland Trail Blazers,99,Indiana Pacers,108,+102,even,even,-115,-105,even,even,-120,-118,-120,-105,-115,-118,-118
+Fri Jan 6 2023,Chicago Bulls,126,Philadelphia 76ers,112,+146,+172,+165,+170,+180,+163,+172,-174,-205,-200,-205,-210,-195,-205
+Fri Jan 6 2023,Brooklyn Nets,108,New Orleans Pelicans,102,-215,-200,-185,-178,-190,-195,-200,+180,+168,+150,+150,+160,+165,+168
+Fri Jan 6 2023,New York Knicks,112,Toronto Raptors,108,+124,+150,+140,+130,+145,+140,+150,-146,-178,-165,-155,-170,-167,-178
+Fri Jan 6 2023,Charlotte Hornets,138,Milwaukee Bucks,109,+430,+360,+375,+345,+380,+360,+385,-590,-460,-500,-455,-475,-480,-500
+Fri Jan 6 2023,Washington Wizards,110,Oklahoma City Thunder,127,+112,-110,-110,-115,-110,-110,-110,-132,-106,-110,-105,-110,-108,-106
+Fri Jan 6 2023,Detroit Pistons,109,San Antonio Spurs,121,-104,+102,even,even,even,even,+102,-112,-120,-120,-120,-120,-118,-120
+Fri Jan 6 2023,Cleveland Cavaliers,108,Denver Nuggets,121,+168,+180,+165,+175,+170,+170,+180,-200,-215,-200,-210,-200,-205,-215
+Fri Jan 6 2023,Los Angeles Clippers,115,Minnesota Timberwolves,128,+122,+188,+180,+185,+190,+170,+188,-144,-225,-225,-225,-225,-205,-225
+Fri Jan 6 2023,Miami Heat,104,Phoenix Suns,96,-116,-118,-110,-120,-115,-109,-118,-102,even,-110,even,-105,-109,even
+Fri Jan 6 2023,Atlanta Hawks,114,Los Angeles Lakers,130,-112,-142,-145,-140,-140,-136,-142,-104,+120,+120,+118,+120,+114,+120
+Sat Jan 7 2023,Boston Celtics,121,San Antonio Spurs,116,-820,-1350,-1200,-1100,-1400,-1250,-1350,+570,+810,+750,+700,+850,+750,+810
+Sat Jan 7 2023,Utah Jazz,118,Chicago Bulls,126,+102,-142,-135,-145,-140,-134,-142,-120,+120,+110,+122,+120,+114,+120
+Sat Jan 7 2023,New Orleans Pelicans,117,Dallas Mavericks,127,+240,+300,+280,+320,+310,+300,+300,-295,-375,-350,-420,-380,-385,-375
+Sat Jan 7 2023,Orlando Magic,115,Golden State Warriors,101,+220,+205,+200,+205,+210,+205,+205,-270,-250,-250,-250,-250,-250,-250
+Sat Jan 7 2023,Los Angeles Lakers,136,Sacramento Kings,134,+290,+245,+240,+250,+255,+245,+245,-360,-300,-300,-320,-305,-315,-300
+Sun Jan 8 2023,Philadelphia 76ers,123,Detroit Pistons,111,-240,-215,-225,-225,-210,-220,-215,+198,+180,+190,+185,+180,+180,+180
+Sun Jan 8 2023,Portland Trail Blazers,105,Toronto Raptors,117,+120,+132,+130,+126,+130,+125,+132,-142,-156,-160,-150,-150,-150,-156
+Sun Jan 8 2023,Charlotte Hornets,111,Indiana Pacers,116,+210,+184,+175,+170,+180,+163,+184,-255,-220,-210,-205,-210,-200,-220
+Sun Jan 8 2023,Utah Jazz,118,Memphis Grizzlies,123,+330,+190,+170,+185,+180,+185,+190,-420,-230,-210,-225,-210,-225,-230
+Sun Jan 8 2023,Brooklyn Nets,102,Miami Heat,101,-154,-138,-125,-135,-130,-139,-138,+130,+118,+105,+115,+110,+117,+118
+Sun Jan 8 2023,Minnesota Timberwolves,104,Houston Rockets,96,-164,-176,-160,-165,-165,-159,-176,+138,+148,+130,+140,+140,+133,+148
+Sun Jan 8 2023,Dallas Mavericks,109,Oklahoma City Thunder,120,-130,+152,+145,+152,+150,+143,+152,+110,-180,-175,-180,-175,-167,-180
+Sun Jan 8 2023,Cleveland Cavaliers,112,Phoenix Suns,98,-162,-240,-225,-225,-225,-235,-240,+136,+198,+180,+185,+190,+190,+198
+Sun Jan 8 2023,Atlanta Hawks,112,Los Angeles Clippers,108,+166,+110,+115,+118,+115,+115,+110,-198,-130,-140,-140,-135,-137,-130
+Mon Jan 9 2023,New Orleans Pelicans,132,Washington Wizards,112,N/A,+108,+105,even,even,+108,N/A,-126,-125,-120,-120,-126,,
+Mon Jan 9 2023,Chicago Bulls,99,Boston Celtics,107,N/A,+310,+300,+328,+320,+310,N/A,-390,-400,-430,-390,-390,,
+Mon Jan 9 2023,Milwaukee Bucks,111,New York Knicks,107,N/A,-108,-110,-115,-110,-108,N/A,-108,-110,-105,-110,-108,,
+Mon Jan 9 2023,San Antonio Spurs,113,Memphis Grizzlies,121,N/A,+420,+400,+400,+420,+420,N/A,-560,-550,-550,-540,-560,,
+Mon Jan 9 2023,Los Angeles Lakers,109,Denver Nuggets,122,N/A,+530,+550,+500,+540,+530,N/A,-750,-800,-700,-740,-750,,
+Mon Jan 9 2023,Orlando Magic,111,Sacramento Kings,136,N/A,+198,+220,+215,+210,+198,N/A,-240,-275,-267,-250,-240,,
+Tue Jan 10 2023,Detroit Pistons,116,Philadelphia 76ers,147,+360,+810,+875,+800,+850,+650,+810,-460,-1350,-1600,-1400,-1400,-1000,-1350
+Tue Jan 10 2023,Oklahoma City Thunder,111,Miami Heat,112,+166,+102,even,even,even,+112,+102,-198,-120,-120,-120,-120,-132,-120
+Tue Jan 10 2023,Charlotte Hornets,120,Toronto Raptors,132,+260,+245,+240,+250,+250,+235,+245,-320,-300,-300,-320,-300,-286,-300
+Tue Jan 10 2023,Cleveland Cavaliers,114,Utah Jazz,116,-164,-142,-145,-140,-135,-141,-142,+138,+120,+120,+118,+115,+120,+120
+Tue Jan 10 2023,Phoenix Suns,125,Golden State Warriors,113,+330,+560,+500,+500,+575,+510,+560,-420,-800,-700,-700,-800,-715,-800
+Tue Jan 10 2023,Orlando Magic,109,Portland Trail Blazers,106,+265,+280,+260,+270,+280,+285,+280,-330,-350,-350,-345,-340,-360,-350
+Tue Jan 10 2023,Dallas Mavericks,101,Los Angeles Clippers,113,+148,-104,-105,+105,-105,-112,-104,-176,-112,-115,-125,-115,-108,-112
+Wed Jan 11 2023,Minnesota Timberwolves,118,Detroit Pistons,135,N/A,-250,-250,-260,-250,-250,N/A,+205,+200,+210,+210,+205,,
+Wed Jan 11 2023,Chicago Bulls,97,Washington Wizards,100,N/A,-126,-120,-125,-120,-126,N/A,+108,even,+105,even,+108,,
+Wed Jan 11 2023,Milwaukee Bucks,114,Atlanta Hawks,105,N/A,-190,-190,-180,-180,-190,N/A,+160,+155,+152,+155,+160,,
+Wed Jan 11 2023,New Orleans Pelicans,114,Boston Celtics,125,+385,+330,+290,+320,+330,+330,-500,-420,-375,-420,-410,-420,,
+Wed Jan 11 2023,Indiana Pacers,113,New York Knicks,119,N/A,+164,+155,+170,+170,+164,N/A,-196,-190,-205,-200,-196,,
+Wed Jan 11 2023,San Antonio Spurs,129,Memphis Grizzlies,135,N/A,+590,+675,+650,+675,+590,N/A,-850,-1100,-1000,-975,-850,,
+Wed Jan 11 2023,Phoenix Suns,97,Denver Nuggets,126,N/A,+750,+650,+650,+750,+750,N/A,-1200,-1000,-1000,-1150,-1200,,
+Wed Jan 11 2023,Houston Rockets,115,Sacramento Kings,135,N/A,+300,+290,+310,+320,+300,N/A,-375,-375,-400,-390,-375,,
+Thu Jan 12 2023,Oklahoma City Thunder,133,Philadelphia 76ers,114,N/A,+370,+340,+360,+410,+370,N/A,-480,-450,-480,-520,-480,,
+Thu Jan 12 2023,Boston Celtics,109,Brooklyn Nets,98,N/A,-116,-115,-115,-115,-116,N/A,-102,-105,-105,-105,-102,,
+Thu Jan 12 2023,Milwaukee Bucks,102,Miami Heat,108,N/A,+190,+190,+196,+195,+190,N/A,-230,-250,-240,-230,-230,,
+Thu Jan 12 2023,Charlotte Hornets,114,Toronto Raptors,124,N/A,+240,+240,+240,+245,+240,N/A,-300,-300,-305,-295,-300,,
+Thu Jan 12 2023,Dallas Mavericks,119,Los Angeles Lakers,115,N/A,-142,-140,-140,-140,-142,N/A,+120,+115,+118,+120,+120,,
+Thu Jan 12 2023,Cleveland Cavaliers,119,Portland Trail Blazers,113,N/A,-112,-120,-115,-120,-112,N/A,-104,even,-105,even,-104,,
+Fri Jan 13 2023,New Orleans Pelicans,116,Detroit Pistons,110,N/A,-225,-200,-225,-210,-225,N/A,+188,+165,+185,+180,+188,,
+Fri Jan 13 2023,Atlanta Hawks,113,Indiana Pacers,111,-148,-164,-165,-170,-165,-164,+126,+138,+140,+143,+140,+138,,
+Fri Jan 13 2023,New York Knicks,112,Washington Wizards,108,N/A,-164,-160,-165,-165,-164,N/A,+138,+135,+140,+140,+138,,
+Fri Jan 13 2023,Golden State Warriors,144,San Antonio Spurs,113,N/A,-370,-375,-355,-350,-370,N/A,+295,+290,+278,+290,+295,,
+Fri Jan 13 2023,Oklahoma City Thunder,124,Chicago Bulls,110,N/A,+152,+150,+152,+150,+152,N/A,-180,-185,-180,-175,-180,,
+Fri Jan 13 2023,Phoenix Suns,116,Minnesota Timberwolves,121,N/A,+198,+200,+205,+200,+198,N/A,-240,-250,-250,-240,-240,,
+Fri Jan 13 2023,Orlando Magic,108,Utah Jazz,112,N/A,+176,+170,+162,+170,+176,N/A,-210,-210,-195,-200,-210,,
+Fri Jan 13 2023,Denver Nuggets,115,Los Angeles Clippers,103,-120,+164,+165,+170,+170,+164,+102,-196,-200,-205,-200,-196,,
+Fri Jan 13 2023,Houston Rockets,114,Sacramento Kings,139,+400,+340,+350,+345,+340,+340,-520,-430,-450,-455,-425,-430,,
+Sat Jan 14 2023,Milwaukee Bucks,95,Miami Heat,111,-104,+148,+145,+158,+155,+150,+148,-112,-176,-175,-190,-180,-180,-176
+Sat Jan 14 2023,Boston Celtics,122,Charlotte Hornets,106,-300,-310,-350,-320,-285,-345,-300,+245,+250,+260,+250,+240,+275,+245
+Sat Jan 14 2023,Memphis Grizzlies,130,Indiana Pacers,112,-330,-300,-350,-345,-295,-315,-300,+265,+245,+260,+270,+245,+250,+245
+Sat Jan 14 2023,Atlanta Hawks,114,Toronto Raptors,103,+176,+235,+240,+250,+250,+235,+235,-210,-290,-300,-320,-300,-286,-290
+Sat Jan 14 2023,Cleveland Cavaliers,102,Minnesota Timberwolves,110,-146,-190,-175,-180,-175,-177,-190,+124,+160,+145,+152,+150,+148,+160
+Sat Jan 14 2023,Philadelphia 76ers,118,Utah Jazz,117,-188,-270,-275,-278,-265,-230,-270,+158,+220,+220,+222,+225,+188,+220
+Sat Jan 14 2023,Dallas Mavericks,119,Portland Trail Blazers,136,+104,+154,+135,+143,+145,+138,+154,-122,-184,-165,-170,-170,-165,-184
+Sun Jan 15 2023,New York Knicks,117,Detroit Pistons,104,-290,-350,-350,-355,-350,-385,-350,+235,+280,+260,+278,+290,+300,+280
+Sun Jan 15 2023,Houston Rockets,100,Los Angeles Clippers,121,+350,+350,+310,+360,+390,+380,+350,-450,-450,-400,-480,-490,-500,-450
+Sun Jan 15 2023,Golden State Warriors,118,Chicago Bulls,132,-122,-230,-250,-225,-230,-220,-230,+104,+190,+200,+185,+195,+180,+190
+Sun Jan 15 2023,Oklahoma City Thunder,112,Brooklyn Nets,102,+176,+156,+150,+150,+160,+170,+156,-210,-186,-185,-178,-190,-205,-186
+Sun Jan 15 2023,Sacramento Kings,132,San Antonio Spurs,119,-340,-270,-250,-260,-260,-265,-270,+275,+220,+200,+210,+220,+215,+220
+Sun Jan 15 2023,Orlando Magic,116,Denver Nuggets,119,+370,+420,+400,+400,+420,+420,+420,-480,-560,-550,-550,-540,-560,-560
+Sun Jan 15 2023,Dallas Mavericks,123,Portland Trail Blazers,140,+102,+310,+275,+328,+310,+310,+310,-120,-390,-350,-430,-380,-400,-390
+Sun Jan 15 2023,Philadelphia 76ers,113,Los Angeles Lakers,112,-184,-235,-225,-225,-225,-225,-235,+154,+194,+185,+185,+190,+180,+194
+Mon Jan 16 2023,Boston Celtics,130,Charlotte Hornets,118,N/A,-360,-350,-355,-360,-360,N/A,+290,+280,+278,+295,+290,,
+Mon Jan 16 2023,Indiana Pacers,119,Milwaukee Bucks,132,N/A,+162,+180,+185,+180,+162,N/A,-190,-225,-225,-210,-190,,
+Mon Jan 16 2023,New Orleans Pelicans,103,Cleveland Cavaliers,113,N/A,+235,+220,+250,+240,+235,N/A,-290,-275,-320,-285,-290,,
+Mon Jan 16 2023,Toronto Raptors,123,New York Knicks,121,N/A,+106,+105,+105,+105,+106,N/A,-124,-125,-125,-125,-124,,
+Mon Jan 16 2023,Golden State Warriors,127,Washington Wizards,118,N/A,-144,-145,-140,-145,-144,N/A,+122,+120,+118,+125,+122,,
+Mon Jan 16 2023,Miami Heat,113,Atlanta Hawks,121,N/A,-102,even,-105,-105,-102,N/A,-116,-120,-115,-115,-116,,
+Mon Jan 16 2023,Utah Jazz,126,Minnesota Timberwolves,125,N/A,+154,+145,+143,+145,+154,N/A,-184,-175,-170,-170,-184,,
+Mon Jan 16 2023,Phoenix Suns,106,Memphis Grizzlies,136,N/A,+520,+500,+550,+550,+520,N/A,-720,-700,-800,-750,-720,,
+Mon Jan 16 2023,Houston Rockets,132,Los Angeles Lakers,140,N/A,+240,+240,+240,+245,+240,N/A,-295,-300,-305,-295,-295,,
+Tue Jan 17 2023,Toronto Raptors,122,Milwaukee Bucks,130,N/A,even,even,+105,even,even,N/A,-118,-120,-125,-120,-118,,
+Tue Jan 17 2023,Brooklyn Nets,98,San Antonio Spurs,106,N/A,-138,-140,-135,-135,-138,N/A,+118,+115,+115,+115,+118,,
+Tue Jan 17 2023,Portland Trail Blazers,113,Denver Nuggets,122,N/A,+194,+185,+180,+185,+194,N/A,-235,-225,-220,-215,-235,,
+Tue Jan 17 2023,Philadelphia 76ers,120,Los Angeles Clippers,110,N/A,even,-105,even,+105,even,N/A,-118,-115,-120,-125,-118,,
+Wed Jan 18 2023,Atlanta Hawks,130,Dallas Mavericks,122,N/A,+124,+110,+122,+125,+124,N/A,-146,-130,-145,-145,-146,,
+Wed Jan 18 2023,Washington Wizards,116,New York Knicks,105,N/A,+176,+170,+178,+170,+176,N/A,-210,-210,-215,-200,-210,,
+Wed Jan 18 2023,Charlotte Hornets,122,Houston Rockets,117,N/A,-152,-145,-155,-145,-152,N/A,+128,+120,+130,+125,+128,,
+Wed Jan 18 2023,Cleveland Cavaliers,114,Memphis Grizzlies,115,N/A,+235,+240,+235,+235,+235,N/A,-290,-300,-292,-280,-290,,
+Wed Jan 18 2023,Miami Heat,124,New Orleans Pelicans,98,N/A,-166,-155,-170,-155,-166,N/A,+140,+125,+143,+135,+140,,
+Wed Jan 18 2023,Indiana Pacers,106,Oklahoma City Thunder,126,N/A,+152,+145,+143,+145,+152,N/A,-180,-175,-170,-170,-180,,
+Wed Jan 18 2023,Los Angeles Clippers,103,Utah Jazz,126,N/A,+265,+275,+278,+275,+265,N/A,-330,-350,-355,-330,-330,,
+Wed Jan 18 2023,Minnesota Timberwolves,118,Denver Nuggets,122,N/A,+315,+290,+320,+330,+315,N/A,-400,-375,-420,-410,-400,,
+Wed Jan 18 2023,Sacramento Kings,116,Los Angeles Lakers,111,N/A,+114,+115,+115,+110,+114,N/A,-134,-140,-135,-130,-134,,
+Thu Jan 19 2023,Chicago Bulls,126,Detroit Pistons,108,-240,-290,-300,-305,-300,-290,+198,+235,+240,+240,+250,+235,,
+Thu Jan 19 2023,Golden State Warriors,118,Boston Celtics,121,N/A,+230,+225,+215,+230,+230,N/A,-280,-275,-267,-275,-280,,
+Thu Jan 19 2023,Toronto Raptors,126,Minnesota Timberwolves,128,N/A,-180,-175,-180,-180,-180,N/A,+152,+145,+152,+155,+152,,
+Thu Jan 19 2023,Brooklyn Nets,112,Phoenix Suns,117,-112,-168,-160,-160,-170,-168,-104,+142,+135,+135,+145,+142,,
+Thu Jan 19 2023,Philadelphia 76ers,105,Portland Trail Blazers,95,N/A,-126,-135,-120,-125,-126,N/A,+108,+110,even,+105,+108,,
+Fri Jan 20 2023,New Orleans Pelicans,110,Orlando Magic,123,N/A,-112,-120,-110,-110,-112,N/A,-104,even,-110,-110,-104,,
+Fri Jan 20 2023,New York Knicks,124,Atlanta Hawks,139,N/A,+130,+130,+135,+135,+130,N/A,-154,-155,-160,-155,-154,,
+Fri Jan 20 2023,Golden State Warriors,120,Cleveland Cavaliers,114,N/A,+360,+400,+400,+400,+360,N/A,-460,-550,-550,-500,-460,,
+Fri Jan 20 2023,Miami Heat,90,Dallas Mavericks,115,N/A,-130,-135,-135,-125,-130,N/A,+110,+110,+115,+105,+110,,
+Fri Jan 20 2023,Los Angeles Clippers,131,San Antonio Spurs,126,N/A,-300,-350,-292,-280,-300,N/A,+245,+260,+235,+235,+245,,
+Fri Jan 20 2023,Indiana Pacers,111,Denver Nuggets,134,N/A,+194,+190,+205,+215,+194,N/A,-235,-250,-250,-255,-235,,
+Fri Jan 20 2023,Brooklyn Nets,117,Utah Jazz,106,N/A,+156,+165,+152,+165,+156,N/A,-186,-200,-180,-195,-186,,
+Fri Jan 20 2023,Memphis Grizzlies,121,Los Angeles Lakers,122,N/A,-275,-250,-278,-275,-275,N/A,+225,+200,+222,+230,+225,,
+Fri Jan 20 2023,Oklahoma City Thunder,113,Sacramento Kings,118,N/A,+164,+165,+170,+170,+164,N/A,-196,-200,-205,-200,-196,,
+Sat Jan 21 2023,Boston Celtics,106,Toronto Raptors,104,N/A,-158,-155,-165,-165,-158,N/A,+134,+125,+140,+140,+134,,
+Sat Jan 21 2023,Orlando Magic,118,Washington Wizards,138,N/A,+215,+200,+210,+210,+215,N/A,-260,-250,-260,-250,-260,,
+Sat Jan 21 2023,Charlotte Hornets,122,Atlanta Hawks,118,N/A,+260,+240,+250,+240,+260,N/A,-320,-300,-320,-285,-320,,
+Sat Jan 21 2023,Milwaukee Bucks,102,Cleveland Cavaliers,114,N/A,+128,+125,+130,+130,+128,N/A,-152,-150,-155,-150,-152,,
+Sat Jan 21 2023,Houston Rockets,104,Minnesota Timberwolves,113,N/A,+265,+260,+260,+260,+265,N/A,-330,-350,-335,-315,-330,,
+Sat Jan 21 2023,Indiana Pacers,107,Phoenix Suns,112,N/A,+128,+120,+122,+130,+128,N/A,-152,-145,-145,-150,-152,,
+Sat Jan 21 2023,Philadelphia 76ers,129,Sacramento Kings,127,N/A,+172,+155,+162,+180,+172,N/A,-205,-190,-195,-210,-205,,
+Sun Jan 22 2023,Los Angeles Clippers,112,Dallas Mavericks,98,+108,+114,+105,+105,+110,+102,+114,-126,-134,-130,-125,-130,-121,-134
+Sun Jan 22 2023,New Orleans Pelicans,96,Miami Heat,100,+225,+240,+230,+240,+235,+245,+240,-275,-295,-300,-305,-280,-305,-295
+Sun Jan 22 2023,New York Knicks,116,Toronto Raptors,125,+110,+122,+110,+115,+115,+116,+122,-130,-144,-130,-135,-135,-137,-144
+Sun Jan 22 2023,Oklahoma City Thunder,101,Denver Nuggets,99,+180,+128,+140,+126,+135,+128,+128,-215,-152,-165,-150,-155,-152,-152
+Sun Jan 22 2023,Memphis Grizzlies,110,Phoenix Suns,112,-390,-350,-350,-355,-345,-385,-350,+310,+280,+280,+278,+285,+300,+280
+Sun Jan 22 2023,Brooklyn Nets,120,Golden State Warriors,116,+240,+265,+240,+240,+255,+255,+265,-295,-330,-300,-305,-305,-315,-330
+Sun Jan 22 2023,Los Angeles Lakers,121,Portland Trail Blazers,112,+160,+188,+170,+180,+190,+180,+188,-190,-225,-210,-220,-225,-220,-225
+Mon Jan 23 2023,Milwaukee Bucks,150,Detroit Pistons,130,-650,-590,-600,-550,-600,-560,-650,+480,+430,+425,+400,+450,+430,+480
+Mon Jan 23 2023,Boston Celtics,98,Orlando Magic,113,-355,-295,-300,-292,-305,-286,-295,+285,+240,+230,+235,+255,+230,+240
+Mon Jan 23 2023,Atlanta Hawks,100,Chicago Bulls,111,+104,even,-105,even,+105,even,even,-122,-118,-115,-120,-125,-118,-118
+Mon Jan 23 2023,Minnesota Timberwolves,114,Houston Rockets,119,-260,-230,-225,-250,-240,-240,-230,+215,+190,+185,+205,+200,+195,+190
+Mon Jan 23 2023,Charlotte Hornets,102,Utah Jazz,120,+265,+315,+275,+320,+320,+300,+315,-330,-405,-350,-420,-390,-385,-405
+Mon Jan 23 2023,San Antonio Spurs,127,Portland Trail Blazers,147,+310,+275,+275,+278,+285,+275,+275,-390,-340,-350,-355,-345,-345,-340
+Mon Jan 23 2023,Memphis Grizzlies,100,Sacramento Kings,133,-142,+150,+150,+150,+145,+130,+150,+120,-178,-185,-178,-170,-157,-178
+Tue Jan 24 2023,Chicago Bulls,110,Indiana Pacers,116,N/A,-132,-120,-125,-130,-132,N/A,+112,even,+105,+110,+112,,
+Tue Jan 24 2023,Boston Celtics,95,Miami Heat,98,N/A,+114,+110,+115,+105,+114,N/A,-134,-135,-135,-125,-134,,
+Tue Jan 24 2023,Cleveland Cavaliers,103,New York Knicks,105,N/A,-154,-145,-160,-145,-154,N/A,+130,+120,+135,+125,+130,,
+Tue Jan 24 2023,Denver Nuggets,99,New Orleans Pelicans,98,N/A,-148,-145,-160,-150,-148,N/A,+126,+120,+135,+130,+126,,
+Tue Jan 24 2023,Washington Wizards,127,Dallas Mavericks,126,N/A,+220,+220,+222,+225,+220,N/A,-270,-275,-278,-265,-270,,
+Tue Jan 24 2023,Charlotte Hornets,97,Phoenix Suns,128,N/A,+245,+200,+250,+240,+245,N/A,-300,-250,-320,-285,-300,,
+Tue Jan 24 2023,Los Angeles Clippers,133,Los Angeles Lakers,115,N/A,-172,-190,-190,-180,-172,N/A,+144,+155,+158,+155,+144,,
+Wed Jan 25 2023,Indiana Pacers,120,Orlando Magic,126,N/A,+166,+170,+170,+165,+166,N/A,-198,-210,-205,-195,-198,,
+Wed Jan 25 2023,Brooklyn Nets,133,Philadelphia 76ers,137,N/A,+250,+230,+240,+250,+250,N/A,-310,-300,-305,-300,-310,,
+Wed Jan 25 2023,Washington Wizards,108,Houston Rockets,103,N/A,-130,-135,-130,-130,-130,N/A,+110,+110,+110,+110,+110,,
+Wed Jan 25 2023,Denver Nuggets,99,Milwaukee Bucks,107,N/A,+540,+525,+550,+540,+540,N/A,-770,-750,-800,-740,-770,,
+Wed Jan 25 2023,Minnesota Timberwolves,111,New Orleans Pelicans,102,N/A,+120,+115,+118,+120,+120,N/A,-142,-140,-140,-140,-142,,
+Wed Jan 25 2023,Atlanta Hawks,137,Oklahoma City Thunder,132,N/A,-118,-120,-120,-120,-118,N/A,even,even,even,even,even,,
+Wed Jan 25 2023,Memphis Grizzlies,120,Golden State Warriors,122,N/A,+122,+125,+118,+125,+122,N/A,-144,-150,-140,-145,-144,,
+Wed Jan 25 2023,Utah Jazz,124,Portland Trail Blazers,134,N/A,+138,+140,+140,+145,+138,N/A,-164,-165,-165,-170,-164,,
+Wed Jan 25 2023,Toronto Raptors,113,Sacramento Kings,95,N/A,+130,+125,+135,+125,+130,N/A,-154,-150,-160,-145,-154,,
+Wed Jan 25 2023,San Antonio Spurs,104,Los Angeles Lakers,113,N/A,+260,+260,+250,+255,+260,N/A,-320,-350,-320,-305,-320,,
+Thu Jan 26 2023,New York Knicks,120,Boston Celtics,117,N/A,+260,+275,+278,+290,+260,N/A,-320,-350,-355,-350,-320,,
+Thu Jan 26 2023,Detroit Pistons,130,Brooklyn Nets,122,N/A,+265,+260,+250,+255,+265,N/A,-330,-350,-320,-305,-330,,
+Thu Jan 26 2023,Chicago Bulls,96,Charlotte Hornets,111,N/A,-154,-155,-150,-165,-154,N/A,+130,+125,+126,+140,+130,,
+Thu Jan 26 2023,Cleveland Cavaliers,113,Houston Rockets,95,N/A,-340,-350,-345,-325,-340,N/A,+275,+260,+270,+270,+275,,
+Thu Jan 26 2023,Dallas Mavericks,99,Phoenix Suns,95,N/A,even,even,-105,-105,even,N/A,-118,-120,-115,-115,-118,,
+Thu Jan 26 2023,San Antonio Spurs,100,Los Angeles Clippers,138,N/A,+660,+575,+600,+650,+660,N/A,-1000,-900,-900,-950,-1000,,
+Fri Jan 27 2023,Milwaukee Bucks,141,Indiana Pacers,131,N/A,-260,-250,-260,-250,-260,N/A,+215,+200,+210,+210,+215,,
+Fri Jan 27 2023,Memphis Grizzlies,100,Minnesota Timberwolves,111,N/A,-118,-125,-115,-120,-118,N/A,even,+105,-105,even,even,,
+Fri Jan 27 2023,Orlando Magic,105,Miami Heat,110,N/A,+280,+300,+278,+285,+280,N/A,-350,-375,-355,-345,-350,,
+Fri Jan 27 2023,Cleveland Cavaliers,100,Oklahoma City Thunder,112,N/A,-102,-105,-105,-105,-102,N/A,-116,-115,-115,-115,-116,,
+Fri Jan 27 2023,Toronto Raptors,117,Golden State Warriors,129,N/A,+148,+135,+152,+135,+148,N/A,-176,-165,-180,-155,-176,,
+Sat Jan 28 2023,Denver Nuggets,119,Philadelphia 76ers,126,N/A,+136,+120,+122,+125,+136,N/A,-162,-145,-145,-145,-162,,
+Sat Jan 28 2023,New York Knicks,115,Brooklyn Nets,122,N/A,-116,-115,-110,-115,-116,N/A,-102,-105,-110,-105,-102,,
+Sat Jan 28 2023,Houston Rockets,117,Detroit Pistons,114,N/A,+188,+185,+185,+185,+188,N/A,-225,-225,-225,-215,-225,,
+Sat Jan 28 2023,Chicago Bulls,128,Orlando Magic,109,N/A,-138,-140,-140,-135,-138,N/A,+118,+115,+118,+115,+118,,
+Sat Jan 28 2023,Los Angeles Clippers,120,Atlanta Hawks,113,N/A,-102,even,-105,even,-102,N/A,-116,-120,-115,-120,-116,,
+Sat Jan 28 2023,Sacramento Kings,110,Minnesota Timberwolves,117,N/A,-118,-120,-115,-110,-118,N/A,even,even,-105,-110,even,,
+Sat Jan 28 2023,Washington Wizards,113,New Orleans Pelicans,103,N/A,+190,+180,+185,+180,+190,N/A,-230,-225,-225,-210,-230,,
+Sat Jan 28 2023,Phoenix Suns,128,San Antonio Spurs,118,N/A,-225,-225,-225,-205,-225,N/A,+188,+180,+185,+175,+188,,
+Sat Jan 28 2023,Los Angeles Lakers,121,Boston Celtics,125,N/A,+250,+240,+250,+265,+250,N/A,-310,-300,-320,-320,-310,,
+Sat Jan 28 2023,Dallas Mavericks,100,Utah Jazz,108,N/A,+245,+240,+235,+235,+245,N/A,-300,-300,-292,-280,-300,,
+Sat Jan 28 2023,Toronto Raptors,123,Portland Trail Blazers,105,N/A,+134,+125,+122,+130,+134,N/A,-158,-155,-145,-150,-158,,
+Sun Jan 29 2023,Miami Heat,117,Charlotte Hornets,122,N/A,-240,-225,-225,-225,-240,N/A,+198,+180,+185,+190,+198,,
+Sun Jan 29 2023,Indiana Pacers,100,Memphis Grizzlies,112,+300,+275,+260,+270,+270,+275,-375,-340,-350,-345,-325,-340,,
+Sun Jan 29 2023,Los Angeles Clippers,99,Cleveland Cavaliers,122,+142,+460,+475,+460,+480,+460,-168,-620,-650,-650,-645,-620,,
+Sun Jan 29 2023,New Orleans Pelicans,110,Milwaukee Bucks,135,N/A,+380,+400,+400,+410,+380,N/A,-490,-550,-550,-520,-490,,
+Mon Jan 30 2023,Orlando Magic,119,Philadelphia 76ers,109,+410,+340,+340,+360,+370,+360,+340,-550,-430,-450,-480,-460,-480,-430
+Mon Jan 30 2023,Los Angeles Lakers,104,Brooklyn Nets,121,+300,+300,+290,+320,+310,+310,+300,-375,-375,-375,-420,-380,-400,-375
+Mon Jan 30 2023,Sacramento Kings,118,Minnesota Timberwolves,111,-102,-116,-115,-120,-110,-121,-116,-116,-102,-105,even,-110,+102,-102
+Mon Jan 30 2023,Golden State Warriors,128,Oklahoma City Thunder,120,-148,-196,-200,-205,-200,-195,-196,+126,+164,+165,+170,+170,+163,+164
+Mon Jan 30 2023,Washington Wizards,127,San Antonio Spurs,106,-215,-200,-200,-195,-205,-195,-200,+180,+168,+165,+162,+175,+163,+168
+Mon Jan 30 2023,Detroit Pistons,105,Dallas Mavericks,111,+290,+385,+400,+400,+400,+370,+385,-360,-500,-550,-550,-500,-480,-500
+Mon Jan 30 2023,Toronto Raptors,106,Phoenix Suns,114,+118,+106,+105,+105,+105,+108,+106,-138,-124,-125,-125,-125,-129,-124
+Mon Jan 30 2023,Atlanta Hawks,125,Portland Trail Blazers,129,+110,+172,+165,+175,+175,+170,+172,-130,-205,-200,-210,-205,-205,-205
+Tue Jan 31 2023,Miami Heat,100,Cleveland Cavaliers,97,+172,+146,+145,+143,+140,+145,+146,-205,-174,-175,-170,-165,-177,-174
+Tue Jan 31 2023,Los Angeles Lakers,129,New York Knicks,123,+110,+110,+115,+105,+110,+114,+110,-130,-130,-140,-125,-130,-136,-130
+Tue Jan 31 2023,Los Angeles Clippers,108,Chicago Bulls,103,-158,-142,-150,-145,-145,-143,-142,+134,+120,+125,+122,+125,+120,+120
+Tue Jan 31 2023,Charlotte Hornets,115,Milwaukee Bucks,124,+540,+450,+450,+400,+440,+425,+450,-770,-600,-650,-550,-580,-560,-600
+Tue Jan 31 2023,New Orleans Pelicans,113,Denver Nuggets,122,+275,+235,+230,+228,+245,+230,+235,-340,-290,-300,-285,-295,-278,-290
+Wed Feb 1 2023,Portland Trail Blazers,122,Memphis Grizzlies,112,+188,+180,+190,+180,+185,+188,+180,-225,-215,-250,-220,-215,-230,-215
+Wed Feb 1 2023,Orlando Magic,94,Philadelphia 76ers,105,+300,+400,+375,+400,+420,+390,+400,-375,-520,-500,-550,-540,-500,-520
+Wed Feb 1 2023,Brooklyn Nets,96,Boston Celtics,139,+310,+315,+300,+320,+300,+320,+315,-390,-400,-400,-420,-365,-420,-400
+Wed Feb 1 2023,Oklahoma City Thunder,106,Houston Rockets,112,-255,-225,-225,-220,-225,-230,-225,+210,+188,+185,+180,+190,+188,+188
+Wed Feb 1 2023,Golden State Warriors,114,Minnesota Timberwolves,119,-154,-220,-225,-225,-210,-225,-220,+130,+184,+180,+185,+180,+185,+184
+Wed Feb 1 2023,Sacramento Kings,119,San Antonio Spurs,109,-330,-295,-300,-305,-305,-305,-295,+265,+240,+240,+240,+255,+240,+240
+Wed Feb 1 2023,Toronto Raptors,128,Utah Jazz,131,+130,+108,+115,+115,+110,+115,+108,-154,-126,-140,-135,-130,-137,-126
+Wed Feb 1 2023,Atlanta Hawks,132,Phoenix Suns,100,+112,+102,even,even,-105,-106,+102,-132,-120,-120,-120,-115,-113,-120
+Thu Feb 2 2023,Los Angeles Lakers,112,Indiana Pacers,111,-120,-146,-140,-140,-140,-134,-146,+102,+124,+115,+118,+120,+114,+124
+Thu Feb 2 2023,Memphis Grizzlies,113,Cleveland Cavaliers,128,+172,+215,+200,+210,+215,+200,+215,-205,-260,-250,-260,-255,-245,-260
+Thu Feb 2 2023,Miami Heat,104,New York Knicks,106,-116,-154,-145,-155,-150,-152,-154,-102,+130,+120,+130,+130,+128,+130
+Thu Feb 2 2023,Charlotte Hornets,98,Chicago Bulls,114,+220,+205,+200,+205,+210,+190,+198,-270,-250,-250,-250,-250,-235,-240
+Thu Feb 2 2023,New Orleans Pelicans,106,Dallas Mavericks,111,+152,+162,+170,+175,+175,+163,+168,-180,-194,-210,-210,-205,-195,-200
+Thu Feb 2 2023,Golden State Warriors,117,Denver Nuggets,134,+360,+240,+220,+180,+190,+200,+194,-460,-295,-275,-220,-225,-245,-240
+Thu Feb 2 2023,Los Angeles Clippers,105,Milwaukee Bucks,106,+180,+152,+150,+158,+155,+150,+152,-215,-180,-185,-190,-180,-180,-180
+Fri Feb 3 2023,Charlotte Hornets,112,Detroit Pistons,118,-102,-116,-115,-120,-120,-113,-116,-116,-102,-105,even,even,-106,-102
+Fri Feb 3 2023,Sacramento Kings,104,Indiana Pacers,107,-142,-130,-120,-120,-115,-118,-130,+120,+110,even,even,-105,even,+110
+Fri Feb 3 2023,Portland Trail Blazers,124,Washington Wizards,116,+160,+158,+155,+148,+155,+145,+158,-190,-188,-190,-175,-180,-175,-188
+Fri Feb 3 2023,Phoenix Suns,106,Boston Celtics,94,+360,+360,+380,+360,+380,+340,+360,-460,-460,-500,-480,-475,-435,-460
+Fri Feb 3 2023,Toronto Raptors,117,Houston Rockets,111,-270,-295,-300,-320,-295,-315,-295,+220,+240,+240,+250,+245,+250,+240
+Fri Feb 3 2023,Orlando Magic,127,Minnesota Timberwolves,120,+180,+188,+170,+170,+170,+170,+188,-215,-225,-210,-205,-200,-210,-225
+Fri Feb 3 2023,Philadelphia 76ers,137,San Antonio Spurs,125,-500,-550,-500,-550,-520,-530,-550,+385,+410,+375,+400,+410,+390,+410
+Fri Feb 3 2023,Atlanta Hawks,115,Utah Jazz,108,+102,+104,even,even,even,-104,+104,-120,-122,-120,-120,-120,-114,-122
+Sat Feb 4 2023,Washington Wizards,123,Brooklyn Nets,125,even,-112,-115,-130,-115,-114,-112,-118,-104,-105,+110,-105,-105,-104
+Sat Feb 4 2023,Los Angeles Lakers,126,New Orleans Pelicans,131,-112,-104,-105,-105,-105,-108,-104,-104,-112,-115,-115,-115,-110,-112
+Sat Feb 4 2023,Phoenix Suns,116,Detroit Pistons,100,-190,-200,-190,-195,-195,-195,-200,+160,+168,+155,+162,+165,+163,+168
+Sat Feb 4 2023,Los Angeles Clippers,134,New York Knicks,128,-138,-138,-145,-140,-140,-137,-138,+118,+118,+120,+118,+120,+116,+118
+Sat Feb 4 2023,Portland Trail Blazers,121,Chicago Bulls,129,+176,+130,+125,+130,+130,+128,+130,-210,-154,-155,-155,-150,-152,-154
+Sat Feb 4 2023,Miami Heat,115,Milwaukee Bucks,123,+176,+198,+195,+205,+200,+195,+198,-210,-240,-250,-250,-240,-235,-240
+Sat Feb 4 2023,Houston Rockets,121,Oklahoma City Thunder,153,+320,+360,+340,+400,+340,+360,+360,-405,-460,-450,-550,-425,-480,-460
+Sat Feb 4 2023,Dallas Mavericks,113,Golden State Warriors,119,+300,+410,+400,+430,+420,+390,+410,-375,-550,-550,-600,-540,-500,-550
+Sat Feb 4 2023,Atlanta Hawks,108,Denver Nuggets,128,+210,+380,+375,+360,+370,+370,+350,-255,-490,-500,-480,-460,-500,-450
+Sun Feb 5 2023,Orlando Magic,119,Charlotte Hornets,113,-116,+106,+110,+110,+110,+107,+106,-102,-124,-130,-130,-130,-127,-124
+Sun Feb 5 2023,Cleveland Cavaliers,122,Indiana Pacers,103,-180,-188,-175,-170,-165,-177,-188,+152,+158,+145,+143,+140,+148,+158
+Sun Feb 5 2023,Toronto Raptors,106,Memphis Grizzlies,103,+154,+114,even,+105,-105,+104,+114,-184,-134,-120,-125,-115,-122,-134
+Sun Feb 5 2023,Philadelphia 76ers,97,New York Knicks,108,-220,-180,-190,-190,-175,-195,-180,+184,+152,+155,+158,+150,+163,+152
+Sun Feb 5 2023,Denver Nuggets,98,Minnesota Timberwolves,128,-112,+300,+275,+320,+300,+290,+300,-104,-375,-350,-420,-365,-375,-375
+Sun Feb 5 2023,Sacramento Kings,104,New Orleans Pelicans,136,+112,-126,-130,-130,-130,-134,-126,-132,+108,+110,+110,+110,+112,+108
+Mon Feb 6 2023,Boston Celtics,111,Detroit Pistons,99,-700,-420,-450,-440,-425,-455,-420,+500,+330,+350,+335,+340,+350,+330
+Mon Feb 6 2023,Cleveland Cavaliers,114,Washington Wizards,91,-148,-174,-165,-165,-165,-157,-174,+126,+146,+140,+140,+140,+130,+146
+Mon Feb 6 2023,Los Angeles Clippers,124,Brooklyn Nets,116,-275,-370,-350,-355,-345,-360,-370,+225,+295,+280,+278,+285,+285,+295
+Mon Feb 6 2023,San Antonio Spurs,104,Chicago Bulls,128,+400,+340,+310,+335,+340,+325,+340,-520,-430,-400,-440,-425,-400,-430
+Mon Feb 6 2023,Sacramento Kings,140,Houston Rockets,120,-235,-270,-275,-260,-275,-275,-270,+194,+220,+220,+210,+230,+220,+220
+Mon Feb 6 2023,Dallas Mavericks,124,Utah Jazz,111,+260,+350,+350,+345,+360,+340,+350,-320,-460,-450,-455,-450,-435,-460
+Mon Feb 6 2023,Oklahoma City Thunder,114,Golden State Warriors,141,+180,+124,+125,+135,+130,+125,+124,-215,-146,-150,-160,-150,-148,-146
+Mon Feb 6 2023,Milwaukee Bucks,127,Portland Trail Blazers,108,-220,-176,-190,-190,-190,-177,-176,+184,+148,+155,+158,+160,+145,+148
+Tue Feb 7 2023,New York Knicks,102,Orlando Magic,98,-122,-124,-115,-120,-120,-124,-124,+104,+106,-105,even,even,+104,+106
+Tue Feb 7 2023,Phoenix Suns,116,Brooklyn Nets,112,-176,-270,-275,-278,-260,-275,-270,+148,+220,+225,+222,+220,+220,+220
+Tue Feb 7 2023,Atlanta Hawks,107,New Orleans Pelicans,116,+102,-102,-105,-110,-110,-104,-102,-120,-116,-115,-110,-110,-115,-116
+Tue Feb 7 2023,Chicago Bulls,89,Memphis Grizzlies,104,+220,+315,+350,+345,+370,+340,+315,-270,-400,-450,-455,-460,-435,-400
+Tue Feb 7 2023,Minnesota Timberwolves,112,Denver Nuggets,146,+285,+285,+260,+275,+265,+265,+285,-355,-355,-350,-350,-320,-335,-355
+Tue Feb 7 2023,Oklahoma City Thunder,133,Los Angeles Lakers,130,+245,+225,+200,+222,+215,+225,+225,-300,-275,-250,-278,-255,-278,-275
+Wed Feb 8 2023,Detroit Pistons,85,Cleveland Cavaliers,113,+590,+320,+300,+328,+330,+310,+310,-850,-405,-375,-430,-410,-385,-390
+Wed Feb 8 2023,Charlotte Hornets,104,Washington Wizards,118,+152,+136,+125,+148,+135,+135,+136,-180,-162,-155,-175,-155,-159,-162
+Wed Feb 8 2023,Philadelphia 76ers,99,Boston Celtics,106,+160,+114,+110,+110,even,+115,+114,-190,-134,-135,-130,-120,-137,-134
+Wed Feb 8 2023,Indiana Pacers,111,Miami Heat,116,+215,+215,+220,+222,+210,+200,+215,-260,-260,-275,-278,-250,-245,-260
+Wed Feb 8 2023,San Antonio Spurs,98,Toronto Raptors,112,+420,+400,+360,+400,+400,+410,+400,-560,-520,-500,-550,-500,-560,-520
+Wed Feb 8 2023,Sacramento Kings,130,Houston Rockets,128,-320,-390,-350,-350,-360,-345,-390,+260,+310,+275,+275,+295,+275,+310
+Wed Feb 8 2023,Minnesota Timberwolves,143,Utah Jazz,118,+130,+290,+280,+275,+280,+250,+290,-154,-360,-350,-350,-340,-315,-360
+Wed Feb 8 2023,Dallas Mavericks,110,Los Angeles Clippers,104,+275,+270,+280,+260,+265,+275,+270,-340,-335,-350,-335,-320,-345,-335
+Wed Feb 8 2023,Golden State Warriors,122,Portland Trail Blazers,125,+134,+118,+120,+118,+125,+114,+118,-158,-138,-145,-140,-145,-136,-138
+Thu Feb 9 2023,Denver Nuggets,104,Orlando Magic,115,-255,-205,-210,-210,-205,-210,-205,+210,+172,+170,+175,+175,+175,+172
+Thu Feb 9 2023,Phoenix Suns,107,Atlanta Hawks,116,+142,+245,+260,+250,+270,+270,+245,-168,-300,-350,-320,-325,-335,-300
+Thu Feb 9 2023,Chicago Bulls,105,Brooklyn Nets,116,+134,-136,-140,-145,-130,-137,-136,-158,+116,+115,+122,+110,+115,+116
+Thu Feb 9 2023,Milwaukee Bucks,115,Los Angeles Lakers,106,-240,-340,-375,-355,-350,-335,-340,+198,+275,+290,+278,+290,+270,+275
+Fri Feb 10 2023,San Antonio Spurs,131,Detroit Pistons,138,+130,+198,+180,+196,+200,+200,+188,-154,-240,-225,-240,-240,-240,-225
+Fri Feb 10 2023,Phoenix Suns,117,Indiana Pacers,104,-112,+110,+115,+126,+120,+114,+112,-104,-130,-140,-150,-140,-134,-132
+Fri Feb 10 2023,New York Knicks,108,Philadelphia 76ers,119,+194,+220,+220,+228,+230,+225,+215,-235,-270,-275,-285,-275,-275,-260
+Fri Feb 10 2023,Charlotte Hornets,116,Boston Celtics,127,+385,+410,+380,+400,+410,+420,+410,-500,-550,-500,-550,-520,-560,-550
+Fri Feb 10 2023,Utah Jazz,122,Toronto Raptors,116,+220,+300,+275,+275,+290,+285,+285,-270,-375,-350,-350,-350,-360,-355
+Fri Feb 10 2023,Minnesota Timberwolves,107,Memphis Grizzlies,128,+320,+215,+200,+215,+215,+205,+215,-405,-260,-250,-267,-255,-250,-260
+Fri Feb 10 2023,Houston Rockets,95,Miami Heat,97,+430,+480,+450,+460,+500,+480,+480,-590,-650,-650,-650,-675,-670,-650
+Fri Feb 10 2023,Cleveland Cavaliers,118,New Orleans Pelicans,107,-134,-148,-155,-155,-150,-155,-148,+114,+126,+130,+130,+130,+130,+126
+Fri Feb 10 2023,Oklahoma City Thunder,138,Portland Trail Blazers,129,+138,+118,+115,+110,+115,+118,+118,-164,-138,-140,-130,-135,-139,-138
+Fri Feb 10 2023,Dallas Mavericks,122,Sacramento Kings,114,+112,+152,+145,+162,+160,+145,+152,-132,-180,-175,-195,-190,-177,-180
+Fri Feb 10 2023,Milwaukee Bucks,119,Los Angeles Clippers,106,-104,-138,-140,-135,-135,-129,-138,-112,+118,+115,+115,+115,+108,+118
+Sat Feb 11 2023,Philadelphia 76ers,101,Brooklyn Nets,98,-148,-126,-130,-130,-125,-130,-130,+126,+108,+105,+110,+105,+110,+110
+Sat Feb 11 2023,Denver Nuggets,119,Charlotte Hornets,105,-370,-275,-275,-285,-280,-278,-290,+295,+225,+220,+228,+235,+225,+235
+Sat Feb 11 2023,Miami Heat,107,Orlando Magic,103,-120,-134,-130,-120,-130,-118,-134,+102,+114,+105,even,+110,even,+114
+Sat Feb 11 2023,Indiana Pacers,113,Washington Wizards,127,+144,+184,+180,+185,+180,+175,+184,-172,-220,-225,-225,-210,-215,-220
+Sat Feb 11 2023,San Antonio Spurs,106,Atlanta Hawks,125,+490,+520,+525,+460,+540,+525,+520,-670,-720,-750,-650,-740,-715,-720
+Sat Feb 11 2023,Utah Jazz,120,New York Knicks,126,+198,+184,+180,+185,+180,+180,+184,-240,-220,-225,-225,-210,-220,-220
+Sat Feb 11 2023,Chicago Bulls,89,Cleveland Cavaliers,97,+184,+210,+200,+205,+200,+210,+210,-220,-255,-250,-250,-240,-250,-255
+Sat Feb 11 2023,Los Angeles Lakers,109,Golden State Warriors,103,+120,+180,+180,+170,+175,+165,+180,-142,-215,-225,-205,-205,-200,-215
+Sat Feb 11 2023,Dallas Mavericks,128,Sacramento Kings,133,+120,-130,-130,-120,-130,-129,-130,-142,+110,+105,even,+110,+108,+110
+Sun Feb 12 2023,Memphis Grizzlies,109,Boston Celtics,119,+152,+134,+135,+140,+135,+135,+134,-180,-158,-160,-165,-155,-159,-158
+Sun Feb 12 2023,Detroit Pistons,118,Toronto Raptors,119,+400,+460,+450,+400,+460,+460,+460,-520,-620,-650,-550,-610,-625,-620
+Mon Feb 13 2023,Atlanta Hawks,138,Charlotte Hornets,144,-220,-210,-225,-205,-210,-215,-210,+184,+176,+180,+170,+180,+180,+176
+Mon Feb 13 2023,San Antonio Spurs,109,Cleveland Cavaliers,117,+750,+750,+850,+800,+800,+850,+750,-1200,-1200,-1600,-1400,-1250,-1430,-1200
+Mon Feb 13 2023,Utah Jazz,123,Indiana Pacers,117,+120,-106,-115,-115,-105,-113,-106,-142,-110,-105,-105,-115,-106,-110
+Mon Feb 13 2023,Houston Rockets,104,Philadelphia 76ers,123,+750,+640,+600,+700,+675,+600,+640,-1200,-950,-900,-1100,-975,-910,-950
+Mon Feb 13 2023,Denver Nuggets,112,Miami Heat,108,+110,even,-105,-105,-105,-104,even,-130,-118,-115,-115,-115,-115,-118
+Mon Feb 13 2023,Brooklyn Nets,106,New York Knicks,124,+122,+124,+115,+130,+130,+123,+122,-144,-144,-140,-155,-150,-143,-144
+Mon Feb 13 2023,Orlando Magic,100,Chicago Bulls,91,+180,+148,+150,+158,+155,+160,+148,-215,-176,-185,-190,-180,-190,-176
+Mon Feb 13 2023,New Orleans Pelicans,103,Oklahoma City Thunder,100,-102,+124,+115,+130,+130,+120,+124,-116,-146,-140,-155,-150,-143,-146
+Mon Feb 13 2023,Minnesota Timberwolves,124,Dallas Mavericks,121,+240,+194,+195,+205,+185,+200,+194,-295,-235,-250,-250,-215,-240,-235
+Mon Feb 13 2023,Washington Wizards,126,Golden State Warriors,135,+136,+142,+130,+143,+145,+140,+142,-162,-168,-160,-170,-170,-167,-168
+Mon Feb 13 2023,Los Angeles Lakers,115,Portland Trail Blazers,127,+120,+106,+115,+110,+110,+112,+106,-142,-124,-140,-130,-130,-134,-124
+Tue Feb 14 2023,Boston Celtics,125,Milwaukee Bucks,131,+410,+370,+333,+360,+320,+340,+370,-550,-480,-450,-480,-390,-435,-480
+Tue Feb 14 2023,Orlando Magic,113,Toronto Raptors,123,+225,+245,+240,+240,+245,+250,+245,-275,-300,-300,-305,-295,-305,-300
+Tue Feb 14 2023,Sacramento Kings,109,Phoenix Suns,120,+136,+116,+120,+122,+125,+118,+116,-162,-130,-145,-145,-145,-139,-130
+Tue Feb 14 2023,Golden State Warriors,124,Los Angeles Clippers,134,+320,+270,+260,+275,+280,+265,+270,-405,-335,-350,-350,-340,-335,-335
+Tue Feb 14 2023,Washington Wizards,126,Portland Trail Blazers,101,+136,-118,-120,-130,-125,-115,-118,-162,+102,even,+110,+105,-104,+102
+Wed Feb 15 2023,San Antonio Spurs,110,Charlotte Hornets,120,+215,+172,+170,+175,+180,+180,+172,-255,-205,-210,-210,-210,-220,-205
+Wed Feb 15 2023,Chicago Bulls,113,Indiana Pacers,117,+118,+122,+115,+118,+125,+120,+122,-138,-138,-140,-140,-145,-143,-138
+Wed Feb 15 2023,New York Knicks,122,Atlanta Hawks,101,+124,+146,+145,+143,+150,+140,+146,-146,-174,-175,-170,-175,-167,-174
+Wed Feb 15 2023,Detroit Pistons,109,Boston Celtics,127,+300,+490,+500,+500,+510,+525,+490,-375,-670,-700,-700,-700,-770,-670
+Wed Feb 15 2023,Miami Heat,105,Brooklyn Nets,116,-122,+108,even,+110,+105,+110,+108,+104,-126,-120,-130,-125,-130,-126
+Wed Feb 15 2023,Cleveland Cavaliers,112,Philadelphia 76ers,118,+124,+114,+105,even,+110,+107,+114,-146,-134,-125,-120,-130,-127,-134
+Wed Feb 15 2023,Utah Jazz,111,Memphis Grizzlies,117,+250,+460,+375,+430,+430,+410,+460,-310,-620,-500,-600,-560,-530,-620
+Wed Feb 15 2023,Houston Rockets,96,Oklahoma City Thunder,133,+320,+330,+350,+345,+340,+350,+330,-405,-420,-450,-455,-425,-455,-420
+Wed Feb 15 2023,Dallas Mavericks,109,Denver Nuggets,118,+220,+194,+190,+185,+185,+190,+194,-270,-235,-250,-225,-215,-235,-235
+Wed Feb 15 2023,New Orleans Pelicans,102,Los Angeles Lakers,120,+128,+160,+150,+162,+160,+155,+160,-152,-190,-185,-195,-190,-186,-190
+Thu Feb 16 2023,Milwaukee Bucks,112,Chicago Bulls,100,-300,-335,-350,-350,-360,-335,-335,+245,+270,+260,+275,+295,+270,+270
+Thu Feb 16 2023,Washington Wizards,114,Minnesota Timberwolves,106,+134,+134,+140,+135,+140,+130,+134,-158,-158,-165,-160,-165,-157,-158
+Thu Feb 16 2023,Los Angeles Clippers,116,Phoenix Suns,107,even,-112,-110,-115,-115,-109,-112,-118,-104,-110,-105,-105,-110,-104
+Thu Feb 23 2023,Denver Nuggets,115,Cleveland Cavaliers,109,+102,+130,+120,+130,+135,+116,+130,-120,-154,-145,-155,-155,-137,-154
+Thu Feb 23 2023,Boston Celtics,142,Indiana Pacers,138,-335,-340,-350,-345,-330,-345,-340,+270,+275,+260,+270,+275,+270,+275
+Thu Feb 23 2023,Detroit Pistons,106,Orlando Magic,108,+240,+265,+260,+270,+270,+255,+265,-295,-330,-350,-345,-325,-315,-330
+Thu Feb 23 2023,Memphis Grizzlies,105,Philadelphia 76ers,110,+144,+134,+135,+130,+130,+130,+134,-172,-158,-160,-155,-150,-157,-158
+Thu Feb 23 2023,New Orleans Pelicans,110,Toronto Raptors,115,+120,+152,+145,+150,+155,+150,+152,-142,-180,-175,-178,-180,-180,-180
+Thu Feb 23 2023,San Antonio Spurs,116,Dallas Mavericks,142,+750,+700,+750,+700,+750,+650,+700,-1200,-1150,-1200,-1100,-1150,-1115,-1150
+Thu Feb 23 2023,Oklahoma City Thunder,119,Utah Jazz,120,+120,even,even,even,even,-105,even,-142,-120,-120,-120,-120,-114,-120
+Thu Feb 23 2023,Golden State Warriors,111,Los Angeles Lakers,124,+138,+215,+200,+210,+215,+188,+215,-164,-270,-250,-260,-255,-230,-270
+Thu Feb 23 2023,Portland Trail Blazers,116,Sacramento Kings,133,+180,+450,+425,+430,+440,+380,+450,-215,-600,-600,-600,-580,-500,-600
+Fri Feb 24 2023,New York Knicks,115,Washington Wizards,109,+114,-106,-105,-115,-105,-105,-106,-134,-110,-115,-105,-115,-114,-110
+Fri Feb 24 2023,Cleveland Cavaliers,119,Atlanta Hawks,136,-102,-112,-115,-120,-115,-104,-112,-116,-104,-105,even,-105,-115,-104
+Fri Feb 24 2023,Miami Heat,99,Milwaukee Bucks,128,-102,+176,+165,+196,+190,+175,+215,-116,-210,-200,-240,-225,-215,-260
+Fri Feb 24 2023,Brooklyn Nets,87,Chicago Bulls,131,-102,+104,+110,+110,+110,+106,+104,-116,-122,-135,-130,-130,-125,-122
+Fri Feb 24 2023,Charlotte Hornets,121,Minnesota Timberwolves,113,+260,+240,+220,+222,+215,+215,+240,-320,-295,-275,-278,-255,-265,-295
+Fri Feb 24 2023,Houston Rockets,101,Golden State Warriors,116,+380,+310,+300,+300,+295,+320,+310,-490,-390,-400,-385,-360,-420,-390
+Fri Feb 24 2023,Oklahoma City Thunder,115,Phoenix Suns,124,+315,+295,+340,+328,+330,+320,+295,-400,-370,-450,-430,-410,-420,-370
+Fri Feb 24 2023,Sacramento Kings,176,Los Angeles Clippers,175,+220,+210,+200,+205,+205,+205,+210,-270,-255,-250,-250,-245,-245,-255
+Sat Feb 25 2023,Toronto Raptors,95,Detroit Pistons,91,-270,-300,-300,-320,-305,-315,-300,+220,+250,+240,+250,+255,+250,+250
+Sat Feb 25 2023,Miami Heat,103,Charlotte Hornets,108,-190,-250,-250,-250,-245,-250,-250,+160,+205,+200,+205,+205,+210,+205
+Sat Feb 25 2023,Indiana Pacers,121,Orlando Magic,108,+134,+120,+115,+122,+120,+115,+120,-158,-142,-140,-145,-140,-137,-142
+Sat Feb 25 2023,New Orleans Pelicans,106,New York Knicks,128,+124,+142,+145,+150,+145,+150,+142,-146,-168,-175,-178,-170,-180,-168
+Sat Feb 25 2023,Denver Nuggets,94,Memphis Grizzlies,112,even,+126,+120,+122,+125,+120,+126,-118,-148,-145,-145,-145,-143,-148
+Sat Feb 25 2023,Boston Celtics,110,Philadelphia 76ers,107,-112,-116,-115,even,-115,-115,-116,-104,-102,-105,-120,-105,-104,-102
+Sat Feb 25 2023,San Antonio Spurs,102,Utah Jazz,118,+430,+380,+375,+400,+410,+380,+370,-590,-490,-500,-550,-520,-530,-480
+Sun Feb 26 2023,Phoenix Suns,101,Milwaukee Bucks,104,+144,+134,+125,+118,+125,+128,+134,-172,-158,-150,-140,-145,-152,-158
+Sun Feb 26 2023,Brooklyn Nets,127,Atlanta Hawks,129,+190,+215,+220,+215,+220,+205,+215,-230,-260,-275,-267,-260,-250,-260
+Sun Feb 26 2023,Washington Wizards,82,Chicago Bulls,102,+126,+180,+170,+180,+180,+180,+180,-148,-220,-210,-220,-210,-220,-220
+Sun Feb 26 2023,Los Angeles Lakers,111,Dallas Mavericks,108,+140,+152,+155,+150,+160,+155,+152,-166,-180,-190,-178,-190,-186,-180
+Sun Feb 26 2023,Toronto Raptors,93,Cleveland Cavaliers,118,+220,+245,+240,+250,+255,+265,+245,-270,-300,-300,-320,-305,-335,-300
+Sun Feb 26 2023,Sacramento Kings,124,Oklahoma City Thunder,115,-164,-180,-175,-170,-165,-167,-178,+138,+152,+145,+143,+140,+143,+150
+Sun Feb 26 2023,Minnesota Timberwolves,104,Golden State Warriors,109,+112,+108,+110,+110,+110,+108,+108,-132,-134,-135,-130,-130,-129,-134
+Sun Feb 26 2023,Houston Rockets,114,Portland Trail Blazers,131,+350,+330,+350,+328,+330,+335,+330,-450,-420,-450,-430,-410,-435,-420
+Sun Feb 26 2023,Los Angeles Clippers,124,Denver Nuggets,134,+162,+144,+145,+152,+145,+140,+144,-194,-172,-175,-180,-170,-167,-172
+Mon Feb 27 2023,Detroit Pistons,106,Charlotte Hornets,117,+215,+235,+225,+235,+240,+225,+235,-260,-290,-275,-292,-285,-278,-290
+Mon Feb 27 2023,Miami Heat,101,Philadelphia 76ers,99,+210,+184,+180,+185,+180,+188,+184,-255,-220,-225,-225,-210,-230,-220
+Mon Feb 27 2023,Boston Celtics,94,New York Knicks,109,-138,-134,-135,-140,-130,-125,-134,+118,+114,+110,+118,+110,+105,+114
+Mon Feb 27 2023,Orlando Magic,101,New Orleans Pelicans,93,+134,+180,+165,+175,+175,+160,+180,-158,-215,-200,-210,-205,-190,-215
+Tue Feb 28 2023,Washington Wizards,119,Atlanta Hawks,116,+176,+220,+220,+250,+240,+235,+220,-210,-270,-275,-320,-285,-295,-270
+Tue Feb 28 2023,Milwaukee Bucks,118,Brooklyn Nets,104,-215,-270,-250,-250,-250,-250,-270,+180,+220,+200,+205,+210,+210,+220
+Tue Feb 28 2023,Los Angeles Lakers,109,Memphis Grizzlies,121,+194,+310,+310,+310,+310,+300,+310,-235,-390,-400,-400,-380,-385,-390
+Tue Feb 28 2023,Chicago Bulls,98,Toronto Raptors,104,+154,+152,+155,+162,+155,+160,+152,-184,-180,-190,-195,-180,-195,-180
+Tue Feb 28 2023,Denver Nuggets,133,Houston Rockets,112,-510,-720,-700,-700,-750,-715,-720,+390,+520,+500,+500,+550,+525,+520
+Tue Feb 28 2023,Sacramento Kings,123,Oklahoma City Thunder,117,-138,-138,-145,-140,-140,-132,-138,+118,+118,+120,+118,+120,+110,+118
+Tue Feb 28 2023,Indiana Pacers,124,Dallas Mavericks,122,+225,+290,+300,+278,+310,+280,+290,-275,-360,-400,-355,-380,-360,-360
+Tue Feb 28 2023,San Antonio Spurs,102,Utah Jazz,94,+370,+360,+340,+328,+350,+340,+360,-480,-460,-450,-430,-435,-435,-460
+Tue Feb 28 2023,Portland Trail Blazers,105,Golden State Warriors,123,+134,+156,+170,+162,+180,+160,+156,-158,-186,-210,-195,-210,-195,-186
+Tue Feb 28 2023,Minnesota Timberwolves,108,Los Angeles Clippers,101,+240,+200,+200,+210,+210,+205,+200,-295,-245,-250,-260,-250,-250,-245
+Wed Mar 1 2023,Phoenix Suns,105,Charlotte Hornets,91,-560,-560,-500,-550,-520,-560,-560,+420,+420,+375,+400,+410,+410,+420
+Wed Mar 1 2023,Chicago Bulls,117,Detroit Pistons,115,-255,-270,-250,-250,-265,-245,-270,+210,+220,+200,+205,+225,+205,+220
+Wed Mar 1 2023,Cleveland Cavaliers,113,Boston Celtics,117,+215,+160,+160,+162,+165,+175,+160,-260,-190,-200,-195,-195,-215,-190
+Wed Mar 1 2023,Philadelphia 76ers,119,Miami Heat,96,-118,+150,+150,+158,+155,+145,+148,even,-178,-185,-190,-180,-175,-176
+Wed Mar 1 2023,Brooklyn Nets,118,New York Knicks,142,+245,+265,+260,+275,+255,+250,+265,-300,-330,-350,-350,-305,-315,-330
+Wed Mar 1 2023,Memphis Grizzlies,113,Houston Rockets,99,-450,-520,-450,-550,-580,-480,-520,+350,+400,+340,+400,+440,+370,+400
+Wed Mar 1 2023,Orlando Magic,117,Milwaukee Bucks,139,+315,+290,+260,+278,+300,+265,+290,-400,-360,-350,-355,-365,-335,-360
+Wed Mar 1 2023,Los Angeles Lakers,123,Oklahoma City Thunder,117,-122,+130,+135,+130,+135,+130,+130,+104,-154,-165,-155,-155,-155,-154
+Wed Mar 1 2023,New Orleans Pelicans,121,Portland Trail Blazers,110,+112,+120,+125,+126,+130,+128,+120,-132,-142,-155,-150,-150,-152,-142
+Thu Mar 2 2023,Toronto Raptors,108,Washington Wizards,119,-120,-126,-130,-115,-125,-127,-116,+102,+108,+105,-105,+105,+108,-102
+Thu Mar 2 2023,Philadelphia 76ers,126,Dallas Mavericks,133,+128,+130,+125,+130,+130,+123,+130,-152,-154,-155,-155,-150,-143,-154
+Thu Mar 2 2023,Indiana Pacers,99,San Antonio Spurs,110,-184,-188,-190,-178,-190,-182,-188,+154,+158,+155,+150,+160,+155,+158
+Thu Mar 2 2023,Los Angeles Clippers,91,Golden State Warriors,115,-138,-146,-150,-145,-140,-148,-146,+118,+124,+125,+122,+120,+123,+124
+Fri Mar 3 2023,Orlando Magic,117,Charlotte Hornets,106,-158,-168,-175,-160,-155,-159,-168,+134,+142,+145,+135,+135,+133,+142
+Fri Mar 3 2023,Portland Trail Blazers,111,Atlanta Hawks,129,+220,+260,+260,+240,+270,+255,+260,-270,-320,-350,-305,-325,-315,-320
+Fri Mar 3 2023,Brooklyn Nets,115,Boston Celtics,105,+430,+410,+425,+400,+400,+425,+410,-590,-550,-600,-550,-500,-590,-550
+Fri Mar 3 2023,Phoenix Suns,125,Chicago Bulls,104,-250,-164,-160,-165,-155,-165,-164,+205,+138,+135,+140,+135,+138,+138
+Fri Mar 3 2023,New York Knicks,122,Miami Heat,120,-120,-102,-110,-110,even,even,-102,+102,-116,-110,-110,-120,-118,-116
+Fri Mar 3 2023,Utah Jazz,103,Oklahoma City Thunder,130,-142,-102,even,even,-105,even,-102,+120,-116,-120,-120,-115,-120,-116
+Fri Mar 3 2023,Memphis Grizzlies,97,Denver Nuggets,113,+190,+184,+190,+205,+200,+195,+184,-230,-220,-250,-250,-240,-235,-220
+Fri Mar 3 2023,New Orleans Pelicans,99,Golden State Warriors,108,+194,+168,+155,+170,+175,+170,+168,-235,-200,-190,-205,-205,-205,-200
+Fri Mar 3 2023,Los Angeles Clippers,127,Sacramento Kings,128,+124,+235,+220,+222,+230,+230,+235,-146,-290,-275,-278,-275,-286,-290
+Fri Mar 3 2023,Minnesota Timberwolves,110,Los Angeles Lakers,102,-116,-118,-115,-125,-120,-120,-118,-102,even,-105,+105,even,+102,even
+Sat Mar 4 2023,Toronto Raptors,116,Washington Wizards,109,+102,-144,-140,-150,-140,-136,-144,-120,+122,+115,+126,+120,+115,+122
+Sat Mar 4 2023,Detroit Pistons,90,Cleveland Cavaliers,114,+750,+810,+900,+900,+850,+900,+810,-1200,-1350,-1600,-1600,-1400,-1667,-1350
+Sat Mar 4 2023,Atlanta Hawks,109,Miami Heat,117,+104,+122,+120,+122,+120,+123,+122,-122,-144,-145,-145,-140,-148,-144
+Sat Mar 4 2023,Houston Rockets,122,San Antonio Spurs,110,-118,-120,-115,-120,-115,-122,-120,-102,+102,-105,even,-105,+104,+102
+Sat Mar 4 2023,Philadelphia 76ers,133,Milwaukee Bucks,130,+198,+166,+165,+162,+155,+160,+166,-240,-198,-200,-195,-180,-195,-198
+Sat Mar 4 2023,Minnesota Timberwolves,138,Sacramento Kings,134,+205,+144,+150,+143,+155,+155,+144,-250,-172,-185,-170,-180,-190,-172
+Sun Mar 5 2023,Phoenix Suns,130,Dallas Mavericks,126,-104,-126,-135,-140,-130,-127,-126,-116,+108,+110,+118,+110,+107,+108
+Sun Mar 5 2023,Indiana Pacers,125,Chicago Bulls,122,+190,+184,+170,+185,+180,+175,+180,-230,-220,-210,-225,-210,-215,-215
+Sun Mar 5 2023,Golden State Warriors,105,Los Angeles Lakers,113,-210,-210,-210,-205,-195,-195,-210,+176,+176,+170,+170,+165,+163,+176
+Sun Mar 5 2023,Charlotte Hornets,86,Brooklyn Nets,102,+300,+265,+260,+260,+270,+270,+265,-375,-330,-350,-335,-325,-335,-330
+Sun Mar 5 2023,Portland Trail Blazers,122,Orlando Magic,119,+118,+120,+120,+126,+120,+114,+120,-138,-142,-145,-150,-140,-136,-142
+Sun Mar 5 2023,San Antonio Spurs,110,Houston Rockets,142,+114,+160,+150,+162,+165,+155,+164,-134,-190,-185,-195,-195,-182,-196
+Sun Mar 5 2023,Utah Jazz,119,Oklahoma City Thunder,129,+126,+205,+200,+196,+210,+205,+205,-148,-250,-250,-240,-250,-245,-250
+Sun Mar 5 2023,New York Knicks,131,Boston Celtics,129,+172,+215,+220,+215,+225,+230,+215,-205,-255,-275,-267,-265,-278,-255
+Sun Mar 5 2023,Milwaukee Bucks,117,Washington Wizards,111,-144,-230,-250,-235,-230,-215,-230,+122,+190,+190,+192,+195,+175,+190
+Sun Mar 5 2023,Memphis Grizzlies,129,Los Angeles Clippers,135,+205,+245,+220,+240,+240,+230,+245,-250,-300,-275,-305,-285,-286,-300
+Mon Mar 6 2023,Boston Celtics,114,Cleveland Cavaliers,118,-104,+260,+275,+250,+265,+270,+260,-112,-320,-350,-320,-320,-335,-320
+Mon Mar 6 2023,Portland Trail Blazers,110,Detroit Pistons,104,-245,-205,-190,-195,-180,-190,-188,+200,+172,+155,+162,+155,+155,+158
+Mon Mar 6 2023,Philadelphia 76ers,147,Indiana Pacers,143,-310,-240,-250,-250,-240,-245,-240,+250,+198,+200,+205,+200,+200,+198
+Mon Mar 6 2023,Atlanta Hawks,128,Miami Heat,130,+126,+110,+115,+110,+115,+117,+110,-148,-130,-140,-130,-135,-139,-130
+Mon Mar 6 2023,Toronto Raptors,113,Denver Nuggets,118,+250,+194,+200,+210,+205,+200,+194,-310,-235,-250,-260,-245,-250,-235
+Mon Mar 6 2023,New Orleans Pelicans,108,Sacramento Kings,123,+194,+172,+165,+158,+160,+163,+172,-235,-205,-200,-190,-190,-195,-205
+Tue Mar 7 2023,Washington Wizards,119,Detroit Pistons,117,-255,-590,-550,-550,-580,-560,-590,+210,+430,+400,+400,+440,+410,+430
+Tue Mar 7 2023,Milwaukee Bucks,134,Orlando Magic,123,-330,-130,-140,-135,-135,-132,-130,+265,+110,+115,+115,+115,+112,+110
+Tue Mar 7 2023,Philadelphia 76ers,117,Minnesota Timberwolves,94,-130,+128,+135,+122,+135,+128,+128,+110,-152,-160,-145,-155,-152,-152
+Tue Mar 7 2023,Charlotte Hornets,112,New York Knicks,105,+340,+360,+360,+345,+340,+350,+360,-430,-460,-500,-455,-425,-480,-460
+Tue Mar 7 2023,Brooklyn Nets,118,Houston Rockets,96,-295,-255,-250,-260,-240,-265,-255,+240,+210,+200,+210,+200,+215,+210
+Tue Mar 7 2023,Golden State Warriors,128,Oklahoma City Thunder,137,-220,-190,-175,-180,-175,-175,-190,+184,+160,+145,+152,+150,+145,+160
+Tue Mar 7 2023,Utah Jazz,116,Dallas Mavericks,120,+215,+430,+400,+430,+450,+375,+430,-260,-590,-550,-600,-600,-500,-590
+Tue Mar 7 2023,Memphis Grizzlies,103,Los Angeles Lakers,112,+102,-120,-115,-120,-115,-117,-120,-120,+102,-105,even,-105,-103,+102
+Wed Mar 8 2023,Atlanta Hawks,122,Washington Wizards,120,-158,-154,-150,-155,-150,-143,-154,+134,+130,+125,+130,+130,+123,+130
+Wed Mar 8 2023,Portland Trail Blazers,93,Boston Celtics,115,+400,+350,+340,+345,+340,+330,+350,-520,-450,-450,-455,-425,-435,-450
+Wed Mar 8 2023,Cleveland Cavaliers,104,Miami Heat,100,-120,-116,-115,-120,-115,-117,-116,+102,-102,-105,even,-105,-103,-102
+Wed Mar 8 2023,Dallas Mavericks,106,New Orleans Pelicans,113,-130,-138,-140,-145,-135,-137,-138,+110,+118,+115,+122,+115,+115,+118
+Wed Mar 8 2023,Chicago Bulls,117,Denver Nuggets,96,+300,+290,+300,+310,+320,+300,+290,-375,-360,-400,-400,-390,-385,-360
+Wed Mar 8 2023,Oklahoma City Thunder,101,Phoenix Suns,132,+700,+440,+450,+500,+480,+450,+440,-1100,-590,-650,-700,-645,-625,-590
+Wed Mar 8 2023,Toronto Raptors,100,Los Angeles Clippers,108,+148,+126,+120,+118,+130,+125,+126,-176,-148,-145,-140,-150,-150,-148
+Thu Mar 9 2023,Charlotte Hornets,113,Detroit Pistons,103,-148,-156,-175,-165,-145,-165,-156,+126,+132,+145,+140,+125,+138,+132
+Thu Mar 9 2023,Houston Rockets,125,Indiana Pacers,134,+330,+370,+340,+345,+380,+320,+370,-420,-480,-450,-455,-475,-420,-480
+Thu Mar 9 2023,Utah Jazz,131,Orlando Magic,124,+136,+144,+145,+150,+155,+143,+144,-162,-172,-175,-178,-180,-175,-172
+Thu Mar 9 2023,Golden State Warriors,110,Memphis Grizzlies,131,-120,-152,-140,-155,-150,-143,-152,+102,+128,+115,+130,+130,+123,+128
+Thu Mar 9 2023,Brooklyn Nets,113,Milwaukee Bucks,118,+610,+370,+340,+335,+370,+350,+370,-900,-510,-450,-440,-460,-455,-510
+Thu Mar 9 2023,New York Knicks,117,Sacramento Kings,122,+146,+110,+110,+110,-105,+110,+110,-174,-130,-135,-130,-115,-132,-130
+Fri Mar 10 2023,Portland Trail Blazers,119,Philadelphia 76ers,120,+290,+290,+290,+285,+295,+285,+300,-360,-360,-375,-365,-360,-360,-375
+Fri Mar 10 2023,Atlanta Hawks,114,Washington Wizards,107,-116,-116,-120,-120,-120,-120,-122,-102,-102,even,even,even,+102,+104
+Fri Mar 10 2023,Cleveland Cavaliers,115,Miami Heat,119,-120,+126,+125,+130,+130,+125,+126,+102,-148,-155,-155,-150,-150,-148
+Fri Mar 10 2023,Brooklyn Nets,124,Minnesota Timberwolves,123,+172,+152,+155,+158,+150,+150,+152,-205,-180,-190,-190,-175,-180,-180
+Fri Mar 10 2023,Denver Nuggets,120,San Antonio Spurs,128,-750,-750,-900,-900,-850,-835,-750,+530,+530,+575,+600,+600,+575,+530
+Fri Mar 10 2023,Toronto Raptors,112,Los Angeles Lakers,122,-116,-138,-140,-145,-140,-139,-138,-102,+118,+115,+122,+120,+117,+118
+Sat Mar 11 2023,New York Knicks,95,Los Angeles Clippers,106,+205,+168,+170,+170,+175,+170,+168,-250,-200,-210,-205,-205,-205,-200
+Sat Mar 11 2023,Utah Jazz,119,Charlotte Hornets,111,-146,-116,-115,-115,-115,-117,-116,+124,-102,-105,-105,-105,-103,-102
+Sat Mar 11 2023,Indiana Pacers,121,Detroit Pistons,115,-240,-164,-155,-155,-165,-157,-164,+198,+138,+125,+130,+140,+130,+138
+Sat Mar 11 2023,Miami Heat,114,Orlando Magic,126,-148,-142,-135,-145,-140,-141,-142,+126,+120,+115,+122,+120,+118,+120
+Sat Mar 11 2023,Boston Celtics,134,Atlanta Hawks,125,-215,-190,-190,-215,-205,-190,-194,+180,+160,+155,+178,+175,+160,+162
+Sat Mar 11 2023,Chicago Bulls,119,Houston Rockets,111,-310,-310,-300,-345,-325,-315,-310,+250,+250,+230,+270,+270,+250,+250
+Sat Mar 11 2023,Dallas Mavericks,108,Memphis Grizzlies,112,+176,+260,+240,+270,+270,+255,+260,-210,-320,-300,-345,-325,-315,-320
+Sat Mar 11 2023,Milwaukee Bucks,116,Golden State Warriors,125,-116,+138,+135,+140,+145,+130,+138,-102,-164,-160,-165,-170,-155,-164
+Sat Mar 11 2023,Oklahoma City Thunder,110,New Orleans Pelicans,96,+164,-104,-105,-110,-110,-108,-104,-196,-112,-115,-110,-110,-110,-112
+Sat Mar 11 2023,Sacramento Kings,128,Phoenix Suns,119,+134,+140,+140,+140,+140,+135,+140,-158,-166,-165,-165,-165,-162,-166
+Sun Mar 12 2023,Brooklyn Nets,122,Denver Nuggets,120,+295,+300,+290,+320,+320,+320,+300,-370,-375,-375,-420,-390,-400,-375
+Sun Mar 12 2023,Cleveland Cavaliers,114,Charlotte Hornets,108,-335,-510,-450,-550,-500,-455,-510,+270,+390,+350,+400,+400,+350,+390
+Sun Mar 12 2023,Washington Wizards,93,Philadelphia 76ers,112,+300,+225,+230,+235,+235,+255,+225,-375,-275,-300,-292,-280,-315,-275
+Sun Mar 12 2023,Portland Trail Blazers,110,New Orleans Pelicans,127,+116,+128,+120,+135,+130,+130,+128,-136,-152,-145,-160,-150,-155,-152
+Sun Mar 12 2023,Oklahoma City Thunder,102,San Antonio Spurs,90,-156,-186,-165,-165,-170,-159,-186,+132,+156,+135,+140,+145,+135,+156
+Sun Mar 12 2023,New York Knicks,112,Los Angeles Lakers,108,+102,+120,+120,+118,+125,+123,+120,-120,-142,-145,-140,-145,-148,-142
+Mon Mar 13 2023,Indiana Pacers,97,Detroit Pistons,117,N/A,-175,-184,-165,-165,-170,-165,-184,N/A,+155,+154,+135,+140,+145
+Mon Mar 13 2023,Minnesota Timberwolves,136,Atlanta Hawks,115,N/A,+170,+160,+150,+185,+160,+165,+160,N/A,-200,-190,-185,-225,-190
+Mon Mar 13 2023,Memphis Grizzlies,104,Dallas Mavericks,88,N/A,-200,-190,-175,-120,-190,-177,-190,N/A,+170,+160,+145,even,+160
+Mon Mar 13 2023,Utah Jazz,115,Miami Heat,119,N/A,+290,+290,+260,+240,+300,+270,+290,N/A,-370,-360,-350,-305,-365
+Mon Mar 13 2023,Boston Celtics,109,Houston Rockets,111,N/A,-1000,-820,-900,-1000,-850,-910,-820,N/A,+650,+570,+575,+650,+600
+Mon Mar 13 2023,Phoenix Suns,112,Golden State Warriors,123,N/A,+165,+152,+150,+170,+155,+148,+152,N/A,-185,-180,-185,-205,-180
+Mon Mar 13 2023,Milwaukee Bucks,133,Sacramento Kings,124,N/A,-165,-162,-150,-160,-150,-162,-162,N/A,+145,+136,+125,+135,+130
+Tue Mar 14 2023,Cleveland Cavaliers,120,Charlotte Hornets,104,-350,-225,-225,-225,-205,-215,-225,+280,+188,+180,+185,+175,+175,+188
+Tue Mar 14 2023,Detroit Pistons,97,Washington Wizards,117,+480,+610,+675,+650,+650,+575,+610,-650,-900,-1100,-1000,-950,-910,-900
+Tue Mar 14 2023,Denver Nuggets,110,Toronto Raptors,125,-102,-124,-125,-120,-120,-124,-124,-116,+106,+105,even,even,+104,+106
+Tue Mar 14 2023,Los Angeles Lakers,123,New Orleans Pelicans,108,+104,+102,even,even,+110,+105,+102,-122,-120,-120,-120,-130,-125,-120
+Tue Mar 14 2023,Brooklyn Nets,107,Oklahoma City Thunder,121,even,even,even,even,even,-103,even,-118,-118,-120,-120,-120,-117,-118
+Tue Mar 14 2023,Orlando Magic,114,San Antonio Spurs,132,-210,-275,-275,-267,-265,-250,-275,+176,+225,+220,+215,+225,+205,+225
+Tue Mar 14 2023,Milwaukee Bucks,116,Phoenix Suns,104,-122,-120,-120,-120,-120,-121,-120,+104,+102,even,even,even,+102,+102
+Tue Mar 14 2023,New York Knicks,123,Portland Trail Blazers,107,-118,-144,-140,-140,-140,-136,-144,even,+122,+115,+118,+120,+114,+122
+Wed Mar 15 2023,Philadelphia 76ers,118,Cleveland Cavaliers,109,-120,-138,-140,-140,-140,-143,-138,+102,+118,+115,+118,+120,+120,+118
+Wed Mar 15 2023,Memphis Grizzlies,119,Miami Heat,138,+136,+152,+150,+162,+155,+145,+152,-162,-180,-185,-195,-180,-175,-180
+Wed Mar 15 2023,Sacramento Kings,117,Chicago Bulls,114,-108,-118,-120,-120,-120,-120,-118,-108,even,even,even,even,even,even
+Wed Mar 15 2023,Los Angeles Lakers,110,Houston Rockets,114,-215,-142,-145,-135,-135,-143,-142,+180,+120,+120,+115,+115,+120,+120
+Wed Mar 15 2023,Boston Celtics,104,Minnesota Timberwolves,102,-174,-184,-185,-180,-170,-180,-184,+146,+154,+150,+152,+145,+150,+154
+Wed Mar 15 2023,Dallas Mavericks,137,San Antonio Spurs,128,-245,-168,-190,-180,-175,-186,-168,+200,+142,+155,+152,+150,+155,+142
+Wed Mar 15 2023,Golden State Warriors,126,Los Angeles Clippers,134,+118,+126,+125,+126,+130,+120,+126,-138,-148,-155,-150,-150,-143,-148
+Thu Mar 16 2023,Denver Nuggets,119,Detroit Pistons,100,-770,-1350,-1600,-1400,-1400,-1000,-1350,+530,+810,+875,+800,+850,+650,+810
+Thu Mar 16 2023,Sacramento Kings,101,Brooklyn Nets,96,+106,+126,+125,+122,+130,+125,+126,-124,-148,-150,-145,-150,-148,-148
+Thu Mar 16 2023,Oklahoma City Thunder,111,Toronto Raptors,128,+215,+210,+200,+210,+205,+195,+210,-260,-255,-250,-260,-245,-240,-255
+Thu Mar 16 2023,Indiana Pacers,139,Milwaukee Bucks,123,+750,+530,+550,+550,+575,+425,+530,-1200,-750,-800,-800,-800,-560,-750
+Thu Mar 16 2023,Orlando Magic,113,Phoenix Suns,116,+240,+275,+275,+278,+300,+250,+275,-295,-340,-350,-355,-365,-315,-340
+Fri Mar 17 2023,Philadelphia 76ers,121,Charlotte Hornets,82,-420,-490,-500,-550,-490,-500,-490,+330,+380,+375,+400,+390,+390,+380
+Fri Mar 17 2023,Golden State Warriors,119,Atlanta Hawks,127,-112,+134,+135,+118,+130,+125,+134,-104,-158,-160,-140,-150,-150,-158
+Fri Mar 17 2023,Washington Wizards,94,Cleveland Cavaliers,117,+172,+184,+180,+185,+185,+175,+184,-205,-220,-225,-225,-215,-215,-220
+Fri Mar 17 2023,Minnesota Timberwolves,131,Chicago Bulls,139,+120,+120,+115,+118,+125,+114,+120,-142,-142,-140,-140,-145,-136,-142
+Fri Mar 17 2023,New Orleans Pelicans,112,Houston Rockets,114,-260,-215,-225,-225,-210,-220,-210,+215,+180,+180,+185,+180,+180,+176
+Fri Mar 17 2023,Memphis Grizzlies,126,San Antonio Spurs,120,-335,-370,-375,-400,-380,-385,-370,+270,+295,+290,+310,+310,+300,+295
+Fri Mar 17 2023,Boston Celtics,126,Portland Trail Blazers,112,-210,-245,-250,-260,-255,-245,-245,+176,+200,+200,+210,+215,+200,+200
+Fri Mar 17 2023,Dallas Mavericks,111,Los Angeles Lakers,110,+166,+142,+145,+143,+145,+145,+142,-198,-168,-175,-170,-170,-175,-168
+Sat Mar 18 2023,Denver Nuggets,110,New York Knicks,116,-124,-112,-105,-105,-105,-106,-112,+106,-104,-115,-115,-115,-113,-104
+Sat Mar 18 2023,Orlando Magic,113,Los Angeles Clippers,108,+295,+210,+220,+215,+220,+205,+210,-370,-255,-275,-267,-260,-250,-255
+Sat Mar 18 2023,Philadelphia 76ers,141,Indiana Pacers,121,-270,-194,-200,-195,-195,-215,-184,+220,+162,+165,+162,+165,+170,+154
+Sat Mar 18 2023,Minnesota Timberwolves,107,Toronto Raptors,122,+205,+330,+310,+320,+330,+310,+330,-250,-420,-400,-420,-410,-435,-420
+Sat Mar 18 2023,Miami Heat,99,Chicago Bulls,113,-134,-126,-135,-130,-135,-141,-126,+114,+108,+110,+110,+115,+118,+108
+Sat Mar 18 2023,Golden State Warriors,119,Memphis Grizzlies,133,+180,-118,-125,-125,-125,-117,-118,-215,even,+105,+105,+105,-103,even
+Sat Mar 18 2023,Sacramento Kings,132,Washington Wizards,118,-138,-190,-200,-190,-190,-200,-190,+118,+160,+165,+158,+160,+165,+160
+Sat Mar 18 2023,Boston Celtics,117,Utah Jazz,118,-260,-198,-190,-190,-195,-200,-198,+215,+166,+155,+158,+165,+165,+166
+Sun Mar 19 2023,Denver Nuggets,108,Brooklyn Nets,102,-122,-152,-155,-155,-150,-143,-152,+104,+128,+125,+130,+130,+120,+128
+Sun Mar 19 2023,Phoenix Suns,120,Oklahoma City Thunder,124,-102,+102,-105,-105,-105,-103,+102,-116,-120,-115,-115,-115,-117,-120
+Sun Mar 19 2023,Atlanta Hawks,118,San Antonio Spurs,126,-405,-460,-500,-455,-450,-480,-460,+320,+360,+360,+345,+360,+360,+360
+Sun Mar 19 2023,Miami Heat,112,Detroit Pistons,100,-460,-480,-500,-480,-475,-500,-480,+360,+370,+360,+360,+380,+375,+370
+Sun Mar 19 2023,New Orleans Pelicans,117,Houston Rockets,107,-210,-225,-225,-225,-215,-215,-225,+176,+188,+180,+185,+185,+180,+188
+Sun Mar 19 2023,Toronto Raptors,111,Milwaukee Bucks,118,+360,+240,+225,+240,+230,+230,+240,-460,-295,-275,-305,-275,-286,-295
+Sun Mar 19 2023,Los Angeles Clippers,117,Portland Trail Blazers,102,-132,-190,-190,-190,-190,-177,-190,+112,+160,+155,+158,+160,+148,+160
+Sun Mar 19 2023,Orlando Magic,105,Los Angeles Lakers,111,+215,+205,+220,+222,+230,+210,+205,-260,-250,-275,-278,-275,-250,-250
+Mon Mar 20 2023,Indiana Pacers,109,Charlotte Hornets,115,-126,-136,-135,-135,-135,-122,-136,+108,+116,+110,+115,+115,+104,+116
+Mon Mar 20 2023,Chicago Bulls,109,Philadelphia 76ers,105,+265,+260,+260,+270,+270,+300,+260,-330,-320,-350,-345,-325,-385,-320
+Mon Mar 20 2023,Minnesota Timberwolves,140,New York Knicks,134,+260,+280,+290,+275,+285,+270,+280,-320,-350,-375,-350,-345,-345,-350
+Mon Mar 20 2023,Golden State Warriors,121,Houston Rockets,108,-450,-700,-650,-700,-660,-625,-700,+350,+500,+475,+500,+490,+430,+500
+Mon Mar 20 2023,Dallas Mavericks,108,Memphis Grizzlies,112,+106,+156,+150,+158,+155,+143,+156,-124,-186,-185,-190,-180,-175,-186
+Mon Mar 20 2023,Sacramento Kings,120,Utah Jazz,128,-270,-260,-275,-278,-265,-250,-260,+220,+215,+225,+222,+225,+210,+215
+Tue Mar 21 2023,Washington Wizards,112,Orlando Magic,122,-116,-112,even,+105,-115,+104,-112,-102,-104,-120,-125,-105,-124,-104
+Tue Mar 21 2023,Detroit Pistons,107,Atlanta Hawks,129,+610,+570,+625,+600,+625,+575,+570,-900,-820,-1000,-900,-900,-910,-820
+Tue Mar 21 2023,Cleveland Cavaliers,115,Brooklyn Nets,109,-142,-172,-175,-175,-175,-167,-172,+120,+144,+145,+148,+150,+143,+144
+Tue Mar 21 2023,San Antonio Spurs,84,New Orleans Pelicans,119,+285,+640,+600,+650,+625,+600,+640,-355,-950,-900,-1000,-900,-910,-950
+Tue Mar 21 2023,Boston Celtics,132,Sacramento Kings,109,-164,-205,-210,-210,-205,-215,-205,+138,+172,+170,+175,+175,+175,+172
+Tue Mar 21 2023,Oklahoma City Thunder,101,Los Angeles Clippers,100,+235,+215,+220,+210,+220,+225,+215,-290,-255,-275,-260,-260,-278,-255
+Wed Mar 22 2023,Denver Nuggets,118,Washington Wizards,104,-300,-370,-375,-400,-380,-375,-370,+240,+295,+300,+310,+310,+295,+295
+Wed Mar 22 2023,Golden State Warriors,127,Dallas Mavericks,125,-122,-158,-155,-165,-150,-148,-158,+104,+134,+125,+140,+130,+120,+134
+Wed Mar 22 2023,New York Knicks,120,Miami Heat,127,+108,+108,+105,+105,+110,+115,+110,-126,-126,-130,-125,-130,-137,-130
+Wed Mar 22 2023,Indiana Pacers,118,Toronto Raptors,114,+320,+295,+280,+310,+300,+295,+295,-405,-370,-350,-400,-365,-375,-370
+Wed Mar 22 2023,Philadelphia 76ers,116,Chicago Bulls,91,-176,-126,-125,-125,-125,-118,-126,+148,+108,+105,+105,+105,even,+108
+Wed Mar 22 2023,Houston Rockets,125,Memphis Grizzlies,130,+660,+500,+550,+500,+550,+480,+520,-1000,-700,-800,-700,-750,-770,-720
+Wed Mar 22 2023,San Antonio Spurs,94,Milwaukee Bucks,130,+1200,+1040,+1000,+1050,+1200,+1300,+1040,-2500,-2000,-2500,-2000,-2400,-5000,-2000
+Wed Mar 22 2023,Atlanta Hawks,124,Minnesota Timberwolves,125,+152,+148,+135,+140,+150,+145,+148,-180,-176,-165,-165,-175,-177,-176
+Wed Mar 22 2023,Portland Trail Blazers,127,Utah Jazz,115,+110,+176,+165,+175,+175,+170,+176,-130,-210,-200,-210,-205,-200,-210
+Wed Mar 22 2023,Phoenix Suns,111,Los Angeles Lakers,122,-130,-102,-105,+105,even,-105,-102,+110,-116,-115,-125,-120,-114,-116
+Thu Mar 23 2023,New York Knicks,106,Orlando Magic,111,-144,-142,-150,-145,-150,-143,-142,+122,+120,+125,+122,+130,+120,+120
+Thu Mar 23 2023,Cleveland Cavaliers,116,Brooklyn Nets,114,-162,-168,-160,-170,-155,-175,-168,+136,+142,+135,+143,+135,+143,+142
+Thu Mar 23 2023,Charlotte Hornets,96,New Orleans Pelicans,115,+280,+330,+300,+320,+350,+300,+315,-350,-420,-400,-420,-435,-385,-400
+Thu Mar 23 2023,Oklahoma City Thunder,105,Los Angeles Clippers,127,+126,+162,+165,+162,+165,+155,+162,-148,-200,-200,-195,-195,-186,-200
+Fri Mar 24 2023,Indiana Pacers,95,Boston Celtics,120,+540,+450,+375,+400,+430,+410,+440,-770,-600,-500,-550,-560,-590,-590
+Fri Mar 24 2023,San Antonio Spurs,124,Washington Wizards,136,+240,+310,+260,+320,+300,+285,+310,-295,-390,-350,-420,-365,-360,-390
+Fri Mar 24 2023,Detroit Pistons,97,Toronto Raptors,118,+610,+570,+650,+650,+600,+550,+570,-900,-820,-1000,-1000,-850,-835,-820
+Fri Mar 24 2023,Houston Rockets,114,Memphis Grizzlies,151,+700,+530,+575,+500,+550,+525,+530,-1100,-750,-900,-700,-750,-770,-750
+Fri Mar 24 2023,Charlotte Hornets,117,Dallas Mavericks,109,+610,+750,+800,+800,+800,+800,+750,-900,-1200,-1400,-1400,-1250,-1667,-1200
+Fri Mar 24 2023,Milwaukee Bucks,144,Utah Jazz,116,-290,-390,-400,-455,-460,-385,-390,+235,+310,+310,+345,+370,+300,+310
+Fri Mar 24 2023,Philadelphia 76ers,112,Golden State Warriors,120,+120,+156,+150,+158,+160,+145,+156,-142,-186,-185,-190,-190,-175,-186
+Fri Mar 24 2023,Chicago Bulls,124,Portland Trail Blazers,96,-102,-295,-300,-305,-280,-278,-295,-116,+240,+240,+240,+235,+225,+240
+Fri Mar 24 2023,Phoenix Suns,127,Sacramento Kings,135,+130,+164,+140,+143,+155,+138,+164,-154,-196,-165,-170,-180,-165,-196
+Fri Mar 24 2023,Oklahoma City Thunder,111,Los Angeles Lakers,116,+198,+138,+135,+143,+135,+140,+138,-240,-164,-160,-170,-155,-167,-164
+Sat Mar 25 2023,Indiana Pacers,130,Atlanta Hawks,143,+360,+370,+333,+345,+370,+360,+370,-460,-480,-450,-455,-460,-480,-480
+Sat Mar 25 2023,Brooklyn Nets,129,Miami Heat,100,+190,+194,+180,+185,+190,+190,+194,-230,-235,-225,-225,-225,-235,-235
+Sat Mar 25 2023,Milwaukee Bucks,106,Denver Nuggets,129,+114,+130,+135,+130,+140,+130,+130,-134,-154,-160,-155,-165,-155,-154
+Sat Mar 25 2023,Philadelphia 76ers,105,Phoenix Suns,125,-116,-102,-105,-105,-105,+102,-102,-102,-116,-115,-115,-115,-121,-116
+Sat Mar 25 2023,Utah Jazz,113,Sacramento Kings,121,+340,+320,+290,+328,+330,+295,+320,-430,-405,-375,-430,-410,-375,-405
+Sat Mar 25 2023,New Orleans Pelicans,131,Los Angeles Clippers,110,+176,+160,+165,+162,+165,+160,+160,-210,-190,-200,-195,-195,-195,-190
+Sun Mar 26 2023,Dallas Mavericks,104,Charlotte Hornets,110,-460,-720,-800,-800,-740,-670,-720,+360,+520,+550,+550,+540,+475,+520
+Sun Mar 26 2023,Chicago Bulls,118,Los Angeles Lakers,108,+164,+176,+180,+180,+175,+190,+176,-196,-210,-225,-220,-205,-235,-210
+Sun Mar 26 2023,Memphis Grizzlies,123,Atlanta Hawks,119,-126,-120,-130,-120,-115,-117,-132,+108,+102,+105,even,-105,-103,+112
+Sun Mar 26 2023,San Antonio Spurs,93,Boston Celtics,137,+980,+1040,+800,+900,+950,+1100,+830,-1800,-2000,-1400,-1600,-1650,-2500,-1400
+Sun Mar 26 2023,Houston Rockets,91,Cleveland Cavaliers,108,+700,+660,+700,+700,+700,+650,+660,-1100,-1000,-1100,-1100,-1050,-1000,-1000
+Sun Mar 26 2023,Brooklyn Nets,106,Orlando Magic,119,+110,+108,even,even,-105,+108,+108,-130,-126,-120,-120,-115,-129,-126
+Sun Mar 26 2023,Washington Wizards,104,Toronto Raptors,114,+198,+350,+360,+360,+360,+325,+360,-240,-450,-500,-480,-450,-420,-460
+Sun Mar 26 2023,Oklahoma City Thunder,118,Portland Trail Blazers,112,-250,-490,-500,-550,-540,-530,-490,+205,+380,+375,+400,+420,+390,+380
+Sun Mar 26 2023,Minnesota Timberwolves,99,Golden State Warriors,96,+225,+180,+180,+180,+185,+175,+180,-275,-215,-225,-220,-215,-210,-215
+Mon Mar 27 2023,Milwaukee Bucks,126,Detroit Pistons,117,-1800,-750,-800,-650,-660,-670,-750,+980,+530,+550,+460,+490,+510,+530
+Mon Mar 27 2023,Dallas Mavericks,127,Indiana Pacers,104,-126,-320,-350,-335,-315,-275,-320,+108,+260,+260,+260,+260,+220,+260
+Mon Mar 27 2023,Houston Rockets,115,New York Knicks,137,+610,+590,+550,+600,+575,+575,+590,-900,-850,-800,-900,-800,-835,-850
+Mon Mar 27 2023,Phoenix Suns,117,Utah Jazz,103,-240,-196,-185,-190,-195,-220,-196,+198,+164,+150,+158,+165,+180,+164
+Mon Mar 27 2023,Philadelphia 76ers,111,Denver Nuggets,116,+176,+350,+350,+360,+360,+350,+350,-210,-450,-450,-480,-450,-455,-450
+Mon Mar 27 2023,New Orleans Pelicans,124,Portland Trail Blazers,90,-390,-670,-650,-650,-700,-625,-670,+310,+490,+450,+460,+510,+450,+490
+Mon Mar 27 2023,Minnesota Timberwolves,119,Sacramento Kings,115,+194,+180,+170,+178,+185,+170,+180,-235,-215,-210,-215,-215,-205,-215
+Mon Mar 27 2023,Chicago Bulls,112,Los Angeles Clippers,124,+164,+158,+145,+158,+155,+160,+158,-198,-188,-175,-190,-180,-190,-188
+Tue Mar 28 2023,Boston Celtics,111,Washington Wizards,130,-620,-560,-600,-650,-580,-530,-560,+460,+420,+425,+460,+440,+390,+420
+Tue Mar 28 2023,Cleveland Cavaliers,118,Atlanta Hawks,120,-112,+130,+120,+135,+130,+116,+130,-104,-154,-145,-160,-150,-137,-154
+Tue Mar 28 2023,Miami Heat,92,Toronto Raptors,106,+120,+198,+185,+180,+200,+185,+198,-142,-240,-225,-220,-240,-225,-240
+Tue Mar 28 2023,Orlando Magic,108,Memphis Grizzlies,113,+270,+210,+200,+210,+200,+210,+210,-335,-255,-250,-260,-240,-265,-255
+Tue Mar 28 2023,Charlotte Hornets,137,Oklahoma City Thunder,134,+320,+360,+325,+335,+350,+360,+360,-405,-460,-450,-440,-435,-455,-460
+Tue Mar 28 2023,New Orleans Pelicans,109,Golden State Warriors,120,+320,+310,+290,+320,+300,+285,+310,-405,-390,-375,-420,-365,-360,-390
+Wed Mar 29 2023,Milwaukee Bucks,149,Indiana Pacers,136,-700,-800,-900,-900,-800,-625,-800,+500,+560,+600,+600,+575,+475,+560
+Wed Mar 29 2023,Houston Rockets,114,Brooklyn Nets,123,+560,+430,+425,+460,+410,+420,+430,-770,-590,-600,-650,-520,-590,-590
+Wed Mar 29 2023,Miami Heat,92,New York Knicks,101,+148,+188,+185,+196,+190,+188,+198,-176,-225,-225,-240,-225,-230,-240
+Wed Mar 29 2023,Dallas Mavericks,108,Philadelphia 76ers,116,+176,+200,+195,+205,+195,+185,+200,-210,-245,-250,-250,-230,-225,-245
+Wed Mar 29 2023,Los Angeles Lakers,121,Chicago Bulls,110,-112,-172,-175,-180,-155,-175,-180,-104,+144,+145,+152,+135,+145,+146
+Wed Mar 29 2023,Los Angeles Clippers,141,Memphis Grizzlies,132,+168,+114,+105,+110,+110,+116,+112,-200,-134,-130,-130,-130,-137,-132
+Wed Mar 29 2023,Detroit Pistons,106,Oklahoma City Thunder,107,+460,+340,+360,+360,+330,+360,+370,-620,-430,-500,-480,-410,-480,-480
+Wed Mar 29 2023,Utah Jazz,128,San Antonio Spurs,117,-205,-138,-130,-135,-125,-129,-138,+172,+118,+105,+115,+105,+108,+118
+Wed Mar 29 2023,Minnesota Timberwolves,100,Phoenix Suns,107,+235,+210,+190,+196,+205,+200,+210,-290,-255,-250,-240,-245,-245,-255
+Wed Mar 29 2023,Sacramento Kings,120,Portland Trail Blazers,80,-850,-1200,-1000,-1100,-1150,-1000,-1200,+590,+750,+650,+700,+750,+600,+750
+Thu Mar 30 2023,Boston Celtics,140,Milwaukee Bucks,99,+128,+112,+115,+110,+110,+116,+112,-152,-132,-140,-130,-130,-137,-132
+Thu Mar 30 2023,New Orleans Pelicans,107,Denver Nuggets,88,+245,+104,even,+110,+105,+110,+104,-300,-122,-120,-130,-125,-130,-122
+Fri Mar 31 2023,Chicago Bulls,121,Charlotte Hornets,91,-250,-590,-600,-600,-625,-560,-590,+205,+440,+425,+430,+470,+425,+440
+Fri Mar 31 2023,Oklahoma City Thunder,117,Indiana Pacers,121,-172,-225,-250,-225,-205,-200,-215,+144,+188,+200,+185,+175,+165,+180
+Fri Mar 31 2023,Toronto Raptors,110,Philadelphia 76ers,117,+210,+146,+150,+152,+145,+155,+154,-255,-174,-185,-180,-170,-182,-184
+Fri Mar 31 2023,Orlando Magic,116,Washington Wizards,109,+108,-176,-200,-205,-195,-175,-186,-126,+148,+165,+170,+165,+145,+156
+Fri Mar 31 2023,Utah Jazz,114,Boston Celtics,122,+660,+610,+650,+650,+600,+550,+610,-1000,-900,-1100,-1000,-850,-910,-900
+Fri Mar 31 2023,Atlanta Hawks,107,Brooklyn Nets,124,-104,-118,-120,-120,-115,-122,-118,-112,even,even,even,-105,+104,even
+Fri Mar 31 2023,New York Knicks,130,Cleveland Cavaliers,116,+180,+138,+140,+140,+140,+135,+138,-215,-164,-165,-165,-165,-162,-164
+Fri Mar 31 2023,Detroit Pistons,115,Houston Rockets,121,+160,+198,+195,+185,+195,+200,+198,-190,-240,-250,-225,-230,-240,-240
+Fri Mar 31 2023,Los Angeles Clippers,94,Memphis Grizzlies,108,+220,+176,+170,+185,+185,+175,+176,-270,-210,-210,-225,-215,-215,-210
+Fri Mar 31 2023,Los Angeles Lakers,123,Minnesota Timberwolves,111,-102,-134,-120,-125,-130,-120,-134,-116,+114,even,+105,+110,even,+114
+Fri Mar 31 2023,San Antonio Spurs,115,Golden State Warriors,130,+900,+1040,+1100,+1050,+1100,+1150,+1040,-1600,-2200,-2500,-2000,-2100,-2500,-2200
+Fri Mar 31 2023,Sacramento Kings,138,Portland Trail Blazers,114,-1200,-1350,-1200,-1100,-1050,-1000,-1350,+750,+810,+750,+700,+700,+650,+810
+Fri Mar 31 2023,Denver Nuggets,93,Phoenix Suns,100,+210,+570,+575,+600,+600,+540,+570,-255,-820,-800,-900,-850,-770,-820
+Sat Apr 1 2023,Dallas Mavericks,122,Miami Heat,129,-102,-138,-135,-150,-140,-137,-138,-116,+118,+110,+126,+120,+116,+118
+Sat Apr 1 2023,Los Angeles Clippers,114,New Orleans Pelicans,122,+114,+156,+150,+158,+150,+148,+156,-134,-186,-185,-190,-175,-177,-186
+Sun Apr 2 2023,Toronto Raptors,128,Charlotte Hornets,108,-950,-1350,-1600,-1600,-1500,-1250,-1350,+640,+810,+900,+900,+900,+750,+810
+Sun Apr 2 2023,Utah Jazz,110,Brooklyn Nets,111,+315,+245,+230,+240,+235,+255,+245,-400,-300,-300,-305,-280,-315,-300
+Sun Apr 2 2023,Memphis Grizzlies,107,Chicago Bulls,128,-146,-104,even,-110,-110,-106,-116,+124,-112,-120,-110,-110,-113,-102
+Sun Apr 2 2023,Portland Trail Blazers,107,Minnesota Timberwolves,105,+980,+1400,+1000,+1150,+1100,+1400,+1500,-1600,-3500,-2000,-2400,-2100,-3335,-4000
+Sun Apr 2 2023,Dallas Mavericks,130,Atlanta Hawks,132,+126,+132,+125,+126,+130,+128,+132,-148,-158,-150,-150,-150,-152,-158
+Sun Apr 2 2023,Washington Wizards,109,New York Knicks,118,+390,+460,+500,+430,+440,+440,+460,-520,-620,-700,-600,-580,-590,-620
+Sun Apr 2 2023,Detroit Pistons,102,Orlando Magic,128,+340,+440,+425,+430,+440,+410,+440,-430,-590,-600,-600,-580,-560,-590
+Sun Apr 2 2023,San Antonio Spurs,142,Sacramento Kings,134,+830,+900,+900,+900,+950,+1000,+900,-1400,-1600,-1600,-1600,-1650,-2000,-1600
+Sun Apr 2 2023,Los Angeles Lakers,134,Houston Rockets,109,-590,-620,-700,-650,-660,-670,-620,+440,+460,+500,+460,+490,+480,+460
+Sun Apr 2 2023,Phoenix Suns,128,Oklahoma City Thunder,118,-205,-205,-225,-210,-210,-220,-205,+172,+172,+180,+175,+180,+180,+172
+Sun Apr 2 2023,Indiana Pacers,105,Cleveland Cavaliers,115,+590,+560,+500,+550,+575,+540,+560,-850,-800,-700,-800,-800,-770,-800
+Sun Apr 2 2023,Philadelphia 76ers,104,Milwaukee Bucks,117,+164,+166,+180,+170,+170,+170,+166,-196,-198,-225,-205,-200,-210,-198
+Sun Apr 2 2023,Golden State Warriors,110,Denver Nuggets,112,+124,-174,-165,-165,-165,-165,-174,-146,+146,+135,+140,+140,+138,+146
+Tue Apr 4 2023,Toronto Raptors,120,Charlotte Hornets,100,-1350,-1500,-1600,-1600,-1500,-1250,-1500,+810,+870,+875,+900,+900,+700,+870
+Tue Apr 4 2023,Miami Heat,118,Detroit Pistons,105,-700,-1000,-1100,-1000,-1050,-910,-1000,+500,+660,+675,+650,+700,+600,+660
+Tue Apr 4 2023,Cleveland Cavaliers,117,Orlando Magic,113,-210,-168,-155,-180,-175,-195,-188,+176,+142,+125,+152,+150,+163,+158
+Tue Apr 4 2023,Milwaukee Bucks,140,Washington Wizards,128,-750,-1000,-1000,-900,-1050,-835,-1000,+530,+660,+650,+600,+700,+550,+660
+Tue Apr 4 2023,Minnesota Timberwolves,107,Brooklyn Nets,102,+102,-142,-160,-155,-150,-162,-142,-120,+120,+135,+130,+130,+135,+120
+Tue Apr 4 2023,Atlanta Hawks,123,Chicago Bulls,105,+108,+190,+170,+180,+195,+195,+190,-126,-230,-210,-220,-230,-240,-230
+Tue Apr 4 2023,Denver Nuggets,103,Houston Rockets,124,-650,-590,-550,-650,-610,-590,-590,+480,+440,+400,+460,+460,+430,+440
+Tue Apr 4 2023,Portland Trail Blazers,109,Memphis Grizzlies,119,+1300,+1200,+1300,+1050,+1100,+1400,+1200,-2500,-2500,-3000,-2000,-2100,-3335,-2500
+Tue Apr 4 2023,Sacramento Kings,121,New Orleans Pelicans,103,+104,+144,+145,+152,+155,+148,+144,-122,-172,-175,-180,-180,-177,-172
+Tue Apr 4 2023,Boston Celtics,101,Philadelphia 76ers,103,+102,+140,+135,+135,+135,+145,+140,-120,-166,-160,-160,-155,-175,-166
+Tue Apr 4 2023,Los Angeles Lakers,135,Utah Jazz,133,-225,-600,-650,-600,-610,-500,-600,+188,+450,+450,+430,+460,+380,+450
+Tue Apr 4 2023,Oklahoma City Thunder,125,Golden State Warriors,136,+260,+260,+220,+250,+255,+250,+260,-320,-320,-275,-320,-305,-305,-320
+Tue Apr 4 2023,San Antonio Spurs,94,Phoenix Suns,115,+1400,+1200,+1100,+1150,+1100,+1300,+1200,-3500,-2500,-2500,-2400,-2100,-3335,-2500
+Wed Apr 5 2023,Brooklyn Nets,123,Detroit Pistons,108,-560,-550,-550,-600,-580,-590,-550,+420,+410,+400,+430,+440,+430,+410
+Wed Apr 5 2023,New York Knicks,138,Indiana Pacers,129,-375,-200,-175,-195,-195,-235,-200,+300,+168,+145,+162,+165,+195,+168
+Wed Apr 5 2023,Washington Wizards,116,Atlanta Hawks,134,+420,+530,+575,+600,+540,+525,+530,-560,-750,-900,-900,-740,-770,-750
+Wed Apr 5 2023,Toronto Raptors,93,Boston Celtics,97,+194,-112,-115,-125,-120,-124,-112,-235,-104,-105,+105,even,+105,-104
+Wed Apr 5 2023,Chicago Bulls,92,Milwaukee Bucks,105,+265,+190,+180,+178,+185,+188,+190,-330,-230,-225,-215,-215,-230,-230
+Wed Apr 5 2023,Memphis Grizzlies,131,New Orleans Pelicans,138,+200,+205,+200,+215,+225,+200,+205,-245,-250,-250,-267,-265,-245,-250
+Wed Apr 5 2023,Sacramento Kings,119,Dallas Mavericks,123,+156,+198,+200,+196,+215,+210,+198,-186,-240,-250,-240,-255,-250,-240
+Wed Apr 5 2023,Los Angeles Lakers,118,Los Angeles Clippers,125,-126,-116,-120,-120,-125,-121,-116,+108,-102,even,even,+105,+102,-102
+Thu Apr 6 2023,Cleveland Cavaliers,118,Orlando Magic,94,+310,+172,+185,+175,+175,+188,+172,-375,-205,-225,-210,-205,-230,-205
+Thu Apr 6 2023,Miami Heat,129,Philadelphia 76ers,101,+200,+116,+120,+122,+115,+112,+118,-245,-136,-145,-145,-135,-132,-138
+Thu Apr 6 2023,Portland Trail Blazers,127,San Antonio Spurs,129,+114,+198,+175,+185,+185,+170,+198,-134,-240,-210,-225,-215,-205,-240
+Thu Apr 6 2023,Oklahoma City Thunder,114,Utah Jazz,98,-235,-295,-275,-285,-285,-295,-310,+194,+240,+220,+228,+240,+235,+250
+Thu Apr 6 2023,Denver Nuggets,115,Phoenix Suns,119,+235,+540,+650,+550,+625,+500,+540,-290,-770,-1000,-800,-900,-715,-770
+Fri Apr 7 2023,Houston Rockets,112,Charlotte Hornets,109,-122,-220,-210,-220,-210,-200,-220,+104,+184,+170,+180,+180,+163,+184
+Fri Apr 7 2023,Detroit Pistons,122,Indiana Pacers,115,+215,+210,+200,+196,+210,+205,+198,-260,-255,-250,-240,-250,-250,-240
+Fri Apr 7 2023,Miami Heat,108,Washington Wizards,114,-196,-176,-200,-178,-165,-167,-176,+164,+148,+165,+150,+140,+143,+148
+Fri Apr 7 2023,Philadelphia 76ers,136,Atlanta Hawks,131,+330,+500,+450,+460,+530,+450,+500,-420,-700,-650,-650,-730,-625,-700
+Fri Apr 7 2023,Toronto Raptors,102,Boston Celtics,121,+104,-126,-130,-130,-130,-125,-126,-122,+108,+105,+110,+110,+106,+108
+Fri Apr 7 2023,Orlando Magic,84,Brooklyn Nets,101,+275,+340,+400,+360,+370,+370,+360,-340,-430,-550,-480,-460,-480,-460
+Fri Apr 7 2023,Memphis Grizzlies,137,Milwaukee Bucks,114,-260,-370,-400,-400,-380,-360,-330,+215,+295,+310,+310,+310,+285,+265
+Fri Apr 7 2023,New York Knicks,105,New Orleans Pelicans,113,+260,+295,+260,+278,+265,+285,+295,-320,-370,-350,-355,-320,-360,-370
+Fri Apr 7 2023,Chicago Bulls,115,Dallas Mavericks,112,+290,+106,+115,+105,+105,+108,+106,-360,-124,-140,-125,-125,-129,-124
+Fri Apr 7 2023,Golden State Warriors,119,Sacramento Kings,97,-240,-590,-650,-550,-580,-560,-590,+198,+440,+475,+400,+440,+410,+430
+Fri Apr 7 2023,Phoenix Suns,107,Los Angeles Lakers,121,+250,+640,+650,+600,+650,+600,+640,-310,-950,-1000,-900,-950,-835,-950
+Sat Apr 8 2023,Denver Nuggets,114,Utah Jazz,118,N/A,-425,-420,-450,-455,-425,-480,-420,N/A,+325,+330,+333,+345,+340
+Sat Apr 8 2023,Portland Trail Blazers,125,Los Angeles Clippers,136,N/A,+1100,+1040,+1000,+900,+1100,+1150,+1040,N/A,-1800,-2000,-2000,-1600,-2100
+Sat Apr 8 2023,Minnesota Timberwolves,151,San Antonio Spurs,131,N/A,-1400,-1500,-1400,-1600,-1500,-1115,-1500,N/A,+850,+870,+800,+900,+900
+Sun Apr 9 2023,Atlanta Hawks,114,Boston Celtics,120,+215,+164,+155,+162,+165,+160,+164,-260,-198,-190,-195,-195,-190,-198
+Sun Apr 9 2023,Philadelphia 76ers,134,Brooklyn Nets,105,+130,+110,even,-105,-105,+102,+110,-154,-130,-120,-115,-115,-122,-130
+Sun Apr 9 2023,Detroit Pistons,81,Chicago Bulls,103,+188,+275,+310,+285,+285,+285,+275,-225,-340,-400,-365,-345,-360,-340
+Sun Apr 9 2023,Charlotte Hornets,106,Cleveland Cavaliers,95,+138,+210,+200,+210,+210,+215,+210,-164,-255,-250,-260,-250,-265,-255
+Sun Apr 9 2023,Orlando Magic,110,Miami Heat,123,+152,+172,+180,+175,+170,+175,+172,-180,-205,-225,-210,-200,-210,-205
+Sun Apr 9 2023,Indiana Pacers,141,New York Knicks,136,+285,+370,+375,+360,+380,+350,+370,-355,-480,-500,-480,-475,-455,-480
+Sun Apr 9 2023,Milwaukee Bucks,105,Toronto Raptors,121,+114,+134,+135,+140,+140,+133,+134,-134,-158,-165,-165,-165,-159,-158
+Sun Apr 9 2023,Houston Rockets,114,Washington Wizards,109,-130,-172,-175,-170,-170,-177,-172,+110,+144,+145,+143,+145,+148,+144
+Sun Apr 9 2023,San Antonio Spurs,138,Dallas Mavericks,117,+144,+130,+145,+143,+145,+143,+130,-172,-154,-175,-170,-170,-175,-154
+Sun Apr 9 2023,Sacramento Kings,95,Denver Nuggets,109,+130,-215,-225,-220,-215,-200,-215,-154,+180,+180,+180,+185,+170,+180
+Sun Apr 9 2023,Utah Jazz,117,Los Angeles Lakers,128,+980,+900,+900,+950,+950,+1000,+900,-1800,-1600,-1600,-1700,-1650,-2000,-1600
+Sun Apr 9 2023,New Orleans Pelicans,108,Minnesota Timberwolves,113,+130,+126,+125,+140,+135,+125,+126,-154,-148,-155,-165,-155,-148,-148
+Sun Apr 9 2023,Memphis Grizzlies,100,Oklahoma City Thunder,115,-138,+108,+110,+105,+110,+107,+108,+118,-126,-130,-125,-130,-127,-126
+Sun Apr 9 2023,Los Angeles Clippers,119,Phoenix Suns,114,-900,-480,-500,-480,-450,-480,-480,+610,+370,+375,+360,+360,+370,+370
+Sun Apr 9 2023,Golden State Warriors,157,Portland Trail Blazers,101,-2200,-1800,-1600,-1400,-1650,-2000,-1800,+1100,+980,+900,+800,+950,+1000,+980
+Tue Apr 11 2023,Atlanta Hawks,116,Miami Heat,105,+172,+176,+180,+185,+185,+170,+194,-205,-210,-225,-225,-215,-210,-235
+Tue Apr 11 2023,Minnesota Timberwolves,102,Los Angeles Lakers,108,+240,+285,+310,+310,+290,+310,+290,-295,-355,-400,-400,-350,-420,-360
+Wed Apr 12 2023,Chicago Bulls,109,Toronto Raptors,105,+160,+198,+200,+205,+200,+205,+198,-190,-240,-250,-250,-240,-250,-240
+Wed Apr 12 2023,Oklahoma City Thunder,123,New Orleans Pelicans,118,+194,+168,+180,+185,+180,+188,+168,-235,-200,-225,-225,-210,-230,-200
+Fri Apr 14 2023,Chicago Bulls,91,Miami Heat,102,+162,+164,+165,+170,+170,+170,+164,-194,-196,-200,-205,-200,-210,-196
+Fri Apr 14 2023,Oklahoma City Thunder,95,Minnesota Timberwolves,120,+166,+198,+200,+180,+200,+180,+198,-198,-240,-250,-220,-240,-220,-240
+Sat Apr 15 2023,Brooklyn Nets,101,Philadelphia 76ers,121,+290,+300,+300,+320,+310,+290,+300,-360,-375,-400,-420,-380,-360,-375
+Sat Apr 15 2023,Atlanta Hawks,99,Boston Celtics,112,+320,+360,+375,+360,+380,+360,+360,-405,-480,-500,-480,-475,-455,-480
+Sat Apr 15 2023,New York Knicks,101,Cleveland Cavaliers,97,+205,+168,+175,+152,+175,+195,+168,-250,-200,-210,-180,-205,-240,-200
+Sat Apr 15 2023,Golden State Warriors,123,Sacramento Kings,126,-104,-102,even,even,-105,-106,-102,-112,-116,-120,-120,-115,-113,-116
+Sun Apr 16 2023,Los Angeles Lakers,128,Memphis Grizzlies,112,+134,+176,+165,+162,+175,+165,+176,-158,-210,-200,-195,-205,-205,-210
+Sun Apr 16 2023,Miami Heat,130,Milwaukee Bucks,117,+315,+350,+350,+345,+370,+340,+350,-400,-450,-450,-455,-460,-435,-450
+Sun Apr 16 2023,Los Angeles Clippers,115,Phoenix Suns,110,+265,+250,+260,+250,+270,+260,+250,-330,-310,-350,-320,-325,-315,-310
+Sun Apr 16 2023,Minnesota Timberwolves,80,Denver Nuggets,109,+260,+285,+280,+270,+290,+280,+285,-320,-355,-350,-345,-350,-360,-355
+Mon Apr 17 2023,Brooklyn Nets,84,Philadelphia 76ers,96,+350,+350,+375,+400,+400,+380,+350,-450,-450,-500,-550,-500,-500,-450
+Mon Apr 17 2023,Golden State Warriors,106,Sacramento Kings,114,+102,-138,-140,-135,-130,-136,-138,-120,+118,+115,+115,+110,+114,+118
+Tue Apr 18 2023,Atlanta Hawks,106,Boston Celtics,119,+410,+420,+400,+400,+410,+400,+420,-550,-560,-550,-550,-520,-530,-560
+Tue Apr 18 2023,New York Knicks,90,Cleveland Cavaliers,107,+148,+194,+195,+192,+195,+188,+194,-176,-235,-250,-235,-230,-230,-235
+Tue Apr 18 2023,Los Angeles Clippers,109,Phoenix Suns,123,+245,+290,+290,+300,+290,+275,+290,-300,-360,-375,-385,-350,-345,-360
+Wed Apr 19 2023,Los Angeles Lakers,93,Memphis Grizzlies,103,+102,-120,-115,-120,-115,-121,-120,-120,+102,-105,even,-105,+102,+102
+Wed Apr 19 2023,Miami Heat,122,Milwaukee Bucks,138,+190,+190,+185,+192,+190,+180,+190,-230,-230,-225,-235,-225,-220,-230
+Wed Apr 19 2023,Minnesota Timberwolves,113,Denver Nuggets,122,+285,+300,+280,+278,+290,+270,+300,-355,-375,-350,-355,-350,-345,-375
+Thu Apr 20 2023,Philadelphia 76ers,102,Brooklyn Nets,97,-164,-210,-200,-205,-200,-200,-210,+138,+176,+165,+170,+170,+165,+176
+Thu Apr 20 2023,Sacramento Kings,97,Golden State Warriors,114,+260,+210,+200,+205,+210,+205,+210,-320,-255,-250,-250,-250,-250,-255
+Thu Apr 20 2023,Phoenix Suns,129,Los Angeles Clippers,124,-130,-320,-350,-345,-325,-345,-320,+110,+260,+260,+270,+270,+260,+260
+Fri Apr 21 2023,Boston Celtics,122,Atlanta Hawks,130,-215,-225,-225,-225,-215,-215,-220,+180,+188,+180,+185,+185,+175,+184
+Fri Apr 21 2023,Cleveland Cavaliers,79,New York Knicks,99,+102,+110,+110,+115,+115,+107,+110,-120,-130,-135,-135,-135,-127,-130
+Fri Apr 21 2023,Denver Nuggets,120,Minnesota Timberwolves,111,-126,-124,-130,-130,-125,-120,-124,+108,+106,+105,+110,+105,+102,+106
+Sat Apr 22 2023,Philadelphia 76ers,96,Brooklyn Nets,88,-176,-132,-130,-135,-130,-130,-132,+148,+112,+110,+115,+110,+110,+112
+Sat Apr 22 2023,Phoenix Suns,112,Los Angeles Clippers,100,-250,-340,-350,-345,-315,-335,-340,+205,+275,+260,+270,+260,+260,+275
+Sat Apr 22 2023,Milwaukee Bucks,99,Miami Heat,121,-130,-130,-140,-130,-130,-141,-130,+110,+114,+115,+110,+110,+118,+114
+Sat Apr 22 2023,Memphis Grizzlies,101,Los Angeles Lakers,111,+190,+152,+155,+170,+155,+150,+152,-230,-180,-190,-205,-180,-182,-180
+Sun Apr 23 2023,Cleveland Cavaliers,93,New York Knicks,102,+124,+110,+110,+105,+110,+108,+110,-146,-130,-130,-125,-130,-129,-130
+Sun Apr 23 2023,Sacramento Kings,125,Golden State Warriors,126,+275,+245,+260,+270,+270,+255,+245,-340,-300,-350,-345,-325,-315,-300
+Sun Apr 23 2023,Boston Celtics,129,Atlanta Hawks,121,-210,-300,-350,-320,-300,-315,-300,+176,+245,+260,+250,+250,+250,+245
+Sun Apr 23 2023,Denver Nuggets,108,Minnesota Timberwolves,114,-136,-190,-190,-180,-190,-195,-190,+116,+160,+155,+152,+160,+160,+160
+Mon Apr 24 2023,Milwaukee Bucks,114,Miami Heat,119,-156,-340,-350,-345,-320,-345,-340,+132,+275,+275,+270,+265,+270,+275
+Mon Apr 24 2023,Memphis Grizzlies,111,Los Angeles Lakers,117,+176,+168,+170,+175,+170,+165,+168,-210,-200,-210,-210,-200,-200,-200
+Tue Apr 25 2023,Atlanta Hawks,119,Boston Celtics,117,N/A,+640,+650,+625,+640,N/A,-1100,-1000,-900,-1100,,,,
+Tue Apr 25 2023,Minnesota Timberwolves,109,Denver Nuggets,112,N/A,+385,+375,+390,+385,N/A,-500,-500,-490,-500,,,,
+Tue Apr 25 2023,Los Angeles Clippers,130,Phoenix Suns,136,N/A,+540,+575,+575,+540,N/A,-770,-800,-800,-770,,,,
+Wed Apr 26 2023,New York Knicks,106,Cleveland Cavaliers,95,+190,+198,+185,+185,+185,+190,+198,-230,-240,-225,-225,-215,-240,-240
+Wed Apr 26 2023,Los Angeles Lakers,99,Memphis Grizzlies,116,+160,+166,+165,+162,+155,+155,+166,-190,-198,-200,-195,-180,-190,-198
+Wed Apr 26 2023,Miami Heat,128,Milwaukee Bucks,126,+450,+540,+525,+460,+470,+510,+540,-600,-770,-750,-650,-625,-715,-770
+Wed Apr 26 2023,Golden State Warriors,123,Sacramento Kings,116,even,-132,-135,-130,-130,-130,-132,-118,+112,+110,+110,+110,+110,+112
+Thu Apr 27 2023,Boston Celtics,128,Atlanta Hawks,120,-240,-295,-300,-292,-295,-286,-295,+198,+240,+240,+235,+245,+225,+240
+Fri Apr 28 2023,Sacramento Kings,118,Golden State Warriors,99,+265,+215,+225,+228,+235,+235,+215,-330,-260,-275,-285,-280,-295,-260
+Fri Apr 28 2023,Memphis Grizzlies,85,Los Angeles Lakers,125,+164,+176,+170,+170,+175,+165,+176,-198,-210,-210,-205,-205,-200,-210
+Sat Apr 29 2023,Phoenix Suns,107,Denver Nuggets,125,+124,+148,+155,+152,+155,+155,+148,-146,-174,-190,-180,-180,-182,-174
+Sun Apr 30 2023,Miami Heat,108,New York Knicks,101,+180,+148,+150,+152,+150,+150,+148,-215,-176,-185,-180,-175,-180,-176
+Sun Apr 30 2023,Golden State Warriors,120,Sacramento Kings,100,-136,even,even,-105,-105,even,even,+116,-118,-120,-115,-115,-117,-118
+Mon May 1 2023,Philadelphia 76ers,119,Boston Celtics,115,+230,+390,+400,+400,+430,+370,+390,-280,-510,-550,-550,-560,-480,-510
+Mon May 1 2023,Phoenix Suns,87,Denver Nuggets,97,+154,+136,+145,+150,+145,+140,+136,-184,-162,-175,-178,-170,-165,-162
+Tue May 2 2023,Miami Heat,105,New York Knicks,111,+190,+380,+340,+360,+400,+360,+380,-230,-500,-450,-480,-500,-455,-500
+Tue May 2 2023,Los Angeles Lakers,117,Golden State Warriors,112,+150,+152,+150,+152,+155,+155,+152,-180,-180,-185,-180,-180,-186,-180
+Wed May 3 2023,Philadelphia 76ers,87,Boston Celtics,121,+300,+260,+260,+240,+270,+295,+260,-375,-320,-350,-305,-325,-375,-320
+Thu May 4 2023,Los Angeles Lakers,100,Golden State Warriors,127,+180,+225,+230,+240,+235,+225,+225,-215,-275,-300,-305,-280,-275,-275
+Fri May 5 2023,Boston Celtics,114,Philadelphia 76ers,102,-118,-142,-140,-140,-140,-130,-142,even,+120,+115,+118,+120,+110,+120
+Fri May 5 2023,Denver Nuggets,114,Phoenix Suns,121,+190,+152,+150,+158,+155,+155,+152,-230,-180,-185,-190,-180,-182,-180
+Sat May 6 2023,New York Knicks,86,Miami Heat,105,+142,+142,+145,+135,+145,+148,+142,-168,-168,-175,-160,-170,-175,-168
+Sat May 6 2023,Golden State Warriors,97,Los Angeles Lakers,127,+110,+130,+135,+130,+140,+128,+130,-130,-154,-160,-155,-165,-152,-154
+Sun May 7 2023,Boston Celtics,115,Philadelphia 76ers,116,-142,-108,-110,-105,-110,-109,-108,+120,-108,-110,-115,-110,-108,-108
+Sun May 7 2023,Denver Nuggets,124,Phoenix Suns,129,+146,-102,-105,-105,-105,-104,-102,-174,-116,-115,-115,-115,-114,-116
+Mon May 8 2023,New York Knicks,101,Miami Heat,109,+132,+144,+155,+158,+150,+155,+144,-158,-172,-190,-190,-175,-186,-172
+Mon May 8 2023,Golden State Warriors,101,Los Angeles Lakers,104,+136,+110,+110,+105,+110,+117,+110,-162,-130,-135,-125,-130,-137,-130
+Tue May 9 2023,Philadelphia 76ers,115,Boston Celtics,103,+245,+265,+275,+260,+280,+265,+265,-300,-330,-350,-335,-340,-335,-330
+Tue May 9 2023,Phoenix Suns,102,Denver Nuggets,118,+144,+220,+210,+210,+220,+210,+220,-172,-270,-275,-260,-260,-250,-270
+Wed May 10 2023,Miami Heat,103,New York Knicks,112,+124,+138,+125,+130,+135,+143,+134,-146,-164,-150,-155,-155,-167,-158
+Wed May 10 2023,Los Angeles Lakers,106,Golden State Warriors,121,+205,+260,+240,+240,+255,+260,+260,-250,-320,-300,-305,-305,-315,-320
+Thu May 11 2023,Boston Celtics,95,Philadelphia 76ers,86,-118,-136,-140,-135,-140,-137,-136,even,+116,+115,+115,+120,+117,+116
+Thu May 11 2023,Denver Nuggets,125,Phoenix Suns,100,+134,even,+105,even,even,+102,+102,-158,-118,-125,-120,-120,-121,-120
+Fri May 12 2023,New York Knicks,92,Miami Heat,96,+146,+210,+200,+210,+205,+205,+210,-174,-255,-250,-260,-245,-245,-255
+Fri May 12 2023,Golden State Warriors,101,Los Angeles Lakers,122,-120,+134,+135,+140,+140,+130,+134,+102,-158,-160,-165,-165,-152,-158
+Sun May 14 2023,Philadelphia 76ers,88,Boston Celtics,112,+250,+205,+200,+185,+205,+195,+205,-310,-250,-250,-225,-245,-235,-250
+Tue May 16 2023,Los Angeles Lakers,126,Denver Nuggets,132,+160,+220,+220,+215,+215,+210,+220,-190,-270,-275,-267,-255,-250,-270
+Wed May 17 2023,Miami Heat,123,Boston Celtics,116,+280,+310,+300,+310,+310,+295,+310,-350,-390,-375,-400,-380,-375,-390
+Thu May 18 2023,Los Angeles Lakers,103,Denver Nuggets,108,+215,+184,+180,+178,+180,+185,+184,-260,-220,-225,-215,-210,-220,-220
+Fri May 19 2023,Miami Heat,111,Boston Celtics,105,+350,+370,+350,+360,+370,+370,+370,-450,-480,-450,-480,-460,-500,-480
+Sat May 20 2023,Denver Nuggets,119,Los Angeles Lakers,108,+136,+188,+185,+178,+195,+195,+188,-162,-220,-225,-215,-230,-235,-220
+Sun May 21 2023,Boston Celtics,102,Miami Heat,128,-126,-178,-190,-178,-175,-182,-178,+108,+150,+155,+150,+150,+155,+150
+Mon May 22 2023,Denver Nuggets,113,Los Angeles Lakers,111,+140,+142,+135,+130,+135,+140,+142,-166,-168,-165,-155,-155,-165,-168
+Tue May 23 2023,Boston Celtics,116,Miami Heat,99,even,even,even,-105,even,+105,even,-118,-118,-120,-115,-120,-122,-118
+Thu May 25 2023,Miami Heat,97,Boston Celtics,110,+265,+275,+270,+250,+250,+255,+275,-330,-340,-350,-320,-300,-315,-340
+Sat May 27 2023,Boston Celtics,104,Miami Heat,103,-138,-122,-130,-125,-125,-137,-124,+118,+104,+105,+105,+105,+117,+106
+Mon May 29 2023,Miami Heat,103,Boston Celtics,84,+315,+245,+230,+222,+235,+240,+245,-400,-300,-275,-278,-280,-286,-300
+Thu Jun 1 2023,Miami Heat,93,Denver Nuggets,104,+290,+285,+300,+285,+295,+295,+285,-360,-355,-375,-365,-360,-385,-355
+Sun Jun 4 2023,Miami Heat,111,Denver Nuggets,108,+340,+270,+275,+270,+280,+260,+270,-430,-335,-350,-345,-340,-315,-335
+Wed Jun 7 2023,Denver Nuggets,109,Miami Heat,94,-124,-162,-165,-170,-165,-162,-162,+106,+136,+140,+143,+140,+138,+136
+Fri Jun 9 2023,Denver Nuggets,108,Miami Heat,95,-172,-146,-155,-135,-145,-148,-146,+144,+124,+125,+115,+125,+125,+124
+Mon Jun 12 2023,Miami Heat,89,Denver Nuggets,94,+340,+265,+275,+260,+280,+275,+265,-430,-330,-350,-335,-340,-345,-330

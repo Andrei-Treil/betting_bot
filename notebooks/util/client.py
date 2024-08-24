@@ -456,7 +456,6 @@ class Nba_Season():
         self.samples = samples
         return features,samples
     
-
     def add_bet_info(self,games_path,out_path):
         '''
         Populates CSV with betting info from https://www.vegasinsider.com/nba/odds/las-vegas/
@@ -533,6 +532,149 @@ class Nba_Season():
         games_df.to_csv(out_path,header=header,index=False) 
         return new_games
 
+    def add_all_bet_info(self,games_path,out_path,long_header=None,short_header=None):
+        '''
+        Populates CSV with betting info from https://www.vegasinsider.com/nba/odds/las-vegas/
+        `games_path`: path of CSV containing games
+        `out_path`: output path for games with betting info WITHOUT .csv extensions (i.e. 'games/with_bets/2023_2024_season')
+        `long_header`: header for bets that include 2 attributes
+        `short_header`: heaer for bets with 1 attribute
+        '''
+
+        fail_count = 0
+        # store odds in dict to avoid accessing same page, map date -> team -> odds
+        header = ["date","away_team","away_pt","home_team","home_pt",
+            "away_open", "away_b365", "away_fduel", "away_bmgm", "away_czr", "away_dking", "away_rivers", "away_vinsider",
+            "home_open", "home_b365", "home_fduel", "home_bmgm", "home_czr", "home_dking", "home_rivers", "home_vinsider"]
+
+        odds_dict_sp = defaultdict(dict)
+        odds_dict_tot = defaultdict(dict)
+        odds_dict_ml = defaultdict(dict)
+        visited_days = set()
+        new_games_sp = []
+        new_games_tot = []
+        new_games_ml = []
+
+
+        with open(games_path, mode='r') as f:
+            lines = csv.reader(f)
+            for date,away_team,away_pt,home_team,home_pt in lines:
+                try:
+                    date_list = date.split()
+                    month = self.MONTH_TO_NUM[date_list[1]]
+                    day = date_list[2] if len(date_list[2]) == 2 else "0{day}".format(day=date_list[2])
+                    year = date_list[3]
+                    # TODO: change to 1d here?
+                    results = [1,0] if away_pt > home_pt else [0,1]
+
+                    game_with_odds_sp = [date,away_team,away_pt,home_team,home_pt]
+                    game_with_odds_tot = [date,away_team,away_pt,home_team,home_pt]
+                    game_with_odds_ml = [date,away_team,away_pt,home_team,home_pt]
+                    
+                    # populate odds for that day and store in odds_dict
+                    if date not in visited_days:
+                        team_dict_sp = defaultdict(list)
+                        team_dict_tot = defaultdict(list)
+                        team_dict_ml = defaultdict(list)
+                        odds_page = "https://www.vegasinsider.com/nba/odds/las-vegas/?date={YEAR}-{MO}-{DA}".format(YEAR=year,MO=month,DA=day)
+                        page = requests.get(odds_page)
+                        soup = BeautifulSoup(page.content, 'html.parser')
+                        result = soup.find('table')
+                        tabs = result.find_all('tbody')
+
+                        trs_sp = tabs[0].find_all('tr')
+                        trs_tot = tabs[1].find_all('tr')
+                        trs_ml = tabs[2].find_all('tr')
+
+                        for i in range(1, len(trs_sp)-2, 4):
+                            away_info = list(trs_sp[i].stripped_strings)
+                            away_t = away_info[1].upper()
+                            away_st = away_info[2:]
+                            home_info = list(trs_sp[i+1].stripped_strings)
+                            home_t = home_info[1].upper()
+                            home_st = home_info[2:]
+
+                            team_dict_sp[away_t] = away_st
+                            team_dict_sp[home_t] = home_st
+
+                        odds_dict_sp[date] = team_dict_sp
+
+                        for i in range(1, len(trs_tot)-2, 4):
+                            away_info = list(trs_tot[i].stripped_strings)
+                            away_t = away_info[1].upper()
+                            away_st = away_info[2:]
+                            home_info = list(trs_tot[i+1].stripped_strings)
+                            home_t = home_info[1].upper()
+                            home_st = home_info[2:]
+
+                            team_dict_tot[away_t] = away_st
+                            team_dict_tot[home_t] = home_st
+
+                        odds_dict_tot[date] = team_dict_tot
+
+                        for i in range(1, len(trs_ml)-2, 4):
+                            away_info = list(trs_ml[i].stripped_strings)
+                            away_t = away_info[1].upper()
+                            away_st = away_info[2:]
+                            home_info = list(trs_ml[i+1].stripped_strings)
+                            home_t = home_info[1].upper()
+                            home_st = home_info[2:]
+
+                            team_dict_ml[away_t] = away_st
+                            team_dict_ml[home_t] = home_st
+
+                        odds_dict_ml[date] = team_dict_ml
+
+                        visited_days.add(date)
+
+                    home_fixed = home_team.upper().split()[-1]
+                    away_fixed = away_team.upper().split()[-1]
+
+                    if home_fixed == 'BLAZERS':
+                        home_fixed = 'TRAIL BLAZERS'
+                    if away_fixed == 'BLAZERS':
+                        away_fixed = 'TRAIL BLAZERS'
+
+                    game_with_odds_sp.extend(odds_dict_sp[date][away_fixed])
+                    game_with_odds_sp.extend(odds_dict_sp[date][home_fixed])
+                    new_games_sp.append(game_with_odds_sp)
+
+                    game_with_odds_tot.extend(odds_dict_tot[date][away_fixed])
+                    game_with_odds_tot.extend(odds_dict_tot[date][home_fixed])
+                    new_games_tot.append(game_with_odds_tot)
+
+                    game_with_odds_ml.extend(odds_dict_ml[date][away_fixed])
+                    game_with_odds_ml.extend(odds_dict_ml[date][home_fixed])
+                    new_games_ml.append(game_with_odds_ml)
+                    
+                except Exception as e:
+                    print(e)
+                    #print(box_score_page)
+                    fail_count += 1
+                    time.sleep(random.randint(1, 5))
+                    if fail_count > 5:
+                        print("Too many failures, terminating...")
+                        games_df_sp = pd.DataFrame(new_games_sp)
+                        #games_df_sp.to_csv(out_path+"_sp.csv",header=header,index=False)
+                        games_df_tot = pd.DataFrame(new_games_tot)
+                        #games_df_tot.to_csv(out_path+"_tot.csv",header=header,index=False) 
+                        games_df_ml = pd.DataFrame(new_games_ml)
+                        #games_df_ml.to_csv(out_path+"_ml.csv",header=header,index=False) 
+                        return [games_df_sp,games_df_tot,games_df_ml]
+                    continue
+
+            games_df_sp = pd.DataFrame(new_games_sp)
+            games_df_tot = pd.DataFrame(new_games_tot)
+            games_df_ml = pd.DataFrame(new_games_ml)
+            try:
+                games_df_sp.to_csv(out_path+"_sp.csv",header=long_header,index=False)
+                games_df_tot.to_csv(out_path+"_tot.csv",header=long_header,index=False) 
+                games_df_ml.to_csv(out_path+"_ml.csv",header=short_header,index=False)
+
+                return [games_df_sp,games_df_tot,games_df_ml]
+            except Exception as e:
+                print(e)
+                return [games_df_sp,games_df_tot,games_df_ml]
 
     # populate team stats and on off stats for new season
     def pop_const_new(self,save_folder='../NBA/on_off_stats/'):
