@@ -12,6 +12,9 @@ import torch
 from sklearn.metrics import classification_report,confusion_matrix,make_scorer
 
 def calc_implied(home_line,away_line,log_home,log_away):
+    '''
+    Shops for lines
+    '''
     home_line_adj = home_line
     away_line_adj = away_line
     if home_line < 0:
@@ -46,8 +49,8 @@ def kelly(home_pred,away_pred,home_lines,away_lines,max_bet=100,diff_thresh=0.05
 
     `home_pred`: Prediction from MLP for home team
     `away_pred`: Prediction from MLP for away team
-    `home_line`: Moneyline for home team
-    `away_line`: Moneyline for away team
+    `home_lines`: List of moneylines for home team
+    `away_lines`: List of moneylines for away team
     `diff_thresh`: Minimum difference between prediction and implied odds
     `diff_cap`: Maximum difference between prediciton and implied odds
     `log_probs`: Boolean flag to use log probabilities instead of raw
@@ -67,28 +70,35 @@ def kelly(home_pred,away_pred,home_lines,away_lines,max_bet=100,diff_thresh=0.05
     away_line = None
     best_diff_home = -float("inf")
     best_diff_away = -float("inf")
+    best_home_ratio = 0
+    best_away_ratio = 0
 
     # find best lines for all given lines
+    # NOTE: 'best' is determined by the maximal diff_home or diff_away
     for i in range(len(home_lines)):
         # calculate ratio and implied
         diff_home,home_ratio,diff_away,away_ratio = calc_implied(home_lines[i],away_lines[i],log_home,log_away)
         
-        if diff_home > max_diff:
+        if diff_home > max_diff and diff_home > diff_thresh and diff_home < diff_cap:
             max_diff = diff_home
             home_line = home_lines[i]
             away_line = away_lines[i]
             best_diff_home = diff_home
             best_diff_away = diff_away
+            best_home_ratio = home_ratio
+            best_away_ratio = away_ratio
 
-        elif diff_away > max_diff:
+        if diff_away > max_diff and diff_away > diff_thresh and diff_away < diff_cap:
             max_diff = diff_home
             home_line = home_lines[i]
             away_line = away_lines[i]
             best_diff_home = diff_home
             best_diff_away = diff_away
+            best_home_ratio = home_ratio
+            best_away_ratio = away_ratio
 
-    kelly_home = log_home - (log_away/home_ratio)
-    kelly_away = log_away - (log_home/away_ratio)
+    kelly_home = log_home - (log_away/best_home_ratio)
+    kelly_away = log_away - (log_home/best_away_ratio)
 
     prob = 0
 
@@ -112,7 +122,7 @@ def kelly(home_pred,away_pred,home_lines,away_lines,max_bet=100,diff_thresh=0.05
 
     return bet_amount,to_win,prob
 
-def BNN_kelly(preds,actual,money_lines,one_hot=False,diff_thresh=0.05,diff_cap=0.25,log_probs=True):
+def BNN_kelly(preds,actual,money_lines,one_hot=False,diff_thresh=0.05,diff_cap=0.25,log_probs=True,line_shopping=False):
     money_made = 0
     money_risked = 0
     correct = 0
@@ -120,7 +130,9 @@ def BNN_kelly(preds,actual,money_lines,one_hot=False,diff_thresh=0.05,diff_cap=0
     team_bet = []
     amount = []
     gained = []
-    probs = []     
+    probs = []
+    num_houses = (len(money_lines[0]) - 5) / 2 # number of lines to shop from 
+
 
     for i in range(len(preds)):
         if one_hot:
@@ -129,10 +141,16 @@ def BNN_kelly(preds,actual,money_lines,one_hot=False,diff_thresh=0.05,diff_cap=0
         else:
             home_pred = preds[i]
             away_pred = 1 - home_pred
-        home_ml = money_lines[i][7]
-        away_ml = money_lines[i][10]
 
-        to_bet,to_win,prob = kelly(home_pred,away_pred,home_ml,away_ml,diff_thresh=diff_thresh,diff_cap=diff_cap,log_probs=log_probs)
+        if line_shopping:
+            # i=0 to i=4 game info, i=5 to end is betting
+            away_lines = money_lines[i][5:int(5+num_houses)]
+            home_lines = money_lines[i][int(5+num_houses):]
+        else:
+            away_lines = [money_lines[i][10]]
+            home_lines = [money_lines[i][7]]
+
+        to_bet,to_win,prob = kelly(home_pred,away_pred,home_lines,away_lines,diff_thresh=diff_thresh,diff_cap=diff_cap,log_probs=log_probs)
         probs.append(prob)
         money_risked += to_bet
 
@@ -235,7 +253,7 @@ def pred_performance(train_preds: Predictive,test_preds: Predictive,y_train: tor
 
 def make_bets(train_preds,test_preds,bet_data_train,bet_data_test,bet_samps_train,
               bet_samps_test,use_obs=True,use_ret=True,diff_thresh=0.05,diff_cap=0.25,
-              categorical=True,verbose=True,log_probs=True):
+              categorical=True,verbose=True,log_probs=True,line_shopping=False):
     
     '''
     Places bets using predictions made by a Pyro predictive object using the kelly critereon
@@ -253,10 +271,21 @@ def make_bets(train_preds,test_preds,bet_data_train,bet_data_test,bet_samps_trai
     `categorical`: Boolean flag to determine whether samples are categorical
     `verbose`: Boolean flag to print bets
     `log_probs`: Boolean flag to use log probabilities instead of raw
+    `line_shopping`: Boolean flag to shop for lines
 
     Returns:
-    obs_train,obs_test,ret_train,ret_test
+    obs_train,obs_test,ret_train,ret_test,obs_info,ret_info
     '''
+
+    ret_info = {
+        'train': [],
+        'test': []
+    }
+
+    obs_info = {
+        'train': [],
+        'test': []
+    }
     
     if use_obs == False and use_ret == False:
         print('ERROR: set "use_obs" or "use_ret" to True')
@@ -277,7 +306,7 @@ def make_bets(train_preds,test_preds,bet_data_train,bet_data_test,bet_samps_trai
         else:
             new_y_pred = train_preds['obs'].float().mean(axis=0)
 
-        correct,guessed,team_bet,probs,amount,gained = BNN_kelly(new_y_pred,bet_samps_train_1d,bet_data_train[1:],one_hot=True,diff_thresh=diff_thresh,diff_cap=diff_cap,log_probs=log_probs)
+        correct,guessed,team_bet,probs,amount,gained = BNN_kelly(new_y_pred,bet_samps_train_1d,bet_data_train[1:],one_hot=True,diff_thresh=diff_thresh,diff_cap=diff_cap,log_probs=log_probs,line_shopping=line_shopping)
         if verbose:
             print('Using OBS:')
             print(f'max confidence: {new_y_pred.max():.2f}')
@@ -285,13 +314,15 @@ def make_bets(train_preds,test_preds,bet_data_train,bet_data_test,bet_samps_trai
             print(f'guessed: {guessed}')
             print(f'risked: {sum(amount)}')
             print(f'made: {sum(gained)}')
-            print(f'ROI: {(sum(gained)/sum(amount)):.2f}\n')
-        obs_train = (sum(gained)/sum(amount))
+            roi = sum(gained)/sum(amount) if sum(amount) > 0 else 0
+            print(f'ROI: {(roi):.2f}\n')
+        obs_train = (sum(gained)/sum(amount)) if sum(amount) > 0 else 0
+        obs_info['train'] = [correct,guessed,team_bet,probs,amount,gained]
 
     
     if use_ret:
         new_y_pred = train_preds['_RETURN'].float().mean(axis=0)
-        correct,guessed,team_bet,probs,amount,gained = BNN_kelly(new_y_pred,bet_samps_train_1d,bet_data_train[1:],one_hot=True,diff_thresh=diff_thresh,diff_cap=diff_cap,log_probs=log_probs)
+        correct,guessed,team_bet,probs,amount,gained = BNN_kelly(new_y_pred,bet_samps_train_1d,bet_data_train[1:],one_hot=True,diff_thresh=diff_thresh,diff_cap=diff_cap,log_probs=log_probs,line_shopping=line_shopping)
         if verbose:
             print('Using RET:')
             print(f'max confidence: {new_y_pred.max():.2f}')
@@ -299,8 +330,10 @@ def make_bets(train_preds,test_preds,bet_data_train,bet_data_test,bet_samps_trai
             print(f'guessed: {guessed}')
             print(f'risked: {sum(amount)}')
             print(f'made: {sum(gained)}')
-            print(f'ROI: {(sum(gained)/sum(amount)):.2f}\n')
-        ret_train = (sum(gained)/sum(amount))
+            roi = sum(gained)/sum(amount) if sum(amount) > 0 else 0
+            print(f'ROI: {(roi):.2f}\n')
+        ret_train = (sum(gained)/sum(amount)) if sum(amount) > 0 else 0
+        ret_info['train'] = [correct,guessed,team_bet,probs,amount,gained]
 
     if verbose:
         print('PREDICTIONS ON 2023-2024 DATA (UNSEEN)')
@@ -310,7 +343,7 @@ def make_bets(train_preds,test_preds,bet_data_train,bet_data_test,bet_samps_trai
         else:
             new_y_pred = test_preds['obs'].float().mean(axis=0)
             
-        correct,guessed,team_bet,probs,amount,gained = BNN_kelly(new_y_pred,bet_samps_test_1d,bet_data_test[1:],one_hot=True,diff_thresh=diff_thresh,diff_cap=diff_cap,log_probs=log_probs)
+        correct,guessed,team_bet,probs,amount,gained = BNN_kelly(new_y_pred,bet_samps_test_1d,bet_data_test[1:],one_hot=True,diff_thresh=diff_thresh,diff_cap=diff_cap,log_probs=log_probs,line_shopping=line_shopping)
         if verbose:
             print('Using OBS:')
             print(f'max confidence: {new_y_pred.max():.2f}')
@@ -318,12 +351,14 @@ def make_bets(train_preds,test_preds,bet_data_train,bet_data_test,bet_samps_trai
             print(f'guessed: {guessed}')
             print(f'risked: {sum(amount)}')
             print(f'made: {sum(gained)}')
-            print(f'ROI: {(sum(gained)/sum(amount)):.2f}\n')
-        obs_test = (sum(gained)/sum(amount))
+            roi = sum(gained)/sum(amount) if sum(amount) > 0 else 0
+            print(f'ROI: {(roi):.2f}\n')
+        obs_test = (sum(gained)/sum(amount)) if sum(amount) > 0 else 0
+        obs_info['test'] = [correct,guessed,team_bet,probs,amount,gained]
 
     if use_ret:
         new_y_pred = test_preds['_RETURN'].float().mean(axis=0)
-        correct,guessed,team_bet,probs,amount,gained = BNN_kelly(new_y_pred,bet_samps_test_1d,bet_data_test[1:],one_hot=True,diff_thresh=diff_thresh,diff_cap=diff_cap,log_probs=log_probs)
+        correct,guessed,team_bet,probs,amount,gained = BNN_kelly(new_y_pred,bet_samps_test_1d,bet_data_test[1:],one_hot=True,diff_thresh=diff_thresh,diff_cap=diff_cap,log_probs=log_probs,line_shopping=line_shopping)
         if verbose:
             print('Using RET:')
             print(f'max confidence: {new_y_pred.max():.2f}')
@@ -331,7 +366,9 @@ def make_bets(train_preds,test_preds,bet_data_train,bet_data_test,bet_samps_trai
             print(f'guessed: {guessed}')
             print(f'risked: {sum(amount)}')
             print(f'made: {sum(gained)}')
-            print(f'ROI: {(sum(gained)/sum(amount)):.2f}\n')
-        ret_test = (sum(gained)/sum(amount))
+            roi = sum(gained)/sum(amount) if sum(amount) > 0 else 0
+            print(f'ROI: {(roi):.2f}\n')
+        ret_test = (sum(gained)/sum(amount)) if sum(amount) > 0 else 0
+        ret_info['test'] = [correct,guessed,team_bet,probs,amount,gained]
 
-    return obs_train,obs_test,ret_train,ret_test
+    return obs_train,obs_test,ret_train,ret_test,obs_info,ret_info
