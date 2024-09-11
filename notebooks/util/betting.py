@@ -73,37 +73,26 @@ def kelly(home_pred,away_pred,home_lines,away_lines,max_bet=100,diff_thresh=0.05
     best_home_ratio = 0
     best_away_ratio = 0
 
-    # find best lines for all given lines
-    # NOTE: 'best' is determined by the maximal diff_home or diff_away
-    for i in range(len(home_lines)):
-        # calculate ratio and implied
-        diff_home,home_ratio,diff_away,away_ratio = calc_implied(home_lines[i],away_lines[i],log_home,log_away)
-        
-        if diff_home > max_diff and diff_home > diff_thresh and diff_home < diff_cap:
-            max_diff = diff_home
-            home_line = home_lines[i]
-            away_line = away_lines[i]
-            best_diff_home = diff_home
-            best_diff_away = diff_away
-            best_home_ratio = home_ratio
-            best_away_ratio = away_ratio
 
-        if diff_away > max_diff and diff_away > diff_thresh and diff_away < diff_cap:
-            max_diff = diff_home
-            home_line = home_lines[i]
-            away_line = away_lines[i]
-            best_diff_home = diff_home
-            best_diff_away = diff_away
-            best_home_ratio = home_ratio
-            best_away_ratio = away_ratio
-
-    kelly_home = log_home - (log_away/best_home_ratio)
-    kelly_away = log_away - (log_home/best_away_ratio)
+    # use consesus pick to determine whether to bet on a game
+    consesus_home = home_lines[-1]
+    consesus_away = away_lines[-1]
+    diff_home,home_ratio,diff_away,away_ratio = calc_implied(consesus_home,consesus_away,log_home,log_away)
 
     prob = 0
 
-    # make bets, negative if away team bet
-    if best_diff_home > best_diff_away and best_diff_home > diff_thresh and best_diff_home < diff_cap:
+    if diff_home > diff_away and diff_home > diff_thresh and diff_home < diff_cap:
+        max_home = -float('inf')
+        for i in range(1,len(home_lines)):
+            if home_lines[i] > max_home: # choose line which maximizes return
+                max_home = home_lines[i]
+                home_line = home_lines[i]
+                away_line = away_lines[i]
+
+        best_diff_home,best_home_ratio,best_diff_away,best_away_ratio = calc_implied(home_line,away_line,log_home,log_away)
+        kelly_home = log_home - (log_away/best_home_ratio)
+        kelly_away = log_away - (log_home/best_away_ratio)
+
         bet_amount = (max_bet*kelly_home)
         if home_line < 0:
             to_win = bet_amount/((home_line*-1)/100)
@@ -112,12 +101,23 @@ def kelly(home_pred,away_pred,home_lines,away_lines,max_bet=100,diff_thresh=0.05
         prob = home_pred
 
     
-    elif best_diff_away > best_diff_home and best_diff_away > diff_thresh and best_diff_away < diff_cap:
+    elif diff_away > diff_home and diff_away > diff_thresh and diff_away < diff_cap:
+        max_away = -float('inf')
+        for i in range(1,len(away_lines)):
+            if away_lines[i] > max_away: # choose line which maximizes return
+                max_away = away_lines[i]
+                home_line = home_lines[i]
+                away_line = away_lines[i]
+
+        best_diff_home,best_home_ratio,best_diff_away,best_away_ratio = calc_implied(home_line,away_line,log_home,log_away)
+        kelly_home = log_home - (log_away/best_home_ratio)
+        kelly_away = log_away - (log_home/best_away_ratio)
+
         bet_amount = (max_bet*kelly_away)
         if away_line < 0:
-            to_win = -1*bet_amount/((away_line*-1)/100)
+            to_win = bet_amount/((away_line*-1)/100)
         else:
-            to_win = -1*bet_amount/((away_line)/100)
+            to_win = bet_amount/((away_line)/100)
         prob = away_pred
 
     return bet_amount,to_win,prob
