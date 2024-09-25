@@ -1,0 +1,1320 @@
+date,away_team,away_pt,home_team,home_pt,away_line,home_line
+Tue Oct 29 2013,Orlando Magic,87,Indiana Pacers,97,+714,-1003
+Tue Oct 29 2013,Chicago Bulls,95,Miami Heat,107,+181,-218
+Tue Oct 29 2013,Los Angeles Clippers,103,Los Angeles Lakers,116,-572,+436
+Wed Oct 30 2013,Brooklyn Nets,94,Cleveland Cavaliers,98,-155,+136
+Wed Oct 30 2013,Boston Celtics,87,Toronto Raptors,93,+304,-370
+Wed Oct 30 2013,Miami Heat,110,Philadelphia 76ers,114,-675,+504
+Wed Oct 30 2013,Washington Wizards,102,Detroit Pistons,113,+121,-139
+Wed Oct 30 2013,Milwaukee Bucks,83,New York Knicks,90,+295,-363
+Wed Oct 30 2013,Indiana Pacers,95,New Orleans Pelicans,90,+101,-116
+Wed Oct 30 2013,Orlando Magic,115,Minnesota Timberwolves,120,+512,-672
+Wed Oct 30 2013,Charlotte Bobcats,83,Houston Rockets,96,,-1704
+Wed Oct 30 2013,Memphis Grizzlies,94,San Antonio Spurs,101,+212,-250
+Wed Oct 30 2013,Atlanta Hawks,109,Dallas Mavericks,118,+205,-242
+Wed Oct 30 2013,Oklahoma City Thunder,101,Utah Jazz,98,-270,+230
+Wed Oct 30 2013,Portland Trail Blazers,91,Phoenix Suns,104,-218,+183
+Wed Oct 30 2013,Denver Nuggets,88,Sacramento Kings,90,+121,-141
+Wed Oct 30 2013,Los Angeles Lakers,94,Golden State Warriors,125,+715,-1008
+Thu Oct 31 2013,New York Knicks,81,Chicago Bulls,82,+281,-338
+Thu Oct 31 2013,Golden State Warriors,115,Los Angeles Clippers,126,+209,-247
+Fri Nov 1 2013,Cleveland Cavaliers,84,Charlotte Bobcats,90,-166,
+Fri Nov 1 2013,New Orleans Pelicans,90,Orlando Magic,110,-176,+154
+Fri Nov 1 2013,Philadelphia 76ers,109,Washington Wizards,102,+401,-512
+Fri Nov 1 2013,Toronto Raptors,95,Atlanta Hawks,102,+140,-160
+Fri Nov 1 2013,Milwaukee Bucks,105,Boston Celtics,98,+117,-137
+Fri Nov 1 2013,Miami Heat,100,Brooklyn Nets,101,-176,+154
+Fri Nov 1 2013,Dallas Mavericks,105,Houston Rockets,113,+234,-278
+Fri Nov 1 2013,Detroit Pistons,108,Memphis Grizzlies,111,+275,-330
+Fri Nov 1 2013,Oklahoma City Thunder,81,Minnesota Timberwolves,100,+113,-131
+Fri Nov 1 2013,Portland Trail Blazers,113,Denver Nuggets,98,+164,-190
+Fri Nov 1 2013,Utah Jazz,84,Phoenix Suns,87,+135,-154
+Fri Nov 1 2013,Los Angeles Clippers,110,Sacramento Kings,101,-167,+146
+Fri Nov 1 2013,San Antonio Spurs,91,Los Angeles Lakers,85,-336,+276
+Sat Nov 2 2013,Cleveland Cavaliers,74,Indiana Pacers,89,+314,-392
+Sat Nov 2 2013,Chicago Bulls,104,Philadelphia 76ers,107,-481,+374
+Sat Nov 2 2013,Charlotte Bobcats,84,New Orleans Pelicans,105,,-423
+Sat Nov 2 2013,Memphis Grizzlies,99,Dallas Mavericks,111,+131,-152
+Sat Nov 2 2013,Toronto Raptors,97,Milwaukee Bucks,90,-117,+100
+Sat Nov 2 2013,Houston Rockets,104,Utah Jazz,93,-257,+216
+Sat Nov 2 2013,San Antonio Spurs,105,Portland Trail Blazers,115,-139,+120
+Sat Nov 2 2013,Sacramento Kings,87,Golden State Warriors,98,+550,-750
+Sun Nov 3 2013,Boston Celtics,77,Detroit Pistons,87,+401,-509
+Sun Nov 3 2013,Washington Wizards,93,Miami Heat,103,+927,-1409
+Sun Nov 3 2013,Brooklyn Nets,86,Orlando Magic,107,-244,+207
+Sun Nov 3 2013,Phoenix Suns,96,Oklahoma City Thunder,103,+859,-1322
+Sun Nov 3 2013,Minnesota Timberwolves,109,New York Knicks,100,+137,-155
+Sun Nov 3 2013,Atlanta Hawks,103,Los Angeles Lakers,105,-112,-108
+Mon Nov 4 2013,Minnesota Timberwolves,92,Cleveland Cavaliers,93,+107,-126
+Mon Nov 4 2013,Golden State Warriors,110,Philadelphia 76ers,90,-278,+236
+Mon Nov 4 2013,Boston Celtics,88,Memphis Grizzlies,95,+680,-942
+Mon Nov 4 2013,Houston Rockets,118,Los Angeles Clippers,137,+177,-209
+Tue Nov 5 2013,Miami Heat,104,Toronto Raptors,95,-215,+181
+Tue Nov 5 2013,Utah Jazz,88,Brooklyn Nets,104,+450,-590
+Tue Nov 5 2013,Indiana Pacers,99,Detroit Pistons,91,-112,-106
+Tue Nov 5 2013,Charlotte Bobcats,102,New York Knicks,97,,-538
+Tue Nov 5 2013,Phoenix Suns,104,New Orleans Pelicans,98,+416,-532
+Tue Nov 5 2013,Los Angeles Lakers,104,Dallas Mavericks,123,+359,-452
+Tue Nov 5 2013,San Antonio Spurs,102,Denver Nuggets,94,-199,+171
+Tue Nov 5 2013,Houston Rockets,116,Portland Trail Blazers,101,+118,-137
+Tue Nov 5 2013,Atlanta Hawks,105,Sacramento Kings,100,+117,-135
+Wed Nov 6 2013,Toronto Raptors,90,Charlotte Bobcats,92,-138,
+Wed Nov 6 2013,Chicago Bulls,80,Indiana Pacers,97,+113,-131
+Wed Nov 6 2013,Los Angeles Clippers,90,Orlando Magic,98,-291,+242
+Wed Nov 6 2013,Washington Wizards,116,Philadelphia 76ers,102,-144,+125
+Wed Nov 6 2013,Utah Jazz,87,Boston Celtics,97,+164,-189
+Wed Nov 6 2013,New Orleans Pelicans,99,Memphis Grizzlies,84,+257,-309
+Wed Nov 6 2013,Cleveland Cavaliers,104,Milwaukee Bucks,109,-149,+130
+Wed Nov 6 2013,Golden State Warriors,106,Minnesota Timberwolves,93,-107,-112
+Wed Nov 6 2013,Phoenix Suns,96,San Antonio Spurs,99,+913,-1400
+Wed Nov 6 2013,Dallas Mavericks,93,Oklahoma City Thunder,107,+249,-300
+Thu Nov 7 2013,Los Angeles Clippers,97,Miami Heat,102,+226,-266
+Thu Nov 7 2013,Atlanta Hawks,107,Denver Nuggets,109,+174,-207
+Thu Nov 7 2013,Los Angeles Lakers,99,Houston Rockets,98,+1030,-1650
+Fri Nov 8 2013,New York Knicks,101,Charlotte Bobcats,91,-156,
+Fri Nov 8 2013,Toronto Raptors,84,Indiana Pacers,91,+328,-412
+Fri Nov 8 2013,Boston Celtics,91,Orlando Magic,89,+191,-227
+Fri Nov 8 2013,Cleveland Cavaliers,79,Philadelphia 76ers,94,-155,+135
+Fri Nov 8 2013,Brooklyn Nets,108,Washington Wizards,112,-125,+107
+Fri Nov 8 2013,Oklahoma City Thunder,119,Detroit Pistons,110,-156,+136
+Fri Nov 8 2013,Utah Jazz,73,Chicago Bulls,97,+762,-1108
+Fri Nov 8 2013,Dallas Mavericks,108,Minnesota Timberwolves,116,+158,-180
+Fri Nov 8 2013,Los Angeles Lakers,85,New Orleans Pelicans,96,+402,-515
+Fri Nov 8 2013,Golden State Warriors,74,San Antonio Spurs,76,+200,-237
+Fri Nov 8 2013,Denver Nuggets,103,Phoenix Suns,114,+107,-126
+Fri Nov 8 2013,Sacramento Kings,91,Portland Trail Blazers,104,+285,-350
+Sat Nov 9 2013,Utah Jazz,91,Toronto Raptors,115,+355,-447
+Sat Nov 9 2013,Orlando Magic,94,Atlanta Hawks,104,+229,-272
+Sat Nov 9 2013,Indiana Pacers,96,Brooklyn Nets,91,-110,-108
+Sat Nov 9 2013,Philadelphia 76ers,125,Cleveland Cavaliers,127,+307,-377
+Sat Nov 9 2013,Boston Celtics,111,Miami Heat,110,+982,-1492
+Sat Nov 9 2013,Los Angeles Clippers,107,Houston Rockets,94,+130,-149
+Sat Nov 9 2013,Golden State Warriors,90,Memphis Grizzlies,108,+110,-128
+Sat Nov 9 2013,Dallas Mavericks,91,Milwaukee Bucks,83,-151,+132
+Sat Nov 9 2013,Portland Trail Blazers,96,Sacramento Kings,85,+110,-129
+Sun Nov 10 2013,San Antonio Spurs,120,New York Knicks,89,-147,+130
+Sun Nov 10 2013,Washington Wizards,105,Oklahoma City Thunder,106,+351,-442
+Sun Nov 10 2013,New Orleans Pelicans,94,Phoenix Suns,101,-130,+111
+Sun Nov 10 2013,Minnesota Timberwolves,113,Los Angeles Lakers,90,-186,+163
+Mon Nov 11 2013,Atlanta Hawks,103,Charlotte Bobcats,94,-126,
+Mon Nov 11 2013,Memphis Grizzlies,79,Indiana Pacers,95,+230,-272
+Mon Nov 11 2013,San Antonio Spurs,109,Philadelphia 76ers,85,-275,+233
+Mon Nov 11 2013,Orlando Magic,105,Boston Celtics,120,+105,-124
+Mon Nov 11 2013,Cleveland Cavaliers,81,Chicago Bulls,96,+312,-386
+Mon Nov 11 2013,Toronto Raptors,104,Houston Rockets,110,+247,-297
+Mon Nov 11 2013,Denver Nuggets,100,Utah Jazz,81,-133,+114
+Mon Nov 11 2013,Detroit Pistons,103,Portland Trail Blazers,109,+169,-195
+Mon Nov 11 2013,Minnesota Timberwolves,107,Los Angeles Clippers,109,+224,-264
+Tue Nov 12 2013,Milwaukee Bucks,95,Miami Heat,118,+1071,-1734
+Tue Nov 12 2013,Washington Wizards,95,Dallas Mavericks,105,+190,-225
+Tue Nov 12 2013,Detroit Pistons,95,Golden State Warriors,113,+363,-460
+Tue Nov 12 2013,New Orleans Pelicans,95,Los Angeles Lakers,116,-159,+138
+Wed Nov 13 2013,Milwaukee Bucks,91,Orlando Magic,94,+259,-312
+Wed Nov 13 2013,Houston Rockets,117,Philadelphia 76ers,123,-252,+214
+Wed Nov 13 2013,Charlotte Bobcats,89,Boston Celtics,83,,-225
+Wed Nov 13 2013,New York Knicks,95,Atlanta Hawks,91,+161,-181
+Wed Nov 13 2013,Toronto Raptors,103,Memphis Grizzlies,87,+199,-236
+Wed Nov 13 2013,Cleveland Cavaliers,95,Minnesota Timberwolves,124,+307,-378
+Wed Nov 13 2013,Washington Wizards,79,San Antonio Spurs,92,+493,-660
+Wed Nov 13 2013,Los Angeles Lakers,99,Denver Nuggets,111,+391,-499
+Wed Nov 13 2013,New Orleans Pelicans,105,Utah Jazz,111,-143,+124
+Wed Nov 13 2013,Phoenix Suns,89,Portland Trail Blazers,90,+256,-309
+Wed Nov 13 2013,Brooklyn Nets,86,Sacramento Kings,107,-169,+149
+Wed Nov 13 2013,Oklahoma City Thunder,103,Los Angeles Clippers,111,+162,-187
+Thu Nov 14 2013,Houston Rockets,109,New York Knicks,106,-115,+104
+Thu Nov 14 2013,Oklahoma City Thunder,115,Golden State Warriors,116,+170,-198
+Fri Nov 15 2013,Milwaukee Bucks,77,Indiana Pacers,104,+1250,-2229
+Fri Nov 15 2013,Chicago Bulls,96,Toronto Raptors,80,+104,-123
+Fri Nov 15 2013,Philadelphia 76ers,103,Atlanta Hawks,113,+328,-413
+Fri Nov 15 2013,Portland Trail Blazers,109,Boston Celtics,96,-124,+106
+Fri Nov 15 2013,Charlotte Bobcats,86,Cleveland Cavaliers,80,,-250
+Fri Nov 15 2013,Dallas Mavericks,104,Miami Heat,110,+324,-404
+Fri Nov 15 2013,Minnesota Timberwolves,113,Denver Nuggets,117,-132,+114
+Fri Nov 15 2013,Brooklyn Nets,100,Phoenix Suns,98,-111,-109
+Fri Nov 15 2013,San Antonio Spurs,91,Utah Jazz,82,-590,+450
+Fri Nov 15 2013,Memphis Grizzlies,89,Los Angeles Lakers,86,-153,+134
+Fri Nov 15 2013,Detroit Pistons,97,Sacramento Kings,90,+110,-128
+Sat Nov 16 2013,Miami Heat,97,Charlotte Bobcats,81,-402,
+Sat Nov 16 2013,Dallas Mavericks,108,Orlando Magic,100,-141,+122
+Sat Nov 16 2013,Cleveland Cavaliers,103,Washington Wizards,96,+284,-346
+Sat Nov 16 2013,Atlanta Hawks,110,New York Knicks,90,+157,-177
+Sat Nov 16 2013,Indiana Pacers,94,Chicago Bulls,110,+105,-121
+Sat Nov 16 2013,Denver Nuggets,111,Houston Rockets,122,+319,-394
+Sat Nov 16 2013,Boston Celtics,88,Minnesota Timberwolves,106,+427,-548
+Sat Nov 16 2013,Philadelphia 76ers,98,New Orleans Pelicans,135,+342,-430
+Sat Nov 16 2013,Oklahoma City Thunder,92,Milwaukee Bucks,79,-679,+515
+Sat Nov 16 2013,Utah Jazz,88,Golden State Warriors,102,+1629,-3046
+Sat Nov 16 2013,Brooklyn Nets,103,Los Angeles Clippers,110,+734,-1079
+Sun Nov 17 2013,Portland Trail Blazers,118,Toronto Raptors,110,+112,-131
+Sun Nov 17 2013,Memphis Grizzlies,97,Sacramento Kings,86,-142,+123
+Sun Nov 17 2013,Detroit Pistons,99,Los Angeles Lakers,114,-137,+119
+Mon Nov 18 2013,Portland Trail Blazers,108,Brooklyn Nets,98,+108,-127
+Mon Nov 18 2013,Charlotte Bobcats,81,Chicago Bulls,86,,-1137
+Mon Nov 18 2013,Denver Nuggets,113,Oklahoma City Thunder,115,+385,-492
+Mon Nov 18 2013,Philadelphia 76ers,94,Dallas Mavericks,97,+653,-900
+Mon Nov 18 2013,Golden State Warriors,98,Utah Jazz,87,-373,+303
+Mon Nov 18 2013,Memphis Grizzlies,106,Los Angeles Clippers,102,+352,-442
+Tue Nov 19 2013,Minnesota Timberwolves,100,Washington Wizards,104,-166,+145
+Tue Nov 19 2013,New York Knicks,86,Detroit Pistons,92,+151,-170
+Tue Nov 19 2013,Atlanta Hawks,88,Miami Heat,104,+354,-443
+Tue Nov 19 2013,Boston Celtics,85,Houston Rockets,109,+513,-663
+Tue Nov 19 2013,Phoenix Suns,104,Sacramento Kings,107,+139,-159
+Wed Nov 20 2013,Brooklyn Nets,91,Charlotte Bobcats,95,-146,
+Wed Nov 20 2013,Washington Wizards,98,Cleveland Cavaliers,91,+131,-150
+Wed Nov 20 2013,Indiana Pacers,103,New York Knicks,96,-255,+221
+Wed Nov 20 2013,Miami Heat,120,Orlando Magic,92,-315,+260
+Wed Nov 20 2013,Toronto Raptors,108,Philadelphia 76ers,98,-185,+162
+Wed Nov 20 2013,Detroit Pistons,85,Atlanta Hawks,93,+192,-228
+Wed Nov 20 2013,Portland Trail Blazers,91,Milwaukee Bucks,82,-217,+183
+Wed Nov 20 2013,Los Angeles Clippers,102,Minnesota Timberwolves,98,+109,-128
+Wed Nov 20 2013,Utah Jazz,98,New Orleans Pelicans,105,+531,-710
+Wed Nov 20 2013,Boston Celtics,93,San Antonio Spurs,104,+1375,-2500
+Wed Nov 20 2013,Sacramento Kings,113,Phoenix Suns,106,+195,-230
+Wed Nov 20 2013,Houston Rockets,120,Dallas Mavericks,123,+120,-138
+Wed Nov 20 2013,Memphis Grizzlies,88,Golden State Warriors,81,+177,-207
+Thu Nov 21 2013,Los Angeles Clippers,91,Oklahoma City Thunder,105,+199,-236
+Thu Nov 21 2013,Chicago Bulls,87,Denver Nuggets,97,-119,+102
+Fri Nov 22 2013,Phoenix Suns,98,Charlotte Bobcats,91,+142,
+Fri Nov 22 2013,Milwaukee Bucks,107,Philadelphia 76ers,115,+130,-149
+Fri Nov 22 2013,Washington Wizards,88,Toronto Raptors,96,+165,-190
+Fri Nov 22 2013,Indiana Pacers,97,Boston Celtics,82,-342,+281
+Fri Nov 22 2013,Atlanta Hawks,96,Detroit Pistons,89,+148,-168
+Fri Nov 22 2013,San Antonio Spurs,102,Memphis Grizzlies,86,-117,+100
+Fri Nov 22 2013,Brooklyn Nets,81,Minnesota Timberwolves,111,+362,-459
+Fri Nov 22 2013,Cleveland Cavaliers,100,New Orleans Pelicans,104,+248,-294
+Fri Nov 22 2013,Utah Jazz,93,Dallas Mavericks,103,+500,-654
+Fri Nov 22 2013,Chicago Bulls,95,Portland Trail Blazers,98,+153,-174
+Fri Nov 22 2013,Golden State Warriors,95,Los Angeles Lakers,102,-201,+172
+Sat Nov 23 2013,Sacramento Kings,102,Los Angeles Clippers,103,+511,-687
+Sat Nov 23 2013,Philadelphia 76ers,98,Indiana Pacers,106,+1495,-2767
+Sat Nov 23 2013,New York Knicks,89,Washington Wizards,98,+109,-120
+Sat Nov 23 2013,Boston Celtics,94,Atlanta Hawks,87,+380,-481
+Sat Nov 23 2013,Orlando Magic,99,Miami Heat,101,+926,-1436
+Sat Nov 23 2013,Minnesota Timberwolves,101,Houston Rockets,112,+214,-253
+Sat Nov 23 2013,Charlotte Bobcats,96,Milwaukee Bucks,72,,-135
+Sat Nov 23 2013,Cleveland Cavaliers,96,San Antonio Spurs,126,+855,-1273
+Sat Nov 23 2013,Dallas Mavericks,100,Denver Nuggets,102,+178,-210
+Sat Nov 23 2013,Portland Trail Blazers,113,Golden State Warriors,101,+170,-197
+Sun Nov 24 2013,Detroit Pistons,109,Brooklyn Nets,97,+111,-129
+Sun Nov 24 2013,Chicago Bulls,82,Los Angeles Clippers,121,+233,-273
+Sun Nov 24 2013,Phoenix Suns,104,Orlando Magic,96,+113,-131
+Sun Nov 24 2013,Utah Jazz,73,Oklahoma City Thunder,95,+925,-1477
+Sun Nov 24 2013,Sacramento Kings,86,Los Angeles Lakers,100,+162,-186
+Mon Nov 25 2013,Boston Celtics,96,Charlotte Bobcats,86,+136,
+Mon Nov 25 2013,Minnesota Timberwolves,84,Indiana Pacers,98,+236,-279
+Mon Nov 25 2013,Milwaukee Bucks,94,Detroit Pistons,113,+258,-316
+Mon Nov 25 2013,Phoenix Suns,92,Miami Heat,107,+820,-1218
+Mon Nov 25 2013,Houston Rockets,93,Memphis Grizzlies,86,-117,+100
+Mon Nov 25 2013,Denver Nuggets,110,Dallas Mavericks,96,+226,-267
+Mon Nov 25 2013,New Orleans Pelicans,93,San Antonio Spurs,112,+423,-544
+Mon Nov 25 2013,Chicago Bulls,83,Utah Jazz,89,-193,+165
+Mon Nov 25 2013,New York Knicks,91,Portland Trail Blazers,102,+254,-300
+Tue Nov 26 2013,Brooklyn Nets,102,Toronto Raptors,100,+243,-288
+Tue Nov 26 2013,Los Angeles Lakers,111,Washington Wizards,116,+186,-223
+Tue Nov 26 2013,Orlando Magic,109,Atlanta Hawks,92,+264,-321
+Tue Nov 26 2013,Golden State Warriors,102,New Orleans Pelicans,101,-116,-104
+Wed Nov 27 2013,Indiana Pacers,99,Charlotte Bobcats,74,-333,
+Wed Nov 27 2013,Philadelphia 76ers,94,Orlando Magic,105,+154,-174
+Wed Nov 27 2013,Memphis Grizzlies,100,Boston Celtics,93,-129,+110
+Wed Nov 27 2013,Los Angeles Lakers,99,Brooklyn Nets,94,+115,-134
+Wed Nov 27 2013,Miami Heat,95,Cleveland Cavaliers,84,-470,+366
+Wed Nov 27 2013,Chicago Bulls,99,Detroit Pistons,79,+142,-162
+Wed Nov 27 2013,Atlanta Hawks,84,Houston Rockets,113,+310,-379
+Wed Nov 27 2013,Washington Wizards,100,Milwaukee Bucks,92,-139,+121
+Wed Nov 27 2013,Denver Nuggets,117,Minnesota Timberwolves,110,+247,-297
+Wed Nov 27 2013,San Antonio Spurs,88,Oklahoma City Thunder,94,+129,-148
+Wed Nov 27 2013,Golden State Warriors,99,Dallas Mavericks,103,+165,-191
+Wed Nov 27 2013,Portland Trail Blazers,106,Phoenix Suns,120,-174,+154
+Wed Nov 27 2013,New York Knicks,80,Los Angeles Clippers,93,+438,-585
+Fri Nov 29 2013,Milwaukee Bucks,76,Charlotte Bobcats,92,+176,
+Fri Nov 29 2013,San Antonio Spurs,109,Orlando Magic,91,-494,+389
+Fri Nov 29 2013,Miami Heat,90,Toronto Raptors,83,-255,+218
+Fri Nov 29 2013,Dallas Mavericks,87,Atlanta Hawks,88,-121,+104
+Fri Nov 29 2013,Cleveland Cavaliers,86,Boston Celtics,103,+150,-171
+Fri Nov 29 2013,Los Angeles Lakers,106,Detroit Pistons,102,+193,-230
+Fri Nov 29 2013,Brooklyn Nets,95,Houston Rockets,114,+502,-663
+Fri Nov 29 2013,Washington Wizards,73,Indiana Pacers,93,+507,-666
+Fri Nov 29 2013,Golden State Warriors,112,Oklahoma City Thunder,113,+272,-331
+Fri Nov 29 2013,New Orleans Pelicans,121,Philadelphia 76ers,105,-168,+148
+Fri Nov 29 2013,New York Knicks,95,Denver Nuggets,97,+312,-390
+Fri Nov 29 2013,Phoenix Suns,112,Utah Jazz,101,-131,+112
+Fri Nov 29 2013,Los Angeles Clippers,104,Sacramento Kings,98,-141,+122
+Sat Nov 30 2013,Atlanta Hawks,101,Washington Wizards,108,+160,-182
+Sat Nov 30 2013,Chicago Bulls,93,Cleveland Cavaliers,97,-204,+173
+Sat Nov 30 2013,Brooklyn Nets,97,Memphis Grizzlies,88,+272,-331
+Sat Nov 30 2013,Minnesota Timberwolves,112,Dallas Mavericks,106,-129,+110
+Sat Nov 30 2013,Houston Rockets,112,San Antonio Spurs,106,+232,-275
+Sat Nov 30 2013,Boston Celtics,85,Milwaukee Bucks,92,-141,+122
+Sat Nov 30 2013,Utah Jazz,112,Phoenix Suns,104,+355,-446
+Sun Dec 1 2013,Denver Nuggets,112,Toronto Raptors,98,+114,-132
+Sun Dec 1 2013,Philadelphia 76ers,100,Detroit Pistons,115,+309,-379
+Sun Dec 1 2013,Indiana Pacers,105,Los Angeles Clippers,100,-119,+102
+Sun Dec 1 2013,Charlotte Bobcats,98,Miami Heat,99,,-888
+Sun Dec 1 2013,Golden State Warriors,115,Sacramento Kings,113,-187,+163
+Sun Dec 1 2013,Minnesota Timberwolves,103,Oklahoma City Thunder,113,+332,-416
+Sun Dec 1 2013,New Orleans Pelicans,103,New York Knicks,99,+103,-114
+Sun Dec 1 2013,Portland Trail Blazers,114,Los Angeles Lakers,108,-168,+148
+Mon Dec 2 2013,Orlando Magic,80,Washington Wizards,98,+236,-278
+Mon Dec 2 2013,New Orleans Pelicans,131,Chicago Bulls,128,+255,-307
+Mon Dec 2 2013,Atlanta Hawks,100,San Antonio Spurs,102,+730,-1048
+Mon Dec 2 2013,Houston Rockets,103,Utah Jazz,109,-358,+291
+Mon Dec 2 2013,Indiana Pacers,102,Portland Trail Blazers,106,-119,+101
+Tue Dec 3 2013,Orlando Magic,125,Philadelphia 76ers,126,+156,-176
+Tue Dec 3 2013,Milwaukee Bucks,100,Boston Celtics,108,+269,-328
+Tue Dec 3 2013,Denver Nuggets,111,Brooklyn Nets,87,-184,+162
+Tue Dec 3 2013,Detroit Pistons,107,Miami Heat,97,+403,-519
+Tue Dec 3 2013,Phoenix Suns,91,Memphis Grizzlies,110,+124,-143
+Tue Dec 3 2013,Charlotte Bobcats,82,Dallas Mavericks,89,,-379
+Tue Dec 3 2013,Oklahoma City Thunder,97,Sacramento Kings,95,-448,+355
+Tue Dec 3 2013,Toronto Raptors,103,Golden State Warriors,112,+293,-357
+Wed Dec 4 2013,Denver Nuggets,88,Cleveland Cavaliers,98,-170,+150
+Wed Dec 4 2013,Los Angeles Clippers,97,Atlanta Hawks,107,-142,+123
+Wed Dec 4 2013,Phoenix Suns,97,Houston Rockets,88,+440,-572
+Wed Dec 4 2013,Detroit Pistons,105,Milwaukee Bucks,98,-192,+166
+Wed Dec 4 2013,Dallas Mavericks,100,New Orleans Pelicans,97,+120,-139
+Wed Dec 4 2013,Indiana Pacers,95,Utah Jazz,86,-418,+334
+Wed Dec 4 2013,Oklahoma City Thunder,104,Portland Trail Blazers,111,+117,-136
+Thu Dec 5 2013,New York Knicks,113,Brooklyn Nets,83,-120,+109
+Thu Dec 5 2013,Los Angeles Clippers,101,Memphis Grizzlies,81,-121,+106
+Thu Dec 5 2013,Miami Heat,87,Chicago Bulls,107,-194,+167
+Fri Dec 6 2013,Philadelphia 76ers,88,Charlotte Bobcats,105,+246,
+Fri Dec 6 2013,Milwaukee Bucks,109,Washington Wizards,105,+414,-525
+Fri Dec 6 2013,Cleveland Cavaliers,89,Atlanta Hawks,108,+214,-252
+Fri Dec 6 2013,Denver Nuggets,98,Boston Celtics,106,-175,+154
+Fri Dec 6 2013,Orlando Magic,83,New York Knicks,121,+225,-260
+Fri Dec 6 2013,Golden State Warriors,83,Houston Rockets,105,+169,-197
+Fri Dec 6 2013,Oklahoma City Thunder,109,New Orleans Pelicans,95,-234,+198
+Fri Dec 6 2013,Toronto Raptors,97,Phoenix Suns,106,+149,-169
+Fri Dec 6 2013,Utah Jazz,98,Portland Trail Blazers,130,+547,-735
+Fri Dec 6 2013,Los Angeles Lakers,106,Sacramento Kings,100,+152,-172
+Sat Dec 7 2013,Denver Nuggets,103,Philadelphia 76ers,92,-288,+244
+Sat Dec 7 2013,Los Angeles Clippers,82,Cleveland Cavaliers,88,-242,+205
+Sat Dec 7 2013,Detroit Pistons,92,Chicago Bulls,75,+111,-129
+Sat Dec 7 2013,Golden State Warriors,108,Memphis Grizzlies,82,-138,+119
+Sat Dec 7 2013,Miami Heat,103,Minnesota Timberwolves,82,-274,+234
+Sat Dec 7 2013,Brooklyn Nets,90,Milwaukee Bucks,82,-140,+121
+Sat Dec 7 2013,Indiana Pacers,111,San Antonio Spurs,100,+153,-174
+Sat Dec 7 2013,Sacramento Kings,112,Utah Jazz,102,+130,-150
+Sat Dec 7 2013,Dallas Mavericks,108,Portland Trail Blazers,106,+191,-227
+Sun Dec 8 2013,Boston Celtics,114,New York Knicks,73,+205,-238
+Sun Dec 8 2013,Miami Heat,110,Detroit Pistons,95,-160,+140
+Sun Dec 8 2013,Orlando Magic,88,Houston Rockets,98,+908,-1405
+Sun Dec 8 2013,Indiana Pacers,94,Oklahoma City Thunder,118,+175,-204
+Sun Dec 8 2013,Toronto Raptors,106,Los Angeles Lakers,94,+227,-266
+Mon Dec 9 2013,Golden State Warriors,111,Charlotte Bobcats,115,-240,
+Mon Dec 9 2013,Los Angeles Clippers,94,Philadelphia 76ers,83,-551,+426
+Mon Dec 9 2013,Denver Nuggets,75,Washington Wizards,74,-122,+103
+Mon Dec 9 2013,Orlando Magic,85,Memphis Grizzlies,94,+346,-433
+Mon Dec 9 2013,Portland Trail Blazers,105,Utah Jazz,94,-303,+250
+Mon Dec 9 2013,Dallas Mavericks,97,Sacramento Kings,112,-183,+159
+Tue Dec 10 2013,New York Knicks,94,Cleveland Cavaliers,109,+125,-138
+Tue Dec 10 2013,Miami Heat,84,Indiana Pacers,90,+142,-162
+Tue Dec 10 2013,San Antonio Spurs,116,Toronto Raptors,103,-398,+321
+Tue Dec 10 2013,Oklahoma City Thunder,101,Atlanta Hawks,92,-163,+144
+Tue Dec 10 2013,Boston Celtics,96,Brooklyn Nets,104,+112,-130
+Tue Dec 10 2013,Minnesota Timberwolves,121,Detroit Pistons,94,-117,+100
+Tue Dec 10 2013,Milwaukee Bucks,78,Chicago Bulls,74,+211,-248
+Tue Dec 10 2013,Phoenix Suns,114,Los Angeles Lakers,108,+135,-156
+Wed Dec 11 2013,Orlando Magic,92,Charlotte Bobcats,83,+165,
+Wed Dec 11 2013,Los Angeles Clippers,96,Boston Celtics,88,-222,+187
+Wed Dec 11 2013,Oklahoma City Thunder,116,Memphis Grizzlies,100,-263,+224
+Wed Dec 11 2013,San Antonio Spurs,109,Milwaukee Bucks,77,-762,+569
+Wed Dec 11 2013,Philadelphia 76ers,99,Minnesota Timberwolves,106,+785,-1139
+Wed Dec 11 2013,Detroit Pistons,106,New Orleans Pelicans,111,+120,-139
+Wed Dec 11 2013,Chicago Bulls,78,New York Knicks,83,+168,-193
+Wed Dec 11 2013,Utah Jazz,122,Sacramento Kings,101,+249,-300
+Wed Dec 11 2013,Dallas Mavericks,93,Golden State Warriors,95,+200,-238
+Thu Dec 12 2013,Los Angeles Clippers,93,Brooklyn Nets,102,-118,+101
+Thu Dec 12 2013,Houston Rockets,104,Portland Trail Blazers,111,+120,-139
+Fri Dec 13 2013,Charlotte Bobcats,94,Indiana Pacers,99,,-1098
+Fri Dec 13 2013,Cleveland Cavaliers,109,Orlando Magic,100,+112,-130
+Fri Dec 13 2013,Philadelphia 76ers,100,Toronto Raptors,108,+251,-302
+Fri Dec 13 2013,Washington Wizards,99,Atlanta Hawks,101,+209,-247
+Fri Dec 13 2013,New York Knicks,86,Boston Celtics,90,+134,-152
+Fri Dec 13 2013,Brooklyn Nets,99,Detroit Pistons,103,+202,-239
+Fri Dec 13 2013,Memphis Grizzlies,98,New Orleans Pelicans,104,+123,-142
+Fri Dec 13 2013,Los Angeles Lakers,97,Oklahoma City Thunder,122,+741,-1051
+Fri Dec 13 2013,Chicago Bulls,91,Milwaukee Bucks,90,-183,+160
+Fri Dec 13 2013,Minnesota Timberwolves,110,San Antonio Spurs,117,+313,-383
+Fri Dec 13 2013,Utah Jazz,103,Denver Nuggets,93,+466,-598
+Fri Dec 13 2013,Sacramento Kings,107,Phoenix Suns,116,+219,-258
+Fri Dec 13 2013,Houston Rockets,116,Golden State Warriors,112,+138,-158
+Sat Dec 14 2013,Los Angeles Lakers,88,Charlotte Bobcats,85,+127,
+Sat Dec 14 2013,Los Angeles Clippers,113,Washington Wizards,97,-206,+174
+Sat Dec 14 2013,Cleveland Cavaliers,107,Miami Heat,114,+769,-1159
+Sat Dec 14 2013,Atlanta Hawks,106,New York Knicks,111,-105,-105
+Sat Dec 14 2013,Toronto Raptors,99,Chicago Bulls,77,+144,-165
+Sat Dec 14 2013,Portland Trail Blazers,139,Philadelphia 76ers,105,-602,+467
+Sat Dec 14 2013,Milwaukee Bucks,93,Dallas Mavericks,106,+522,-689
+Sat Dec 14 2013,San Antonio Spurs,100,Utah Jazz,84,-297,+249
+Sun Dec 15 2013,Portland Trail Blazers,111,Detroit Pistons,109,-168,+147
+Sun Dec 15 2013,Minnesota Timberwolves,101,Memphis Grizzlies,93,-161,+141
+Sun Dec 15 2013,Houston Rockets,91,Sacramento Kings,106,-264,+222
+Sun Dec 15 2013,Orlando Magic,98,Oklahoma City Thunder,101,+992,-1583
+Sun Dec 15 2013,New Orleans Pelicans,93,Denver Nuggets,102,+248,-300
+Sun Dec 15 2013,Golden State Warriors,102,Phoenix Suns,106,-115,-104
+Mon Dec 16 2013,Detroit Pistons,101,Indiana Pacers,96,+518,-683
+Mon Dec 16 2013,Los Angeles Lakers,100,Atlanta Hawks,114,+210,-247
+Mon Dec 16 2013,Minnesota Timberwolves,97,Boston Celtics,101,-117,-102
+Mon Dec 16 2013,Philadelphia 76ers,94,Brooklyn Nets,130,+328,-407
+Mon Dec 16 2013,Utah Jazz,94,Miami Heat,117,+766,-1108
+Mon Dec 16 2013,Washington Wizards,102,New York Knicks,101,+109,-120
+Mon Dec 16 2013,Orlando Magic,83,Chicago Bulls,82,+250,-298
+Mon Dec 16 2013,San Antonio Spurs,92,Los Angeles Clippers,115,-153,+134
+Tue Dec 17 2013,Sacramento Kings,87,Charlotte Bobcats,95,-102,
+Tue Dec 17 2013,Portland Trail Blazers,119,Cleveland Cavaliers,116,-186,+162
+Tue Dec 17 2013,Los Angeles Lakers,96,Memphis Grizzlies,92,+118,-137
+Tue Dec 17 2013,Oklahoma City Thunder,105,Denver Nuggets,93,-151,+131
+Tue Dec 17 2013,New Orleans Pelicans,93,Golden State Warriors,104,+347,-440
+Wed Dec 18 2013,Indiana Pacers,94,Miami Heat,97,+155,-176
+Wed Dec 18 2013,Utah Jazz,86,Orlando Magic,82,+130,-149
+Wed Dec 18 2013,Charlotte Bobcats,104,Toronto Raptors,102,,-303
+Wed Dec 18 2013,Sacramento Kings,107,Atlanta Hawks,124,+218,-256
+Wed Dec 18 2013,Detroit Pistons,107,Boston Celtics,106,-106,-111
+Wed Dec 18 2013,Washington Wizards,113,Brooklyn Nets,107,+172,-201
+Wed Dec 18 2013,New York Knicks,107,Milwaukee Bucks,101,-188,+165
+Wed Dec 18 2013,Portland Trail Blazers,109,Minnesota Timberwolves,120,+135,-155
+Wed Dec 18 2013,Memphis Grizzlies,91,Dallas Mavericks,105,+408,-523
+Wed Dec 18 2013,San Antonio Spurs,108,Phoenix Suns,101,-163,+142
+Wed Dec 18 2013,Chicago Bulls,94,Houston Rockets,109,+297,-362
+Wed Dec 18 2013,New Orleans Pelicans,95,Los Angeles Clippers,108,+419,-529
+Thu Dec 19 2013,Chicago Bulls,95,Oklahoma City Thunder,107,+977,-1479
+Thu Dec 19 2013,San Antonio Spurs,104,Golden State Warriors,102,+249,-297
+Fri Dec 20 2013,Brooklyn Nets,120,Philadelphia 76ers,121,-235,+199
+Fri Dec 20 2013,Utah Jazz,85,Atlanta Hawks,118,+283,-344
+Fri Dec 20 2013,Milwaukee Bucks,111,Cleveland Cavaliers,114,+303,-370
+Fri Dec 20 2013,Charlotte Bobcats,116,Detroit Pistons,106,,-245
+Fri Dec 20 2013,Sacramento Kings,103,Miami Heat,122,+449,-587
+Fri Dec 20 2013,Houston Rockets,81,Indiana Pacers,114,+204,-241
+Fri Dec 20 2013,Toronto Raptors,109,Dallas Mavericks,108,+228,-268
+Fri Dec 20 2013,Phoenix Suns,103,Denver Nuggets,99,+158,-179
+Fri Dec 20 2013,Minnesota Timberwolves,91,Los Angeles Lakers,104,-255,+217
+Sat Dec 21 2013,Memphis Grizzlies,95,New York Knicks,87,+135,-153
+Sat Dec 21 2013,Washington Wizards,106,Boston Celtics,99,+105,-123
+Sat Dec 21 2013,Sacramento Kings,105,Orlando Magic,100,+129,-149
+Sat Dec 21 2013,Utah Jazz,88,Charlotte Bobcats,85,+162,
+Sat Dec 21 2013,Houston Rockets,114,Detroit Pistons,97,-123,-103
+Sat Dec 21 2013,Cleveland Cavaliers,84,Chicago Bulls,100,+132,-151
+Sat Dec 21 2013,Philadelphia 76ers,106,Milwaukee Bucks,116,+127,-146
+Sat Dec 21 2013,Oklahoma City Thunder,113,San Antonio Spurs,100,+129,-148
+Sat Dec 21 2013,Dallas Mavericks,108,Phoenix Suns,123,+129,-148
+Sat Dec 21 2013,New Orleans Pelicans,107,Portland Trail Blazers,110,+303,-373
+Sat Dec 21 2013,Los Angeles Lakers,83,Golden State Warriors,102,+988,-1622
+Sat Dec 21 2013,Denver Nuggets,91,Los Angeles Clippers,112,+337,-423
+Sun Dec 22 2013,Boston Celtics,79,Indiana Pacers,106,+660,-948
+Sun Dec 22 2013,Toronto Raptors,104,Oklahoma City Thunder,98,+451,-576
+Sun Dec 22 2013,Minnesota Timberwolves,116,Los Angeles Clippers,120,+170,-201
+Mon Dec 23 2013,Milwaukee Bucks,110,Charlotte Bobcats,111,+225,
+Mon Dec 23 2013,Detroit Pistons,115,Cleveland Cavaliers,92,+100,-117
+Mon Dec 23 2013,New York Knicks,103,Orlando Magic,98,-114,+103
+Mon Dec 23 2013,Indiana Pacers,103,Brooklyn Nets,86,-271,+231
+Mon Dec 23 2013,Atlanta Hawks,119,Miami Heat,121,+286,-349
+Mon Dec 23 2013,Dallas Mavericks,111,Houston Rockets,104,+153,-174
+Mon Dec 23 2013,Utah Jazz,94,Memphis Grizzlies,104,+219,-258
+Mon Dec 23 2013,Toronto Raptors,99,San Antonio Spurs,112,+590,-790
+Mon Dec 23 2013,Golden State Warriors,89,Denver Nuggets,81,-122,+104
+Mon Dec 23 2013,Los Angeles Lakers,90,Phoenix Suns,117,+275,-334
+Mon Dec 23 2013,New Orleans Pelicans,113,Sacramento Kings,100,-110,-106
+Wed Dec 25 2013,Chicago Bulls,95,Brooklyn Nets,78,+152,-172
+Wed Dec 25 2013,Oklahoma City Thunder,123,New York Knicks,94,-650,+474
+Wed Dec 25 2013,Miami Heat,101,Los Angeles Lakers,95,-514,+399
+Wed Dec 25 2013,Houston Rockets,111,San Antonio Spurs,98,+288,-350
+Wed Dec 25 2013,Los Angeles Clippers,103,Golden State Warriors,105,+137,-159
+Thu Dec 26 2013,Atlanta Hawks,127,Cleveland Cavaliers,125,-154,+134
+Thu Dec 26 2013,Memphis Grizzlies,92,Houston Rockets,100,+269,-328
+Thu Dec 26 2013,San Antonio Spurs,116,Dallas Mavericks,107,-152,+132
+Thu Dec 26 2013,Los Angeles Clippers,112,Portland Trail Blazers,116,+161,-184
+Fri Dec 27 2013,Oklahoma City Thunder,89,Charlotte Bobcats,85,-315,
+Fri Dec 27 2013,Detroit Pistons,92,Orlando Magic,109,-172,+151
+Fri Dec 27 2013,Milwaukee Bucks,93,Brooklyn Nets,104,+163,-187
+Fri Dec 27 2013,Toronto Raptors,95,New York Knicks,83,-158,+140
+Fri Dec 27 2013,Washington Wizards,98,Minnesota Timberwolves,120,+206,-245
+Fri Dec 27 2013,Denver Nuggets,89,New Orleans Pelicans,105,+136,-156
+Fri Dec 27 2013,Los Angeles Lakers,103,Utah Jazz,105,+151,-172
+Fri Dec 27 2013,Miami Heat,103,Sacramento Kings,108,-265,+225
+Fri Dec 27 2013,Phoenix Suns,86,Golden State Warriors,115,+225,-265
+Sat Dec 28 2013,Cleveland Cavaliers,100,Boston Celtics,103,+158,-179
+Sat Dec 28 2013,Brooklyn Nets,91,Indiana Pacers,105,+897,-1358
+Sat Dec 28 2013,New York Knicks,100,Toronto Raptors,115,+226,-261
+Sat Dec 28 2013,Detroit Pistons,82,Washington Wizards,106,+143,-163
+Sat Dec 28 2013,Charlotte Bobcats,116,Atlanta Hawks,118,,-255
+Sat Dec 28 2013,Dallas Mavericks,105,Chicago Bulls,83,-139,+120
+Sat Dec 28 2013,New Orleans Pelicans,98,Houston Rockets,107,+362,-458
+Sat Dec 28 2013,Denver Nuggets,99,Memphis Grizzlies,120,+132,-152
+Sat Dec 28 2013,Minnesota Timberwolves,117,Milwaukee Bucks,95,-329,+271
+Sat Dec 28 2013,Philadelphia 76ers,101,Phoenix Suns,115,+478,-620
+Sat Dec 28 2013,Miami Heat,108,Portland Trail Blazers,107,+246,-294
+Sat Dec 28 2013,Utah Jazz,90,Los Angeles Clippers,98,+1414,-2543
+Sun Dec 29 2013,Golden State Warriors,108,Cleveland Cavaliers,104,-298,+248
+Sun Dec 29 2013,Atlanta Hawks,102,Orlando Magic,109,+136,-155
+Sun Dec 29 2013,Houston Rockets,86,Oklahoma City Thunder,117,+159,-180
+Sun Dec 29 2013,Sacramento Kings,104,San Antonio Spurs,112,+707,-994
+Sun Dec 29 2013,Philadelphia 76ers,111,Los Angeles Lakers,104,+244,-289
+Mon Dec 30 2013,Washington Wizards,106,Detroit Pistons,99,+122,-141
+Mon Dec 30 2013,Chicago Bulls,95,Memphis Grizzlies,91,+180,-212
+Mon Dec 30 2013,Dallas Mavericks,100,Minnesota Timberwolves,98,+155,-175
+Mon Dec 30 2013,Portland Trail Blazers,108,New Orleans Pelicans,110,-121,+103
+Mon Dec 30 2013,Miami Heat,97,Denver Nuggets,94,-148,+126
+Mon Dec 30 2013,Charlotte Bobcats,80,Utah Jazz,83,,-141
+Mon Dec 30 2013,Phoenix Suns,107,Los Angeles Clippers,88,+289,-352
+Tue Dec 31 2013,Atlanta Hawks,92,Boston Celtics,91,+135,-152
+Tue Dec 31 2013,Cleveland Cavaliers,76,Indiana Pacers,91,+925,-1350
+Tue Dec 31 2013,Golden State Warriors,94,Orlando Magic,81,-243,+210
+Tue Dec 31 2013,Sacramento Kings,110,Houston Rockets,106,+408,-545
+Tue Dec 31 2013,Brooklyn Nets,92,San Antonio Spurs,113,+701,-895
+Tue Dec 31 2013,Toronto Raptors,85,Chicago Bulls,79,-106,-113
+Tue Dec 31 2013,Portland Trail Blazers,98,Oklahoma City Thunder,94,+211,-246
+Tue Dec 31 2013,Milwaukee Bucks,94,Los Angeles Lakers,79,+209,-244
+Wed Jan 1 2014,Dallas Mavericks,87,Washington Wizards,78,+115,-135
+Wed Jan 1 2014,Indiana Pacers,82,Toronto Raptors,95,-225,+191
+Wed Jan 1 2014,New Orleans Pelicans,112,Minnesota Timberwolves,124,+182,-212
+Wed Jan 1 2014,Philadelphia 76ers,114,Denver Nuggets,102,+376,-470
+Wed Jan 1 2014,Charlotte Bobcats,85,Los Angeles Clippers,112,,-685
+Thu Jan 2 2014,Orlando Magic,81,Cleveland Cavaliers,87,+114,-131
+Thu Jan 2 2014,Golden State Warriors,123,Miami Heat,114,+186,-223
+Thu Jan 2 2014,Boston Celtics,82,Chicago Bulls,94,+176,-206
+Thu Jan 2 2014,Brooklyn Nets,95,Oklahoma City Thunder,93,+710,-995
+Thu Jan 2 2014,New York Knicks,105,San Antonio Spurs,101,+671,-850
+Thu Jan 2 2014,Memphis Grizzlies,99,Phoenix Suns,91,+176,-208
+Thu Jan 2 2014,Milwaukee Bucks,87,Utah Jazz,96,+184,-219
+Thu Jan 2 2014,Charlotte Bobcats,104,Portland Trail Blazers,134,,-818
+Thu Jan 2 2014,Philadelphia 76ers,113,Sacramento Kings,104,+350,-440
+Fri Jan 3 2014,Toronto Raptors,101,Washington Wizards,88,+142,-162
+Fri Jan 3 2014,Golden State Warriors,101,Atlanta Hawks,100,-156,+135
+Fri Jan 3 2014,New Orleans Pelicans,95,Boston Celtics,92,-166,+145
+Fri Jan 3 2014,New York Knicks,100,Houston Rockets,102,+600,-744
+Fri Jan 3 2014,Los Angeles Clippers,119,Dallas Mavericks,112,-135,+116
+Fri Jan 3 2014,Memphis Grizzlies,108,Denver Nuggets,111,+165,-189
+Fri Jan 3 2014,Utah Jazz,99,Los Angeles Lakers,110,+137,-156
+Sat Jan 4 2014,New Orleans Pelicans,82,Indiana Pacers,99,+647,-891
+Sat Jan 4 2014,Miami Heat,110,Orlando Magic,94,-571,+441
+Sat Jan 4 2014,Cleveland Cavaliers,82,Brooklyn Nets,89,+228,-268
+Sat Jan 4 2014,Atlanta Hawks,84,Chicago Bulls,91,+177,-207
+Sat Jan 4 2014,Oklahoma City Thunder,115,Minnesota Timberwolves,111,+109,-128
+Sat Jan 4 2014,Los Angeles Clippers,92,San Antonio Spurs,116,+393,-502
+Sat Jan 4 2014,Milwaukee Bucks,100,Phoenix Suns,116,+309,-380
+Sat Jan 4 2014,Philadelphia 76ers,101,Portland Trail Blazers,99,+743,-1071
+Sat Jan 4 2014,Charlotte Bobcats,113,Sacramento Kings,103,,-209
+Sun Jan 5 2014,Memphis Grizzlies,112,Detroit Pistons,84,+131,-150
+Sun Jan 5 2014,Indiana Pacers,82,Cleveland Cavaliers,78,-560,+435
+Sun Jan 5 2014,Toronto Raptors,97,Miami Heat,102,+222,-260
+Sun Jan 5 2014,Golden State Warriors,112,Washington Wizards,96,-156,+136
+Sun Jan 5 2014,Boston Celtics,96,Oklahoma City Thunder,119,+373,-473
+Sun Jan 5 2014,New York Knicks,92,Dallas Mavericks,80,+235,-270
+Sun Jan 5 2014,Denver Nuggets,137,Los Angeles Lakers,115,-143,+124
+Mon Jan 6 2014,Minnesota Timberwolves,126,Philadelphia 76ers,95,-303,+251
+Mon Jan 6 2014,Atlanta Hawks,86,Brooklyn Nets,91,+105,-123
+Mon Jan 6 2014,Orlando Magic,81,Los Angeles Clippers,101,+287,-348
+Tue Jan 7 2014,Washington Wizards,97,Charlotte Bobcats,83,-121,
+Tue Jan 7 2014,Philadelphia 76ers,93,Cleveland Cavaliers,111,+197,-234
+Tue Jan 7 2014,Toronto Raptors,79,Indiana Pacers,86,+339,-424
+Tue Jan 7 2014,New Orleans Pelicans,88,Miami Heat,107,+322,-405
+Tue Jan 7 2014,Detroit Pistons,85,New York Knicks,89,+134,-151
+Tue Jan 7 2014,Phoenix Suns,87,Chicago Bulls,92,-129,+111
+Tue Jan 7 2014,San Antonio Spurs,110,Memphis Grizzlies,108,-241,+204
+Tue Jan 7 2014,Golden State Warriors,101,Milwaukee Bucks,80,-550,+434
+Tue Jan 7 2014,Los Angeles Lakers,97,Dallas Mavericks,110,+435,-562
+Tue Jan 7 2014,Boston Celtics,98,Denver Nuggets,129,+271,-327
+Tue Jan 7 2014,Oklahoma City Thunder,101,Utah Jazz,112,-258,+219
+Tue Jan 7 2014,Portland Trail Blazers,119,Sacramento Kings,123,-207,+176
+Wed Jan 8 2014,Dallas Mavericks,90,San Antonio Spurs,112,+177,-207
+Wed Jan 8 2014,Detroit Pistons,91,Toronto Raptors,112,+215,-254
+Wed Jan 8 2014,Indiana Pacers,87,Atlanta Hawks,97,-184,+160
+Wed Jan 8 2014,Golden State Warriors,98,Brooklyn Nets,102,-246,+209
+Wed Jan 8 2014,Los Angeles Lakers,99,Houston Rockets,113,+1056,-1750
+Wed Jan 8 2014,Washington Wizards,102,New Orleans Pelicans,96,+152,-171
+Wed Jan 8 2014,Phoenix Suns,104,Minnesota Timberwolves,103,+310,-378
+Wed Jan 8 2014,Orlando Magic,94,Portland Trail Blazers,110,+793,-1164
+Wed Jan 8 2014,Boston Celtics,105,Los Angeles Clippers,111,+513,-676
+Thu Jan 9 2014,Miami Heat,92,New York Knicks,102,-363,+295
+Thu Jan 9 2014,Oklahoma City Thunder,88,Denver Nuggets,101,-154,+134
+Fri Jan 10 2014,Washington Wizards,66,Indiana Pacers,93,+386,-495
+Fri Jan 10 2014,Detroit Pistons,114,Philadelphia 76ers,104,-138,+120
+Fri Jan 10 2014,Houston Rockets,80,Atlanta Hawks,83,-140,+122
+Fri Jan 10 2014,Miami Heat,95,Brooklyn Nets,104,-230,+195
+Fri Jan 10 2014,Phoenix Suns,99,Memphis Grizzlies,104,+132,-152
+Fri Jan 10 2014,Charlotte Bobcats,92,Minnesota Timberwolves,119,,-551
+Fri Jan 10 2014,Dallas Mavericks,107,New Orleans Pelicans,90,-123,+105
+Fri Jan 10 2014,Chicago Bulls,81,Milwaukee Bucks,72,-177,+156
+Fri Jan 10 2014,Cleveland Cavaliers,113,Utah Jazz,102,-103,-117
+Fri Jan 10 2014,Orlando Magic,83,Sacramento Kings,103,+266,-320
+Fri Jan 10 2014,Boston Celtics,97,Golden State Warriors,99,+588,-790
+Fri Jan 10 2014,Los Angeles Lakers,87,Los Angeles Clippers,123,+469,-617
+Sat Jan 11 2014,Brooklyn Nets,80,Toronto Raptors,96,+360,-450
+Sat Jan 11 2014,Houston Rockets,114,Washington Wizards,107,-130,+112
+Sat Jan 11 2014,Phoenix Suns,108,Detroit Pistons,110,+105,-124
+Sat Jan 11 2014,New York Knicks,102,Philadelphia 76ers,92,-202,+174
+Sat Jan 11 2014,Charlotte Bobcats,97,Chicago Bulls,103,,-176
+Sat Jan 11 2014,Milwaukee Bucks,85,Oklahoma City Thunder,101,+1464,-2800
+Sat Jan 11 2014,New Orleans Pelicans,107,Dallas Mavericks,110,+308,-377
+Sat Jan 11 2014,Orlando Magic,94,Denver Nuggets,120,+770,-1119
+Sat Jan 11 2014,Boston Celtics,104,Portland Trail Blazers,112,+719,-1030
+Sun Jan 12 2014,Atlanta Hawks,101,Memphis Grizzlies,108,+172,-201
+Sun Jan 12 2014,Cleveland Cavaliers,80,Sacramento Kings,124,+135,-155
+Sun Jan 12 2014,Minnesota Timberwolves,86,San Antonio Spurs,104,+198,-233
+Mon Jan 13 2014,Milwaukee Bucks,94,Toronto Raptors,116,+480,-623
+Mon Jan 13 2014,Houston Rockets,104,Boston Celtics,92,-249,+212
+Mon Jan 13 2014,Phoenix Suns,96,New York Knicks,98,+154,-173
+Mon Jan 13 2014,Washington Wizards,102,Chicago Bulls,88,+120,-140
+Mon Jan 13 2014,San Antonio Spurs,101,New Orleans Pelicans,95,-307,+256
+Mon Jan 13 2014,Orlando Magic,88,Dallas Mavericks,107,+839,-1258
+Mon Jan 13 2014,Denver Nuggets,103,Utah Jazz,118,-247,+210
+Tue Jan 14 2014,New York Knicks,98,Charlotte Bobcats,108,-104,
+Tue Jan 14 2014,Sacramento Kings,92,Indiana Pacers,116,+499,-657
+Tue Jan 14 2014,Oklahoma City Thunder,87,Memphis Grizzlies,90,-107,-113
+Tue Jan 14 2014,Cleveland Cavaliers,120,Los Angeles Lakers,118,-172,+152
+Wed Jan 15 2014,Chicago Bulls,128,Orlando Magic,125,-244,+206
+Wed Jan 15 2014,Charlotte Bobcats,92,Philadelphia 76ers,95,,-131
+Wed Jan 15 2014,Miami Heat,97,Washington Wizards,114,-251,+214
+Wed Jan 15 2014,Toronto Raptors,83,Boston Celtics,88,-174,+154
+Wed Jan 15 2014,Memphis Grizzlies,82,Milwaukee Bucks,77,-239,+203
+Wed Jan 15 2014,Sacramento Kings,111,Minnesota Timberwolves,108,+412,-527
+Wed Jan 15 2014,Houston Rockets,103,New Orleans Pelicans,100,-229,+194
+Wed Jan 15 2014,Utah Jazz,105,San Antonio Spurs,109,+1020,-1619
+Wed Jan 15 2014,Los Angeles Lakers,114,Phoenix Suns,121,+493,-639
+Wed Jan 15 2014,Cleveland Cavaliers,96,Portland Trail Blazers,108,+474,-612
+Wed Jan 15 2014,Denver Nuggets,123,Golden State Warriors,116,+307,-374
+Wed Jan 15 2014,Dallas Mavericks,127,Los Angeles Clippers,129,+173,-203
+Thu Jan 16 2014,Brooklyn Nets,127,Atlanta Hawks,110,+100,-114
+Thu Jan 16 2014,New York Knicks,89,Indiana Pacers,117,+380,-500
+Thu Jan 16 2014,Oklahoma City Thunder,104,Houston Rockets,92,+122,-141
+Fri Jan 17 2014,Los Angeles Clippers,109,New York Knicks,95,-184,+162
+Fri Jan 17 2014,Charlotte Bobcats,111,Orlando Magic,101,,+102
+Fri Jan 17 2014,Miami Heat,101,Philadelphia 76ers,86,-730,+543
+Fri Jan 17 2014,Minnesota Timberwolves,89,Toronto Raptors,94,-104,-115
+Fri Jan 17 2014,Chicago Bulls,93,Washington Wizards,96,+174,-206
+Fri Jan 17 2014,Los Angeles Lakers,107,Boston Celtics,104,+256,-305
+Fri Jan 17 2014,Utah Jazz,110,Detroit Pistons,89,+252,-302
+Fri Jan 17 2014,Sacramento Kings,90,Memphis Grizzlies,91,+189,-223
+Fri Jan 17 2014,Portland Trail Blazers,109,San Antonio Spurs,100,+197,-234
+Fri Jan 17 2014,Cleveland Cavaliers,117,Denver Nuggets,109,+251,-300
+Fri Jan 17 2014,Dallas Mavericks,110,Phoenix Suns,107,-122,+105
+Fri Jan 17 2014,Golden State Warriors,121,Oklahoma City Thunder,127,-118,-102
+Sat Jan 18 2014,Los Angeles Clippers,92,Indiana Pacers,106,+382,-483
+Sat Jan 18 2014,Detroit Pistons,104,Washington Wizards,98,+211,-249
+Sat Jan 18 2014,Miami Heat,104,Charlotte Bobcats,96,-295,
+Sat Jan 18 2014,Philadelphia 76ers,78,Chicago Bulls,103,+328,-407
+Sat Jan 18 2014,Milwaukee Bucks,104,Houston Rockets,114,+1086,-1763
+Sat Jan 18 2014,Utah Jazz,72,Minnesota Timberwolves,98,+490,-642
+Sat Jan 18 2014,Golden State Warriors,97,New Orleans Pelicans,87,-198,+169
+Sat Jan 18 2014,Portland Trail Blazers,127,Dallas Mavericks,111,-129,+111
+Sun Jan 19 2014,Los Angeles Lakers,112,Toronto Raptors,106,+383,-484
+Sun Jan 19 2014,Boston Celtics,91,Orlando Magic,93,-147,+128
+Sun Jan 19 2014,Sacramento Kings,93,Oklahoma City Thunder,108,+322,-398
+Sun Jan 19 2014,Milwaukee Bucks,82,San Antonio Spurs,110,+1521,-2843
+Sun Jan 19 2014,Denver Nuggets,103,Phoenix Suns,117,+105,-124
+Mon Jan 20 2014,Dallas Mavericks,102,Cleveland Cavaliers,97,-118,-103
+Mon Jan 20 2014,Los Angeles Clippers,112,Detroit Pistons,103,-162,+141
+Mon Jan 20 2014,Toronto Raptors,95,Charlotte Bobcats,100,-174,
+Mon Jan 20 2014,Philadelphia 76ers,99,Washington Wizards,107,+448,-584
+Mon Jan 20 2014,Brooklyn Nets,103,New York Knicks,80,-121,-102
+Mon Jan 20 2014,New Orleans Pelicans,95,Memphis Grizzlies,92,+286,-347
+Mon Jan 20 2014,Miami Heat,114,Atlanta Hawks,121,-218,+184
+Mon Jan 20 2014,Los Angeles Lakers,100,Chicago Bulls,102,+344,-428
+Mon Jan 20 2014,Portland Trail Blazers,113,Houston Rockets,126,+113,-132
+Mon Jan 20 2014,Indiana Pacers,102,Golden State Warriors,94,+104,-122
+Tue Jan 21 2014,Orlando Magic,90,Brooklyn Nets,101,+357,-445
+Tue Jan 21 2014,Boston Celtics,86,Miami Heat,93,+398,-508
+Tue Jan 21 2014,Sacramento Kings,114,New Orleans Pelicans,97,-124,+105
+Tue Jan 21 2014,Portland Trail Blazers,97,Oklahoma City Thunder,105,+227,-268
+Tue Jan 21 2014,Minnesota Timberwolves,112,Utah Jazz,97,-195,+168
+Wed Jan 22 2014,Los Angeles Clippers,91,Charlotte Bobcats,95,-242,
+Wed Jan 22 2014,Chicago Bulls,98,Cleveland Cavaliers,87,+166,-194
+Wed Jan 22 2014,Atlanta Hawks,112,Orlando Magic,109,-231,+193
+Wed Jan 22 2014,Dallas Mavericks,85,Toronto Raptors,93,+128,-147
+Wed Jan 22 2014,Boston Celtics,113,Washington Wizards,111,+425,-545
+Wed Jan 22 2014,Philadelphia 76ers,110,New York Knicks,106,+318,-389
+Wed Jan 22 2014,Sacramento Kings,98,Houston Rockets,119,+419,-536
+Wed Jan 22 2014,Detroit Pistons,101,Milwaukee Bucks,104,-197,+169
+Wed Jan 22 2014,Oklahoma City Thunder,111,San Antonio Spurs,105,+229,-270
+Wed Jan 22 2014,Indiana Pacers,100,Phoenix Suns,124,-253,+213
+Thu Jan 23 2014,Los Angeles Lakers,102,Miami Heat,109,+629,-862
+Thu Jan 23 2014,Denver Nuggets,105,Portland Trail Blazers,110,+248,-298
+Fri Jan 24 2014,Los Angeles Lakers,105,Orlando Magic,114,+120,-139
+Fri Jan 24 2014,Toronto Raptors,104,Philadelphia 76ers,95,-252,+214
+Fri Jan 24 2014,San Antonio Spurs,105,Atlanta Hawks,79,-213,+180
+Fri Jan 24 2014,Oklahoma City Thunder,101,Boston Celtics,83,-144,+126
+Fri Jan 24 2014,Dallas Mavericks,106,Brooklyn Nets,107,+111,-129
+Fri Jan 24 2014,Milwaukee Bucks,78,Cleveland Cavaliers,93,+322,-397
+Fri Jan 24 2014,New Orleans Pelicans,103,Detroit Pistons,101,+143,-163
+Fri Jan 24 2014,Charlotte Bobcats,96,New York Knicks,125,,-182
+Fri Jan 24 2014,Los Angeles Clippers,112,Chicago Bulls,95,-130,+112
+Fri Jan 24 2014,Memphis Grizzlies,88,Houston Rockets,87,+200,-236
+Fri Jan 24 2014,Washington Wizards,101,Phoenix Suns,95,+150,-171
+Fri Jan 24 2014,Indiana Pacers,116,Sacramento Kings,111,-840,+616
+Fri Jan 24 2014,Minnesota Timberwolves,121,Golden State Warriors,120,+154,-175
+Sat Jan 25 2014,Chicago Bulls,89,Charlotte Bobcats,87,-125,
+Sat Jan 25 2014,Los Angeles Clippers,126,Toronto Raptors,118,+100,-116
+Sat Jan 25 2014,Oklahoma City Thunder,103,Philadelphia 76ers,91,-467,+376
+Sat Jan 25 2014,Houston Rockets,81,Memphis Grizzlies,99,-125,+107
+Sat Jan 25 2014,Atlanta Hawks,112,Milwaukee Bucks,87,-138,+120
+Sat Jan 25 2014,Indiana Pacers,96,Denver Nuggets,109,-130,+112
+Sat Jan 25 2014,Washington Wizards,101,Utah Jazz,104,+113,-131
+Sat Jan 25 2014,Minnesota Timberwolves,104,Portland Trail Blazers,115,+267,-319
+Sun Jan 26 2014,San Antonio Spurs,101,Miami Heat,113,+150,-170
+Sun Jan 26 2014,Los Angeles Lakers,103,New York Knicks,110,+196,-232
+Sun Jan 26 2014,Phoenix Suns,99,Cleveland Cavaliers,90,+110,-128
+Sun Jan 26 2014,Orlando Magic,92,New Orleans Pelicans,100,+220,-261
+Sun Jan 26 2014,Brooklyn Nets,85,Boston Celtics,79,-189,+163
+Sun Jan 26 2014,Detroit Pistons,106,Dallas Mavericks,116,+235,-275
+Sun Jan 26 2014,Portland Trail Blazers,88,Golden State Warriors,103,+215,-253
+Sun Jan 26 2014,Denver Nuggets,125,Sacramento Kings,117,-175,+154
+Mon Jan 27 2014,Phoenix Suns,124,Philadelphia 76ers,113,-209,+177
+Mon Jan 27 2014,Toronto Raptors,104,Brooklyn Nets,103,+156,-178
+Mon Jan 27 2014,Minnesota Timberwolves,95,Chicago Bulls,86,-191,+166
+Mon Jan 27 2014,Los Angeles Clippers,114,Milwaukee Bucks,86,-595,+465
+Mon Jan 27 2014,Atlanta Hawks,109,Oklahoma City Thunder,111,+443,-574
+Mon Jan 27 2014,Sacramento Kings,99,Utah Jazz,106,+290,-353
+Tue Jan 28 2014,New Orleans Pelicans,100,Cleveland Cavaliers,89,+124,-142
+Tue Jan 28 2014,Orlando Magic,87,Detroit Pistons,103,+251,-297
+Tue Jan 28 2014,Boston Celtics,88,New York Knicks,114,+219,-257
+Tue Jan 28 2014,San Antonio Spurs,90,Houston Rockets,97,-127,+109
+Tue Jan 28 2014,Memphis Grizzlies,98,Portland Trail Blazers,81,+178,-211
+Tue Jan 28 2014,Washington Wizards,88,Golden State Warriors,85,+308,-373
+Tue Jan 28 2014,Indiana Pacers,104,Los Angeles Lakers,92,-611,+457
+Wed Jan 29 2014,Oklahoma City Thunder,112,Miami Heat,95,+158,-179
+Wed Jan 29 2014,Orlando Magic,83,Toronto Raptors,98,+404,-513
+Wed Jan 29 2014,Philadelphia 76ers,95,Boston Celtics,94,+155,-175
+Wed Jan 29 2014,Phoenix Suns,126,Milwaukee Bucks,117,-400,+324
+Wed Jan 29 2014,New Orleans Pelicans,77,Minnesota Timberwolves,88,+470,-617
+Wed Jan 29 2014,Houston Rockets,117,Dallas Mavericks,115,+176,-206
+Wed Jan 29 2014,Charlotte Bobcats,101,Denver Nuggets,98,,-347
+Wed Jan 29 2014,Chicago Bulls,96,San Antonio Spurs,86,+292,-354
+Wed Jan 29 2014,Memphis Grizzlies,99,Sacramento Kings,89,-223,+188
+Wed Jan 29 2014,Washington Wizards,103,Los Angeles Clippers,110,+330,-409
+Thu Jan 30 2014,Phoenix Suns,102,Indiana Pacers,94,+624,-850
+Thu Jan 30 2014,Cleveland Cavaliers,86,New York Knicks,117,+232,-275
+Thu Jan 30 2014,Los Angeles Clippers,92,Golden State Warriors,111,+208,-249
+Fri Jan 31 2014,Milwaukee Bucks,102,Orlando Magic,113,+221,-259
+Fri Jan 31 2014,Atlanta Hawks,125,Philadelphia 76ers,99,-216,+183
+Fri Jan 31 2014,Oklahoma City Thunder,120,Brooklyn Nets,95,-200,+171
+Fri Jan 31 2014,Memphis Grizzlies,94,Minnesota Timberwolves,90,-122,+105
+Fri Jan 31 2014,Sacramento Kings,103,Dallas Mavericks,107,+374,-469
+Fri Jan 31 2014,Toronto Raptors,100,Denver Nuggets,90,-104,-116
+Fri Jan 31 2014,Charlotte Bobcats,110,Los Angeles Lakers,100,,-159
+Fri Jan 31 2014,Golden State Warriors,95,Utah Jazz,90,-246,+208
+Sat Feb 1 2014,Brooklyn Nets,96,Indiana Pacers,97,+594,-800
+Sat Feb 1 2014,Oklahoma City Thunder,81,Washington Wizards,96,-204,+174
+Sat Feb 1 2014,Minnesota Timberwolves,113,Atlanta Hawks,120,+130,-150
+Sat Feb 1 2014,Philadelphia 76ers,96,Detroit Pistons,113,+419,-536
+Sat Feb 1 2014,Cleveland Cavaliers,92,Houston Rockets,106,+609,-825
+Sat Feb 1 2014,Milwaukee Bucks,90,Memphis Grizzlies,99,+752,-1079
+Sat Feb 1 2014,Chicago Bulls,79,New Orleans Pelicans,88,-110,-108
+Sat Feb 1 2014,Miami Heat,106,New York Knicks,91,-206,+175
+Sat Feb 1 2014,Sacramento Kings,93,San Antonio Spurs,95,+469,-604
+Sat Feb 1 2014,Charlotte Bobcats,95,Phoenix Suns,105,,-421
+Sat Feb 1 2014,Toronto Raptors,103,Portland Trail Blazers,106,+260,-311
+Sat Feb 1 2014,Utah Jazz,87,Los Angeles Clippers,102,+883,-1329
+Sun Feb 2 2014,Orlando Magic,89,Boston Celtics,96,+222,-262
+Mon Feb 3 2014,Orlando Magic,79,Indiana Pacers,98,+1235,-2684
+Mon Feb 3 2014,Portland Trail Blazers,90,Washington Wizards,100,-115,-103
+Mon Feb 3 2014,Philadelphia 76ers,102,Brooklyn Nets,108,+371,-465
+Mon Feb 3 2014,Detroit Pistons,96,Miami Heat,102,+409,-522
+Mon Feb 3 2014,New York Knicks,98,Milwaukee Bucks,101,-387,+316
+Mon Feb 3 2014,San Antonio Spurs,102,New Orleans Pelicans,95,-160,+140
+Mon Feb 3 2014,Memphis Grizzlies,77,Oklahoma City Thunder,86,+315,-385
+Mon Feb 3 2014,Cleveland Cavaliers,107,Dallas Mavericks,124,+308,-382
+Mon Feb 3 2014,Los Angeles Clippers,115,Denver Nuggets,116,-119,-103
+Mon Feb 3 2014,Toronto Raptors,94,Utah Jazz,79,-204,+174
+Mon Feb 3 2014,Chicago Bulls,70,Sacramento Kings,99,+103,-119
+Tue Feb 4 2014,Indiana Pacers,89,Atlanta Hawks,85,-156,+137
+Tue Feb 4 2014,Los Angeles Lakers,99,Minnesota Timberwolves,109,+504,-658
+Tue Feb 4 2014,Chicago Bulls,101,Phoenix Suns,92,+283,-340
+Tue Feb 4 2014,Charlotte Bobcats,91,Golden State Warriors,75,,-711
+Wed Feb 5 2014,Los Angeles Lakers,119,Cleveland Cavaliers,108,+252,-301
+Wed Feb 5 2014,Detroit Pistons,98,Orlando Magic,112,-141,+122
+Wed Feb 5 2014,Boston Celtics,114,Philadelphia 76ers,108,-160,+140
+Wed Feb 5 2014,San Antonio Spurs,125,Washington Wizards,118,-130,+112
+Wed Feb 5 2014,Phoenix Suns,108,Houston Rockets,122,+288,-346
+Wed Feb 5 2014,Dallas Mavericks,110,Memphis Grizzlies,96,+122,-140
+Wed Feb 5 2014,Atlanta Hawks,100,New Orleans Pelicans,105,+123,-141
+Wed Feb 5 2014,Portland Trail Blazers,94,New York Knicks,90,-145,+126
+Wed Feb 5 2014,Minnesota Timberwolves,97,Oklahoma City Thunder,106,+827,-1222
+Wed Feb 5 2014,Milwaukee Bucks,100,Denver Nuggets,110,+707,-1005
+Wed Feb 5 2014,Toronto Raptors,101,Sacramento Kings,109,+100,-117
+Wed Feb 5 2014,Miami Heat,116,Los Angeles Clippers,112,-106,-113
+Thu Feb 6 2014,San Antonio Spurs,89,Brooklyn Nets,103,+234,-276
+Thu Feb 6 2014,Chicago Bulls,87,Golden State Warriors,102,+224,-263
+Fri Feb 7 2014,Portland Trail Blazers,113,Indiana Pacers,118,+206,-242
+Fri Feb 7 2014,Oklahoma City Thunder,102,Orlando Magic,103,-527,+411
+Fri Feb 7 2014,Los Angeles Lakers,112,Philadelphia 76ers,98,+152,-173
+Fri Feb 7 2014,Cleveland Cavaliers,115,Washington Wizards,113,+389,-487
+Fri Feb 7 2014,Sacramento Kings,89,Boston Celtics,99,-123,+105
+Fri Feb 7 2014,Brooklyn Nets,95,Detroit Pistons,111,+112,-130
+Fri Feb 7 2014,Denver Nuggets,90,New York Knicks,117,+114,-132
+Fri Feb 7 2014,Utah Jazz,81,Dallas Mavericks,103,+407,-515
+Fri Feb 7 2014,Minnesota Timberwolves,91,New Orleans Pelicans,98,-116,-102
+Fri Feb 7 2014,Toronto Raptors,105,Los Angeles Clippers,118,+214,-252
+Sat Feb 8 2014,San Antonio Spurs,104,Charlotte Bobcats,100,-210,
+Sat Feb 8 2014,Memphis Grizzlies,79,Atlanta Hawks,76,-102,-118
+Sat Feb 8 2014,Denver Nuggets,109,Detroit Pistons,126,+110,-128
+Sat Feb 8 2014,Portland Trail Blazers,117,Minnesota Timberwolves,110,-189,+165
+Sat Feb 8 2014,Houston Rockets,101,Milwaukee Bucks,95,-716,+542
+Sat Feb 8 2014,Golden State Warriors,109,Phoenix Suns,122,+164,-189
+Sat Feb 8 2014,Miami Heat,89,Utah Jazz,94,-549,+427
+Sun Feb 9 2014,New York Knicks,100,Oklahoma City Thunder,112,+389,-494
+Sun Feb 9 2014,Chicago Bulls,92,Los Angeles Lakers,86,-158,+138
+Sun Feb 9 2014,Dallas Mavericks,102,Boston Celtics,91,-179,+157
+Sun Feb 9 2014,New Orleans Pelicans,81,Brooklyn Nets,93,+171,-199
+Sun Feb 9 2014,Memphis Grizzlies,83,Cleveland Cavaliers,91,-147,+128
+Sun Feb 9 2014,Indiana Pacers,92,Orlando Magic,93,-401,+326
+Sun Feb 9 2014,Sacramento Kings,84,Washington Wizards,93,+189,-223
+Sun Feb 9 2014,Philadelphia 76ers,78,Los Angeles Clippers,123,+1644,-3903
+Mon Feb 10 2014,Denver Nuggets,80,Indiana Pacers,119,+498,-653
+Mon Feb 10 2014,New Orleans Pelicans,101,Toronto Raptors,108,+249,-295
+Mon Feb 10 2014,San Antonio Spurs,100,Detroit Pistons,109,-163,+143
+Mon Feb 10 2014,Boston Celtics,102,Milwaukee Bucks,86,+101,-114
+Mon Feb 10 2014,Houston Rockets,107,Minnesota Timberwolves,89,-180,+159
+Mon Feb 10 2014,Philadelphia 76ers,80,Golden State Warriors,123,+1220,-2142
+Tue Feb 11 2014,Dallas Mavericks,89,Charlotte Bobcats,114,-175,
+Tue Feb 11 2014,Sacramento Kings,99,Cleveland Cavaliers,109,-126,+108
+Tue Feb 11 2014,Atlanta Hawks,85,Chicago Bulls,100,+104,-122
+Tue Feb 11 2014,Washington Wizards,89,Memphis Grizzlies,92,+160,-183
+Tue Feb 11 2014,Miami Heat,103,Phoenix Suns,97,-151,+132
+Tue Feb 11 2014,Oklahoma City Thunder,98,Portland Trail Blazers,95,-104,-115
+Tue Feb 11 2014,Utah Jazz,96,Los Angeles Lakers,79,+113,-132
+Wed Feb 12 2014,Dallas Mavericks,81,Indiana Pacers,73,+385,-491
+Wed Feb 12 2014,Memphis Grizzlies,86,Orlando Magic,81,-124,+106
+Wed Feb 12 2014,Atlanta Hawks,83,Toronto Raptors,104,+234,-276
+Wed Feb 12 2014,San Antonio Spurs,104,Boston Celtics,92,-165,+145
+Wed Feb 12 2014,Charlotte Bobcats,89,Brooklyn Nets,105,,-331
+Wed Feb 12 2014,Cleveland Cavaliers,93,Detroit Pistons,89,+303,-369
+Wed Feb 12 2014,Sacramento Kings,106,New York Knicks,101,+214,-252
+Wed Feb 12 2014,Washington Wizards,112,Houston Rockets,113,+350,-438
+Wed Feb 12 2014,New Orleans Pelicans,102,Milwaukee Bucks,98,-359,+297
+Wed Feb 12 2014,Denver Nuggets,90,Minnesota Timberwolves,117,+240,-285
+Wed Feb 12 2014,Philadelphia 76ers,100,Utah Jazz,105,+300,-365
+Wed Feb 12 2014,Miami Heat,111,Golden State Warriors,110,-118,+100
+Wed Feb 12 2014,Portland Trail Blazers,117,Los Angeles Clippers,122,+375,-472
+Thu Feb 13 2014,Brooklyn Nets,76,Chicago Bulls,92,+146,-166
+Thu Feb 13 2014,Oklahoma City Thunder,107,Los Angeles Lakers,103,-743,+547
+Tue Feb 18 2014,Atlanta Hawks,98,Indiana Pacers,108,+459,-599
+Tue Feb 18 2014,Cleveland Cavaliers,114,Philadelphia 76ers,85,-180,+159
+Tue Feb 18 2014,Toronto Raptors,103,Washington Wizards,93,+124,-142
+Tue Feb 18 2014,Charlotte Bobcats,108,Detroit Pistons,96,,-195
+Tue Feb 18 2014,New York Knicks,93,Memphis Grizzlies,98,+192,-227
+Tue Feb 18 2014,Orlando Magic,100,Milwaukee Bucks,104,-151,+131
+Tue Feb 18 2014,Miami Heat,117,Dallas Mavericks,106,-133,+113
+Tue Feb 18 2014,Phoenix Suns,112,Denver Nuggets,107,-136,+117
+Tue Feb 18 2014,San Antonio Spurs,113,Los Angeles Clippers,103,+226,-265
+Wed Feb 19 2014,Detroit Pistons,98,Charlotte Bobcats,116,+127,
+Wed Feb 19 2014,Orlando Magic,93,Cleveland Cavaliers,101,+185,-219
+Wed Feb 19 2014,Chicago Bulls,94,Toronto Raptors,92,+134,-153
+Wed Feb 19 2014,Washington Wizards,114,Atlanta Hawks,97,-103,-116
+Wed Feb 19 2014,Indiana Pacers,91,Minnesota Timberwolves,104,-156,+136
+Wed Feb 19 2014,New York Knicks,98,New Orleans Pelicans,91,+150,-170
+Wed Feb 19 2014,Boston Celtics,94,Phoenix Suns,100,+200,-237
+Wed Feb 19 2014,Brooklyn Nets,105,Utah Jazz,99,-173,+153
+Wed Feb 19 2014,San Antonio Spurs,111,Portland Trail Blazers,109,+128,-148
+Wed Feb 19 2014,Golden State Warriors,101,Sacramento Kings,92,-206,+175
+Wed Feb 19 2014,Houston Rockets,134,Los Angeles Lakers,108,-428,+338
+Thu Feb 20 2014,Denver Nuggets,101,Milwaukee Bucks,90,-212,+179
+Thu Feb 20 2014,Miami Heat,103,Oklahoma City Thunder,81,+128,-148
+Thu Feb 20 2014,Houston Rockets,99,Golden State Warriors,102,-118,-102
+Fri Feb 21 2014,New Orleans Pelicans,87,Charlotte Bobcats,90,+135,
+Fri Feb 21 2014,New York Knicks,121,Orlando Magic,129,-165,+144
+Fri Feb 21 2014,Dallas Mavericks,124,Philadelphia 76ers,112,-1597,+1010
+Fri Feb 21 2014,Cleveland Cavaliers,91,Toronto Raptors,98,+312,-386
+Fri Feb 21 2014,Atlanta Hawks,107,Detroit Pistons,115,+151,-171
+Fri Feb 21 2014,Denver Nuggets,89,Chicago Bulls,117,+263,-319
+Fri Feb 21 2014,Los Angeles Clippers,96,Memphis Grizzlies,102,-129,+111
+Fri Feb 21 2014,San Antonio Spurs,85,Phoenix Suns,106,-124,+106
+Fri Feb 21 2014,Utah Jazz,94,Portland Trail Blazers,102,+347,-437
+Fri Feb 21 2014,Boston Celtics,92,Los Angeles Lakers,101,-102,-118
+Sat Feb 22 2014,Memphis Grizzlies,89,Charlotte Bobcats,92,-150,
+Sat Feb 22 2014,New Orleans Pelicans,93,Washington Wizards,94,+228,-268
+Sat Feb 22 2014,New York Knicks,98,Atlanta Hawks,107,+106,-124
+Sat Feb 22 2014,Dallas Mavericks,113,Detroit Pistons,102,-153,+134
+Sat Feb 22 2014,Indiana Pacers,110,Milwaukee Bucks,100,-918,+660
+Sat Feb 22 2014,Minnesota Timberwolves,121,Utah Jazz,104,-199,+170
+Sat Feb 22 2014,Boston Celtics,98,Sacramento Kings,105,+312,-387
+Sat Feb 22 2014,Brooklyn Nets,86,Golden State Warriors,93,+176,-208
+Sun Feb 23 2014,Los Angeles Clippers,125,Oklahoma City Thunder,117,+193,-230
+Sun Feb 23 2014,Chicago Bulls,79,Miami Heat,93,+182,-215
+Sun Feb 23 2014,Washington Wizards,96,Cleveland Cavaliers,83,-125,+106
+Sun Feb 23 2014,Orlando Magic,90,Toronto Raptors,105,+567,-752
+Sun Feb 23 2014,Sacramento Kings,109,Denver Nuggets,95,+200,-237
+Sun Feb 23 2014,Brooklyn Nets,108,Los Angeles Lakers,102,-149,+130
+Sun Feb 23 2014,Houston Rockets,115,Phoenix Suns,112,-122,+103
+Sun Feb 23 2014,Minnesota Timberwolves,97,Portland Trail Blazers,108,+150,-171
+Mon Feb 24 2014,Milwaukee Bucks,130,Philadelphia 76ers,110,-153,+133
+Mon Feb 24 2014,Golden State Warriors,104,Detroit Pistons,96,-170,+149
+Mon Feb 24 2014,Dallas Mavericks,110,New York Knicks,108,-147,+127
+Mon Feb 24 2014,Los Angeles Clippers,123,New Orleans Pelicans,110,-194,+167
+Mon Feb 24 2014,Boston Celtics,98,Utah Jazz,110,+165,-189
+Tue Feb 25 2014,Toronto Raptors,99,Cleveland Cavaliers,93,-173,+153
+Tue Feb 25 2014,Los Angeles Lakers,98,Indiana Pacers,118,+1035,-1643
+Tue Feb 25 2014,Orlando Magic,106,Washington Wizards,115,+382,-488
+Tue Feb 25 2014,Chicago Bulls,107,Atlanta Hawks,103,-141,+122
+Tue Feb 25 2014,Portland Trail Blazers,100,Denver Nuggets,95,-150,+130
+Tue Feb 25 2014,Minnesota Timberwolves,110,Phoenix Suns,101,+160,-183
+Tue Feb 25 2014,Houston Rockets,129,Sacramento Kings,103,-185,+162
+Wed Feb 26 2014,Orlando Magic,101,Philadelphia 76ers,90,-179,+158
+Wed Feb 26 2014,Atlanta Hawks,104,Boston Celtics,115,+134,-153
+Wed Feb 26 2014,Golden State Warriors,83,Chicago Bulls,103,-169,+148
+Wed Feb 26 2014,New Orleans Pelicans,89,Dallas Mavericks,108,+248,-295
+Wed Feb 26 2014,Los Angeles Lakers,103,Memphis Grizzlies,108,+618,-843
+Wed Feb 26 2014,Cleveland Cavaliers,114,Oklahoma City Thunder,104,+1508,-2800
+Wed Feb 26 2014,Detroit Pistons,110,San Antonio Spurs,120,+499,-652
+Wed Feb 26 2014,Phoenix Suns,86,Utah Jazz,109,+119,-139
+Wed Feb 26 2014,Brooklyn Nets,80,Portland Trail Blazers,124,+103,-122
+Wed Feb 26 2014,Houston Rockets,93,Los Angeles Clippers,101,+176,-207
+Thu Feb 27 2014,Milwaukee Bucks,96,Indiana Pacers,101,+1583,-3159
+Thu Feb 27 2014,Washington Wizards,134,Toronto Raptors,129,+166,-193
+Thu Feb 27 2014,New York Knicks,82,Miami Heat,108,+344,-430
+Thu Feb 27 2014,Brooklyn Nets,112,Denver Nuggets,89,-135,+116
+Fri Feb 28 2014,Utah Jazz,79,Cleveland Cavaliers,99,+158,-179
+Fri Feb 28 2014,Golden State Warriors,126,New York Knicks,103,-235,+199
+Fri Feb 28 2014,Memphis Grizzlies,107,Oklahoma City Thunder,113,+237,-283
+Fri Feb 28 2014,Chicago Bulls,100,Dallas Mavericks,91,+160,-182
+Fri Feb 28 2014,Charlotte Bobcats,82,San Antonio Spurs,92,,-459
+Fri Feb 28 2014,Sacramento Kings,122,Los Angeles Lakers,126,+121,-140
+Fri Feb 28 2014,New Orleans Pelicans,104,Phoenix Suns,116,+250,-304
+Sat Mar 1 2014,Orlando Magic,98,Miami Heat,112,+1303,-2250
+Sat Mar 1 2014,Washington Wizards,122,Philadelphia 76ers,103,-798,+590
+Sat Mar 1 2014,Indiana Pacers,102,Boston Celtics,97,-363,+296
+Sat Mar 1 2014,Detroit Pistons,110,Houston Rockets,118,+480,-629
+Sat Mar 1 2014,Brooklyn Nets,107,Milwaukee Bucks,98,-257,+218
+Sat Mar 1 2014,Cleveland Cavaliers,96,Memphis Grizzlies,110,+378,-476
+Sat Mar 1 2014,Denver Nuggets,96,Portland Trail Blazers,102,+594,-812
+Sat Mar 1 2014,Minnesota Timberwolves,108,Sacramento Kings,97,-200,+171
+Sat Mar 1 2014,New Orleans Pelicans,76,Los Angeles Clippers,108,+619,-848
+Sun Mar 2 2014,New York Knicks,90,Chicago Bulls,109,+229,-270
+Sun Mar 2 2014,Golden State Warriors,98,Toronto Raptors,104,-142,+122
+Sun Mar 2 2014,Utah Jazz,91,Indiana Pacers,94,+618,-845
+Sun Mar 2 2014,Philadelphia 76ers,81,Orlando Magic,92,+512,-679
+Sun Mar 2 2014,Charlotte Bobcats,99,Oklahoma City Thunder,116,,-647
+Sun Mar 2 2014,Dallas Mavericks,106,San Antonio Spurs,112,+226,-267
+Sun Mar 2 2014,Atlanta Hawks,120,Phoenix Suns,129,+302,-371
+Mon Mar 3 2014,Memphis Grizzlies,110,Washington Wizards,104,-129,+109
+Mon Mar 3 2014,Chicago Bulls,80,Brooklyn Nets,96,+138,-159
+Mon Mar 3 2014,New York Knicks,85,Detroit Pistons,96,+154,-175
+Mon Mar 3 2014,Charlotte Bobcats,107,Miami Heat,124,,-911
+Mon Mar 3 2014,Utah Jazz,88,Milwaukee Bucks,114,-111,-108
+Mon Mar 3 2014,Minnesota Timberwolves,132,Denver Nuggets,128,-231,+194
+Mon Mar 3 2014,Los Angeles Lakers,107,Portland Trail Blazers,106,+717,-1028
+Mon Mar 3 2014,New Orleans Pelicans,89,Sacramento Kings,96,+163,-187
+Tue Mar 4 2014,San Antonio Spurs,122,Cleveland Cavaliers,101,-327,+270
+Tue Mar 4 2014,Golden State Warriors,98,Indiana Pacers,96,+177,-210
+Tue Mar 4 2014,Miami Heat,103,Houston Rockets,106,+110,-129
+Tue Mar 4 2014,Philadelphia 76ers,92,Oklahoma City Thunder,125,+3666,-11584
+Tue Mar 4 2014,Los Angeles Clippers,104,Phoenix Suns,96,-186,+162
+Tue Mar 4 2014,New Orleans Pelicans,132,Los Angeles Lakers,125,+129,-150
+Wed Mar 5 2014,Indiana Pacers,87,Charlotte Bobcats,109,-200,
+Wed Mar 5 2014,Houston Rockets,101,Orlando Magic,89,-366,+300
+Wed Mar 5 2014,Utah Jazz,91,Washington Wizards,104,+302,-368
+Wed Mar 5 2014,Golden State Warriors,108,Boston Celtics,88,-197,+169
+Wed Mar 5 2014,Memphis Grizzlies,94,Brooklyn Nets,103,-113,+103
+Wed Mar 5 2014,Chicago Bulls,105,Detroit Pistons,94,-177,+156
+Wed Mar 5 2014,Dallas Mavericks,110,Denver Nuggets,115,-207,+175
+Wed Mar 5 2014,Sacramento Kings,116,Milwaukee Bucks,102,-163,+143
+Wed Mar 5 2014,New York Knicks,118,Minnesota Timberwolves,106,+341,-427
+Wed Mar 5 2014,Atlanta Hawks,78,Portland Trail Blazers,102,+420,-543
+Thu Mar 6 2014,Miami Heat,87,San Antonio Spurs,111,+139,-160
+Thu Mar 6 2014,Oklahoma City Thunder,122,Phoenix Suns,128,-249,+210
+Thu Mar 6 2014,Los Angeles Clippers,142,Los Angeles Lakers,94,-732,+544
+Fri Mar 7 2014,Cleveland Cavaliers,92,Charlotte Bobcats,101,+173,
+Fri Mar 7 2014,Memphis Grizzlies,85,Chicago Bulls,77,-102,-120
+Fri Mar 7 2014,Sacramento Kings,87,Toronto Raptors,99,+251,-303
+Fri Mar 7 2014,Brooklyn Nets,84,Boston Celtics,91,-221,+185
+Fri Mar 7 2014,Utah Jazz,81,New York Knicks,108,+250,-302
+Fri Mar 7 2014,Detroit Pistons,101,Minnesota Timberwolves,114,+394,-499
+Fri Mar 7 2014,Milwaukee Bucks,104,New Orleans Pelicans,112,+295,-362
+Fri Mar 7 2014,Portland Trail Blazers,98,Dallas Mavericks,103,+116,-137
+Fri Mar 7 2014,Los Angeles Lakers,126,Denver Nuggets,134,+435,-556
+Fri Mar 7 2014,Indiana Pacers,86,Houston Rockets,112,+176,-207
+Fri Mar 7 2014,Atlanta Hawks,97,Golden State Warriors,111,+392,-498
+Sat Mar 8 2014,New York Knicks,107,Cleveland Cavaliers,97,-106,-116
+Sat Mar 8 2014,Utah Jazz,104,Philadelphia 76ers,92,-296,+247
+Sat Mar 8 2014,Charlotte Bobcats,89,Memphis Grizzlies,111,,-453
+Sat Mar 8 2014,Orlando Magic,112,San Antonio Spurs,121,+1611,-3428
+Sat Mar 8 2014,Washington Wizards,114,Milwaukee Bucks,107,-380,+290
+Sat Mar 8 2014,Atlanta Hawks,108,Los Angeles Clippers,109,+1550,-3050
+Sun Mar 9 2014,Miami Heat,88,Chicago Bulls,95,-200,+170
+Sun Mar 9 2014,Oklahoma City Thunder,110,Los Angeles Lakers,114,-1077,+730
+Sun Mar 9 2014,Detroit Pistons,111,Boston Celtics,118,-107,-112
+Sun Mar 9 2014,Sacramento Kings,89,Brooklyn Nets,104,+238,-284
+Sun Mar 9 2014,Denver Nuggets,107,New Orleans Pelicans,111,+137,-157
+Sun Mar 9 2014,Portland Trail Blazers,113,Houston Rockets,118,+229,-269
+Sun Mar 9 2014,Toronto Raptors,111,Minnesota Timberwolves,104,+193,-229
+Sun Mar 9 2014,Indiana Pacers,94,Dallas Mavericks,105,-128,+109
+Sun Mar 9 2014,Phoenix Suns,107,Golden State Warriors,113,+384,-484
+Mon Mar 10 2014,Denver Nuggets,98,Charlotte Bobcats,105,+188,
+Mon Mar 10 2014,Toronto Raptors,97,Brooklyn Nets,101,+136,-157
+Mon Mar 10 2014,Washington Wizards,90,Miami Heat,99,+320,-398
+Mon Mar 10 2014,Philadelphia 76ers,110,New York Knicks,123,+1400,-2582
+Mon Mar 10 2014,Orlando Magic,98,Milwaukee Bucks,105,-113,-107
+Mon Mar 10 2014,Atlanta Hawks,112,Utah Jazz,110,-142,+122
+Mon Mar 10 2014,Phoenix Suns,105,Los Angeles Clippers,112,+493,-661
+Tue Mar 11 2014,Boston Celtics,83,Indiana Pacers,94,+679,-955
+Tue Mar 11 2014,Sacramento Kings,89,Detroit Pistons,99,+125,-144
+Tue Mar 11 2014,San Antonio Spurs,104,Chicago Bulls,96,-207,+175
+Tue Mar 11 2014,Portland Trail Blazers,99,Memphis Grizzlies,109,+126,-145
+Tue Mar 11 2014,Milwaukee Bucks,101,Minnesota Timberwolves,112,+1477,-2811
+Tue Mar 11 2014,Houston Rockets,98,Oklahoma City Thunder,106,+169,-198
+Tue Mar 11 2014,Dallas Mavericks,85,Golden State Warriors,108,+186,-222
+Wed Mar 12 2014,Brooklyn Nets,96,Miami Heat,95,+409,-520
+Wed Mar 12 2014,Denver Nuggets,120,Orlando Magic,112,-148,+128
+Wed Mar 12 2014,Sacramento Kings,115,Philadelphia 76ers,98,-505,+399
+Wed Mar 12 2014,Detroit Pistons,87,Toronto Raptors,101,+363,-455
+Wed Mar 12 2014,Charlotte Bobcats,98,Washington Wizards,85,,-239
+Wed Mar 12 2014,New York Knicks,116,Boston Celtics,92,-177,+155
+Wed Mar 12 2014,Memphis Grizzlies,90,New Orleans Pelicans,88,-241,+203
+Wed Mar 12 2014,Dallas Mavericks,108,Utah Jazz,101,-198,+170
+Wed Mar 12 2014,Portland Trail Blazers,90,San Antonio Spurs,103,+292,-360
+Wed Mar 12 2014,Cleveland Cavaliers,110,Phoenix Suns,101,+316,-389
+Wed Mar 12 2014,Golden State Warriors,98,Los Angeles Clippers,111,+256,-309
+Thu Mar 13 2014,Houston Rockets,87,Chicago Bulls,111,-161,+140
+Thu Mar 13 2014,Milwaukee Bucks,97,Atlanta Hawks,102,+336,-420
+Thu Mar 13 2014,Los Angeles Lakers,102,Oklahoma City Thunder,131,+1649,-3565
+Fri Mar 14 2014,Minnesota Timberwolves,93,Charlotte Bobcats,105,-140,
+Fri Mar 14 2014,Washington Wizards,105,Orlando Magic,101,-210,+177
+Fri Mar 14 2014,Indiana Pacers,101,Philadelphia 76ers,94,-3517,+1602
+Fri Mar 14 2014,Memphis Grizzlies,86,Toronto Raptors,99,-111,-108
+Fri Mar 14 2014,Phoenix Suns,87,Boston Celtics,80,-183,+159
+Fri Mar 14 2014,Denver Nuggets,111,Miami Heat,107,+552,-737
+Fri Mar 14 2014,Portland Trail Blazers,111,New Orleans Pelicans,103,-136,+117
+Fri Mar 14 2014,Los Angeles Lakers,85,San Antonio Spurs,119,+1966,-4484
+Fri Mar 14 2014,Los Angeles Clippers,96,Utah Jazz,87,-480,+379
+Fri Mar 14 2014,Cleveland Cavaliers,103,Golden State Warriors,94,+381,-480
+Sat Mar 15 2014,Milwaukee Bucks,94,New York Knicks,115,+482,-639
+Sat Mar 15 2014,Brooklyn Nets,94,Washington Wizards,101,-142,+123
+Sat Mar 15 2014,Denver Nuggets,92,Atlanta Hawks,97,+196,-233
+Sat Mar 15 2014,Indiana Pacers,112,Detroit Pistons,104,-225,+189
+Sat Mar 15 2014,Memphis Grizzlies,103,Philadelphia 76ers,77,-1686,+1058
+Sat Mar 15 2014,Sacramento Kings,87,Chicago Bulls,94,+314,-384
+Sun Mar 16 2014,Charlotte Bobcats,101,Milwaukee Bucks,92,,+207
+Sun Mar 16 2014,Phoenix Suns,121,Toronto Raptors,113,+158,-181
+Sun Mar 16 2014,Houston Rockets,104,Miami Heat,113,+199,-237
+Sun Mar 16 2014,Boston Celtics,120,New Orleans Pelicans,121,+202,-241
+Sun Mar 16 2014,Sacramento Kings,102,Minnesota Timberwolves,104,+405,-517
+Sun Mar 16 2014,Dallas Mavericks,109,Oklahoma City Thunder,86,+263,-320
+Sun Mar 16 2014,Utah Jazz,104,San Antonio Spurs,122,+1475,-2913
+Sun Mar 16 2014,Golden State Warriors,113,Portland Trail Blazers,112,-130,+110
+Sun Mar 16 2014,Cleveland Cavaliers,80,Los Angeles Clippers,102,+587,-808
+Mon Mar 17 2014,Atlanta Hawks,97,Charlotte Bobcats,83,+129,
+Mon Mar 17 2014,Philadelphia 76ers,90,Indiana Pacers,99,+2272,-5767
+Mon Mar 17 2014,Phoenix Suns,95,Brooklyn Nets,108,+146,-166
+Mon Mar 17 2014,Oklahoma City Thunder,97,Chicago Bulls,85,-140,+121
+Mon Mar 17 2014,Utah Jazz,86,Houston Rockets,124,+819,-1218
+Mon Mar 17 2014,Boston Celtics,89,Dallas Mavericks,94,+643,-893
+Mon Mar 17 2014,Los Angeles Clippers,100,Denver Nuggets,110,-187,+163
+Tue Mar 18 2014,Miami Heat,100,Cleveland Cavaliers,96,-630,+476
+Tue Mar 18 2014,Toronto Raptors,113,Atlanta Hawks,118,-146,+127
+Tue Mar 18 2014,Milwaukee Bucks,115,Portland Trail Blazers,120,+829,-1280
+Tue Mar 18 2014,Washington Wizards,111,Sacramento Kings,117,-125,+105
+Tue Mar 18 2014,Orlando Magic,89,Golden State Warriors,103,+812,-1200
+Wed Mar 19 2014,Chicago Bulls,102,Philadelphia 76ers,94,-1163,+789
+Wed Mar 19 2014,Miami Heat,96,Boston Celtics,101,-193,+167
+Wed Mar 19 2014,Charlotte Bobcats,99,Brooklyn Nets,104,,-267
+Wed Mar 19 2014,Utah Jazz,86,Memphis Grizzlies,96,+635,-863
+Wed Mar 19 2014,Toronto Raptors,107,New Orleans Pelicans,100,-144,+125
+Wed Mar 19 2014,Indiana Pacers,86,New York Knicks,92,-122,+104
+Wed Mar 19 2014,Minnesota Timberwolves,123,Dallas Mavericks,122,+181,-215
+Wed Mar 19 2014,Detroit Pistons,109,Denver Nuggets,118,+240,-286
+Wed Mar 19 2014,Orlando Magic,93,Phoenix Suns,109,+713,-1012
+Wed Mar 19 2014,San Antonio Spurs,125,Los Angeles Lakers,109,-1335,+867
+Thu Mar 20 2014,Oklahoma City Thunder,102,Cleveland Cavaliers,95,-521,+408
+Thu Mar 20 2014,Minnesota Timberwolves,106,Houston Rockets,129,+269,-325
+Thu Mar 20 2014,Washington Wizards,103,Portland Trail Blazers,116,+191,-227
+Thu Mar 20 2014,Milwaukee Bucks,110,Golden State Warriors,115,+852,-1297
+Fri Mar 21 2014,Chicago Bulls,79,Indiana Pacers,91,+226,-267
+Fri Mar 21 2014,New York Knicks,93,Philadelphia 76ers,92,-961,+684
+Fri Mar 21 2014,Oklahoma City Thunder,119,Toronto Raptors,118,-154,+135
+Fri Mar 21 2014,New Orleans Pelicans,111,Atlanta Hawks,105,+178,-210
+Fri Mar 21 2014,Boston Celtics,98,Brooklyn Nets,114,+317,-389
+Fri Mar 21 2014,Memphis Grizzlies,86,Miami Heat,91,+168,-195
+Fri Mar 21 2014,Denver Nuggets,106,Dallas Mavericks,122,+321,-395
+Fri Mar 21 2014,Detroit Pistons,92,Phoenix Suns,98,+324,-400
+Fri Mar 21 2014,San Antonio Spurs,99,Sacramento Kings,79,-366,+300
+Fri Mar 21 2014,Washington Wizards,117,Los Angeles Lakers,107,-207,+175
+Sat Mar 22 2014,Portland Trail Blazers,94,Charlotte Bobcats,124,-103,
+Sat Mar 22 2014,Houston Rockets,118,Cleveland Cavaliers,111,-386,+312
+Sat Mar 22 2014,Philadelphia 76ers,81,Chicago Bulls,91,+1393,-2800
+Sat Mar 22 2014,Indiana Pacers,71,Memphis Grizzlies,82,+128,-148
+Sat Mar 22 2014,Miami Heat,95,New Orleans Pelicans,105,-213,+179
+Sat Mar 22 2014,Orlando Magic,88,Utah Jazz,89,+163,-188
+Sat Mar 22 2014,San Antonio Spurs,99,Golden State Warriors,90,+141,-162
+Sat Mar 22 2014,Detroit Pistons,103,Los Angeles Clippers,112,+893,-1384
+Sun Mar 23 2014,Atlanta Hawks,86,Toronto Raptors,96,+278,-340
+Sun Mar 23 2014,Phoenix Suns,127,Minnesota Timberwolves,120,+117,-137
+Sun Mar 23 2014,Washington Wizards,102,Denver Nuggets,105,+104,-122
+Sun Mar 23 2014,Milwaukee Bucks,107,Sacramento Kings,124,+269,-328
+Sun Mar 23 2014,Brooklyn Nets,107,Dallas Mavericks,104,+178,-211
+Sun Mar 23 2014,Cleveland Cavaliers,106,New York Knicks,100,+439,-572
+Sun Mar 23 2014,Orlando Magic,94,Los Angeles Lakers,103,+158,-181
+Mon Mar 24 2014,Houston Rockets,100,Charlotte Bobcats,89,-206,
+Mon Mar 24 2014,Phoenix Suns,102,Atlanta Hawks,95,-144,+124
+Mon Mar 24 2014,Portland Trail Blazers,91,Miami Heat,93,+232,-273
+Mon Mar 24 2014,Indiana Pacers,77,Chicago Bulls,89,+103,-121
+Mon Mar 24 2014,Minnesota Timberwolves,92,Memphis Grizzlies,109,+284,-344
+Mon Mar 24 2014,Brooklyn Nets,104,New Orleans Pelicans,109,+101,-112
+Mon Mar 24 2014,Denver Nuggets,96,Oklahoma City Thunder,117,+552,-740
+Mon Mar 24 2014,Philadelphia 76ers,91,San Antonio Spurs,113,+1913,-4816
+Mon Mar 24 2014,Detroit Pistons,114,Utah Jazz,94,-129,+110
+Mon Mar 24 2014,Milwaukee Bucks,98,Los Angeles Clippers,106,+1687,-3475
+Tue Mar 25 2014,Toronto Raptors,100,Cleveland Cavaliers,102,-184,+161
+Tue Mar 25 2014,Portland Trail Blazers,85,Orlando Magic,95,-255,+216
+Tue Mar 25 2014,Oklahoma City Thunder,119,Dallas Mavericks,128,-149,+129
+Tue Mar 25 2014,New York Knicks,96,Los Angeles Lakers,127,-321,+263
+Wed Mar 26 2014,Brooklyn Nets,111,Charlotte Bobcats,116,+112,
+Wed Mar 26 2014,Phoenix Suns,99,Washington Wizards,93,-125,+106
+Wed Mar 26 2014,Toronto Raptors,99,Boston Celtics,90,-159,+139
+Wed Mar 26 2014,Cleveland Cavaliers,97,Detroit Pistons,96,+220,-260
+Wed Mar 26 2014,Miami Heat,83,Indiana Pacers,84,+108,-128
+Wed Mar 26 2014,Atlanta Hawks,83,Minnesota Timberwolves,107,+196,-232
+Wed Mar 26 2014,Los Angeles Clippers,96,New Orleans Pelicans,98,-337,+279
+Wed Mar 26 2014,Denver Nuggets,103,San Antonio Spurs,108,+978,-1495
+Wed Mar 26 2014,New York Knicks,107,Sacramento Kings,99,-138,+118
+Wed Mar 26 2014,Memphis Grizzlies,91,Utah Jazz,87,-409,+331
+Thu Mar 27 2014,Portland Trail Blazers,100,Atlanta Hawks,85,-215,+183
+Thu Mar 27 2014,Philadelphia 76ers,98,Houston Rockets,120,+1979,-4893
+Thu Mar 27 2014,Los Angeles Lakers,105,Milwaukee Bucks,108,+117,-136
+Thu Mar 27 2014,Los Angeles Clippers,109,Dallas Mavericks,103,-110,-108
+Fri Mar 28 2014,Charlotte Bobcats,105,Orlando Magic,110,,+163
+Fri Mar 28 2014,Boston Celtics,103,Toronto Raptors,105,+393,-500
+Fri Mar 28 2014,Indiana Pacers,78,Washington Wizards,91,-121,+102
+Fri Mar 28 2014,Cleveland Cavaliers,97,Brooklyn Nets,108,+333,-413
+Fri Mar 28 2014,Miami Heat,110,Detroit Pistons,78,-219,+186
+Fri Mar 28 2014,Portland Trail Blazers,91,Chicago Bulls,74,+164,-187
+Fri Mar 28 2014,Los Angeles Lakers,107,Minnesota Timberwolves,143,+611,-822
+Fri Mar 28 2014,Utah Jazz,95,New Orleans Pelicans,102,+250,-297
+Fri Mar 28 2014,Sacramento Kings,81,Oklahoma City Thunder,94,+853,-1250
+Fri Mar 28 2014,San Antonio Spurs,133,Denver Nuggets,102,-345,+284
+Fri Mar 28 2014,New York Knicks,88,Phoenix Suns,112,+223,-262
+Fri Mar 28 2014,Memphis Grizzlies,93,Golden State Warriors,100,+126,-145
+Sat Mar 29 2014,Detroit Pistons,98,Philadelphia 76ers,123,-247,+209
+Sat Mar 29 2014,Los Angeles Clippers,118,Houston Rockets,107,-102,-119
+Sat Mar 29 2014,Atlanta Hawks,97,Washington Wizards,101,+211,-248
+Sat Mar 29 2014,Sacramento Kings,100,Dallas Mavericks,103,+653,-890
+Sat Mar 29 2014,Miami Heat,88,Milwaukee Bucks,67,-511,+400
+Sat Mar 29 2014,New Orleans Pelicans,80,San Antonio Spurs,96,+1306,-2388
+Sun Mar 30 2014,Indiana Pacers,76,Cleveland Cavaliers,90,-227,+192
+Sun Mar 30 2014,Utah Jazz,96,Oklahoma City Thunder,116,+1442,-2793
+Sun Mar 30 2014,Minnesota Timberwolves,99,Brooklyn Nets,114,+158,-178
+Sun Mar 30 2014,Toronto Raptors,98,Orlando Magic,93,-204,+174
+Sun Mar 30 2014,Chicago Bulls,107,Boston Celtics,102,-197,+169
+Sun Mar 30 2014,New York Knicks,89,Golden State Warriors,84,+245,-290
+Sun Mar 30 2014,Memphis Grizzlies,98,Portland Trail Blazers,105,+115,-134
+Sun Mar 30 2014,Phoenix Suns,99,Los Angeles Lakers,115,-500,+402
+Mon Mar 31 2014,Washington Wizards,94,Charlotte Bobcats,100,+128,
+Mon Mar 31 2014,San Antonio Spurs,103,Indiana Pacers,77,-187,+163
+Mon Mar 31 2014,Philadelphia 76ers,95,Atlanta Hawks,103,+739,-1053
+Mon Mar 31 2014,Milwaukee Bucks,111,Detroit Pistons,116,+236,-279
+Mon Mar 31 2014,Toronto Raptors,83,Miami Heat,93,+216,-255
+Mon Mar 31 2014,Boston Celtics,80,Chicago Bulls,94,+418,-537
+Mon Mar 31 2014,Los Angeles Clippers,114,Minnesota Timberwolves,104,-144,+125
+Mon Mar 31 2014,Sacramento Kings,102,New Orleans Pelicans,97,+165,-191
+Mon Mar 31 2014,Memphis Grizzlies,94,Denver Nuggets,92,-204,+172
+Mon Mar 31 2014,New York Knicks,92,Utah Jazz,83,-162,+142
+Tue Apr 1 2014,Houston Rockets,96,Brooklyn Nets,105,+145,-165
+Tue Apr 1 2014,Golden State Warriors,122,Dallas Mavericks,120,+173,-201
+Tue Apr 1 2014,Portland Trail Blazers,124,Los Angeles Lakers,112,-408,+328
+Wed Apr 2 2014,Detroit Pistons,94,Indiana Pacers,101,+500,-655
+Wed Apr 2 2014,Brooklyn Nets,81,New York Knicks,110,+124,-143
+Wed Apr 2 2014,Cleveland Cavaliers,119,Orlando Magic,98,-129,+111
+Wed Apr 2 2014,Charlotte Bobcats,123,Philadelphia 76ers,93,,+330
+Wed Apr 2 2014,Houston Rockets,103,Toronto Raptors,107,+110,-129
+Wed Apr 2 2014,Boston Celtics,92,Washington Wizards,118,+324,-397
+Wed Apr 2 2014,Chicago Bulls,105,Atlanta Hawks,92,-135,+116
+Wed Apr 2 2014,Milwaukee Bucks,77,Miami Heat,96,+930,-1400
+Wed Apr 2 2014,Memphis Grizzlies,88,Minnesota Timberwolves,102,-194,+167
+Wed Apr 2 2014,Golden State Warriors,90,San Antonio Spurs,111,+439,-561
+Wed Apr 2 2014,New Orleans Pelicans,107,Denver Nuggets,137,+153,-173
+Wed Apr 2 2014,Los Angeles Clippers,112,Phoenix Suns,108,+131,-150
+Wed Apr 2 2014,Los Angeles Lakers,102,Sacramento Kings,107,+292,-353
+Thu Apr 3 2014,San Antonio Spurs,94,Oklahoma City Thunder,106,+148,-168
+Thu Apr 3 2014,Dallas Mavericks,113,Los Angeles Clippers,107,+159,-181
+Fri Apr 4 2014,Orlando Magic,80,Charlotte Bobcats,91,+444,
+Fri Apr 4 2014,Denver Nuggets,92,Memphis Grizzlies,100,+412,-524
+Fri Apr 4 2014,Indiana Pacers,94,Toronto Raptors,102,-127,+108
+Fri Apr 4 2014,Cleveland Cavaliers,98,Atlanta Hawks,117,+103,-122
+Fri Apr 4 2014,Philadelphia 76ers,111,Boston Celtics,102,+384,-481
+Fri Apr 4 2014,Detroit Pistons,104,Brooklyn Nets,116,+417,-531
+Fri Apr 4 2014,Minnesota Timberwolves,122,Miami Heat,121,+334,-412
+Fri Apr 4 2014,Washington Wizards,90,New York Knicks,89,+179,-210
+Fri Apr 4 2014,Milwaukee Bucks,90,Chicago Bulls,102,+644,-890
+Fri Apr 4 2014,New Orleans Pelicans,96,Utah Jazz,100,+122,-141
+Fri Apr 4 2014,Oklahoma City Thunder,107,Houston Rockets,111,+127,-146
+Fri Apr 4 2014,Phoenix Suns,109,Portland Trail Blazers,93,+163,-186
+Fri Apr 4 2014,Sacramento Kings,69,Golden State Warriors,102,+362,-452
+Fri Apr 4 2014,Dallas Mavericks,107,Los Angeles Lakers,95,-395,+322
+Sat Apr 5 2014,Minnesota Timberwolves,92,Orlando Magic,100,-144,+124
+Sat Apr 5 2014,Chicago Bulls,96,Washington Wizards,78,+118,-137
+Sat Apr 5 2014,Charlotte Bobcats,96,Cleveland Cavaliers,94,,-168
+Sat Apr 5 2014,Boston Celtics,111,Detroit Pistons,115,+222,-261
+Sat Apr 5 2014,Brooklyn Nets,105,Philadelphia 76ers,101,-694,+526
+Sat Apr 5 2014,Toronto Raptors,102,Milwaukee Bucks,98,-277,+234
+Sun Apr 6 2014,New York Knicks,91,Miami Heat,102,+246,-293
+Sun Apr 6 2014,Los Angeles Lakers,97,Los Angeles Clippers,120,+1664,-3543
+Sun Apr 6 2014,Atlanta Hawks,107,Indiana Pacers,88,+303,-369
+Sun Apr 6 2014,Dallas Mavericks,93,Sacramento Kings,91,-315,+260
+Sun Apr 6 2014,Denver Nuggets,125,Houston Rockets,130,+546,-725
+Sun Apr 6 2014,Memphis Grizzlies,92,San Antonio Spurs,112,+255,-307
+Sun Apr 6 2014,Utah Jazz,102,Golden State Warriors,130,+701,-988
+Sun Apr 6 2014,Oklahoma City Thunder,115,Phoenix Suns,122,-148,+129
+Sun Apr 6 2014,New Orleans Pelicans,94,Portland Trail Blazers,100,+436,-564
+Tue Apr 8 2014,Detroit Pistons,102,Atlanta Hawks,95,+267,-322
+Tue Apr 8 2014,Brooklyn Nets,88,Miami Heat,87,+271,-327
+Tue Apr 8 2014,San Antonio Spurs,91,Minnesota Timberwolves,110,-326,+269
+Tue Apr 8 2014,Dallas Mavericks,95,Utah Jazz,83,-326,+271
+Tue Apr 8 2014,Oklahoma City Thunder,107,Sacramento Kings,92,-522,+411
+Tue Apr 8 2014,Houston Rockets,145,Los Angeles Lakers,130,-493,+392
+Wed Apr 9 2014,Detroit Pistons,100,Cleveland Cavaliers,122,+251,-299
+Wed Apr 9 2014,Brooklyn Nets,111,Orlando Magic,115,-211,+179
+Wed Apr 9 2014,Philadelphia 76ers,114,Toronto Raptors,125,+1025,-1607
+Wed Apr 9 2014,Charlotte Bobcats,94,Washington Wizards,88,,-230
+Wed Apr 9 2014,Boston Celtics,97,Atlanta Hawks,105,+261,-314
+Wed Apr 9 2014,Miami Heat,102,Memphis Grizzlies,107,+171,-200
+Wed Apr 9 2014,Indiana Pacers,104,Milwaukee Bucks,102,-118,-102
+Wed Apr 9 2014,Chicago Bulls,102,Minnesota Timberwolves,87,-155,+136
+Wed Apr 9 2014,Phoenix Suns,94,New Orleans Pelicans,88,-454,+363
+Wed Apr 9 2014,Houston Rockets,116,Denver Nuggets,123,-130,+111
+Wed Apr 9 2014,Sacramento Kings,99,Portland Trail Blazers,100,+1007,-1550
+Wed Apr 9 2014,Oklahoma City Thunder,107,Los Angeles Clippers,101,+145,-165
+Thu Apr 10 2014,San Antonio Spurs,109,Dallas Mavericks,100,+110,-129
+Thu Apr 10 2014,Denver Nuggets,100,Golden State Warriors,99,+735,-1039
+Fri Apr 11 2014,Washington Wizards,96,Orlando Magic,86,-318,+265
+Fri Apr 11 2014,New York Knicks,108,Toronto Raptors,100,+181,-213
+Fri Apr 11 2014,Charlotte Bobcats,103,Boston Celtics,106,,+174
+Fri Apr 11 2014,Atlanta Hawks,93,Brooklyn Nets,88,+166,-190
+Fri Apr 11 2014,Indiana Pacers,86,Miami Heat,98,+214,-253
+Fri Apr 11 2014,Detroit Pistons,98,Chicago Bulls,106,+465,-596
+Fri Apr 11 2014,Philadelphia 76ers,95,Memphis Grizzlies,117,+1306,-2246
+Fri Apr 11 2014,Houston Rockets,110,Minnesota Timberwolves,112,-154,+134
+Fri Apr 11 2014,New Orleans Pelicans,94,Oklahoma City Thunder,116,+1628,-3343
+Fri Apr 11 2014,Cleveland Cavaliers,116,Milwaukee Bucks,119,-195,+168
+Fri Apr 11 2014,Phoenix Suns,104,San Antonio Spurs,112,+151,-171
+Fri Apr 11 2014,Portland Trail Blazers,111,Utah Jazz,99,-409,+330
+Fri Apr 11 2014,Golden State Warriors,112,Los Angeles Lakers,95,-553,+430
+Sat Apr 12 2014,Sacramento Kings,101,Los Angeles Clippers,117,+539,-709
+Sat Apr 12 2014,Philadelphia 76ers,105,Charlotte Bobcats,111,+702,
+Sat Apr 12 2014,Milwaukee Bucks,91,Washington Wizards,104,+542,-714
+Sat Apr 12 2014,Miami Heat,85,Atlanta Hawks,98,-246,+208
+Sat Apr 12 2014,Boston Celtics,111,Cleveland Cavaliers,99,+371,-468
+Sat Apr 12 2014,New Orleans Pelicans,104,Houston Rockets,111,+1471,-2729
+Sat Apr 12 2014,Phoenix Suns,98,Dallas Mavericks,101,+168,-195
+Sat Apr 12 2014,Utah Jazz,94,Denver Nuggets,101,+425,-544
+Sun Apr 13 2014,Oklahoma City Thunder,97,Indiana Pacers,102,-114,+100
+Sun Apr 13 2014,Toronto Raptors,116,Detroit Pistons,107,-283,+239
+Sun Apr 13 2014,Orlando Magic,88,Brooklyn Nets,97,+613,-832
+Sun Apr 13 2014,Chicago Bulls,89,New York Knicks,100,-158,+137
+Sun Apr 13 2014,Golden State Warriors,117,Portland Trail Blazers,119,+160,-183
+Sun Apr 13 2014,Minnesota Timberwolves,103,Sacramento Kings,106,-132,+113
+Sun Apr 13 2014,Memphis Grizzlies,102,Los Angeles Lakers,90,-986,+705
+Mon Apr 14 2014,Boston Celtics,108,Philadelphia 76ers,113,-147,+128
+Mon Apr 14 2014,Milwaukee Bucks,100,Toronto Raptors,110,+490,-653
+Mon Apr 14 2014,Miami Heat,93,Washington Wizards,114,+187,-220
+Mon Apr 14 2014,Charlotte Bobcats,95,Atlanta Hawks,93,,+173
+Mon Apr 14 2014,Orlando Magic,95,Chicago Bulls,108,+545,-719
+Mon Apr 14 2014,San Antonio Spurs,98,Houston Rockets,104,+185,-219
+Mon Apr 14 2014,Oklahoma City Thunder,89,New Orleans Pelicans,101,-397,+323
+Mon Apr 14 2014,Los Angeles Lakers,119,Utah Jazz,104,+223,-263
+Mon Apr 14 2014,Memphis Grizzlies,97,Phoenix Suns,91,+153,-173
+Mon Apr 14 2014,Minnesota Timberwolves,120,Golden State Warriors,130,+289,-349
+Tue Apr 15 2014,New York Knicks,109,Brooklyn Nets,98,+245,-291
+Tue Apr 15 2014,Denver Nuggets,105,Los Angeles Clippers,117,+447,-581
+Wed Apr 16 2014,Chicago Bulls,86,Charlotte Bobcats,91,+105,
+Wed Apr 16 2014,Indiana Pacers,101,Orlando Magic,86,+141,-161
+Wed Apr 16 2014,Washington Wizards,118,Boston Celtics,102,-363,+298
+Wed Apr 16 2014,Brooklyn Nets,85,Cleveland Cavaliers,114,+306,-372
+Wed Apr 16 2014,Dallas Mavericks,105,Memphis Grizzlies,106,+127,-147
+Wed Apr 16 2014,Philadelphia 76ers,100,Miami Heat,87,+198,-235
+Wed Apr 16 2014,Atlanta Hawks,111,Milwaukee Bucks,103,+133,-153
+Wed Apr 16 2014,Utah Jazz,136,Minnesota Timberwolves,130,+632,-865
+Wed Apr 16 2014,Houston Rockets,100,New Orleans Pelicans,105,+129,-148
+Wed Apr 16 2014,Toronto Raptors,92,New York Knicks,95,-239,+202
+Wed Apr 16 2014,Detroit Pistons,111,Oklahoma City Thunder,112,+1206,-2089
+Wed Apr 16 2014,Los Angeles Lakers,113,San Antonio Spurs,100,+362,-448
+Wed Apr 16 2014,Golden State Warriors,116,Denver Nuggets,112,+295,-361
+Wed Apr 16 2014,Los Angeles Clippers,104,Portland Trail Blazers,110,+149,-171
+Wed Apr 16 2014,Phoenix Suns,104,Sacramento Kings,99,-143,+124
+Sat Apr 19 2014,Brooklyn Nets,94,Toronto Raptors,87,+148,-168
+Sat Apr 19 2014,Golden State Warriors,109,Los Angeles Clippers,105,+290,-352
+Sat Apr 19 2014,Atlanta Hawks,101,Indiana Pacers,93,+330,-406
+Sat Apr 19 2014,Memphis Grizzlies,86,Oklahoma City Thunder,100,+316,-388
+Sun Apr 20 2014,Dallas Mavericks,85,San Antonio Spurs,90,+432,-557
+Sun Apr 20 2014,Charlotte Bobcats,88,Miami Heat,99,,-668
+Sun Apr 20 2014,Washington Wizards,102,Chicago Bulls,93,+168,-196
+Sun Apr 20 2014,Portland Trail Blazers,122,Houston Rockets,120,+186,-219
+Mon Apr 21 2014,Memphis Grizzlies,111,Oklahoma City Thunder,105,+273,-330
+Mon Apr 21 2014,Golden State Warriors,98,Los Angeles Clippers,138,+326,-400
+Tue Apr 22 2014,Atlanta Hawks,85,Indiana Pacers,101,+290,-354
+Tue Apr 22 2014,Brooklyn Nets,95,Toronto Raptors,100,+175,-205
+Tue Apr 22 2014,Washington Wizards,101,Chicago Bulls,99,+189,-224
+Wed Apr 23 2014,Charlotte Bobcats,97,Miami Heat,101,,-600
+Wed Apr 23 2014,Dallas Mavericks,113,San Antonio Spurs,92,+301,-365
+Wed Apr 23 2014,Portland Trail Blazers,112,Houston Rockets,105,+252,-300
+Thu Apr 24 2014,Indiana Pacers,85,Atlanta Hawks,98,-132,+113
+Thu Apr 24 2014,Oklahoma City Thunder,95,Memphis Grizzlies,98,-144,+125
+Thu Apr 24 2014,Los Angeles Clippers,98,Golden State Warriors,96,-150,+130
+Fri Apr 25 2014,Toronto Raptors,98,Brooklyn Nets,102,+180,-212
+Fri Apr 25 2014,Chicago Bulls,100,Washington Wizards,97,+123,-143
+Fri Apr 25 2014,Houston Rockets,121,Portland Trail Blazers,116,+117,-136
+Sat Apr 26 2014,Indiana Pacers,91,Atlanta Hawks,88,-141,+122
+Sat Apr 26 2014,San Antonio Spurs,108,Dallas Mavericks,109,-173,+152
+Sat Apr 26 2014,Miami Heat,98,Charlotte Bobcats,85,-203,
+Sat Apr 26 2014,Oklahoma City Thunder,92,Memphis Grizzlies,89,-166,+146
+Sun Apr 27 2014,Chicago Bulls,89,Washington Wizards,98,+111,-130
+Sun Apr 27 2014,Los Angeles Clippers,97,Golden State Warriors,118,-124,+106
+Sun Apr 27 2014,Toronto Raptors,87,Brooklyn Nets,79,+154,-175
+Sun Apr 27 2014,Houston Rockets,120,Portland Trail Blazers,123,+153,-174
+Mon Apr 28 2014,Miami Heat,109,Charlotte Bobcats,98,-386,
+Mon Apr 28 2014,Atlanta Hawks,107,Indiana Pacers,97,+270,-326
+Mon Apr 28 2014,San Antonio Spurs,93,Dallas Mavericks,89,-201,+172
+Tue Apr 29 2014,Washington Wizards,75,Chicago Bulls,69,+150,-170
+Tue Apr 29 2014,Memphis Grizzlies,100,Oklahoma City Thunder,99,+288,-349
+Tue Apr 29 2014,Golden State Warriors,103,Los Angeles Clippers,113,+260,-310
+Wed Apr 30 2014,Dallas Mavericks,103,San Antonio Spurs,109,+249,-295
+Wed Apr 30 2014,Brooklyn Nets,113,Toronto Raptors,115,+128,-149
+Wed Apr 30 2014,Portland Trail Blazers,98,Houston Rockets,108,+177,-209
+Thu May 1 2014,Indiana Pacers,95,Atlanta Hawks,88,+110,-129
+Thu May 1 2014,Oklahoma City Thunder,104,Memphis Grizzlies,84,-142,+123
+Thu May 1 2014,Los Angeles Clippers,99,Golden State Warriors,100,-113,-106
+Fri May 2 2014,Toronto Raptors,83,Brooklyn Nets,97,+179,-209
+Fri May 2 2014,San Antonio Spurs,111,Dallas Mavericks,113,-156,+137
+Fri May 2 2014,Houston Rockets,98,Portland Trail Blazers,99,+161,-183
+Sat May 3 2014,Atlanta Hawks,80,Indiana Pacers,92,+228,-269
+Sat May 3 2014,Memphis Grizzlies,109,Oklahoma City Thunder,120,+463,-608
+Sat May 3 2014,Golden State Warriors,121,Los Angeles Clippers,126,+267,-324
+Sun May 4 2014,Brooklyn Nets,104,Toronto Raptors,103,+120,-140
+Sun May 4 2014,Dallas Mavericks,96,San Antonio Spurs,119,+268,-327
+Mon May 5 2014,Washington Wizards,102,Indiana Pacers,96,+155,-176
+Mon May 5 2014,Los Angeles Clippers,122,Oklahoma City Thunder,105,+197,-232
+Tue May 6 2014,Brooklyn Nets,86,Miami Heat,107,+326,-403
+Tue May 6 2014,Portland Trail Blazers,92,San Antonio Spurs,116,+246,-293
+Wed May 7 2014,Washington Wizards,82,Indiana Pacers,86,+168,-194
+Wed May 7 2014,Los Angeles Clippers,101,Oklahoma City Thunder,112,+198,-233
+Thu May 8 2014,Brooklyn Nets,82,Miami Heat,94,+265,-322
+Thu May 8 2014,Portland Trail Blazers,97,San Antonio Spurs,114,+235,-278
+Fri May 9 2014,Indiana Pacers,85,Washington Wizards,63,+177,-208
+Fri May 9 2014,Oklahoma City Thunder,118,Los Angeles Clippers,112,+163,-186
+Sat May 10 2014,Miami Heat,90,Brooklyn Nets,104,-119,-102
+Sat May 10 2014,San Antonio Spurs,118,Portland Trail Blazers,103,-111,-108
+Sun May 11 2014,Oklahoma City Thunder,99,Los Angeles Clippers,101,+185,-220
+Sun May 11 2014,Indiana Pacers,95,Washington Wizards,92,+142,-162
+Mon May 12 2014,Miami Heat,102,Brooklyn Nets,96,-136,+117
+Mon May 12 2014,San Antonio Spurs,92,Portland Trail Blazers,103,-187,+163
+Tue May 13 2014,Washington Wizards,102,Indiana Pacers,79,+191,-226
+Tue May 13 2014,Los Angeles Clippers,104,Oklahoma City Thunder,105,+200,-239
+Wed May 14 2014,Brooklyn Nets,94,Miami Heat,96,+282,-341
+Wed May 14 2014,Portland Trail Blazers,82,San Antonio Spurs,104,+322,-395
+Thu May 15 2014,Indiana Pacers,93,Washington Wizards,80,+161,-183
+Thu May 15 2014,Oklahoma City Thunder,104,Los Angeles Clippers,98,+160,-182
+Sun May 18 2014,Miami Heat,96,Indiana Pacers,107,-135,+116
+Mon May 19 2014,Oklahoma City Thunder,105,San Antonio Spurs,122,+219,-260
+Tue May 20 2014,Miami Heat,87,Indiana Pacers,83,-147,+128
+Wed May 21 2014,Oklahoma City Thunder,77,San Antonio Spurs,112,+193,-228
+Sat May 24 2014,Indiana Pacers,87,Miami Heat,99,+238,-282
+Sun May 25 2014,San Antonio Spurs,97,Oklahoma City Thunder,106,+121,-140
+Mon May 26 2014,Indiana Pacers,90,Miami Heat,102,+234,-275
+Tue May 27 2014,San Antonio Spurs,92,Oklahoma City Thunder,105,+117,-135
+Wed May 28 2014,Miami Heat,90,Indiana Pacers,93,-108,-111
+Thu May 29 2014,Oklahoma City Thunder,89,San Antonio Spurs,117,+187,-220
+Fri May 30 2014,Indiana Pacers,92,Miami Heat,117,+347,-431
+Sat May 31 2014,San Antonio Spurs,112,Oklahoma City Thunder,107,+144,-164
+Thu Jun 5 2014,Miami Heat,95,San Antonio Spurs,110,+184,-217
+Sun Jun 8 2014,Miami Heat,98,San Antonio Spurs,96,+146,-167
+Tue Jun 10 2014,San Antonio Spurs,111,Miami Heat,92,+167,-193
+Thu Jun 12 2014,San Antonio Spurs,107,Miami Heat,86,+204,-236
+Sun Jun 15 2014,Miami Heat,87,San Antonio Spurs,104,+178,-213

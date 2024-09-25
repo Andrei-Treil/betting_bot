@@ -1,0 +1,1310 @@
+date,away_team,away_pt,home_team,home_pt,away_line,home_line
+Tue Oct 25 2016,New York Knicks,88,Cleveland Cavaliers,117,+405,-450
+Tue Oct 25 2016,Utah Jazz,104,Portland Trail Blazers,113,+215,-235
+Tue Oct 25 2016,San Antonio Spurs,129,Golden State Warriors,100,+350,-394
+Wed Oct 26 2016,Dallas Mavericks,121,Indiana Pacers,130,+200,-215
+Wed Oct 26 2016,Miami Heat,108,Orlando Magic,96,+135,-150
+Wed Oct 26 2016,Detroit Pistons,91,Toronto Raptors,109,+250,-260
+Wed Oct 26 2016,Brooklyn Nets,117,Boston Celtics,122,+900,-900
+Wed Oct 26 2016,Charlotte Hornets,107,Milwaukee Bucks,96,-117,+110
+Wed Oct 26 2016,Denver Nuggets,107,New Orleans Pelicans,102,+143,-118
+Wed Oct 26 2016,Minnesota Timberwolves,98,Memphis Grizzlies,102,-117,+105
+Wed Oct 26 2016,Oklahoma City Thunder,103,Philadelphia 76ers,97, , 
+Wed Oct 26 2016,Sacramento Kings,113,Phoenix Suns,94,+135,-150
+Wed Oct 26 2016,Houston Rockets,114,Los Angeles Lakers,120,-235,+225
+Thu Oct 27 2016,Washington Wizards,99,Atlanta Hawks,114,+165,-174
+Thu Oct 27 2016,Boston Celtics,99,Chicago Bulls,105, , 
+Thu Oct 27 2016,Los Angeles Clippers,114,Portland Trail Blazers,106,-134,+135
+Thu Oct 27 2016,San Antonio Spurs,102,Sacramento Kings,94,-325,+340
+Fri Oct 28 2016,Cleveland Cavaliers,94,Toronto Raptors,91,-145,+140
+Fri Oct 28 2016,Indiana Pacers,94,Brooklyn Nets,103,-225,+210
+Fri Oct 28 2016,Orlando Magic,82,Detroit Pistons,108,+160,-170
+Fri Oct 28 2016,Phoenix Suns,110,Oklahoma City Thunder,113,+330,-345
+Fri Oct 28 2016,Charlotte Hornets,97,Miami Heat,91, , 
+Fri Oct 28 2016,Houston Rockets,106,Dallas Mavericks,98,+102,+115
+Fri Oct 28 2016,Los Angeles Lakers,89,Utah Jazz,96,+410,-450
+Fri Oct 28 2016,Golden State Warriors,122,New Orleans Pelicans,114, , 
+Sat Oct 29 2016,Atlanta Hawks,104,Philadelphia 76ers,72,-355,+315
+Sat Oct 29 2016,Boston Celtics,104,Charlotte Hornets,98,-140,+130
+Sat Oct 29 2016,Orlando Magic,99,Cleveland Cavaliers,105, , 
+Sat Oct 29 2016,Memphis Grizzlies,104,New York Knicks,111,+140,-150
+Sat Oct 29 2016,New Orleans Pelicans,79,San Antonio Spurs,98, , 
+Sat Oct 29 2016,Brooklyn Nets,108,Milwaukee Bucks,110,+300,-350
+Sat Oct 29 2016,Indiana Pacers,101,Chicago Bulls,118,+150,-160
+Sat Oct 29 2016,Portland Trail Blazers,115,Denver Nuggets,113,-100,+110
+Sat Oct 29 2016,Minnesota Timberwolves,103,Sacramento Kings,106,-102,+105
+Sun Oct 30 2016,Utah Jazz,75,Los Angeles Clippers,88,+295,-330
+Sun Oct 30 2016,Milwaukee Bucks,83,Detroit Pistons,98,+310,-315
+Sun Oct 30 2016,San Antonio Spurs,106,Miami Heat,99,-260,+230
+Sun Oct 30 2016,Golden State Warriors,106,Phoenix Suns,100, , 
+Sun Oct 30 2016,Los Angeles Lakers,96,Oklahoma City Thunder,113,+355,-415
+Sun Oct 30 2016,Dallas Mavericks,92,Houston Rockets,93,+210,-190
+Sun Oct 30 2016,Washington Wizards,103,Memphis Grizzlies,112,-140,+145
+Mon Oct 31 2016,Sacramento Kings,95,Atlanta Hawks,106,+250,-290
+Mon Oct 31 2016,Chicago Bulls,118,Brooklyn Nets,88,-245,+240
+Mon Oct 31 2016,Denver Nuggets,102,Toronto Raptors,105,+280,-280
+Mon Oct 31 2016,Phoenix Suns,98,Los Angeles Clippers,116, , 
+Tue Nov 1 2016,Houston Rockets,120,Cleveland Cavaliers,128,+445,-510
+Tue Nov 1 2016,Los Angeles Lakers,108,Indiana Pacers,115,+375,-450
+Tue Nov 1 2016,Orlando Magic,103,Philadelphia 76ers,101,-200,+180
+Tue Nov 1 2016,New York Knicks,89,Detroit Pistons,102,+155,-160
+Tue Nov 1 2016,Sacramento Kings,96,Miami Heat,108,+150,-165
+Tue Nov 1 2016,Memphis Grizzlies,80,Minnesota Timberwolves,116,+285,-310
+Tue Nov 1 2016,Milwaukee Bucks,117,New Orleans Pelicans,113,+150,-165
+Tue Nov 1 2016,Utah Jazz,106,San Antonio Spurs,91, , 
+Tue Nov 1 2016,Golden State Warriors,127,Portland Trail Blazers,104,-200,+200
+Wed Nov 2 2016,Philadelphia 76ers,93,Charlotte Hornets,109, , 
+Wed Nov 2 2016,Toronto Raptors,113,Washington Wizards,103, , 
+Wed Nov 2 2016,Los Angeles Lakers,123,Atlanta Hawks,116, , 
+Wed Nov 2 2016,Detroit Pistons,101,Brooklyn Nets,109,-167,+165
+Wed Nov 2 2016,Houston Rockets,118,New York Knicks,99, , 
+Wed Nov 2 2016,Chicago Bulls,100,Boston Celtics,107,+145,-145
+Wed Nov 2 2016,New Orleans Pelicans,83,Memphis Grizzlies,89,+205,-205
+Wed Nov 2 2016,Dallas Mavericks,81,Utah Jazz,97,+140,-155
+Wed Nov 2 2016,Portland Trail Blazers,115,Phoenix Suns,118,-138,+130
+Wed Nov 2 2016,Oklahoma City Thunder,85,Los Angeles Clippers,83,+260,-280
+Thu Nov 3 2016,Sacramento Kings,94,Orlando Magic,102,+103,-100
+Thu Nov 3 2016,Boston Celtics,122,Cleveland Cavaliers,128, , 
+Thu Nov 3 2016,Indiana Pacers,107,Milwaukee Bucks,125,-145,+130
+Thu Nov 3 2016,Denver Nuggets,102,Minnesota Timberwolves,99,+150,-165
+Thu Nov 3 2016,Oklahoma City Thunder,96,Golden State Warriors,122, , 
+Fri Nov 4 2016,Atlanta Hawks,92,Washington Wizards,95,+105,-117
+Fri Nov 4 2016,Charlotte Hornets,99,Brooklyn Nets,95,-275,+248
+Fri Nov 4 2016,Miami Heat,87,Toronto Raptors,96,+265,-285
+Fri Nov 4 2016,New York Knicks,117,Chicago Bulls,104,+280,-300
+Fri Nov 4 2016,Los Angeles Clippers,99,Memphis Grizzlies,88,-230,+210
+Fri Nov 4 2016,Phoenix Suns,112,New Orleans Pelicans,111,+135,-141
+Fri Nov 4 2016,Portland Trail Blazers,105,Dallas Mavericks,95,-131,+135
+Fri Nov 4 2016,San Antonio Spurs,100,Utah Jazz,86,-165,+155
+Fri Nov 4 2016,Golden State Warriors,97,Los Angeles Lakers,117,-747,+610
+Sat Nov 5 2016,Minnesota Timberwolves,92,Oklahoma City Thunder,112,+170,-190
+Sat Nov 5 2016,Denver Nuggets,86,Detroit Pistons,103,+170,-183
+Sat Nov 5 2016,Chicago Bulls,94,Indiana Pacers,111,+151,-155
+Sat Nov 5 2016,Washington Wizards,86,Orlando Magic,88,+230,-225
+Sat Nov 5 2016,Cleveland Cavaliers,102,Philadelphia 76ers,101, , 
+Sat Nov 5 2016,Houston Rockets,97,Atlanta Hawks,112,+143,-150
+Sat Nov 5 2016,Sacramento Kings,91,Milwaukee Bucks,117,+153,-160
+Sat Nov 5 2016,Los Angeles Clippers,116,San Antonio Spurs,92,+180,-183
+Sun Nov 6 2016,Utah Jazz,114,New York Knicks,109,-135,+120
+Sun Nov 6 2016,Portland Trail Blazers,100,Memphis Grizzlies,94,-103,+135
+Sun Nov 6 2016,Sacramento Kings,96,Toronto Raptors,91,+430,-315
+Sun Nov 6 2016,Milwaukee Bucks,75,Dallas Mavericks,86, , 
+Sun Nov 6 2016,Denver Nuggets,123,Boston Celtics,107,+260,-300
+Sun Nov 6 2016,Phoenix Suns,108,Los Angeles Lakers,119,+160,-150
+Mon Nov 7 2016,Indiana Pacers,100,Charlotte Hornets,122,+130,-140
+Mon Nov 7 2016,Utah Jazz,109,Philadelphia 76ers,84,-190,+200
+Mon Nov 7 2016,Houston Rockets,114,Washington Wizards,106,-100,-115
+Mon Nov 7 2016,Orlando Magic,80,Chicago Bulls,112,+260,-275
+Mon Nov 7 2016,Miami Heat,85,Oklahoma City Thunder,97,+205,-215
+Mon Nov 7 2016,New Orleans Pelicans,106,Golden State Warriors,116, , 
+Mon Nov 7 2016,Detroit Pistons,82,Los Angeles Clippers,114,+340,-375
+Tue Nov 8 2016,Atlanta Hawks,110,Cleveland Cavaliers,106,+290,-330
+Tue Nov 8 2016,Minnesota Timberwolves,110,Brooklyn Nets,119,-170,+170
+Tue Nov 8 2016,Denver Nuggets,107,Memphis Grizzlies,108,+155,-165
+Tue Nov 8 2016,Phoenix Suns,121,Portland Trail Blazers,124,+330,-380
+Tue Nov 8 2016,Dallas Mavericks,109,Los Angeles Lakers,97,+165,-175
+Tue Nov 8 2016,New Orleans Pelicans,94,Sacramento Kings,102,+245,-265
+Wed Nov 9 2016,Utah Jazz,98,Charlotte Hornets,104,+135,-145
+Wed Nov 9 2016,Philadelphia 76ers,115,Indiana Pacers,122, , 
+Wed Nov 9 2016,Brooklyn Nets,96,New York Knicks,110,+300,-345
+Wed Nov 9 2016,Minnesota Timberwolves,123,Orlando Magic,107,+125,-140
+Wed Nov 9 2016,Boston Celtics,93,Washington Wizards,118,+105,+103
+Wed Nov 9 2016,Chicago Bulls,107,Atlanta Hawks,115,+140,-150
+Wed Nov 9 2016,Toronto Raptors,112,Oklahoma City Thunder,102,+150,-155
+Wed Nov 9 2016,Detroit Pistons,100,Phoenix Suns,107,-170,+165
+Wed Nov 9 2016,Houston Rockets,101,San Antonio Spurs,99,+355,-420
+Wed Nov 9 2016,Dallas Mavericks,95,Golden State Warriors,116,+2000, 
+Wed Nov 9 2016,Portland Trail Blazers,80,Los Angeles Clippers,111,+515,-650
+Thu Nov 10 2016,Chicago Bulls,98,Miami Heat,95,+110,-105
+Thu Nov 10 2016,New Orleans Pelicans,112,Milwaukee Bucks,106,+195,-205
+Thu Nov 10 2016,Golden State Warriors,125,Denver Nuggets,101,-270,+250
+Thu Nov 10 2016,Los Angeles Lakers,101,Sacramento Kings,91,+195,-200
+Fri Nov 11 2016,Toronto Raptors,113,Charlotte Hornets,111,+110,-105
+Fri Nov 11 2016,Utah Jazz,87,Orlando Magic,74,-193,+175
+Fri Nov 11 2016,Indiana Pacers,105,Philadelphia 76ers,109,-210,+190
+Fri Nov 11 2016,Cleveland Cavaliers,105,Washington Wizards,94,-300,+290
+Fri Nov 11 2016,New York Knicks,87,Boston Celtics,115,+185,-180
+Fri Nov 11 2016,Los Angeles Clippers,110,Oklahoma City Thunder,108,-195,+175
+Fri Nov 11 2016,Detroit Pistons,86,San Antonio Spurs,96,+375,-425
+Fri Nov 11 2016,Sacramento Kings,120,Portland Trail Blazers,122,+285,-285
+Sat Nov 12 2016,Boston Celtics,105,Indiana Pacers,99,-120,+110
+Sat Nov 12 2016,Los Angeles Lakers,126,New Orleans Pelicans,99, , 
+Sat Nov 12 2016,Philadelphia 76ers,96,Atlanta Hawks,117, , 
+Sat Nov 12 2016,New York Knicks,107,Toronto Raptors,118,+265,-310
+Sat Nov 12 2016,Washington Wizards,95,Chicago Bulls,106,+460,-565
+Sat Nov 12 2016,San Antonio Spurs,106,Houston Rockets,100, , 
+Sat Nov 12 2016,Utah Jazz,102,Miami Heat,91,-117,+102
+Sat Nov 12 2016,Los Angeles Clippers,119,Minnesota Timberwolves,105,-205,+190
+Sat Nov 12 2016,Memphis Grizzlies,96,Milwaukee Bucks,106,+145,-140
+Sat Nov 12 2016,Detroit Pistons,106,Denver Nuggets,95,+200,-200
+Sat Nov 12 2016,Brooklyn Nets,122,Phoenix Suns,104,+180,-195
+Sun Nov 13 2016,Charlotte Hornets,93,Cleveland Cavaliers,100,+295,-310
+Sun Nov 13 2016,Los Angeles Lakers,99,Minnesota Timberwolves,125,+125,-105
+Sun Nov 13 2016,Orlando Magic,119,Oklahoma City Thunder,117,+425,-470
+Sun Nov 13 2016,Phoenix Suns,120,Golden State Warriors,133, , 
+Sun Nov 13 2016,Denver Nuggets,105,Portland Trail Blazers,112,+295,-320
+Mon Nov 14 2016,Orlando Magic,69,Indiana Pacers,88,+300,-340
+Mon Nov 14 2016,Oklahoma City Thunder,88,Detroit Pistons,104,-115,+105
+Mon Nov 14 2016,Dallas Mavericks,77,New York Knicks,93,+160,-170
+Mon Nov 14 2016,Philadelphia 76ers,88,Houston Rockets,115, , 
+Mon Nov 14 2016,Boston Celtics,105,New Orleans Pelicans,106,-155,+165
+Mon Nov 14 2016,Miami Heat,90,San Antonio Spurs,94, , 
+Mon Nov 14 2016,Memphis Grizzlies,102,Utah Jazz,96,+225,-250
+Mon Nov 14 2016,Brooklyn Nets,95,Los Angeles Clippers,127, , 
+Tue Nov 15 2016,Toronto Raptors,117,Cleveland Cavaliers,121,+215,-235
+Tue Nov 15 2016,Atlanta Hawks,93,Miami Heat,90,-265,+250
+Tue Nov 15 2016,Charlotte Hornets,115,Minnesota Timberwolves,108,+105,-100
+Tue Nov 15 2016,Chicago Bulls,113,Portland Trail Blazers,88,+165,-165
+Tue Nov 15 2016,Brooklyn Nets,118,Los Angeles Lakers,125,+262,-265
+Wed Nov 16 2016,Cleveland Cavaliers,93,Indiana Pacers,103,+135,-135
+Wed Nov 16 2016,New Orleans Pelicans,82,Orlando Magic,89,+280,-315
+Wed Nov 16 2016,Washington Wizards,102,Philadelphia 76ers,109,-280,+252
+Wed Nov 16 2016,Milwaukee Bucks,100,Atlanta Hawks,107,+195,-205
+Wed Nov 16 2016,Dallas Mavericks,83,Boston Celtics,90,+230,-245
+Wed Nov 16 2016,Detroit Pistons,102,New York Knicks,105,+109,-120
+Wed Nov 16 2016,Houston Rockets,103,Oklahoma City Thunder,105,+122,-135
+Wed Nov 16 2016,Golden State Warriors,127,Toronto Raptors,121,-245,+214
+Wed Nov 16 2016,Phoenix Suns,104,Denver Nuggets,120,+170,-175
+Wed Nov 16 2016,Memphis Grizzlies,111,Los Angeles Clippers,107, , 
+Wed Nov 16 2016,San Antonio Spurs,110,Sacramento Kings,105,-225,+200
+Thu Nov 17 2016,New York Knicks,112,Washington Wizards,119,+185,-210
+Thu Nov 17 2016,Milwaukee Bucks,73,Miami Heat,96,+150,-160
+Thu Nov 17 2016,Portland Trail Blazers,109,Houston Rockets,126,+180,-205
+Thu Nov 17 2016,Philadelphia 76ers,86,Minnesota Timberwolves,110, , 
+Thu Nov 17 2016,Chicago Bulls,85,Utah Jazz,77,+145,-130
+Fri Nov 18 2016,Atlanta Hawks,96,Charlotte Hornets,100,+130,-130
+Fri Nov 18 2016,Phoenix Suns,116,Indiana Pacers,96,+225,-180
+Fri Nov 18 2016,Detroit Pistons,81,Cleveland Cavaliers,104,+360,-420
+Fri Nov 18 2016,Golden State Warriors,104,Boston Celtics,88,-320,+355
+Fri Nov 18 2016,Portland Trail Blazers,101,New Orleans Pelicans,113,-103,+110
+Fri Nov 18 2016,Brooklyn Nets,105,Oklahoma City Thunder,124,+430,-470
+Fri Nov 18 2016,Memphis Grizzlies,80,Dallas Mavericks,64,-140,+145
+Fri Nov 18 2016,Toronto Raptors,113,Denver Nuggets,111,-155,+150
+Fri Nov 18 2016,San Antonio Spurs,116,Los Angeles Lakers,107,-275,+275
+Fri Nov 18 2016,Los Angeles Clippers,121,Sacramento Kings,115,-360,+330
+Sat Nov 19 2016,Utah Jazz,102,Houston Rockets,111,+248,-270
+Sat Nov 19 2016,Boston Celtics,94,Detroit Pistons,92,+155,-120
+Sat Nov 19 2016,Charlotte Hornets,116,New Orleans Pelicans,121,-125,+135
+Sat Nov 19 2016,Dallas Mavericks,87,Orlando Magic,95,+318,-350
+Sat Nov 19 2016,Miami Heat,114,Washington Wizards,111,+178,-200
+Sat Nov 19 2016,Phoenix Suns,105,Philadelphia 76ers,120,-125,+115
+Sat Nov 19 2016,Minnesota Timberwolves,71,Memphis Grizzlies,93,-110,+135
+Sat Nov 19 2016,Golden State Warriors,124,Milwaukee Bucks,121,-300,+375
+Sat Nov 19 2016,Chicago Bulls,95,Los Angeles Clippers,102,+300,-310
+Sun Nov 20 2016,Atlanta Hawks,94,New York Knicks,104,-180,+170
+Sun Nov 20 2016,Portland Trail Blazers,129,Brooklyn Nets,109,-175,+170
+Sun Nov 20 2016,Indiana Pacers,115,Oklahoma City Thunder,111,+425,-475
+Sun Nov 20 2016,Utah Jazz,91,Denver Nuggets,105,+155,-155
+Sun Nov 20 2016,Toronto Raptors,99,Sacramento Kings,102,-155,+150
+Sun Nov 20 2016,Chicago Bulls,118,Los Angeles Lakers,110,+120,-100
+Mon Nov 21 2016,Memphis Grizzlies,105,Charlotte Hornets,90,+190,-210
+Mon Nov 21 2016,Golden State Warriors,120,Indiana Pacers,83, , 
+Mon Nov 21 2016,Miami Heat,94,Philadelphia 76ers,101,-180,+165
+Mon Nov 21 2016,Phoenix Suns,101,Washington Wizards,106,+320,-312
+Mon Nov 21 2016,Houston Rockets,99,Detroit Pistons,96,-125,+130
+Mon Nov 21 2016,Orlando Magic,89,Milwaukee Bucks,93,+245,-260
+Mon Nov 21 2016,Boston Celtics,99,Minnesota Timberwolves,93,-115,+115
+Mon Nov 21 2016,Dallas Mavericks,91,San Antonio Spurs,96, , 
+Mon Nov 21 2016,Toronto Raptors,115,Los Angeles Clippers,123,+385,-460
+Tue Nov 22 2016,New Orleans Pelicans,112,Atlanta Hawks,94,+320,-365
+Tue Nov 22 2016,Portland Trail Blazers,103,New York Knicks,107,+105,-120
+Tue Nov 22 2016,Chicago Bulls,107,Denver Nuggets,110, , 
+Tue Nov 22 2016,Oklahoma City Thunder,109,Los Angeles Lakers,111,-150,+145
+Wed Nov 23 2016,San Antonio Spurs,119,Charlotte Hornets,114,-222,+200
+Wed Nov 23 2016,Portland Trail Blazers,125,Cleveland Cavaliers,137, , 
+Wed Nov 23 2016,Atlanta Hawks,96,Indiana Pacers,85, , 
+Wed Nov 23 2016,Phoenix Suns,92,Orlando Magic,87,+165,-175
+Wed Nov 23 2016,Memphis Grizzlies,104,Philadelphia 76ers,99,-235,+210
+Wed Nov 23 2016,Boston Celtics,111,Brooklyn Nets,92,-310,+260
+Wed Nov 23 2016,Miami Heat,84,Detroit Pistons,107,+175,-190
+Wed Nov 23 2016,Toronto Raptors,115,Houston Rockets,102,+155,-162
+Wed Nov 23 2016,Los Angeles Clippers,124,Dallas Mavericks,104,-575,+492
+Wed Nov 23 2016,Denver Nuggets,83,Utah Jazz,108,+300,-320
+Wed Nov 23 2016,Minnesota Timberwolves,96,New Orleans Pelicans,117,-126,+120
+Wed Nov 23 2016,Los Angeles Lakers,106,Golden State Warriors,149, , 
+Wed Nov 23 2016,Oklahoma City Thunder,101,Sacramento Kings,116,+120,-120
+Fri Nov 25 2016,San Antonio Spurs,109,Boston Celtics,103,-150,+145
+Fri Nov 25 2016,Washington Wizards,94,Orlando Magic,91,-130,+115
+Fri Nov 25 2016,Dallas Mavericks,90,Cleveland Cavaliers,128, , 
+Fri Nov 25 2016,Los Angeles Clippers,97,Detroit Pistons,108,-260,+255
+Fri Nov 25 2016,Charlotte Hornets,111,New York Knicks,113, , 
+Fri Nov 25 2016,Chicago Bulls,105,Philadelphia 76ers,89,-450,+400
+Fri Nov 25 2016,Brooklyn Nets,97,Indiana Pacers,118,+195,-215
+Fri Nov 25 2016,Miami Heat,90,Memphis Grizzlies,81,+180,-194
+Fri Nov 25 2016,Toronto Raptors,105,Milwaukee Bucks,99,-160,+145
+Fri Nov 25 2016,Atlanta Hawks,68,Utah Jazz,95,+145,-157
+Fri Nov 25 2016,Oklahoma City Thunder,132,Denver Nuggets,129,-136,+135
+Fri Nov 25 2016,Minnesota Timberwolves,98,Phoenix Suns,85,-140,+125
+Fri Nov 25 2016,New Orleans Pelicans,104,Portland Trail Blazers,119,+160,-160
+Fri Nov 25 2016,Golden State Warriors,109,Los Angeles Lakers,85, , 
+Fri Nov 25 2016,Houston Rockets,117,Sacramento Kings,104,-155,+145
+Sat Nov 26 2016,New York Knicks,102,Charlotte Hornets,107,+195,-220
+Sat Nov 26 2016,San Antonio Spurs,112,Washington Wizards,100,-219,+220
+Sat Nov 26 2016,Memphis Grizzlies,110,Miami Heat,107,+105,+105
+Sat Nov 26 2016,Detroit Pistons,88,Oklahoma City Thunder,106,+165,-185
+Sat Nov 26 2016,Minnesota Timberwolves,102,Golden State Warriors,115, , 
+Sun Nov 27 2016,Cleveland Cavaliers,112,Philadelphia 76ers,108, , 
+Sun Nov 27 2016,Denver Nuggets,120,Phoenix Suns,114,+120,-118
+Sun Nov 27 2016,Sacramento Kings,122,Brooklyn Nets,105,-195,+175
+Sun Nov 27 2016,Los Angeles Clippers,70,Indiana Pacers,91, , 
+Sun Nov 27 2016,Milwaukee Bucks,104,Orlando Magic,96, , 
+Sun Nov 27 2016,New Orleans Pelicans,81,Dallas Mavericks,91,-198,+190
+Sun Nov 27 2016,Houston Rockets,130,Portland Trail Blazers,114,-115,+110
+Sun Nov 27 2016,Atlanta Hawks,94,Los Angeles Lakers,109,-233,+205
+Mon Nov 28 2016,Sacramento Kings,95,Washington Wizards,101,+175,-195
+Mon Nov 28 2016,Boston Celtics,112,Miami Heat,104,-170,+160
+Mon Nov 28 2016,Oklahoma City Thunder,112,New York Knicks,103, , 
+Mon Nov 28 2016,Philadelphia 76ers,95,Toronto Raptors,122, , 
+Mon Nov 28 2016,Charlotte Hornets,104,Memphis Grizzlies,85, , 
+Mon Nov 28 2016,Utah Jazz,112,Minnesota Timberwolves,103,-141,+130
+Mon Nov 28 2016,Atlanta Hawks,100,Golden State Warriors,105, , 
+Tue Nov 29 2016,Detroit Pistons,112,Charlotte Hornets,89,+150,-160
+Tue Nov 29 2016,Los Angeles Clippers,122,Brooklyn Nets,127, , 
+Tue Nov 29 2016,Cleveland Cavaliers,101,Milwaukee Bucks,118,-300,+259
+Tue Nov 29 2016,Los Angeles Lakers,88,New Orleans Pelicans,105,+195,-220
+Tue Nov 29 2016,Orlando Magic,95,San Antonio Spurs,83, , 
+Tue Nov 29 2016,Houston Rockets,101,Utah Jazz,120,-114,+105
+Wed Nov 30 2016,Detroit Pistons,121,Boston Celtics,114,+260,-265
+Wed Nov 30 2016,Memphis Grizzlies,105,Toronto Raptors,120,+857,-891
+Wed Nov 30 2016,Los Angeles Lakers,96,Chicago Bulls,90,+475,-600
+Wed Nov 30 2016,New York Knicks,106,Minnesota Timberwolves,104,+155,-170
+Wed Nov 30 2016,Washington Wizards,115,Oklahoma City Thunder,126,+200,-200
+Wed Nov 30 2016,San Antonio Spurs,94,Dallas Mavericks,87,-400,+370
+Wed Nov 30 2016,Miami Heat,106,Denver Nuggets,98,+226,-255
+Wed Nov 30 2016,Atlanta Hawks,107,Phoenix Suns,109,-165,+165
+Wed Nov 30 2016,Indiana Pacers,109,Portland Trail Blazers,131,+275,-310
+Thu Dec 1 2016,Dallas Mavericks,87,Charlotte Hornets,97, , 
+Thu Dec 1 2016,Milwaukee Bucks,111,Brooklyn Nets,93,-220,+195
+Thu Dec 1 2016,Los Angeles Clippers,113,Cleveland Cavaliers,94,+155,-160
+Thu Dec 1 2016,Orlando Magic,94,Memphis Grizzlies,95,-170,+160
+Thu Dec 1 2016,Miami Heat,111,Utah Jazz,110,+260,-285
+Thu Dec 1 2016,Houston Rockets,132,Golden State Warriors,127, , 
+Fri Dec 2 2016,Orlando Magic,105,Philadelphia 76ers,88,+105,-115
+Fri Dec 2 2016,Sacramento Kings,92,Boston Celtics,97,+215,-240
+Fri Dec 2 2016,Minnesota Timberwolves,114,New York Knicks,118,-132,+125
+Fri Dec 2 2016,Los Angeles Lakers,80,Toronto Raptors,113,+410,-499
+Fri Dec 2 2016,Detroit Pistons,121,Atlanta Hawks,85,+105,-120
+Fri Dec 2 2016,Cleveland Cavaliers,105,Chicago Bulls,111,-120,+120
+Fri Dec 2 2016,Los Angeles Clippers,114,New Orleans Pelicans,96,-175,+170
+Fri Dec 2 2016,Washington Wizards,105,San Antonio Spurs,107,+400,-424
+Fri Dec 2 2016,Houston Rockets,128,Denver Nuggets,110,+151,-145
+Sat Dec 3 2016,Brooklyn Nets,103,Milwaukee Bucks,112,+430,-522
+Sat Dec 3 2016,Minnesota Timberwolves,125,Charlotte Hornets,120,+205,-220
+Sat Dec 3 2016,Boston Celtics,107,Philadelphia 76ers,106,-525,+445
+Sat Dec 3 2016,Atlanta Hawks,84,Toronto Raptors,128,+330,-364
+Sat Dec 3 2016,Los Angeles Lakers,100,Memphis Grizzlies,103,+130,-132
+Sat Dec 3 2016,Chicago Bulls,82,Dallas Mavericks,107,-150,+140
+Sat Dec 3 2016,Denver Nuggets,98,Utah Jazz,105,+250,-298
+Sat Dec 3 2016,Miami Heat,92,Portland Trail Blazers,99,+210,-240
+Sat Dec 3 2016,Phoenix Suns,109,Golden State Warriors,138, , 
+Sun Dec 4 2016,Orlando Magic,98,Detroit Pistons,92,+290,-310
+Sun Dec 4 2016,New Orleans Pelicans,92,Oklahoma City Thunder,101,+230,-250
+Sun Dec 4 2016,Sacramento Kings,98,New York Knicks,106,+110,-115
+Sun Dec 4 2016,Indiana Pacers,111,Los Angeles Clippers,102, , 
+Mon Dec 5 2016,Denver Nuggets,106,Philadelphia 76ers,98,-165,+150
+Mon Dec 5 2016,Oklahoma City Thunder,102,Atlanta Hawks,99,+160,-170
+Mon Dec 5 2016,Washington Wizards,118,Brooklyn Nets,113,-265,+236
+Mon Dec 5 2016,Cleveland Cavaliers,116,Toronto Raptors,112, , 
+Mon Dec 5 2016,Portland Trail Blazers,112,Chicago Bulls,110,+153,-160
+Mon Dec 5 2016,Boston Celtics,106,Houston Rockets,107,+200,-220
+Mon Dec 5 2016,San Antonio Spurs,97,Milwaukee Bucks,96,-245,+221
+Mon Dec 5 2016,Memphis Grizzlies,110,New Orleans Pelicans,108,+175,-170
+Mon Dec 5 2016,Charlotte Hornets,109,Dallas Mavericks,101,-160,+145
+Mon Dec 5 2016,Indiana Pacers,106,Golden State Warriors,142, , 
+Mon Dec 5 2016,Utah Jazz,107,Los Angeles Lakers,101,-175,+180
+Tue Dec 6 2016,Orlando Magic,124,Washington Wizards,116,+135,-147
+Tue Dec 6 2016,Chicago Bulls,91,Detroit Pistons,102,+205,-210
+Tue Dec 6 2016,New York Knicks,114,Miami Heat,103, , 
+Tue Dec 6 2016,Philadelphia 76ers,91,Memphis Grizzlies,96,+290,-298
+Tue Dec 6 2016,San Antonio Spurs,105,Minnesota Timberwolves,91,-162,+165
+Tue Dec 6 2016,Phoenix Suns,105,Utah Jazz,112,+255,-285
+Wed Dec 7 2016,Detroit Pistons,77,Charlotte Hornets,87,+200,-225
+Wed Dec 7 2016,Boston Celtics,117,Orlando Magic,87,-113,+114
+Wed Dec 7 2016,Miami Heat,95,Atlanta Hawks,103,+380,-425
+Wed Dec 7 2016,Denver Nuggets,111,Brooklyn Nets,116,-180,+165
+Wed Dec 7 2016,Los Angeles Lakers,95,Houston Rockets,134, , 
+Wed Dec 7 2016,Portland Trail Blazers,107,Milwaukee Bucks,115, , 
+Wed Dec 7 2016,Cleveland Cavaliers,126,New York Knicks,94,-375,+325
+Wed Dec 7 2016,Sacramento Kings,120,Dallas Mavericks,89,-150,+137
+Wed Dec 7 2016,Indiana Pacers,109,Phoenix Suns,94,-165,+165
+Wed Dec 7 2016,Golden State Warriors,115,Los Angeles Clippers,98,-155,+165
+Thu Dec 8 2016,Minnesota Timberwolves,110,Toronto Raptors,124,+420,-500
+Thu Dec 8 2016,Denver Nuggets,85,Washington Wizards,92,+190,-215
+Thu Dec 8 2016,Portland Trail Blazers,86,Memphis Grizzlies,88,-105,+125
+Thu Dec 8 2016,Philadelphia 76ers,99,New Orleans Pelicans,88,+230,-240
+Thu Dec 8 2016,Golden State Warriors,106,Utah Jazz,99,-581,+650
+Thu Dec 8 2016,San Antonio Spurs,91,Chicago Bulls,95,-150,+145
+Fri Dec 9 2016,Orlando Magic,88,Charlotte Hornets,109,+250,-265
+Fri Dec 9 2016,Toronto Raptors,101,Boston Celtics,94,+125,-120
+Fri Dec 9 2016,Miami Heat,84,Cleveland Cavaliers,114, , 
+Fri Dec 9 2016,Atlanta Hawks,114,Milwaukee Bucks,110,+140,-148
+Fri Dec 9 2016,Detroit Pistons,117,Minnesota Timberwolves,90,-155,+142
+Fri Dec 9 2016,Houston Rockets,102,Oklahoma City Thunder,99, , 
+Fri Dec 9 2016,Indiana Pacers,103,Dallas Mavericks,111,-165,+155
+Fri Dec 9 2016,Phoenix Suns,119,Los Angeles Lakers,115,+110,-115
+Fri Dec 9 2016,New York Knicks,103,Sacramento Kings,100,+200,-215
+Sat Dec 10 2016,Portland Trail Blazers,111,Indiana Pacers,118, , 
+Sat Dec 10 2016,Denver Nuggets,121,Orlando Magic,113,-120,+110
+Sat Dec 10 2016,Milwaukee Bucks,105,Washington Wizards,110,+160,-170
+Sat Dec 10 2016,Charlotte Hornets,105,Cleveland Cavaliers,116,+315,-326
+Sat Dec 10 2016,Miami Heat,100,Chicago Bulls,105, , 
+Sat Dec 10 2016,Dallas Mavericks,87,Houston Rockets,109, , 
+Sat Dec 10 2016,Golden State Warriors,89,Memphis Grizzlies,110, , 
+Sat Dec 10 2016,Brooklyn Nets,101,San Antonio Spurs,130, , 
+Sat Dec 10 2016,Sacramento Kings,84,Utah Jazz,104,+210,-238
+Sat Dec 10 2016,New Orleans Pelicans,105,Los Angeles Clippers,133, , 
+Sun Dec 11 2016,Philadelphia 76ers,97,Detroit Pistons,79, , 
+Sun Dec 11 2016,Golden State Warriors,116,Minnesota Timberwolves,108, , 
+Sun Dec 11 2016,Boston Celtics,96,Oklahoma City Thunder,99,+145,-155
+Sun Dec 11 2016,New Orleans Pelicans,120,Phoenix Suns,119,+115,-125
+Sun Dec 11 2016,New York Knicks,118,Los Angeles Lakers,112,-136,+125
+Mon Dec 12 2016,Charlotte Hornets,94,Indiana Pacers,110,-120,+105
+Mon Dec 12 2016,Washington Wizards,101,Miami Heat,112, , 
+Mon Dec 12 2016,Milwaukee Bucks,100,Toronto Raptors,122,+330,-350
+Mon Dec 12 2016,Brooklyn Nets,118,Houston Rockets,122, , 
+Mon Dec 12 2016,Denver Nuggets,92,Dallas Mavericks,112,-136,+125
+Mon Dec 12 2016,Portland Trail Blazers,120,Los Angeles Clippers,121,+450,-505
+Mon Dec 12 2016,Los Angeles Lakers,92,Sacramento Kings,116,+335,-358
+Tue Dec 13 2016,Memphis Grizzlies,86,Cleveland Cavaliers,103, , 
+Tue Dec 13 2016,Orlando Magic,131,Atlanta Hawks,120,+310,-353
+Tue Dec 13 2016,Minnesota Timberwolves,99,Chicago Bulls,94,+220,-225
+Tue Dec 13 2016,Golden State Warriors,113,New Orleans Pelicans,109, , 
+Tue Dec 13 2016,New York Knicks,111,Phoenix Suns,113,-123,+120
+Tue Dec 13 2016,Oklahoma City Thunder,95,Portland Trail Blazers,114,+117,-125
+Wed Dec 14 2016,Indiana Pacers,89,Miami Heat,95,-102,+105
+Wed Dec 14 2016,Los Angeles Clippers,113,Orlando Magic,108,-352,+340
+Wed Dec 14 2016,Toronto Raptors,123,Philadelphia 76ers,114,-340,+325
+Wed Dec 14 2016,Charlotte Hornets,106,Washington Wizards,109,+105,+112
+Wed Dec 14 2016,Los Angeles Lakers,97,Brooklyn Nets,107,+105,-100
+Wed Dec 14 2016,Sacramento Kings,98,Houston Rockets,132,+875,-520
+Wed Dec 14 2016,Cleveland Cavaliers,85,Memphis Grizzlies,93,+257,-290
+Wed Dec 14 2016,Detroit Pistons,95,Dallas Mavericks,85,-205,+205
+Wed Dec 14 2016,Oklahoma City Thunder,89,Utah Jazz,109,+265,-315
+Wed Dec 14 2016,Boston Celtics,101,San Antonio Spurs,108,+235,-238
+Thu Dec 15 2016,Chicago Bulls,97,Milwaukee Bucks,108,+105,-102
+Thu Dec 15 2016,Indiana Pacers,95,New Orleans Pelicans,102,+137,-140
+Thu Dec 15 2016,Portland Trail Blazers,120,Denver Nuggets,132,+135,-140
+Thu Dec 15 2016,San Antonio Spurs,107,Phoenix Suns,92,-344,+325
+Thu Dec 15 2016,New York Knicks,90,Golden State Warriors,103, , 
+Fri Dec 16 2016,Brooklyn Nets,111,Orlando Magic,118,+255,-280
+Fri Dec 16 2016,Detroit Pistons,108,Washington Wizards,122, , 
+Fri Dec 16 2016,Charlotte Hornets,88,Boston Celtics,96,+250,-250
+Fri Dec 16 2016,Atlanta Hawks,125,Toronto Raptors,121,+265,-277
+Fri Dec 16 2016,Milwaukee Bucks,95,Chicago Bulls,69,+195,-220
+Fri Dec 16 2016,New Orleans Pelicans,100,Houston Rockets,122,+700,-700
+Fri Dec 16 2016,Sacramento Kings,96,Memphis Grizzlies,92,+185,-203
+Fri Dec 16 2016,Los Angeles Clippers,102,Miami Heat,98,-343,+320
+Fri Dec 16 2016,Los Angeles Lakers,100,Philadelphia 76ers,89, , 
+Fri Dec 16 2016,Dallas Mavericks,100,Utah Jazz,103, , 
+Sat Dec 17 2016,Phoenix Suns,101,Oklahoma City Thunder,114,+240,-250
+Sat Dec 17 2016,Indiana Pacers,105,Detroit Pistons,90,+170,-190
+Sat Dec 17 2016,Charlotte Hornets,107,Atlanta Hawks,99,+125,-122
+Sat Dec 17 2016,Los Angeles Lakers,108,Cleveland Cavaliers,119, , 
+Sat Dec 17 2016,Houston Rockets,111,Minnesota Timberwolves,109,-140,+130
+Sat Dec 17 2016,New York Knicks,114,Denver Nuggets,127,+155,-165
+Sat Dec 17 2016,Portland Trail Blazers,90,Golden State Warriors,135, , 
+Sun Dec 18 2016,Los Angeles Clippers,110,Washington Wizards,117,-215,+190
+Sun Dec 18 2016,Sacramento Kings,79,Dallas Mavericks,99, , 
+Sun Dec 18 2016,Utah Jazz,82,Memphis Grizzlies,73,-115,+110
+Sun Dec 18 2016,Boston Celtics,105,Miami Heat,95,-170,+165
+Sun Dec 18 2016,Toronto Raptors,109,Orlando Magic,79,-230,+210
+Sun Dec 18 2016,Brooklyn Nets,107,Philadelphia 76ers,108,+112,-115
+Sun Dec 18 2016,New Orleans Pelicans,100,San Antonio Spurs,113, , 
+Mon Dec 19 2016,Washington Wizards,105,Indiana Pacers,107,+190,-205
+Mon Dec 19 2016,Detroit Pistons,82,Chicago Bulls,113,+125,-133
+Mon Dec 19 2016,Phoenix Suns,108,Minnesota Timberwolves,115,+215,-235
+Mon Dec 19 2016,Atlanta Hawks,110,Oklahoma City Thunder,108,+143,-150
+Mon Dec 19 2016,Dallas Mavericks,107,Denver Nuggets,117,+310,-340
+Tue Dec 20 2016,Los Angeles Lakers,113,Charlotte Hornets,117,+355,-380
+Tue Dec 20 2016,New Orleans Pelicans,108,Philadelphia 76ers,93,-155,+145
+Tue Dec 20 2016,Orlando Magic,136,Miami Heat,130,+155,-165
+Tue Dec 20 2016,Indiana Pacers,111,New York Knicks,118,+175,-180
+Tue Dec 20 2016,Brooklyn Nets,104,Toronto Raptors,116, , 
+Tue Dec 20 2016,San Antonio Spurs,102,Houston Rockets,100, , 
+Tue Dec 20 2016,Boston Celtics,112,Memphis Grizzlies,109,-121,+110
+Tue Dec 20 2016,Cleveland Cavaliers,114,Milwaukee Bucks,108,-150,+145
+Tue Dec 20 2016,Utah Jazz,74,Golden State Warriors,104, , 
+Tue Dec 20 2016,Denver Nuggets,102,Los Angeles Clippers,119,+320,-335
+Tue Dec 20 2016,Portland Trail Blazers,121,Sacramento Kings,126, , 
+Wed Dec 21 2016,Milwaukee Bucks,102,Cleveland Cavaliers,113,+255,-280
+Wed Dec 21 2016,Minnesota Timberwolves,92,Atlanta Hawks,84,+170,-173
+Wed Dec 21 2016,Memphis Grizzlies,98,Detroit Pistons,86,+225,-235
+Wed Dec 21 2016,Washington Wizards,107,Chicago Bulls,97,+160,-168
+Wed Dec 21 2016,Oklahoma City Thunder,121,New Orleans Pelicans,110,-121,+120
+Wed Dec 21 2016,Houston Rockets,125,Phoenix Suns,111,-245,+250
+Wed Dec 21 2016,Sacramento Kings,94,Utah Jazz,93,+312,-355
+Wed Dec 21 2016,Dallas Mavericks,96,Portland Trail Blazers,95,+220,-244
+Thu Dec 22 2016,Boston Celtics,109,Indiana Pacers,102, , 
+Thu Dec 22 2016,Golden State Warriors,117,Brooklyn Nets,101, , 
+Thu Dec 22 2016,Orlando Magic,95,New York Knicks,106,+175,-165
+Thu Dec 22 2016,Los Angeles Lakers,107,Miami Heat,115,+210,-230
+Thu Dec 22 2016,San Antonio Spurs,101,Los Angeles Clippers,106, , 
+Fri Dec 23 2016,Chicago Bulls,91,Charlotte Hornets,103,+168,-175
+Fri Dec 23 2016,Los Angeles Lakers,90,Orlando Magic,109,+180,-180
+Fri Dec 23 2016,Oklahoma City Thunder,117,Boston Celtics,112,+190,-200
+Fri Dec 23 2016,Brooklyn Nets,99,Cleveland Cavaliers,119, , 
+Fri Dec 23 2016,Golden State Warriors,119,Detroit Pistons,113,-325,+280
+Fri Dec 23 2016,Houston Rockets,109,Memphis Grizzlies,115,-153,+145
+Fri Dec 23 2016,Washington Wizards,96,Milwaukee Bucks,123,+140,-145
+Fri Dec 23 2016,Sacramento Kings,109,Minnesota Timberwolves,105,+185,-190
+Fri Dec 23 2016,Miami Heat,87,New Orleans Pelicans,91,+176,-190
+Fri Dec 23 2016,Atlanta Hawks,109,Denver Nuggets,108,+210,-220
+Fri Dec 23 2016,Philadelphia 76ers,116,Phoenix Suns,123,+210,-220
+Fri Dec 23 2016,Toronto Raptors,104,Utah Jazz,98,-110,-100
+Fri Dec 23 2016,San Antonio Spurs,110,Portland Trail Blazers,90,-120,+115
+Fri Dec 23 2016,Dallas Mavericks,90,Los Angeles Clippers,88,+165,-170
+Sun Dec 25 2016,Boston Celtics,119,New York Knicks,114,-125,+115
+Sun Dec 25 2016,Golden State Warriors,108,Cleveland Cavaliers,109,-155,+150
+Sun Dec 25 2016,Chicago Bulls,100,San Antonio Spurs,119,+370,-425
+Sun Dec 25 2016,Minnesota Timberwolves,100,Oklahoma City Thunder,112,+170,-175
+Sun Dec 25 2016,Los Angeles Clippers,102,Los Angeles Lakers,111,-140,+130
+Mon Dec 26 2016,Memphis Grizzlies,102,Orlando Magic,112,-155,+140
+Mon Dec 26 2016,Milwaukee Bucks,102,Washington Wizards,107,+145,-155
+Mon Dec 26 2016,Charlotte Hornets,118,Brooklyn Nets,120,-265,+250
+Mon Dec 26 2016,Cleveland Cavaliers,90,Detroit Pistons,106,+190,-190
+Mon Dec 26 2016,Indiana Pacers,85,Chicago Bulls,90,+123,-130
+Mon Dec 26 2016,Phoenix Suns,115,Houston Rockets,131, , 
+Mon Dec 26 2016,Atlanta Hawks,90,Minnesota Timberwolves,104,+110,+111
+Mon Dec 26 2016,Dallas Mavericks,104,New Orleans Pelicans,111,+175,-185
+Mon Dec 26 2016,Toronto Raptors,95,Portland Trail Blazers,91,-355,+320
+Mon Dec 26 2016,Denver Nuggets,106,Los Angeles Clippers,102,-180,+165
+Mon Dec 26 2016,Philadelphia 76ers,100,Sacramento Kings,102,+345,-385
+Tue Dec 27 2016,Memphis Grizzlies,103,Boston Celtics,113,+280,-320
+Tue Dec 27 2016,Oklahoma City Thunder,106,Miami Heat,94,-180,+185
+Tue Dec 27 2016,Houston Rockets,123,Dallas Mavericks,107,-200,+185
+Tue Dec 27 2016,Utah Jazz,102,Los Angeles Lakers,100,-205,+190
+Wed Dec 28 2016,Charlotte Hornets,120,Orlando Magic,101,-170,+160
+Wed Dec 28 2016,Indiana Pacers,105,Washington Wizards,111,+165,-175
+Wed Dec 28 2016,New York Knicks,98,Atlanta Hawks,102,+190,-205
+Wed Dec 28 2016,Milwaukee Bucks,119,Detroit Pistons,94,+145,-155
+Wed Dec 28 2016,Brooklyn Nets,99,Chicago Bulls,101,+405,-450
+Wed Dec 28 2016,Los Angeles Clippers,98,New Orleans Pelicans,102,-105,-100
+Wed Dec 28 2016,Phoenix Suns,98,San Antonio Spurs,119, , 
+Wed Dec 28 2016,Minnesota Timberwolves,103,Denver Nuggets,105,+160,-170
+Wed Dec 28 2016,Sacramento Kings,89,Portland Trail Blazers,102,+110,+110
+Wed Dec 28 2016,Toronto Raptors,111,Golden State Warriors,121,+425,-470
+Thu Dec 29 2016,Miami Heat,82,Charlotte Hornets,91,+225,-245
+Thu Dec 29 2016,Boston Celtics,118,Cleveland Cavaliers,124,+230,-255
+Thu Dec 29 2016,Oklahoma City Thunder,80,Memphis Grizzlies,114,+120,-115
+Thu Dec 29 2016,Toronto Raptors,91,Phoenix Suns,99,-400,+350
+Thu Dec 29 2016,Philadelphia 76ers,83,Utah Jazz,100, , 
+Thu Dec 29 2016,Dallas Mavericks,101,Los Angeles Lakers,89,+165,-175
+Fri Dec 30 2016,Chicago Bulls,101,Indiana Pacers,111,+155,-170
+Fri Dec 30 2016,Brooklyn Nets,95,Washington Wizards,118,+290,-330
+Fri Dec 30 2016,Miami Heat,114,Boston Celtics,117,+420,-465
+Fri Dec 30 2016,Detroit Pistons,98,Atlanta Hawks,105,+120,-135
+Fri Dec 30 2016,Los Angeles Clippers,116,Houston Rockets,140,+485,-465
+Fri Dec 30 2016,Milwaukee Bucks,99,Minnesota Timberwolves,116,+110,-110
+Fri Dec 30 2016,New York Knicks,92,New Orleans Pelicans,104,+145,-155
+Fri Dec 30 2016,Portland Trail Blazers,94,San Antonio Spurs,110, , 
+Fri Dec 30 2016,Philadelphia 76ers,124,Denver Nuggets,122, , 
+Fri Dec 30 2016,Dallas Mavericks,99,Golden State Warriors,108, , 
+Sat Dec 31 2016,Memphis Grizzlies,112,Sacramento Kings,98, , 
+Sat Dec 31 2016,Milwaukee Bucks,116,Chicago Bulls,96,+135,-145
+Sat Dec 31 2016,Cleveland Cavaliers,121,Charlotte Hornets,109,-115,+110
+Sat Dec 31 2016,New York Knicks,122,Houston Rockets,129,+825,-575
+Sat Dec 31 2016,Los Angeles Clippers,88,Oklahoma City Thunder,114,+355,-385
+Sat Dec 31 2016,Phoenix Suns,86,Utah Jazz,91, , 
+Sun Jan 1 2017,San Antonio Spurs,112,Atlanta Hawks,114,-205,+180
+Sun Jan 1 2017,Orlando Magic,104,Indiana Pacers,117,+215,-240
+Sun Jan 1 2017,Detroit Pistons,107,Miami Heat,98,-275,+250
+Sun Jan 1 2017,Portland Trail Blazers,95,Minnesota Timberwolves,89,+215,-245
+Sun Jan 1 2017,Toronto Raptors,123,Los Angeles Lakers,114,-340,+315
+Mon Jan 2 2017,New Orleans Pelicans,82,Cleveland Cavaliers,90,+400,-450
+Mon Jan 2 2017,Oklahoma City Thunder,94,Milwaukee Bucks,98,+115,-115
+Mon Jan 2 2017,Utah Jazz,101,Brooklyn Nets,89,-275,+250
+Mon Jan 2 2017,Orlando Magic,115,New York Knicks,103,+160,-170
+Mon Jan 2 2017,Charlotte Hornets,111,Chicago Bulls,118,+110,+105
+Mon Jan 2 2017,Washington Wizards,91,Houston Rockets,101,+300,-335
+Mon Jan 2 2017,Denver Nuggets,119,Golden State Warriors,127, , 
+Mon Jan 2 2017,Phoenix Suns,98,Los Angeles Clippers,109,+170,-190
+Tue Jan 3 2017,Minnesota Timberwolves,91,Philadelphia 76ers,93,-200,+180
+Tue Jan 3 2017,Utah Jazz,104,Boston Celtics,115,+195,-220
+Tue Jan 3 2017,Indiana Pacers,121,Detroit Pistons,116,+195,-190
+Tue Jan 3 2017,Washington Wizards,105,Dallas Mavericks,113, , 
+Tue Jan 3 2017,Toronto Raptors,82,San Antonio Spurs,110,+230,-255
+Tue Jan 3 2017,Sacramento Kings,120,Denver Nuggets,113, , 
+Tue Jan 3 2017,Miami Heat,90,Phoenix Suns,99,+190,-205
+Tue Jan 3 2017,Memphis Grizzlies,102,Los Angeles Lakers,116,-200,+175
+Wed Jan 4 2017,Oklahoma City Thunder,112,Charlotte Hornets,123,+115,-130
+Wed Jan 4 2017,Atlanta Hawks,111,Orlando Magic,92,-130,+115
+Wed Jan 4 2017,Milwaukee Bucks,105,New York Knicks,104,-155,+145
+Wed Jan 4 2017,Chicago Bulls,106,Cleveland Cavaliers,94,+170,-129
+Wed Jan 4 2017,Portland Trail Blazers,117,Golden State Warriors,125, , 
+Wed Jan 4 2017,Memphis Grizzlies,106,Los Angeles Clippers,115, , 
+Wed Jan 4 2017,Miami Heat,107,Sacramento Kings,102,+295,-350
+Thu Jan 5 2017,Brooklyn Nets,109,Indiana Pacers,121,+485,-560
+Thu Jan 5 2017,Charlotte Hornets,114,Detroit Pistons,115,+190,-200
+Thu Jan 5 2017,Utah Jazz,93,Toronto Raptors,101,+185,-210
+Thu Jan 5 2017,Oklahoma City Thunder,116,Houston Rockets,118,+330,-380
+Thu Jan 5 2017,Atlanta Hawks,99,New Orleans Pelicans,94,+110,-120
+Thu Jan 5 2017,Phoenix Suns,102,Dallas Mavericks,95,+200,-215
+Thu Jan 5 2017,San Antonio Spurs,127,Denver Nuggets,99,-300,+270
+Thu Jan 5 2017,Los Angeles Lakers,109,Portland Trail Blazers,118,+245,-260
+Fri Jan 6 2017,Houston Rockets,100,Orlando Magic,93,-200,+180
+Fri Jan 6 2017,Minnesota Timberwolves,105,Washington Wizards,112,+180,-200
+Fri Jan 6 2017,Philadelphia 76ers,106,Boston Celtics,110, , 
+Fri Jan 6 2017,Cleveland Cavaliers,116,Brooklyn Nets,108, , 
+Fri Jan 6 2017,New York Knicks,116,Milwaukee Bucks,111,+180,-205
+Fri Jan 6 2017,Memphis Grizzlies,128,Golden State Warriors,119, , 
+Fri Jan 6 2017,Miami Heat,100,Los Angeles Lakers,127,+130,-140
+Fri Jan 6 2017,Los Angeles Clippers,106,Sacramento Kings,98,-115,+130
+Sat Jan 7 2017,New York Knicks,109,Indiana Pacers,123,+245,-280
+Sat Jan 7 2017,New Orleans Pelicans,108,Boston Celtics,117,+215,-250
+Sat Jan 7 2017,Toronto Raptors,118,Chicago Bulls,123,-115,+105
+Sat Jan 7 2017,Utah Jazz,94,Minnesota Timberwolves,92,-190,+170
+Sat Jan 7 2017,Denver Nuggets,106,Oklahoma City Thunder,121,+335,-340
+Sat Jan 7 2017,Atlanta Hawks,97,Dallas Mavericks,82,-115,+108
+Sat Jan 7 2017,Charlotte Hornets,85,San Antonio Spurs,102, , 
+Sun Jan 8 2017,Philadelphia 76ers,105,Brooklyn Nets,95,+120,-110
+Sun Jan 8 2017,Washington Wizards,107,Milwaukee Bucks,101,+165,-115
+Sun Jan 8 2017,Miami Heat,86,Los Angeles Clippers,98,+390,-465
+Sun Jan 8 2017,Houston Rockets,129,Toronto Raptors,122,-130,+125
+Sun Jan 8 2017,Utah Jazz,79,Memphis Grizzlies,88,+125,-140
+Sun Jan 8 2017,Cleveland Cavaliers,120,Phoenix Suns,116,-400,+330
+Sun Jan 8 2017,Detroit Pistons,125,Portland Trail Blazers,124,+150,-160
+Sun Jan 8 2017,Golden State Warriors,117,Sacramento Kings,106, , 
+Sun Jan 8 2017,Orlando Magic,95,Los Angeles Lakers,111,+130,-140
+Mon Jan 9 2017,New Orleans Pelicans,110,New York Knicks,96,+150,-145
+Mon Jan 9 2017,Oklahoma City Thunder,109,Chicago Bulls,94, , 
+Mon Jan 9 2017,Dallas Mavericks,92,Minnesota Timberwolves,101,+170,-195
+Tue Jan 10 2017,Chicago Bulls,99,Washington Wizards,101, , 
+Tue Jan 10 2017,Atlanta Hawks,117,Brooklyn Nets,97,-375,+320
+Tue Jan 10 2017,Boston Celtics,106,Toronto Raptors,114,+190,-210
+Tue Jan 10 2017,Charlotte Hornets,114,Houston Rockets,121,+400,-430
+Tue Jan 10 2017,Milwaukee Bucks,109,San Antonio Spurs,107,+445,-520
+Tue Jan 10 2017,Cleveland Cavaliers,92,Utah Jazz,100,-105,+115
+Tue Jan 10 2017,Miami Heat,95,Golden State Warriors,107, , 
+Tue Jan 10 2017,Portland Trail Blazers,108,Los Angeles Lakers,87,-132,+120
+Tue Jan 10 2017,Detroit Pistons,94,Sacramento Kings,100,+135,-145
+Wed Jan 11 2017,New York Knicks,97,Philadelphia 76ers,98,-125,+125
+Wed Jan 11 2017,Washington Wizards,108,Boston Celtics,117,+200,-215
+Wed Jan 11 2017,Houston Rockets,105,Minnesota Timberwolves,119,-155,+140
+Wed Jan 11 2017,Memphis Grizzlies,95,Oklahoma City Thunder,103,+170,-190
+Wed Jan 11 2017,Orlando Magic,96,Los Angeles Clippers,105,+445,-500
+Wed Jan 11 2017,Cleveland Cavaliers,86,Portland Trail Blazers,102,-205,+190
+Thu Jan 12 2017,Indiana Pacers,112,Denver Nuggets,140,-180,+175
+Thu Jan 12 2017,New Orleans Pelicans,104,Brooklyn Nets,95,+120,+155
+Thu Jan 12 2017,Chicago Bulls,89,New York Knicks,104,+135,-145
+Thu Jan 12 2017,Los Angeles Lakers,94,San Antonio Spurs,134, , 
+Thu Jan 12 2017,Dallas Mavericks,113,Phoenix Suns,108,-125,+120
+Thu Jan 12 2017,Detroit Pistons,107,Golden State Warriors,127, , 
+Fri Jan 13 2017,Charlotte Hornets,93,Philadelphia 76ers,102,-210,+195
+Fri Jan 13 2017,Brooklyn Nets,113,Toronto Raptors,132, , 
+Fri Jan 13 2017,Boston Celtics,103,Atlanta Hawks,101,+144,-145
+Fri Jan 13 2017,Memphis Grizzlies,110,Houston Rockets,105,+290,-325
+Fri Jan 13 2017,Miami Heat,108,Milwaukee Bucks,116,+300,-340
+Fri Jan 13 2017,Oklahoma City Thunder,86,Minnesota Timberwolves,96,-125,+120
+Fri Jan 13 2017,Orlando Magic,115,Portland Trail Blazers,109,+285,-310
+Fri Jan 13 2017,Cleveland Cavaliers,120,Sacramento Kings,108,-275,+245
+Fri Jan 13 2017,Detroit Pistons,77,Utah Jazz,110,+560,-530
+Sat Jan 14 2017,Los Angeles Lakers,97,Los Angeles Clippers,113, , 
+Sat Jan 14 2017,New Orleans Pelicans,99,Chicago Bulls,107,+145,-165
+Sat Jan 14 2017,San Antonio Spurs,105,Phoenix Suns,108, , 
+Sat Jan 14 2017,Philadelphia 76ers,93,Washington Wizards,109,+450,-525
+Sat Jan 14 2017,Orlando Magic,107,Utah Jazz,114, , 
+Sun Jan 15 2017,Minnesota Timberwolves,87,Dallas Mavericks,98,-100,-100
+Sun Jan 15 2017,Milwaukee Bucks,98,Atlanta Hawks,111,+155,-170
+Sun Jan 15 2017,New York Knicks,101,Toronto Raptors,116,+460,-565
+Sun Jan 15 2017,Houston Rockets,137,Brooklyn Nets,112, , 
+Sun Jan 15 2017,Chicago Bulls,108,Memphis Grizzlies,104,+345,-400
+Sun Jan 15 2017,Oklahoma City Thunder,122,Sacramento Kings,118,-116,+110
+Sun Jan 15 2017,Detroit Pistons,102,Los Angeles Lakers,97, , 
+Mon Jan 16 2017,Atlanta Hawks,108,New York Knicks,107,-130,+125
+Mon Jan 16 2017,Portland Trail Blazers,101,Washington Wizards,120,+155,-160
+Mon Jan 16 2017,Philadelphia 76ers,113,Milwaukee Bucks,104,+345,-365
+Mon Jan 16 2017,New Orleans Pelicans,95,Indiana Pacers,98,+190,-210
+Mon Jan 16 2017,Orlando Magic,112,Denver Nuggets,125,+205,-230
+Mon Jan 16 2017,Charlotte Hornets,98,Boston Celtics,108,+190,-210
+Mon Jan 16 2017,Cleveland Cavaliers,91,Golden State Warriors,126,+355,-370
+Mon Jan 16 2017,Utah Jazz,106,Phoenix Suns,101,-250,+230
+Mon Jan 16 2017,Oklahoma City Thunder,98,Los Angeles Clippers,120,+330,-340
+Tue Jan 17 2017,Toronto Raptors,119,Brooklyn Nets,109,-400,+335
+Tue Jan 17 2017,Houston Rockets,103,Miami Heat,109,-300,+270
+Tue Jan 17 2017,Dallas Mavericks,99,Chicago Bulls,98,+180,-190
+Tue Jan 17 2017,Minnesota Timberwolves,114,San Antonio Spurs,122, , 
+Tue Jan 17 2017,Denver Nuggets,127,Los Angeles Lakers,121,+110,-102
+Wed Jan 18 2017,Portland Trail Blazers,85,Charlotte Hornets,107,+205,-220
+Wed Jan 18 2017,Toronto Raptors,89,Philadelphia 76ers,94,-235,+205
+Wed Jan 18 2017,Memphis Grizzlies,101,Washington Wizards,104,+116,-128
+Wed Jan 18 2017,New York Knicks,117,Boston Celtics,106,+415,-450
+Wed Jan 18 2017,Atlanta Hawks,95,Detroit Pistons,118,-130,+125
+Wed Jan 18 2017,Milwaukee Bucks,92,Houston Rockets,111,+245,-260
+Wed Jan 18 2017,Orlando Magic,98,New Orleans Pelicans,118,+205,-205
+Wed Jan 18 2017,Oklahoma City Thunder,100,Golden State Warriors,121, , 
+Wed Jan 18 2017,Indiana Pacers,106,Sacramento Kings,100, , 
+Thu Jan 19 2017,Phoenix Suns,103,Cleveland Cavaliers,118, , 
+Thu Jan 19 2017,Dallas Mavericks,95,Miami Heat,99,+110,-120
+Thu Jan 19 2017,Washington Wizards,113,New York Knicks,110,-115,+120
+Thu Jan 19 2017,Denver Nuggets,104,San Antonio Spurs,118, , 
+Thu Jan 19 2017,Minnesota Timberwolves,104,Los Angeles Clippers,101, , 
+Fri Jan 20 2017,Toronto Raptors,78,Charlotte Hornets,113, , 
+Fri Jan 20 2017,Milwaukee Bucks,96,Orlando Magic,112,-160,+145
+Fri Jan 20 2017,Portland Trail Blazers,92,Philadelphia 76ers,93,-134,+124
+Fri Jan 20 2017,Chicago Bulls,93,Atlanta Hawks,102,+160,-160
+Fri Jan 20 2017,Golden State Warriors,125,Houston Rockets,108,-211,+195
+Fri Jan 20 2017,Sacramento Kings,91,Memphis Grizzlies,107,+320,-350
+Fri Jan 20 2017,Brooklyn Nets,143,New Orleans Pelicans,114,+450,-525
+Fri Jan 20 2017,Utah Jazz,112,Dallas Mavericks,107,-210,+200
+Fri Jan 20 2017,Indiana Pacers,95,Los Angeles Lakers,108,-165,+155
+Sat Jan 21 2017,Portland Trail Blazers,127,Boston Celtics,123,+290,-330
+Sat Jan 21 2017,Washington Wizards,112,Detroit Pistons,113, , 
+Sat Jan 21 2017,Philadelphia 76ers,93,Atlanta Hawks,110,+500,-550
+Sat Jan 21 2017,Brooklyn Nets,105,Charlotte Hornets,112, , 
+Sat Jan 21 2017,Milwaukee Bucks,97,Miami Heat,109, , 
+Sat Jan 21 2017,Phoenix Suns,107,New York Knicks,105,+185,-185
+Sat Jan 21 2017,Houston Rockets,119,Memphis Grizzlies,95, , 
+Sat Jan 21 2017,San Antonio Spurs,118,Cleveland Cavaliers,115,+155,-165
+Sat Jan 21 2017,Sacramento Kings,99,Chicago Bulls,102,+250,-260
+Sat Jan 21 2017,Los Angeles Clippers,98,Denver Nuggets,123,+180,-205
+Sat Jan 21 2017,Indiana Pacers,100,Utah Jazz,109,+255,-290
+Sun Jan 22 2017,Golden State Warriors,118,Orlando Magic,98, , 
+Sun Jan 22 2017,Los Angeles Lakers,73,Dallas Mavericks,122,+210,-230
+Sun Jan 22 2017,Phoenix Suns,115,Toronto Raptors,103,+720,-750
+Sun Jan 22 2017,Denver Nuggets,108,Minnesota Timberwolves,111,+150,-165
+Mon Jan 23 2017,Washington Wizards,109,Charlotte Hornets,99,+220,-240
+Mon Jan 23 2017,Los Angeles Clippers,115,Atlanta Hawks,105,+260,-310
+Mon Jan 23 2017,San Antonio Spurs,112,Brooklyn Nets,86,-365,+325
+Mon Jan 23 2017,Sacramento Kings,109,Detroit Pistons,104,+260,-290
+Mon Jan 23 2017,Golden State Warriors,102,Miami Heat,105, , 
+Mon Jan 23 2017,New York Knicks,109,Indiana Pacers,103,+200,-210
+Mon Jan 23 2017,Houston Rockets,114,Milwaukee Bucks,127,-195,+180
+Mon Jan 23 2017,Cleveland Cavaliers,122,New Orleans Pelicans,124,-550,+445
+Mon Jan 23 2017,Oklahoma City Thunder,97,Utah Jazz,95,+185,-200
+Tue Jan 24 2017,Chicago Bulls,100,Orlando Magic,92,-155,+137
+Tue Jan 24 2017,Los Angeles Clippers,110,Philadelphia 76ers,121,-190,+170
+Tue Jan 24 2017,San Antonio Spurs,108,Toronto Raptors,106,+130,-130
+Tue Jan 24 2017,Boston Celtics,108,Washington Wizards,123, , 
+Tue Jan 24 2017,Utah Jazz,93,Denver Nuggets,103,+115,-130
+Tue Jan 24 2017,Minnesota Timberwolves,112,Phoenix Suns,111, , 
+Wed Jan 25 2017,Sacramento Kings,116,Cleveland Cavaliers,112, , 
+Wed Jan 25 2017,Houston Rockets,109,Boston Celtics,120,-163,+155
+Wed Jan 25 2017,Miami Heat,109,Brooklyn Nets,106,-135,+125
+Wed Jan 25 2017,Atlanta Hawks,119,Chicago Bulls,114, , 
+Wed Jan 25 2017,Golden State Warriors,113,Charlotte Hornets,103, , 
+Wed Jan 25 2017,Toronto Raptors,99,Memphis Grizzlies,101,+195,-205
+Wed Jan 25 2017,Philadelphia 76ers,114,Milwaukee Bucks,109, , 
+Wed Jan 25 2017,Oklahoma City Thunder,114,New Orleans Pelicans,105, , 
+Wed Jan 25 2017,New York Knicks,95,Dallas Mavericks,103,+135,-140
+Wed Jan 25 2017,Los Angeles Lakers,98,Portland Trail Blazers,105,+325,-360
+Thu Jan 26 2017,Indiana Pacers,109,Minnesota Timberwolves,103,+140,-150
+Thu Jan 26 2017,Dallas Mavericks,98,Oklahoma City Thunder,109,+430,-500
+Thu Jan 26 2017,Phoenix Suns,120,Denver Nuggets,127,+250,-270
+Thu Jan 26 2017,Los Angeles Lakers,88,Utah Jazz,96, , 
+Fri Jan 27 2017,Sacramento Kings,111,Indiana Pacers,115,+166,-185
+Fri Jan 27 2017,Orlando Magic,98,Boston Celtics,128,+270,-310
+Fri Jan 27 2017,Brooklyn Nets,116,Cleveland Cavaliers,124, , 
+Fri Jan 27 2017,Charlotte Hornets,107,New York Knicks,110, , 
+Fri Jan 27 2017,Milwaukee Bucks,86,Toronto Raptors,102,+205,-220
+Fri Jan 27 2017,Washington Wizards,112,Atlanta Hawks,86,+135,-150
+Fri Jan 27 2017,Miami Heat,100,Chicago Bulls,88,+260,-290
+Fri Jan 27 2017,San Antonio Spurs,103,New Orleans Pelicans,119,-300,+265
+Fri Jan 27 2017,Houston Rockets,123,Philadelphia 76ers,118,-260,+250
+Fri Jan 27 2017,Memphis Grizzlies,109,Portland Trail Blazers,112, , 
+Sat Jan 28 2017,Sacramento Kings,109,Charlotte Hornets,106,+260,-290
+Sat Jan 28 2017,Detroit Pistons,103,Miami Heat,116,-145,+140
+Sat Jan 28 2017,Boston Celtics,112,Milwaukee Bucks,108,+120,-103
+Sat Jan 28 2017,Los Angeles Clippers,98,Golden State Warriors,144, , 
+Sat Jan 28 2017,Brooklyn Nets,109,Minnesota Timberwolves,129, , 
+Sat Jan 28 2017,Denver Nuggets,123,Phoenix Suns,112,+145,-160
+Sat Jan 28 2017,Memphis Grizzlies,102,Utah Jazz,95,+305,-335
+Sun Jan 29 2017,New York Knicks,139,Atlanta Hawks,142,+230,-240
+Sun Jan 29 2017,Oklahoma City Thunder,91,Cleveland Cavaliers,107,+320,-340
+Sun Jan 29 2017,Houston Rockets,101,Indiana Pacers,120,-160,+150
+Sun Jan 29 2017,Washington Wizards,107,New Orleans Pelicans,94,-105,+105
+Sun Jan 29 2017,Orlando Magic,114,Toronto Raptors,113,+550,-650
+Sun Jan 29 2017,Philadelphia 76ers,108,Chicago Bulls,121,+250,-270
+Sun Jan 29 2017,Dallas Mavericks,105,San Antonio Spurs,101, , 
+Sun Jan 29 2017,Golden State Warriors,113,Portland Trail Blazers,111,-250,+220
+Mon Jan 30 2017,Sacramento Kings,119,Philadelphia 76ers,122,+300,+135
+Mon Jan 30 2017,Brooklyn Nets,96,Miami Heat,104,+330,-360
+Mon Jan 30 2017,Detroit Pistons,109,Boston Celtics,113,+205,-220
+Mon Jan 30 2017,Orlando Magic,105,Minnesota Timberwolves,111,+315,-355
+Mon Jan 30 2017,Cleveland Cavaliers,97,Dallas Mavericks,104,-180,+165
+Mon Jan 30 2017,Memphis Grizzlies,115,Phoenix Suns,96,-149,+160
+Tue Jan 31 2017,New Orleans Pelicans,106,Toronto Raptors,108,+270,-315
+Tue Jan 31 2017,New York Knicks,101,Washington Wizards,117,+325,-350
+Tue Jan 31 2017,Sacramento Kings,83,Houston Rockets,105, , 
+Tue Jan 31 2017,Oklahoma City Thunder,94,San Antonio Spurs,108,+400,-465
+Tue Jan 31 2017,Charlotte Hornets,98,Portland Trail Blazers,115,+165,-170
+Tue Jan 31 2017,Denver Nuggets,116,Los Angeles Lakers,120,-104,+115
+Wed Feb 1 2017,Minnesota Timberwolves,97,Cleveland Cavaliers,125,+245,-265
+Wed Feb 1 2017,Indiana Pacers,98,Orlando Magic,88,-145,+130
+Wed Feb 1 2017,Toronto Raptors,104,Boston Celtics,109,+230,-250
+Wed Feb 1 2017,New York Knicks,95,Brooklyn Nets,90,-140,+135
+Wed Feb 1 2017,New Orleans Pelicans,98,Detroit Pistons,118,+280,-310
+Wed Feb 1 2017,Atlanta Hawks,93,Miami Heat,116, , 
+Wed Feb 1 2017,Philadelphia 76ers,95,Dallas Mavericks,113,+310,-330
+Wed Feb 1 2017,Memphis Grizzlies,119,Denver Nuggets,99,-170,+160
+Wed Feb 1 2017,Los Angeles Clippers,124,Phoenix Suns,114,-140,+130
+Wed Feb 1 2017,Milwaukee Bucks,88,Utah Jazz,104,+300,-340
+Wed Feb 1 2017,Chicago Bulls,128,Oklahoma City Thunder,100,+130,-140
+Wed Feb 1 2017,Charlotte Hornets,111,Golden State Warriors,126, , 
+Thu Feb 2 2017,Los Angeles Lakers,108,Washington Wizards,116,+510,-203
+Thu Feb 2 2017,Atlanta Hawks,113,Houston Rockets,108,+435,-510
+Thu Feb 2 2017,Philadelphia 76ers,86,San Antonio Spurs,102, , 
+Thu Feb 2 2017,Golden State Warriors,133,Los Angeles Clippers,120,-325,+310
+Fri Feb 3 2017,Toronto Raptors,94,Orlando Magic,102,-205,+190
+Fri Feb 3 2017,Indiana Pacers,106,Brooklyn Nets,97,-275,+245
+Fri Feb 3 2017,Minnesota Timberwolves,108,Detroit Pistons,116,+170,-185
+Fri Feb 3 2017,Los Angeles Lakers,107,Boston Celtics,113, , 
+Fri Feb 3 2017,Chicago Bulls,117,Houston Rockets,121,+447,-255
+Fri Feb 3 2017,Memphis Grizzlies,102,Oklahoma City Thunder,114, , 
+Fri Feb 3 2017,Milwaukee Bucks,117,Denver Nuggets,121,+140,-150
+Fri Feb 3 2017,Dallas Mavericks,108,Portland Trail Blazers,104,+230,-250
+Fri Feb 3 2017,Phoenix Suns,105,Sacramento Kings,103,+165,-180
+Sat Feb 4 2017,Orlando Magic,86,Atlanta Hawks,113,+270,-300
+Sat Feb 4 2017,Detroit Pistons,84,Indiana Pacers,105,+130,-145
+Sat Feb 4 2017,New Orleans Pelicans,91,Washington Wizards,105,+255,-275
+Sat Feb 4 2017,Philadelphia 76ers,102,Miami Heat,125,+400,-465
+Sat Feb 4 2017,Cleveland Cavaliers,111,New York Knicks,104,-175,+165
+Sat Feb 4 2017,Memphis Grizzlies,107,Minnesota Timberwolves,99, , 
+Sat Feb 4 2017,Milwaukee Bucks,137,Phoenix Suns,112, , 
+Sat Feb 4 2017,Denver Nuggets,97,San Antonio Spurs,121,+825,-700
+Sat Feb 4 2017,Charlotte Hornets,98,Utah Jazz,105,+330,-360
+Sat Feb 4 2017,Golden State Warriors,106,Sacramento Kings,109, , 
+Sun Feb 5 2017,Toronto Raptors,103,Brooklyn Nets,95,-260,+250
+Sun Feb 5 2017,Los Angeles Clippers,102,Boston Celtics,107,+205,-235
+Sun Feb 5 2017,Portland Trail Blazers,99,Oklahoma City Thunder,105,+180,-200
+Mon Feb 6 2017,Oklahoma City Thunder,90,Indiana Pacers,93,+185,-210
+Mon Feb 6 2017,Los Angeles Lakers,121,New York Knicks,107,+180,-200
+Mon Feb 6 2017,Cleveland Cavaliers,140,Washington Wizards,135, , 
+Mon Feb 6 2017,Utah Jazz,120,Atlanta Hawks,95, , 
+Mon Feb 6 2017,Philadelphia 76ers,96,Detroit Pistons,113,+400,-420
+Mon Feb 6 2017,Los Angeles Clippers,109,Toronto Raptors,118,+255,-260
+Mon Feb 6 2017,Miami Heat,115,Minnesota Timberwolves,113, , 
+Mon Feb 6 2017,Phoenix Suns,106,New Orleans Pelicans,111,+205,-225
+Mon Feb 6 2017,Dallas Mavericks,87,Denver Nuggets,110,+125,-140
+Mon Feb 6 2017,San Antonio Spurs,74,Memphis Grizzlies,89,-103,+123
+Mon Feb 6 2017,Chicago Bulls,112,Sacramento Kings,107,+160,-170
+Tue Feb 7 2017,Brooklyn Nets,107,Charlotte Hornets,111, , 
+Tue Feb 7 2017,Orlando Magic,104,Houston Rockets,128, , 
+Tue Feb 7 2017,Portland Trail Blazers,114,Dallas Mavericks,113,-130,+125
+Wed Feb 8 2017,Cleveland Cavaliers,132,Indiana Pacers,117,-160,+150
+Wed Feb 8 2017,San Antonio Spurs,111,Philadelphia 76ers,103,-750,+675
+Wed Feb 8 2017,Denver Nuggets,106,Atlanta Hawks,117,+155,-170
+Wed Feb 8 2017,Washington Wizards,114,Brooklyn Nets,110,-550,+485
+Wed Feb 8 2017,Los Angeles Lakers,102,Detroit Pistons,121,+245,-270
+Wed Feb 8 2017,Phoenix Suns,91,Memphis Grizzlies,110,+290,-340
+Wed Feb 8 2017,Miami Heat,106,Milwaukee Bucks,88,+160,-170
+Wed Feb 8 2017,Toronto Raptors,109,Minnesota Timberwolves,112,-150,+155
+Wed Feb 8 2017,Utah Jazz,127,New Orleans Pelicans,94,-162,+145
+Wed Feb 8 2017,Los Angeles Clippers,119,New York Knicks,115, , 
+Wed Feb 8 2017,Chicago Bulls,92,Golden State Warriors,123, , 
+Wed Feb 8 2017,Boston Celtics,92,Sacramento Kings,108,-415,+350
+Thu Feb 9 2017,Houston Rockets,107,Charlotte Hornets,95,-135,+135
+Thu Feb 9 2017,Philadelphia 76ers,112,Orlando Magic,111,+245,-260
+Thu Feb 9 2017,Cleveland Cavaliers,109,Oklahoma City Thunder,118,+485,+105
+Thu Feb 9 2017,Utah Jazz,105,Dallas Mavericks,112,-133,+150
+Thu Feb 9 2017,Boston Celtics,120,Portland Trail Blazers,111,+140,-130
+Fri Feb 10 2017,Miami Heat,108,Brooklyn Nets,99,-220,+205
+Fri Feb 10 2017,San Antonio Spurs,103,Detroit Pistons,92,-190,+180
+Fri Feb 10 2017,Denver Nuggets,131,New York Knicks,123,+120,-118
+Fri Feb 10 2017,Golden State Warriors,122,Memphis Grizzlies,107,-330,+290
+Fri Feb 10 2017,Los Angeles Lakers,122,Milwaukee Bucks,114,+195,-220
+Fri Feb 10 2017,New Orleans Pelicans,122,Minnesota Timberwolves,106,+180,-195
+Fri Feb 10 2017,Indiana Pacers,107,Washington Wizards,112,+210,-230
+Fri Feb 10 2017,Chicago Bulls,97,Phoenix Suns,115,-165,+155
+Fri Feb 10 2017,Atlanta Hawks,107,Sacramento Kings,108,-115,+115
+Sat Feb 11 2017,Los Angeles Clippers,107,Charlotte Hornets,102,+125,-135
+Sat Feb 11 2017,Milwaukee Bucks,116,Indiana Pacers,100,+235,-245
+Sat Feb 11 2017,Denver Nuggets,109,Cleveland Cavaliers,125, , 
+Sat Feb 11 2017,Miami Heat,109,Philadelphia 76ers,117,-130,+130
+Sat Feb 11 2017,Golden State Warriors,130,Oklahoma City Thunder,114,-345,+300
+Sat Feb 11 2017,Orlando Magic,80,Dallas Mavericks,112,+235,-270
+Sat Feb 11 2017,Phoenix Suns,102,Houston Rockets,133, , 
+Sat Feb 11 2017,Boston Celtics,112,Utah Jazz,104,+245,-250
+Sun Feb 12 2017,Chicago Bulls,89,Minnesota Timberwolves,117,+255,-260
+Sun Feb 12 2017,San Antonio Spurs,90,New York Knicks,94,-455,+400
+Sun Feb 12 2017,Detroit Pistons,102,Toronto Raptors,101,+255,-265
+Sun Feb 12 2017,New Orleans Pelicans,99,Sacramento Kings,105,+155,-170
+Mon Feb 13 2017,Philadelphia 76ers,105,Charlotte Hornets,99,+300,-330
+Mon Feb 13 2017,San Antonio Spurs,110,Indiana Pacers,106,-205,+180
+Mon Feb 13 2017,Memphis Grizzlies,112,Brooklyn Nets,103,-400,+370
+Mon Feb 13 2017,Orlando Magic,116,Miami Heat,107,+300,-315
+Mon Feb 13 2017,Detroit Pistons,89,Milwaukee Bucks,102,+130,-145
+Mon Feb 13 2017,Oklahoma City Thunder,98,Washington Wizards,120,+205,-220
+Mon Feb 13 2017,Boston Celtics,111,Dallas Mavericks,98,-120,+120
+Mon Feb 13 2017,Golden State Warriors,110,Denver Nuggets,132, , 
+Mon Feb 13 2017,New Orleans Pelicans,110,Phoenix Suns,108,+150,-160
+Mon Feb 13 2017,Los Angeles Clippers,88,Utah Jazz,72,+305,-350
+Mon Feb 13 2017,Atlanta Hawks,109,Portland Trail Blazers,104, , 
+Tue Feb 14 2017,Toronto Raptors,94,Chicago Bulls,105,-180,+165
+Tue Feb 14 2017,Cleveland Cavaliers,116,Minnesota Timberwolves,108,-165,+165
+Tue Feb 14 2017,Sacramento Kings,97,Los Angeles Lakers,96,+125,-130
+Wed Feb 15 2017,Indiana Pacers,104,Cleveland Cavaliers,113,+225,-250
+Wed Feb 15 2017,San Antonio Spurs,107,Orlando Magic,79,-575,+475
+Wed Feb 15 2017,Philadelphia 76ers,108,Boston Celtics,116,+485,-525
+Wed Feb 15 2017,Milwaukee Bucks,129,Brooklyn Nets,125,-210,+192
+Wed Feb 15 2017,Dallas Mavericks,91,Detroit Pistons,98,+170,-190
+Wed Feb 15 2017,Charlotte Hornets,85,Toronto Raptors,90,+230,-245
+Wed Feb 15 2017,Miami Heat,117,Houston Rockets,109,+485,-600
+Wed Feb 15 2017,New Orleans Pelicans,95,Memphis Grizzlies,91,+325,-345
+Wed Feb 15 2017,Minnesota Timberwolves,112,Denver Nuggets,99,+225,-260
+Wed Feb 15 2017,Los Angeles Lakers,101,Phoenix Suns,137,+165,-175
+Wed Feb 15 2017,Portland Trail Blazers,88,Utah Jazz,111,+365,-420
+Wed Feb 15 2017,New York Knicks,105,Oklahoma City Thunder,116,+270,-300
+Wed Feb 15 2017,Sacramento Kings,86,Golden State Warriors,109, , 
+Wed Feb 15 2017,Atlanta Hawks,84,Los Angeles Clippers,99,+160,-160
+Thu Feb 16 2017,Washington Wizards,111,Indiana Pacers,98,-140,+130
+Thu Feb 16 2017,Boston Celtics,103,Chicago Bulls,104, , 
+Thu Feb 23 2017,Portland Trail Blazers,112,Orlando Magic,103,-135,+130
+Thu Feb 23 2017,Charlotte Hornets,108,Detroit Pistons,114,+175,-200
+Thu Feb 23 2017,New York Knicks,104,Cleveland Cavaliers,119,+580,-600
+Thu Feb 23 2017,Houston Rockets,129,New Orleans Pelicans,99,-160,+145
+Thu Feb 23 2017,Los Angeles Clippers,113,Golden State Warriors,123, , 
+Thu Feb 23 2017,Denver Nuggets,100,Sacramento Kings,116,-265,+255
+Fri Feb 24 2017,Memphis Grizzlies,92,Indiana Pacers,102, , 
+Fri Feb 24 2017,Washington Wizards,112,Philadelphia 76ers,120,-415,+430
+Fri Feb 24 2017,Miami Heat,108,Atlanta Hawks,90,+130,-140
+Fri Feb 24 2017,Phoenix Suns,121,Chicago Bulls,128,+218,-240
+Fri Feb 24 2017,Utah Jazz,109,Milwaukee Bucks,95,-155,+145
+Fri Feb 24 2017,Dallas Mavericks,84,Minnesota Timberwolves,97,+155,-170
+Fri Feb 24 2017,Los Angeles Lakers,93,Oklahoma City Thunder,110,+500,-600
+Fri Feb 24 2017,Boston Celtics,97,Toronto Raptors,107,+158,-120
+Fri Feb 24 2017,Brooklyn Nets,109,Denver Nuggets,129,+475,-600
+Fri Feb 24 2017,San Antonio Spurs,105,Los Angeles Clippers,97,-143,+130
+Sat Feb 25 2017,Charlotte Hornets,99,Sacramento Kings,85,-160,+155
+Sat Feb 25 2017,Atlanta Hawks,86,Orlando Magic,105,-160,+150
+Sat Feb 25 2017,Philadelphia 76ers,109,New York Knicks,110,+235,-235
+Sat Feb 25 2017,Indiana Pacers,95,Miami Heat,113,+170,-180
+Sat Feb 25 2017,Chicago Bulls,117,Cleveland Cavaliers,99,+222,-235
+Sat Feb 25 2017,New Orleans Pelicans,83,Dallas Mavericks,96,-125,+120
+Sat Feb 25 2017,Minnesota Timberwolves,130,Houston Rockets,142,+775,-850
+Sat Feb 25 2017,Brooklyn Nets,95,Golden State Warriors,112,+2500, 
+Sun Feb 26 2017,San Antonio Spurs,119,Los Angeles Lakers,98, , 
+Sun Feb 26 2017,Phoenix Suns,96,Milwaukee Bucks,100,+230,-235
+Sun Feb 26 2017,Memphis Grizzlies,105,Denver Nuggets,98,+115,-125
+Sun Feb 26 2017,Utah Jazz,102,Washington Wizards,92,+121,-130
+Sun Feb 26 2017,Boston Celtics,104,Detroit Pistons,98,-120,+120
+Sun Feb 26 2017,Portland Trail Blazers,106,Toronto Raptors,112,+192,-215
+Sun Feb 26 2017,New Orleans Pelicans,110,Oklahoma City Thunder,118,+245,-239
+Sun Feb 26 2017,Charlotte Hornets,121,Los Angeles Clippers,124,+500,-570
+Mon Feb 27 2017,Milwaukee Bucks,95,Cleveland Cavaliers,102,+425,-317
+Mon Feb 27 2017,Toronto Raptors,92,New York Knicks,91,-155,+154
+Mon Feb 27 2017,Golden State Warriors,119,Philadelphia 76ers,108, , 
+Mon Feb 27 2017,Atlanta Hawks,114,Boston Celtics,98,+165,-178
+Mon Feb 27 2017,Miami Heat,89,Dallas Mavericks,96,-105,+105
+Mon Feb 27 2017,Indiana Pacers,117,Houston Rockets,108,+470,-550
+Mon Feb 27 2017,Minnesota Timberwolves,102,Sacramento Kings,88,-175,+165
+Tue Feb 28 2017,Golden State Warriors,108,Washington Wizards,112,-300,+275
+Tue Feb 28 2017,Portland Trail Blazers,113,Detroit Pistons,120,+155,-165
+Tue Feb 28 2017,Denver Nuggets,125,Chicago Bulls,107,+125,-135
+Tue Feb 28 2017,Phoenix Suns,112,Memphis Grizzlies,130,+375,-446
+Tue Feb 28 2017,Utah Jazz,106,Oklahoma City Thunder,109, , 
+Tue Feb 28 2017,Charlotte Hornets,109,Los Angeles Lakers,104,-190,+190
+Wed Mar 1 2017,New York Knicks,101,Orlando Magic,90,+119,-130
+Wed Mar 1 2017,Dallas Mavericks,95,Atlanta Hawks,100,+220,-245
+Wed Mar 1 2017,Philadelphia 76ers,98,Miami Heat,125,+405,-499
+Wed Mar 1 2017,Washington Wizards,105,Toronto Raptors,96,+165,-175
+Wed Mar 1 2017,Cleveland Cavaliers,99,Boston Celtics,103, , 
+Wed Mar 1 2017,Denver Nuggets,110,Milwaukee Bucks,98,+170,-170
+Wed Mar 1 2017,Detroit Pistons,86,New Orleans Pelicans,109,+127,-140
+Wed Mar 1 2017,Indiana Pacers,99,San Antonio Spurs,100,+450,-550
+Wed Mar 1 2017,Minnesota Timberwolves,107,Utah Jazz,80,+230,-260
+Wed Mar 1 2017,Houston Rockets,122,Los Angeles Clippers,103,+126,-130
+Wed Mar 1 2017,Brooklyn Nets,109,Sacramento Kings,100,+133,-135
+Thu Mar 2 2017,Golden State Warriors,87,Chicago Bulls,94,-315,+275
+Thu Mar 2 2017,Charlotte Hornets,103,Phoenix Suns,120,-155,+145
+Thu Mar 2 2017,Oklahoma City Thunder,109,Portland Trail Blazers,114, , 
+Fri Mar 3 2017,Cleveland Cavaliers,135,Atlanta Hawks,130,-140,+135
+Fri Mar 3 2017,Miami Heat,99,Orlando Magic,110,-190,+175
+Fri Mar 3 2017,New York Knicks,102,Philadelphia 76ers,105,-118,+115
+Fri Mar 3 2017,Toronto Raptors,114,Washington Wizards,106,+190,-210
+Fri Mar 3 2017,Los Angeles Clippers,101,Milwaukee Bucks,112,-210,+200
+Fri Mar 3 2017,Memphis Grizzlies,100,Dallas Mavericks,104,-140,+126
+Fri Mar 3 2017,Oklahoma City Thunder,111,Phoenix Suns,118,-195,+175
+Fri Mar 3 2017,Brooklyn Nets,97,Utah Jazz,112, , 
+Fri Mar 3 2017,San Antonio Spurs,101,New Orleans Pelicans,98,-235,+215
+Fri Mar 3 2017,Boston Celtics,115,Los Angeles Lakers,95,-299,+270
+Sat Mar 4 2017,Detroit Pistons,136,Philadelphia 76ers,106,-215,+200
+Sat Mar 4 2017,Cleveland Cavaliers,92,Miami Heat,120, , 
+Sat Mar 4 2017,Toronto Raptors,94,Milwaukee Bucks,101, , 
+Sat Mar 4 2017,Los Angeles Clippers,101,Chicago Bulls,91,-150,+140
+Sat Mar 4 2017,Charlotte Hornets,112,Denver Nuggets,102,+192,-215
+Sat Mar 4 2017,Memphis Grizzlies,108,Houston Rockets,123,+329,-385
+Sat Mar 4 2017,Minnesota Timberwolves,90,San Antonio Spurs,97,+271,-320
+Sat Mar 4 2017,Brooklyn Nets,116,Portland Trail Blazers,130,+535,-700
+Sun Mar 5 2017,Indiana Pacers,97,Atlanta Hawks,96,+147,-150
+Sun Mar 5 2017,Golden State Warriors,112,New York Knicks,105,-596,+506
+Sun Mar 5 2017,Boston Celtics,106,Phoenix Suns,109,-177,+175
+Sun Mar 5 2017,Orlando Magic,114,Washington Wizards,115,+725,-718
+Sun Mar 5 2017,Utah Jazz,110,Sacramento Kings,109,-522,+460
+Sun Mar 5 2017,Oklahoma City Thunder,89,Dallas Mavericks,104, , 
+Sun Mar 5 2017,New Orleans Pelicans,105,Los Angeles Lakers,97,-254,+225
+Mon Mar 6 2017,Miami Heat,106,Cleveland Cavaliers,98,+475,-522
+Mon Mar 6 2017,New York Knicks,113,Orlando Magic,105,+135,-149
+Mon Mar 6 2017,Milwaukee Bucks,112,Philadelphia 76ers,98,-220,+195
+Mon Mar 6 2017,Golden State Warriors,119,Atlanta Hawks,111,-225,+205
+Mon Mar 6 2017,Chicago Bulls,95,Detroit Pistons,109,+211,-240
+Mon Mar 6 2017,Indiana Pacers,88,Charlotte Hornets,100,+166,-175
+Mon Mar 6 2017,Brooklyn Nets,122,Memphis Grizzlies,109,+614,-700
+Mon Mar 6 2017,Houston Rockets,110,San Antonio Spurs,112,+145,-160
+Mon Mar 6 2017,Sacramento Kings,96,Denver Nuggets,108, , 
+Mon Mar 6 2017,New Orleans Pelicans,83,Utah Jazz,88,+180,-200
+Mon Mar 6 2017,Boston Celtics,102,Los Angeles Clippers,116,+300,-290
+Tue Mar 7 2017,Portland Trail Blazers,126,Oklahoma City Thunder,121,+255,-285
+Tue Mar 7 2017,Los Angeles Lakers,111,Dallas Mavericks,122,+370,-433
+Tue Mar 7 2017,Washington Wizards,131,Phoenix Suns,127,-220,+195
+Wed Mar 8 2017,Chicago Bulls,91,Orlando Magic,98, , 
+Wed Mar 8 2017,Brooklyn Nets,105,Atlanta Hawks,110,+445,-550
+Wed Mar 8 2017,Charlotte Hornets,101,Miami Heat,108,+155,-172
+Wed Mar 8 2017,Utah Jazz,115,Houston Rockets,108,+334,-399
+Wed Mar 8 2017,Detroit Pistons,98,Indiana Pacers,115,+155,-170
+Wed Mar 8 2017,New York Knicks,93,Milwaukee Bucks,104,+236,-270
+Wed Mar 8 2017,Los Angeles Clippers,91,Minnesota Timberwolves,107,-155,+145
+Wed Mar 8 2017,Toronto Raptors,94,New Orleans Pelicans,87,+150,-150
+Wed Mar 8 2017,Sacramento Kings,104,San Antonio Spurs,114, , 
+Wed Mar 8 2017,Washington Wizards,123,Denver Nuggets,113, , 
+Wed Mar 8 2017,Boston Celtics,99,Golden State Warriors,86,+320,-325
+Thu Mar 9 2017,Cleveland Cavaliers,101,Detroit Pistons,106,-180,+180
+Thu Mar 9 2017,Los Angeles Clippers,114,Memphis Grizzlies,98,+120,-132
+Thu Mar 9 2017,San Antonio Spurs,92,Oklahoma City Thunder,102,-138,+130
+Thu Mar 9 2017,Philadelphia 76ers,108,Portland Trail Blazers,114,+425,-485
+Thu Mar 9 2017,Los Angeles Lakers,122,Phoenix Suns,110,+240,-250
+Fri Mar 10 2017,Orlando Magic,81,Charlotte Hornets,121,+405,-450
+Fri Mar 10 2017,Toronto Raptors,99,Atlanta Hawks,105,+140,-145
+Fri Mar 10 2017,Houston Rockets,115,Chicago Bulls,94,-245,+220
+Fri Mar 10 2017,Indiana Pacers,85,Milwaukee Bucks,99,+110,-118
+Fri Mar 10 2017,Golden State Warriors,102,Minnesota Timberwolves,103,-215,+195
+Fri Mar 10 2017,Brooklyn Nets,96,Dallas Mavericks,105,+450,-550
+Fri Mar 10 2017,Boston Celtics,99,Denver Nuggets,119,-130,+125
+Fri Mar 10 2017,Washington Wizards,130,Sacramento Kings,122,-358,+320
+Sat Mar 11 2017,Utah Jazz,104,Oklahoma City Thunder,112,+175,-139
+Sat Mar 11 2017,Philadelphia 76ers,100,Los Angeles Clippers,112, , 
+Sat Mar 11 2017,New York Knicks,92,Detroit Pistons,112,+230,-255
+Sat Mar 11 2017,New Orleans Pelicans,125,Charlotte Hornets,122,+141,-160
+Sat Mar 11 2017,Cleveland Cavaliers,116,Orlando Magic,104,-400,+355
+Sat Mar 11 2017,Toronto Raptors,89,Miami Heat,104,+205,-230
+Sat Mar 11 2017,Minnesota Timberwolves,95,Milwaukee Bucks,102,+130,-142
+Sat Mar 11 2017,Golden State Warriors,85,San Antonio Spurs,107,+515,-600
+Sat Mar 11 2017,Phoenix Suns,100,Dallas Mavericks,98,+200,-220
+Sat Mar 11 2017,Atlanta Hawks,107,Memphis Grizzlies,90,+230,-265
+Sat Mar 11 2017,Washington Wizards,125,Portland Trail Blazers,124,+170,-178
+Sat Mar 11 2017,Denver Nuggets,105,Sacramento Kings,92,-200,+180
+Sun Mar 12 2017,Chicago Bulls,80,Boston Celtics,100,+280,-310
+Sun Mar 12 2017,New York Knicks,112,Brooklyn Nets,120, , 
+Sun Mar 12 2017,Miami Heat,98,Indiana Pacers,102,+220,-240
+Sun Mar 12 2017,Cleveland Cavaliers,112,Houston Rockets,117,+250,-265
+Sun Mar 12 2017,Portland Trail Blazers,110,Phoenix Suns,101,-129,+120
+Sun Mar 12 2017,Philadelphia 76ers,118,Los Angeles Lakers,116,+170,-190
+Mon Mar 13 2017,Chicago Bulls,115,Charlotte Hornets,109,+274,-300
+Mon Mar 13 2017,Dallas Mavericks,78,Toronto Raptors,100,+175,-190
+Mon Mar 13 2017,Milwaukee Bucks,93,Memphis Grizzlies,113,+155,-170
+Mon Mar 13 2017,Washington Wizards,104,Minnesota Timberwolves,119,+120,-125
+Mon Mar 13 2017,Atlanta Hawks,99,San Antonio Spurs,107,+263,-285
+Mon Mar 13 2017,Los Angeles Clippers,108,Utah Jazz,114, , 
+Mon Mar 13 2017,Los Angeles Lakers,101,Denver Nuggets,129, , 
+Mon Mar 13 2017,Orlando Magic,115,Sacramento Kings,120,-103,+110
+Tue Mar 14 2017,Detroit Pistons,96,Cleveland Cavaliers,128,+280,-317
+Tue Mar 14 2017,Oklahoma City Thunder,122,Brooklyn Nets,104,-255,+230
+Tue Mar 14 2017,Indiana Pacers,81,New York Knicks,87,-145,+145
+Tue Mar 14 2017,Portland Trail Blazers,77,New Orleans Pelicans,100,+150,-160
+Tue Mar 14 2017,Philadelphia 76ers,104,Golden State Warriors,106, , 
+Wed Mar 15 2017,Charlotte Hornets,77,Indiana Pacers,98,+140,-150
+Wed Mar 15 2017,Dallas Mavericks,112,Washington Wizards,107,+275,-310
+Wed Mar 15 2017,Minnesota Timberwolves,104,Boston Celtics,117,+205,-230
+Wed Mar 15 2017,Utah Jazz,97,Detroit Pistons,83,-145,+135
+Wed Mar 15 2017,New Orleans Pelicans,112,Miami Heat,120,+220,-225
+Wed Mar 15 2017,Memphis Grizzlies,98,Chicago Bulls,91,-135,+123
+Wed Mar 15 2017,Los Angeles Lakers,100,Houston Rockets,139, , 
+Wed Mar 15 2017,Portland Trail Blazers,110,San Antonio Spurs,106,+575,-692
+Wed Mar 15 2017,Sacramento Kings,107,Phoenix Suns,101,+205,-200
+Wed Mar 15 2017,Milwaukee Bucks,97,Los Angeles Clippers,96,+280,-300
+Thu Mar 16 2017,Utah Jazz,83,Cleveland Cavaliers,91,+330,-360
+Thu Mar 16 2017,Oklahoma City Thunder,123,Toronto Raptors,102,+115,-125
+Thu Mar 16 2017,Memphis Grizzlies,103,Atlanta Hawks,91,+157,-170
+Thu Mar 16 2017,Brooklyn Nets,121,New York Knicks,110,+190,-210
+Thu Mar 16 2017,Los Angeles Clippers,114,Denver Nuggets,129,+210,-225
+Thu Mar 16 2017,Orlando Magic,92,Golden State Warriors,122, , 
+Fri Mar 17 2017,Dallas Mavericks,74,Philadelphia 76ers,116,-200,+195
+Fri Mar 17 2017,Chicago Bulls,107,Washington Wizards,112,+275,-320
+Fri Mar 17 2017,Boston Celtics,98,Brooklyn Nets,95,-385,+330
+Fri Mar 17 2017,Toronto Raptors,87,Detroit Pistons,75,+145,-155
+Fri Mar 17 2017,Minnesota Timberwolves,105,Miami Heat,123,+165,-175
+Fri Mar 17 2017,Houston Rockets,112,New Orleans Pelicans,128,-265,+250
+Fri Mar 17 2017,Orlando Magic,109,Phoenix Suns,103,+119,-127
+Fri Mar 17 2017,Milwaukee Bucks,107,Los Angeles Lakers,103,-330,+290
+Sat Mar 18 2017,Sacramento Kings,94,Oklahoma City Thunder,110, , 
+Sat Mar 18 2017,Portland Trail Blazers,113,Atlanta Hawks,97,+110,-120
+Sat Mar 18 2017,Washington Wizards,93,Charlotte Hornets,98,+161,-160
+Sat Mar 18 2017,Cleveland Cavaliers,78,Los Angeles Clippers,108,+875,-160
+Sat Mar 18 2017,Utah Jazz,86,Chicago Bulls,95,-240,+220
+Sat Mar 18 2017,San Antonio Spurs,96,Memphis Grizzlies,104,-160,+155
+Sat Mar 18 2017,Houston Rockets,109,Denver Nuggets,105,-130,+120
+Sat Mar 18 2017,Milwaukee Bucks,92,Golden State Warriors,117, , 
+Sun Mar 19 2017,Dallas Mavericks,111,Brooklyn Nets,104,-185,+170
+Sun Mar 19 2017,Boston Celtics,99,Philadelphia 76ers,105,-200,+180
+Sun Mar 19 2017,Phoenix Suns,95,Detroit Pistons,112,+700,-671
+Sun Mar 19 2017,Portland Trail Blazers,115,Miami Heat,104,+210,-238
+Sun Mar 19 2017,Minnesota Timberwolves,109,New Orleans Pelicans,123,+148,-160
+Sun Mar 19 2017,Indiana Pacers,91,Toronto Raptors,116,+130,-140
+Sun Mar 19 2017,Sacramento Kings,102,San Antonio Spurs,118, , 
+Sun Mar 19 2017,Cleveland Cavaliers,125,Los Angeles Lakers,120, , 
+Mon Mar 20 2017,Atlanta Hawks,90,Charlotte Hornets,105,+220,-235
+Mon Mar 20 2017,Utah Jazz,100,Indiana Pacers,107,-122,+130
+Mon Mar 20 2017,Philadelphia 76ers,109,Orlando Magic,112,+220,-225
+Mon Mar 20 2017,Washington Wizards,102,Boston Celtics,110,+165,-160
+Mon Mar 20 2017,Denver Nuggets,124,Houston Rockets,125,+320,-360
+Mon Mar 20 2017,Golden State Warriors,111,Oklahoma City Thunder,95,-129,+115
+Mon Mar 20 2017,New York Knicks,105,Los Angeles Clippers,114, , 
+Tue Mar 21 2017,Chicago Bulls,120,Toronto Raptors,122,+265,-298
+Tue Mar 21 2017,Detroit Pistons,96,Brooklyn Nets,98,-204,+200
+Tue Mar 21 2017,Phoenix Suns,97,Miami Heat,112,+700,-800
+Tue Mar 21 2017,Memphis Grizzlies,82,New Orleans Pelicans,95,+134,-140
+Tue Mar 21 2017,Golden State Warriors,112,Dallas Mavericks,87,-200,+180
+Tue Mar 21 2017,San Antonio Spurs,100,Minnesota Timberwolves,93,-184,+180
+Tue Mar 21 2017,Milwaukee Bucks,93,Portland Trail Blazers,90,+164,-170
+Tue Mar 21 2017,Los Angeles Clippers,133,Los Angeles Lakers,109,-550,+445
+Wed Mar 22 2017,Charlotte Hornets,109,Orlando Magic,102,-180,+170
+Wed Mar 22 2017,Indiana Pacers,100,Boston Celtics,109,+240,-270
+Wed Mar 22 2017,Detroit Pistons,95,Chicago Bulls,117, , 
+Wed Mar 22 2017,Philadelphia 76ers,97,Oklahoma City Thunder,122,+600,-750
+Wed Mar 22 2017,Atlanta Hawks,100,Washington Wizards,104,+271,-325
+Wed Mar 22 2017,Cleveland Cavaliers,113,Denver Nuggets,126,-130,+130
+Wed Mar 22 2017,Milwaukee Bucks,116,Sacramento Kings,98,-210,+192
+Wed Mar 22 2017,New York Knicks,101,Utah Jazz,108,+650,-850
+Thu Mar 23 2017,Phoenix Suns,98,Brooklyn Nets,126,+201,-225
+Thu Mar 23 2017,Toronto Raptors,101,Miami Heat,84,+160,-175
+Thu Mar 23 2017,Los Angeles Clippers,95,Dallas Mavericks,97,-210,+190
+Thu Mar 23 2017,Memphis Grizzlies,90,San Antonio Spurs,97,+320,-345
+Thu Mar 23 2017,New York Knicks,95,Portland Trail Blazers,110,+850,-900
+Fri Mar 24 2017,Cleveland Cavaliers,112,Charlotte Hornets,105,-162,+155
+Fri Mar 24 2017,Denver Nuggets,125,Indiana Pacers,117,+110,-120
+Fri Mar 24 2017,Detroit Pistons,87,Orlando Magic,115,-128,+118
+Fri Mar 24 2017,Brooklyn Nets,108,Washington Wizards,129, , 
+Fri Mar 24 2017,Phoenix Suns,120,Boston Celtics,130,+2000, 
+Fri Mar 24 2017,Philadelphia 76ers,117,Chicago Bulls,107,+235,-260
+Fri Mar 24 2017,New Orleans Pelicans,107,Houston Rockets,117,+315,-355
+Fri Mar 24 2017,Atlanta Hawks,97,Milwaukee Bucks,100,+253,-275
+Fri Mar 24 2017,Sacramento Kings,100,Golden State Warriors,114, , 
+Fri Mar 24 2017,Minnesota Timberwolves,119,Los Angeles Lakers,130,-265,+230
+Sat Mar 25 2017,Utah Jazz,95,Los Angeles Clippers,108,+190,-200
+Sat Mar 25 2017,Washington Wizards,127,Cleveland Cavaliers,115,+216,-235
+Sat Mar 25 2017,Toronto Raptors,94,Dallas Mavericks,86, , 
+Sat Mar 25 2017,New York Knicks,98,San Antonio Spurs,106, , 
+Sat Mar 25 2017,Minnesota Timberwolves,100,Portland Trail Blazers,112,+226,-245
+Sun Mar 26 2017,Brooklyn Nets,107,Atlanta Hawks,92,+240,-270
+Sun Mar 26 2017,Phoenix Suns,106,Charlotte Hornets,120, , 
+Sun Mar 26 2017,Oklahoma City Thunder,125,Houston Rockets,137,+215,-225
+Sun Mar 26 2017,Sacramento Kings,98,Los Angeles Clippers,97, , 
+Sun Mar 26 2017,Chicago Bulls,109,Milwaukee Bucks,94,+230,-240
+Sun Mar 26 2017,Miami Heat,108,Boston Celtics,112,+225,-240
+Sun Mar 26 2017,Philadelphia 76ers,94,Indiana Pacers,107,+367,-425
+Sun Mar 26 2017,New Orleans Pelicans,115,Denver Nuggets,90,+270,-315
+Sun Mar 26 2017,Memphis Grizzlies,94,Golden State Warriors,106,+601,-750
+Sun Mar 26 2017,Portland Trail Blazers,97,Los Angeles Lakers,81,-265,+236
+Mon Mar 27 2017,Detroit Pistons,95,New York Knicks,109,-115,+110
+Mon Mar 27 2017,Orlando Magic,112,Toronto Raptors,131,+300,-335
+Mon Mar 27 2017,Cleveland Cavaliers,74,San Antonio Spurs,103,+180,-205
+Mon Mar 27 2017,Oklahoma City Thunder,92,Dallas Mavericks,91, , 
+Mon Mar 27 2017,Memphis Grizzlies,90,Sacramento Kings,91,-270,+250
+Mon Mar 27 2017,New Orleans Pelicans,100,Utah Jazz,108,+220,-240
+Tue Mar 28 2017,Milwaukee Bucks,118,Charlotte Hornets,108,+170,-170
+Tue Mar 28 2017,Minnesota Timberwolves,115,Indiana Pacers,114,+163,-175
+Tue Mar 28 2017,Phoenix Suns,91,Atlanta Hawks,95,+470,-525
+Tue Mar 28 2017,Philadelphia 76ers,106,Brooklyn Nets,101,+165,-175
+Tue Mar 28 2017,Miami Heat,97,Detroit Pistons,96,-144,+138
+Tue Mar 28 2017,Golden State Warriors,113,Houston Rockets,106, , 
+Tue Mar 28 2017,Denver Nuggets,113,Portland Trail Blazers,122,+125,-129
+Tue Mar 28 2017,Washington Wizards,119,Los Angeles Lakers,108,-470,+405
+Wed Mar 29 2017,Oklahoma City Thunder,114,Orlando Magic,106,-205,+190
+Wed Mar 29 2017,Atlanta Hawks,99,Philadelphia 76ers,92,-140,+130
+Wed Mar 29 2017,Milwaukee Bucks,103,Boston Celtics,100,+270,-305
+Wed Mar 29 2017,Miami Heat,105,New York Knicks,88,-134,+125
+Wed Mar 29 2017,Charlotte Hornets,110,Toronto Raptors,106,+200,-215
+Wed Mar 29 2017,Indiana Pacers,97,Memphis Grizzlies,110,+161,-175
+Wed Mar 29 2017,Dallas Mavericks,118,New Orleans Pelicans,121,+213,-235
+Wed Mar 29 2017,Golden State Warriors,110,San Antonio Spurs,98,+165,-170
+Wed Mar 29 2017,Washington Wizards,124,Los Angeles Clippers,133,+250,-255
+Wed Mar 29 2017,Utah Jazz,112,Sacramento Kings,82,-310,+298
+Thu Mar 30 2017,Brooklyn Nets,89,Detroit Pistons,90,+241,-265
+Thu Mar 30 2017,Cleveland Cavaliers,93,Chicago Bulls,99,-220,+200
+Thu Mar 30 2017,Los Angeles Lakers,104,Minnesota Timberwolves,119,+600,-800
+Thu Mar 30 2017,Los Angeles Clippers,124,Phoenix Suns,118,-550,+445
+Thu Mar 30 2017,Houston Rockets,107,Portland Trail Blazers,117, , 
+Fri Mar 31 2017,Denver Nuggets,114,Charlotte Hornets,122,+121,-135
+Fri Mar 31 2017,Indiana Pacers,100,Toronto Raptors,111,+205,-215
+Fri Mar 31 2017,Orlando Magic,116,Boston Celtics,117,+535,-575
+Fri Mar 31 2017,Philadelphia 76ers,105,Cleveland Cavaliers,122,+973,-637
+Fri Mar 31 2017,Dallas Mavericks,90,Memphis Grizzlies,99,+140,-150
+Fri Mar 31 2017,New York Knicks,98,Miami Heat,94,+575,-630
+Fri Mar 31 2017,Detroit Pistons,105,Milwaukee Bucks,108,+270,-300
+Fri Mar 31 2017,Sacramento Kings,89,New Orleans Pelicans,117,+665,-750
+Fri Mar 31 2017,San Antonio Spurs,100,Oklahoma City Thunder,95,-145,+140
+Fri Mar 31 2017,Washington Wizards,88,Utah Jazz,95,+130,-140
+Fri Mar 31 2017,Houston Rockets,98,Golden State Warriors,107,+400,-400
+Sat Apr 1 2017,Los Angeles Lakers,104,Los Angeles Clippers,115, , 
+Sat Apr 1 2017,Atlanta Hawks,104,Chicago Bulls,106,+195,-210
+Sat Apr 1 2017,Orlando Magic,111,Brooklyn Nets,121,+155,-165
+Sat Apr 1 2017,Sacramento Kings,123,Minnesota Timberwolves,117, , 
+Sat Apr 1 2017,Phoenix Suns,117,Portland Trail Blazers,130, , 
+Sun Apr 2 2017,Boston Celtics,110,New York Knicks,94,-335,+330
+Sun Apr 2 2017,Charlotte Hornets,113,Oklahoma City Thunder,101,+180,-200
+Sun Apr 2 2017,Memphis Grizzlies,103,Los Angeles Lakers,108,-298,+265
+Sun Apr 2 2017,Dallas Mavericks,109,Milwaukee Bucks,105,+235,-256
+Sun Apr 2 2017,Utah Jazz,103,San Antonio Spurs,109,+195,-208
+Sun Apr 2 2017,Atlanta Hawks,82,Brooklyn Nets,91,-150,+150
+Sun Apr 2 2017,Indiana Pacers,130,Cleveland Cavaliers,135,+330,-390
+Sun Apr 2 2017,Denver Nuggets,116,Miami Heat,113,+150,-160
+Sun Apr 2 2017,Chicago Bulls,117,New Orleans Pelicans,110,+317,-372
+Sun Apr 2 2017,Philadelphia 76ers,105,Toronto Raptors,113,+650,-800
+Sun Apr 2 2017,Washington Wizards,115,Golden State Warriors,139,+430,-522
+Sun Apr 2 2017,Houston Rockets,123,Phoenix Suns,116,-310,+275
+Mon Apr 3 2017,Portland Trail Blazers,109,Minnesota Timberwolves,110,+116,-120
+Tue Apr 4 2017,Orlando Magic,102,Cleveland Cavaliers,122,+575,-575
+Tue Apr 4 2017,Toronto Raptors,90,Indiana Pacers,108,+143,-145
+Tue Apr 4 2017,Brooklyn Nets,141,Philadelphia 76ers,118, , 
+Tue Apr 4 2017,Charlotte Hornets,111,Washington Wizards,118,+135,-145
+Tue Apr 4 2017,Denver Nuggets,134,New Orleans Pelicans,131,+135,-155
+Tue Apr 4 2017,Chicago Bulls,91,New York Knicks,100,-191,+175
+Tue Apr 4 2017,Milwaukee Bucks,79,Oklahoma City Thunder,110,+220,-240
+Tue Apr 4 2017,Memphis Grizzlies,89,San Antonio Spurs,95,+370,-439
+Tue Apr 4 2017,Portland Trail Blazers,87,Utah Jazz,106,+205,-235
+Tue Apr 4 2017,Minnesota Timberwolves,107,Golden State Warriors,121, , 
+Tue Apr 4 2017,Dallas Mavericks,87,Sacramento Kings,98,+105,+125
+Wed Apr 5 2017,Miami Heat,112,Charlotte Hornets,99,+130,-135
+Wed Apr 5 2017,Toronto Raptors,105,Detroit Pistons,102, , 
+Wed Apr 5 2017,Cleveland Cavaliers,114,Boston Celtics,91,+155,-165
+Wed Apr 5 2017,Denver Nuggets,104,Houston Rockets,110,+290,-330
+Wed Apr 5 2017,Oklahoma City Thunder,103,Memphis Grizzlies,100, , 
+Wed Apr 5 2017,Los Angeles Lakers,102,San Antonio Spurs,95,+1025,-750
+Wed Apr 5 2017,Golden State Warriors,120,Phoenix Suns,111,-425,+400
+Wed Apr 5 2017,Dallas Mavericks,101,Los Angeles Clippers,112,+605,-750
+Thu Apr 6 2017,Milwaukee Bucks,89,Indiana Pacers,104,+175,-190
+Thu Apr 6 2017,Brooklyn Nets,107,Orlando Magic,115,+105,-110
+Thu Apr 6 2017,Chicago Bulls,102,Philadelphia 76ers,90,-225,+220
+Thu Apr 6 2017,Washington Wizards,106,New York Knicks,103,-240,+225
+Thu Apr 6 2017,Boston Celtics,116,Atlanta Hawks,123,-113,+110
+Thu Apr 6 2017,Minnesota Timberwolves,98,Portland Trail Blazers,105,+200,-215
+Fri Apr 7 2017,Atlanta Hawks,114,Cleveland Cavaliers,100, , 
+Fri Apr 7 2017,Miami Heat,94,Toronto Raptors,96,+170,-190
+Fri Apr 7 2017,Detroit Pistons,114,Houston Rockets,109, , 
+Fri Apr 7 2017,New York Knicks,88,Memphis Grizzlies,101, , 
+Fri Apr 7 2017,San Antonio Spurs,102,Dallas Mavericks,89,+180,-200
+Fri Apr 7 2017,New Orleans Pelicans,106,Denver Nuggets,122,+260,-294
+Fri Apr 7 2017,Minnesota Timberwolves,113,Utah Jazz,120,+575,-637
+Fri Apr 7 2017,Oklahoma City Thunder,99,Phoenix Suns,120,-450,+450
+Fri Apr 7 2017,Sacramento Kings,94,Los Angeles Lakers,98,+135,-130
+Sat Apr 8 2017,Chicago Bulls,106,Brooklyn Nets,107,-155,+150
+Sat Apr 8 2017,Boston Celtics,121,Charlotte Hornets,114, , 
+Sat Apr 8 2017,Indiana Pacers,127,Orlando Magic,112,-184,+170
+Sat Apr 8 2017,Milwaukee Bucks,90,Philadelphia 76ers,82,-260,+260
+Sat Apr 8 2017,Miami Heat,106,Washington Wizards,103,+154,-160
+Sat Apr 8 2017,Los Angeles Clippers,98,San Antonio Spurs,87,+108,-120
+Sat Apr 8 2017,Utah Jazz,86,Portland Trail Blazers,101,+125,-139
+Sat Apr 8 2017,New Orleans Pelicans,101,Golden State Warriors,123, , 
+Sun Apr 9 2017,Toronto Raptors,110,New York Knicks,97,-450,+395
+Sun Apr 9 2017,Cleveland Cavaliers,125,Atlanta Hawks,126,-205,+185
+Sun Apr 9 2017,Oklahoma City Thunder,106,Denver Nuggets,105,+194,-190
+Sun Apr 9 2017,Detroit Pistons,103,Memphis Grizzlies,90,+200,-220
+Sun Apr 9 2017,Dallas Mavericks,111,Phoenix Suns,124,+120,-135
+Sun Apr 9 2017,Houston Rockets,135,Sacramento Kings,128,-400,+375
+Sun Apr 9 2017,Minnesota Timberwolves,109,Los Angeles Lakers,110,-220,+200
+Mon Apr 10 2017,Indiana Pacers,120,Philadelphia 76ers,111,-364,+350
+Mon Apr 10 2017,Brooklyn Nets,105,Boston Celtics,114, , 
+Mon Apr 10 2017,Cleveland Cavaliers,121,Miami Heat,124,+480,-183
+Mon Apr 10 2017,Orlando Magic,75,Chicago Bulls,122,+320,-360
+Mon Apr 10 2017,Washington Wizards,105,Detroit Pistons,101,+195,-200
+Mon Apr 10 2017,Charlotte Hornets,79,Milwaukee Bucks,89,+240,-252
+Mon Apr 10 2017,San Antonio Spurs,98,Portland Trail Blazers,99,-231,+500
+Mon Apr 10 2017,Utah Jazz,105,Golden State Warriors,99,+475,-500
+Mon Apr 10 2017,Houston Rockets,96,Los Angeles Clippers,125,+380,-400
+Tue Apr 11 2017,Charlotte Hornets,76,Atlanta Hawks,103,+290,-330
+Tue Apr 11 2017,Oklahoma City Thunder,100,Minnesota Timberwolves,98,+270,-298
+Tue Apr 11 2017,Denver Nuggets,109,Dallas Mavericks,91,+120,-130
+Tue Apr 11 2017,New Orleans Pelicans,96,Los Angeles Lakers,108,+124,-140
+Tue Apr 11 2017,Phoenix Suns,104,Sacramento Kings,129,+190,-200
+Wed Apr 12 2017,Milwaukee Bucks,94,Boston Celtics,112, , 
+Wed Apr 12 2017,Brooklyn Nets,73,Chicago Bulls,112, , 
+Wed Apr 12 2017,Toronto Raptors,98,Cleveland Cavaliers,83,-155,+161
+Wed Apr 12 2017,Minnesota Timberwolves,118,Houston Rockets,123,+303,-335
+Wed Apr 12 2017,Atlanta Hawks,86,Indiana Pacers,104, , 
+Wed Apr 12 2017,Dallas Mavericks,100,Memphis Grizzlies,93,+330,-375
+Wed Apr 12 2017,Washington Wizards,102,Miami Heat,110,+500,-568
+Wed Apr 12 2017,Philadelphia 76ers,113,New York Knicks,114,+148,+105
+Wed Apr 12 2017,Denver Nuggets,111,Oklahoma City Thunder,105,+205,-230
+Wed Apr 12 2017,Detroit Pistons,109,Orlando Magic,113,+105,-120
+Wed Apr 12 2017,San Antonio Spurs,97,Utah Jazz,101,+155,-169
+Wed Apr 12 2017,Los Angeles Lakers,94,Golden State Warriors,109, , 
+Wed Apr 12 2017,Sacramento Kings,95,Los Angeles Clippers,115, , 
+Wed Apr 12 2017,New Orleans Pelicans,103,Portland Trail Blazers,100,+471,-265
+Sat Apr 15 2017,Indiana Pacers,108,Cleveland Cavaliers,109,+425,-500
+Sat Apr 15 2017,Milwaukee Bucks,97,Toronto Raptors,83,+320,-340
+Sat Apr 15 2017,Memphis Grizzlies,82,San Antonio Spurs,111,+425,-490
+Sat Apr 15 2017,Utah Jazz,97,Los Angeles Clippers,95,+215,-230
+Sun Apr 16 2017,Atlanta Hawks,107,Washington Wizards,114,+200,-215
+Sun Apr 16 2017,Portland Trail Blazers,109,Golden State Warriors,121, , 
+Sun Apr 16 2017,Chicago Bulls,106,Boston Celtics,102,+275,-290
+Sun Apr 16 2017,Oklahoma City Thunder,87,Houston Rockets,118,+267,-310
+Mon Apr 17 2017,Indiana Pacers,111,Cleveland Cavaliers,117,+385,-415
+Mon Apr 17 2017,Memphis Grizzlies,82,San Antonio Spurs,96, , 
+Tue Apr 18 2017,Milwaukee Bucks,100,Toronto Raptors,106,+340,-335
+Tue Apr 18 2017,Chicago Bulls,111,Boston Celtics,97,+280,-300
+Tue Apr 18 2017,Utah Jazz,91,Los Angeles Clippers,99,+465,-425
+Wed Apr 19 2017,Atlanta Hawks,101,Washington Wizards,109,+210,-215
+Wed Apr 19 2017,Oklahoma City Thunder,111,Houston Rockets,115,+295,-320
+Wed Apr 19 2017,Portland Trail Blazers,81,Golden State Warriors,110, , 
+Thu Apr 20 2017,Cleveland Cavaliers,119,Indiana Pacers,114,-112,+120
+Thu Apr 20 2017,Toronto Raptors,77,Milwaukee Bucks,104, , 
+Thu Apr 20 2017,San Antonio Spurs,94,Memphis Grizzlies,105,-160,+155
+Fri Apr 21 2017,Boston Celtics,104,Chicago Bulls,87,-137,+130
+Fri Apr 21 2017,Houston Rockets,113,Oklahoma City Thunder,115,+135,-130
+Fri Apr 21 2017,Los Angeles Clippers,111,Utah Jazz,106, , 
+Sat Apr 22 2017,Toronto Raptors,87,Milwaukee Bucks,76,+120,-130
+Sat Apr 22 2017,Washington Wizards,98,Atlanta Hawks,116,+130,-135
+Sat Apr 22 2017,San Antonio Spurs,108,Memphis Grizzlies,110,-210,+210
+Sat Apr 22 2017,Golden State Warriors,119,Portland Trail Blazers,113,-190,+185
+Sun Apr 23 2017,Cleveland Cavaliers,106,Indiana Pacers,102,-165,+160
+Sun Apr 23 2017,Houston Rockets,113,Oklahoma City Thunder,109, , 
+Sun Apr 23 2017,Boston Celtics,104,Chicago Bulls,95,-120,+120
+Sun Apr 23 2017,Los Angeles Clippers,98,Utah Jazz,105,+175,-200
+Mon Apr 24 2017,Milwaukee Bucks,93,Toronto Raptors,118,+205,-225
+Mon Apr 24 2017,Washington Wizards,101,Atlanta Hawks,111,+125,-135
+Mon Apr 24 2017,Golden State Warriors,128,Portland Trail Blazers,103,-440,+370
+Tue Apr 25 2017,Oklahoma City Thunder,99,Houston Rockets,105,+300,-340
+Tue Apr 25 2017,Memphis Grizzlies,103,San Antonio Spurs,116,+575,-700
+Tue Apr 25 2017,Utah Jazz,96,Los Angeles Clippers,92,+145,-155
+Wed Apr 26 2017,Atlanta Hawks,99,Washington Wizards,103,+235,-260
+Wed Apr 26 2017,Chicago Bulls,97,Boston Celtics,108,+325,-370
+Thu Apr 27 2017,Toronto Raptors,92,Milwaukee Bucks,89, , 
+Thu Apr 27 2017,San Antonio Spurs,103,Memphis Grizzlies,96,-214,+190
+Fri Apr 28 2017,Washington Wizards,115,Atlanta Hawks,99,+134,-140
+Fri Apr 28 2017,Boston Celtics,105,Chicago Bulls,83,-153,+140
+Fri Apr 28 2017,Los Angeles Clippers,98,Utah Jazz,93,+220,-230
+Sun Apr 30 2017,Washington Wizards,111,Boston Celtics,123,+165,-175
+Sun Apr 30 2017,Utah Jazz,104,Los Angeles Clippers,91,+150,-157
+Mon May 1 2017,Toronto Raptors,105,Cleveland Cavaliers,116,+295,-305
+Mon May 1 2017,Houston Rockets,126,San Antonio Spurs,99,+236,-240
+Tue May 2 2017,Washington Wizards,119,Boston Celtics,129,+190,-190
+Tue May 2 2017,Utah Jazz,94,Golden State Warriors,106, , 
+Wed May 3 2017,Toronto Raptors,103,Cleveland Cavaliers,125,+305,-350
+Wed May 3 2017,Houston Rockets,96,San Antonio Spurs,121,+225,-225
+Thu May 4 2017,Boston Celtics,89,Washington Wizards,116,+215,-200
+Thu May 4 2017,Utah Jazz,104,Golden State Warriors,115, , 
+Fri May 5 2017,Cleveland Cavaliers,115,Toronto Raptors,94,-150,+140
+Fri May 5 2017,San Antonio Spurs,103,Houston Rockets,92,+200,-225
+Sat May 6 2017,Golden State Warriors,102,Utah Jazz,91,-270,+250
+Sun May 7 2017,Cleveland Cavaliers,109,Toronto Raptors,102,-287,+270
+Sun May 7 2017,Boston Celtics,102,Washington Wizards,121,+170,-170
+Sun May 7 2017,San Antonio Spurs,104,Houston Rockets,125,+185,-180
+Mon May 8 2017,Golden State Warriors,121,Utah Jazz,95,-433,+370
+Tue May 9 2017,Houston Rockets,107,San Antonio Spurs,110,+200,-210
+Wed May 10 2017,Washington Wizards,101,Boston Celtics,123,+170,-162
+Thu May 11 2017,San Antonio Spurs,114,Houston Rockets,75,+425,-520
+Fri May 12 2017,Boston Celtics,91,Washington Wizards,92,+200,-180
+Sun May 14 2017,San Antonio Spurs,111,Golden State Warriors,113,+550,-625
+Mon May 15 2017,Washington Wizards,105,Boston Celtics,115,+200,-208
+Tue May 16 2017,San Antonio Spurs,100,Golden State Warriors,136, , 
+Wed May 17 2017,Cleveland Cavaliers,117,Boston Celtics,104,-185,+180
+Fri May 19 2017,Cleveland Cavaliers,130,Boston Celtics,86,-220,+210
+Sat May 20 2017,Golden State Warriors,120,San Antonio Spurs,108,-230,+210
+Sun May 21 2017,Boston Celtics,111,Cleveland Cavaliers,108,+1510,-3345
+Mon May 22 2017,Golden State Warriors,129,San Antonio Spurs,115,-732,+539
+Tue May 23 2017,Boston Celtics,99,Cleveland Cavaliers,112,+1261,-2293
+Thu May 25 2017,Cleveland Cavaliers,135,Boston Celtics,102,-545,+425
+Thu Jun 1 2017,Cleveland Cavaliers,91,Golden State Warriors,113,+269,-325
+Sun Jun 4 2017,Cleveland Cavaliers,113,Golden State Warriors,132,+330,-413
+Wed Jun 7 2017,Golden State Warriors,118,Cleveland Cavaliers,113,-149,+129
+Fri Jun 9 2017,Golden State Warriors,116,Cleveland Cavaliers,137,-196,+168
+Mon Jun 12 2017,Cleveland Cavaliers,120,Golden State Warriors,129,+313,-387

@@ -1,0 +1,1172 @@
+date,away_team,away_pt,home_team,home_pt,away_line,home_line
+Tue Dec 22 2020,Golden State Warriors,99,Brooklyn Nets,125,+263,-322
+Tue Dec 22 2020,Los Angeles Clippers,116,Los Angeles Lakers,109,+115,-135
+Wed Dec 23 2020,Charlotte Hornets,114,Cleveland Cavaliers,121,-148,+130
+Wed Dec 23 2020,New York Knicks,107,Indiana Pacers,121,+269,-328
+Wed Dec 23 2020,Miami Heat,107,Orlando Magic,113,-191,+164
+Wed Dec 23 2020,Washington Wizards,107,Philadelphia 76ers,113,+251,-305
+Wed Dec 23 2020,New Orleans Pelicans,113,Toronto Raptors,99,+150,-173
+Wed Dec 23 2020,Milwaukee Bucks,121,Boston Celtics,122,-185,+160
+Wed Dec 23 2020,Atlanta Hawks,124,Chicago Bulls,104,-126,+107
+Wed Dec 23 2020,San Antonio Spurs,131,Memphis Grizzlies,119,+110,-129
+Wed Dec 23 2020,Detroit Pistons,101,Minnesota Timberwolves,111,+180,-212
+Wed Dec 23 2020,Sacramento Kings,124,Denver Nuggets,122,+269,-329
+Wed Dec 23 2020,Utah Jazz,120,Portland Trail Blazers,100,-119,+104
+Wed Dec 23 2020,Dallas Mavericks,102,Phoenix Suns,106,+100,-117
+Fri Dec 25 2020,New Orleans Pelicans,98,Miami Heat,111,+131,-151
+Fri Dec 25 2020,Golden State Warriors,99,Milwaukee Bucks,138,+448,-635
+Fri Dec 25 2020,Brooklyn Nets,123,Boston Celtics,95,-148,+129
+Fri Dec 25 2020,Dallas Mavericks,115,Los Angeles Lakers,138,+216,-258
+Fri Dec 25 2020,Los Angeles Clippers,121,Denver Nuggets,108,-160,+140
+Sat Dec 26 2020,Atlanta Hawks,122,Memphis Grizzlies,112,+119,-137
+Sat Dec 26 2020,Oklahoma City Thunder,109,Charlotte Hornets,107,+127,-145
+Sat Dec 26 2020,Cleveland Cavaliers,128,Detroit Pistons,119,-108,-110
+Sat Dec 26 2020,Orlando Magic,130,Washington Wizards,120,+105,-120
+Sat Dec 26 2020,Philadelphia 76ers,109,New York Knicks,89,-360,+295
+Sat Dec 26 2020,Indiana Pacers,125,Chicago Bulls,106,-247,+208
+Sat Dec 26 2020,Toronto Raptors,114,San Antonio Spurs,119,-138,+120
+Sat Dec 26 2020,Minnesota Timberwolves,116,Utah Jazz,111,+351,-440
+Sat Dec 26 2020,Houston Rockets,126,Portland Trail Blazers,128,+272,-331
+Sat Dec 26 2020,Phoenix Suns,103,Sacramento Kings,106,-157,+137
+Sun Dec 27 2020,Dallas Mavericks,124,Los Angeles Clippers,73,+130,-148
+Sun Dec 27 2020,San Antonio Spurs,95,New Orleans Pelicans,98,+170,-196
+Sun Dec 27 2020,Orlando Magic,120,Washington Wizards,113,-129,+112
+Sun Dec 27 2020,Brooklyn Nets,104,Charlotte Hornets,106,-605,+460
+Sun Dec 27 2020,Philadelphia 76ers,94,Cleveland Cavaliers,118,-248,+210
+Sun Dec 27 2020,Milwaukee Bucks,110,New York Knicks,130,-1020,+721
+Sun Dec 27 2020,Boston Celtics,107,Indiana Pacers,108,-145,+127
+Sun Dec 27 2020,Golden State Warriors,129,Chicago Bulls,128,-166,+146
+Sun Dec 27 2020,Phoenix Suns,116,Sacramento Kings,100,-155,+135
+Sun Dec 27 2020,Minnesota Timberwolves,91,Los Angeles Lakers,127,+405,-520
+Mon Dec 28 2020,Memphis Grizzlies,116,Brooklyn Nets,111,-126,+108
+Mon Dec 28 2020,Detroit Pistons,120,Atlanta Hawks,128,+407,-524
+Mon Dec 28 2020,Utah Jazz,110,Oklahoma City Thunder,109,-415,+331
+Mon Dec 28 2020,Houston Rockets,111,Denver Nuggets,124,+222,-263
+Mon Dec 28 2020,Portland Trail Blazers,115,Los Angeles Lakers,107,+198,-235
+Tue Dec 29 2020,New York Knicks,95,Cleveland Cavaliers,86,+137,-158
+Tue Dec 29 2020,Golden State Warriors,116,Detroit Pistons,106,-175,+152
+Tue Dec 29 2020,Boston Celtics,116,Indiana Pacers,111,-109,-110
+Tue Dec 29 2020,Chicago Bulls,115,Washington Wizards,107,+203,-242
+Tue Dec 29 2020,Toronto Raptors,93,Philadelphia 76ers,100,+107,-126
+Tue Dec 29 2020,Milwaukee Bucks,144,Miami Heat,97,-249,+209
+Tue Dec 29 2020,Orlando Magic,118,Oklahoma City Thunder,107,-252,+212
+Tue Dec 29 2020,New Orleans Pelicans,86,Phoenix Suns,111,+108,-127
+Tue Dec 29 2020,Denver Nuggets,115,Sacramento Kings,125,-115,-108
+Tue Dec 29 2020,Minnesota Timberwolves,101,Los Angeles Clippers,124,+460,-609
+Wed Dec 30 2020,Milwaukee Bucks,108,Miami Heat,119,-255,+217
+Wed Dec 30 2020,Atlanta Hawks,141,Brooklyn Nets,145,+196,-233
+Wed Dec 30 2020,Memphis Grizzlies,107,Boston Celtics,126,+243,-291
+Wed Dec 30 2020,Charlotte Hornets,118,Dallas Mavericks,99,+286,-347
+Wed Dec 30 2020,Los Angeles Lakers,121,San Antonio Spurs,107,-318,+262
+Wed Dec 30 2020,Portland Trail Blazers,105,Los Angeles Clippers,128,+200,-237
+Thu Dec 31 2020,Cleveland Cavaliers,99,Indiana Pacers,119,+271,-330
+Thu Dec 31 2020,Chicago Bulls,133,Washington Wizards,130,+245,-296
+Thu Dec 31 2020,Philadelphia 76ers,116,Orlando Magic,92,-176,+154
+Thu Dec 31 2020,Sacramento Kings,119,Houston Rockets,122,+182,-213
+Thu Dec 31 2020,New York Knicks,83,Toronto Raptors,100,+301,-369
+Thu Dec 31 2020,New Orleans Pelicans,113,Oklahoma City Thunder,80,-224,+190
+Thu Dec 31 2020,Phoenix Suns,106,Utah Jazz,95,+150,-171
+Fri Jan 1 2021,Memphis Grizzlies,108,Charlotte Hornets,93,+161,-184
+Fri Jan 1 2021,Miami Heat,83,Dallas Mavericks,93,-122,+104
+Fri Jan 1 2021,Boston Celtics,93,Detroit Pistons,96,-400,+321
+Fri Jan 1 2021,Atlanta Hawks,114,Brooklyn Nets,96,+206,-244
+Fri Jan 1 2021,Chicago Bulls,96,Milwaukee Bucks,126,+846,-1262
+Fri Jan 1 2021,Washington Wizards,130,Minnesota Timberwolves,109,-115,+102
+Fri Jan 1 2021,Los Angeles Lakers,109,San Antonio Spurs,103,-338,+277
+Fri Jan 1 2021,Phoenix Suns,106,Denver Nuggets,103,+142,-161
+Fri Jan 1 2021,Los Angeles Clippers,100,Utah Jazz,106,-156,+136
+Fri Jan 1 2021,Portland Trail Blazers,123,Golden State Warriors,98,-161,+142
+Sat Jan 2 2021,Sacramento Kings,94,Houston Rockets,102,-128,+112
+Sat Jan 2 2021,New York Knicks,106,Indiana Pacers,102,+350,-434
+Sat Jan 2 2021,Oklahoma City Thunder,108,Orlando Magic,99,+166,-192
+Sat Jan 2 2021,Charlotte Hornets,112,Philadelphia 76ers,127,+388,-500
+Sat Jan 2 2021,Cleveland Cavaliers,96,Atlanta Hawks,91,+189,-222
+Sat Jan 2 2021,Toronto Raptors,116,New Orleans Pelicans,120,-115,-104
+Sun Jan 3 2021,Boston Celtics,122,Detroit Pistons,120,-335,+276
+Sun Jan 3 2021,Washington Wizards,123,Brooklyn Nets,122,+256,-308
+Sun Jan 3 2021,Los Angeles Lakers,108,Memphis Grizzlies,94,-468,+368
+Sun Jan 3 2021,Denver Nuggets,124,Minnesota Timberwolves,109,-379,+307
+Sun Jan 3 2021,Utah Jazz,130,San Antonio Spurs,109,-219,+187
+Sun Jan 3 2021,Dallas Mavericks,108,Chicago Bulls,118,-173,+151
+Sun Jan 3 2021,Los Angeles Clippers,112,Phoenix Suns,107,-156,+137
+Sun Jan 3 2021,Portland Trail Blazers,122,Golden State Warriors,137,-193,+167
+Mon Jan 4 2021,Cleveland Cavaliers,83,Orlando Magic,103,+193,-229
+Mon Jan 4 2021,Charlotte Hornets,101,Philadelphia 76ers,118,+292,-355
+Mon Jan 4 2021,New York Knicks,113,Atlanta Hawks,108,+242,-291
+Mon Jan 4 2021,Oklahoma City Thunder,90,Miami Heat,118,+345,-432
+Mon Jan 4 2021,Boston Celtics,126,Toronto Raptors,114,+196,-234
+Mon Jan 4 2021,Dallas Mavericks,113,Houston Rockets,100,+148,-167
+Mon Jan 4 2021,Detroit Pistons,115,Milwaukee Bucks,125,+1174,-1899
+Mon Jan 4 2021,Indiana Pacers,118,New Orleans Pelicans,116,+105,-123
+Mon Jan 4 2021,Sacramento Kings,106,Golden State Warriors,137,-122,+104
+Tue Jan 5 2021,Utah Jazz,96,Brooklyn Nets,130,-186,+162
+Tue Jan 5 2021,Los Angeles Lakers,94,Memphis Grizzlies,92,-487,+372
+Tue Jan 5 2021,Minnesota Timberwolves,116,Denver Nuggets,123,+475,-626
+Tue Jan 5 2021,San Antonio Spurs,116,Los Angeles Clippers,113,+251,-303
+Tue Jan 5 2021,Chicago Bulls,111,Portland Trail Blazers,108,+361,-468
+Wed Jan 6 2021,Houston Rockets,107,Indiana Pacers,114,+125,-143
+Wed Jan 6 2021,Cleveland Cavaliers,94,Orlando Magic,105,+179,-207
+Wed Jan 6 2021,Washington Wizards,136,Philadelphia 76ers,141,+220,-260
+Wed Jan 6 2021,Charlotte Hornets,102,Atlanta Hawks,94,+207,-245
+Wed Jan 6 2021,Boston Celtics,107,Miami Heat,105,+121,-139
+Wed Jan 6 2021,Utah Jazz,100,New York Knicks,112,-305,+253
+Wed Jan 6 2021,Detroit Pistons,115,Milwaukee Bucks,130,+641,-897
+Wed Jan 6 2021,Oklahoma City Thunder,111,New Orleans Pelicans,110,+283,-344
+Wed Jan 6 2021,Toronto Raptors,115,Phoenix Suns,123,+132,-150
+Wed Jan 6 2021,Los Angeles Clippers,108,Golden State Warriors,101,-207,+179
+Wed Jan 6 2021,Chicago Bulls,124,Sacramento Kings,128,+230,-271
+Thu Jan 7 2021,Philadelphia 76ers,109,Brooklyn Nets,122,-176,+153
+Thu Jan 7 2021,Cleveland Cavaliers,94,Memphis Grizzlies,90,+192,-227
+Thu Jan 7 2021,Dallas Mavericks,124,Denver Nuggets,117,+125,-143
+Thu Jan 7 2021,San Antonio Spurs,118,Los Angeles Lakers,109,+329,-410
+Thu Jan 7 2021,Minnesota Timberwolves,117,Portland Trail Blazers,135,+397,-510
+Fri Jan 8 2021,Phoenix Suns,105,Detroit Pistons,110,-323,+261
+Fri Jan 8 2021,Washington Wizards,107,Boston Celtics,116,+146,-166
+Fri Jan 8 2021,Charlotte Hornets,118,New Orleans Pelicans,110,+236,-280
+Fri Jan 8 2021,Oklahoma City Thunder,101,New York Knicks,89,+129,-147
+Fri Jan 8 2021,Orlando Magic,90,Houston Rockets,132,+230,-271
+Fri Jan 8 2021,Brooklyn Nets,110,Memphis Grizzlies,115,-118,+102
+Fri Jan 8 2021,Utah Jazz,131,Milwaukee Bucks,118,+197,-234
+Fri Jan 8 2021,Los Angeles Clippers,105,Golden State Warriors,115,-265,+226
+Fri Jan 8 2021,Chicago Bulls,115,Los Angeles Lakers,117,+322,-400
+Fri Jan 8 2021,Toronto Raptors,144,Sacramento Kings,123,-118,+103
+Sat Jan 9 2021,Denver Nuggets,115,Philadelphia 76ers,103,-925,+678
+Sat Jan 9 2021,Atlanta Hawks,105,Charlotte Hornets,113,-193,+167
+Sat Jan 9 2021,Phoenix Suns,125,Indiana Pacers,117,+131,-149
+Sat Jan 9 2021,Miami Heat,128,Washington Wizards,124,-554,+426
+Sat Jan 9 2021,Cleveland Cavaliers,90,Milwaukee Bucks,100,+321,-400
+Sat Jan 9 2021,San Antonio Spurs,125,Minnesota Timberwolves,122,-164,+143
+Sat Jan 9 2021,Orlando Magic,98,Dallas Mavericks,112,+205,-242
+Sat Jan 9 2021,Portland Trail Blazers,125,Sacramento Kings,99,-199,+173
+Sun Jan 10 2021,Utah Jazz,96,Detroit Pistons,86,-383,+308
+Sun Jan 10 2021,Chicago Bulls,127,Los Angeles Clippers,130,+599,-828
+Sun Jan 10 2021,Oklahoma City Thunder,129,Brooklyn Nets,116,+280,-339
+Sun Jan 10 2021,Denver Nuggets,114,New York Knicks,89,-219,+187
+Sun Jan 10 2021,Los Angeles Lakers,120,Houston Rockets,102,-173,+151
+Sun Jan 10 2021,San Antonio Spurs,88,Minnesota Timberwolves,96,-176,+155
+Sun Jan 10 2021,Toronto Raptors,105,Golden State Warriors,106,-140,+122
+Mon Jan 11 2021,New York Knicks,88,Charlotte Hornets,109,+169,-194
+Mon Jan 11 2021,Memphis Grizzlies,101,Cleveland Cavaliers,91,-131,+114
+Mon Jan 11 2021,Milwaukee Bucks,121,Orlando Magic,99,-510,+398
+Mon Jan 11 2021,Phoenix Suns,107,Washington Wizards,128,-254,+215
+Mon Jan 11 2021,Philadelphia 76ers,94,Atlanta Hawks,112,+200,-238
+Mon Jan 11 2021,Toronto Raptors,111,Portland Trail Blazers,112,+162,-187
+Mon Jan 11 2021,Indiana Pacers,122,Sacramento Kings,127,-159,+139
+Tue Jan 12 2021,Miami Heat,134,Philadelphia 76ers,137,+295,-358
+Tue Jan 12 2021,Denver Nuggets,116,Brooklyn Nets,122,+109,-126
+Tue Jan 12 2021,Utah Jazz,117,Cleveland Cavaliers,87,-873,+614
+Tue Jan 12 2021,Los Angeles Lakers,117,Houston Rockets,100,-199,+172
+Tue Jan 12 2021,San Antonio Spurs,112,Oklahoma City Thunder,102,-134,+116
+Tue Jan 12 2021,Indiana Pacers,104,Golden State Warriors,95,+139,-159
+Wed Jan 13 2021,Dallas Mavericks,104,Charlotte Hornets,93,-162,+144
+Wed Jan 13 2021,Milwaukee Bucks,110,Detroit Pistons,101,-569,+429
+Wed Jan 13 2021,Brooklyn Nets,116,New York Knicks,109,-176,+154
+Wed Jan 13 2021,Memphis Grizzlies,118,Minnesota Timberwolves,107,+120,-138
+Wed Jan 13 2021,Los Angeles Lakers,128,Oklahoma City Thunder,99,-495,+374
+Wed Jan 13 2021,New Orleans Pelicans,106,Los Angeles Clippers,111,+451,-623
+Wed Jan 13 2021,Portland Trail Blazers,132,Sacramento Kings,126,-184,+160
+Thu Jan 14 2021,Miami Heat,108,Philadelphia 76ers,125,+285,-363
+Thu Jan 14 2021,Houston Rockets,109,San Antonio Spurs,105,+236,-294
+Thu Jan 14 2021,Charlotte Hornets,108,Toronto Raptors,111,+346,-456
+Thu Jan 14 2021,Golden State Warriors,104,Denver Nuggets,114,+160,-190
+Thu Jan 14 2021,Indiana Pacers,111,Portland Trail Blazers,87,+133,-154
+Fri Jan 15 2021,Orlando Magic,97,Boston Celtics,124,+151,-179
+Fri Jan 15 2021,New York Knicks,103,Cleveland Cavaliers,106,-134,+113
+Fri Jan 15 2021,Dallas Mavericks,109,Milwaukee Bucks,112,+240,-288
+Fri Jan 15 2021,Chicago Bulls,125,Oklahoma City Thunder,127,-140,+120
+Fri Jan 15 2021,Atlanta Hawks,92,Utah Jazz,116,+208,-254
+Fri Jan 15 2021,New Orleans Pelicans,95,Los Angeles Lakers,112,+326,-411
+Fri Jan 15 2021,Los Angeles Clippers,138,Sacramento Kings,100,-267,+227
+Sat Jan 16 2021,Houston Rockets,91,San Antonio Spurs,103,+244,-304
+Sat Jan 16 2021,Orlando Magic,115,Brooklyn Nets,122,+346,-455
+Sat Jan 16 2021,Charlotte Hornets,113,Toronto Raptors,116,+219,-267
+Sat Jan 16 2021,Philadelphia 76ers,104,Memphis Grizzlies,106,+110,-130
+Sat Jan 16 2021,Detroit Pistons,120,Miami Heat,100,+186,-225
+Sat Jan 16 2021,Atlanta Hawks,106,Portland Trail Blazers,112,+164,-188
+Sun Jan 17 2021,New York Knicks,105,Boston Celtics,75,+259,-313
+Sun Jan 17 2021,Chicago Bulls,117,Dallas Mavericks,101,+234,-277
+Sun Jan 17 2021,Utah Jazz,109,Denver Nuggets,105,-124,+103
+Sun Jan 17 2021,New Orleans Pelicans,128,Sacramento Kings,123,-136,+118
+Sun Jan 17 2021,Indiana Pacers,96,Los Angeles Clippers,129,+285,-361
+Mon Jan 18 2021,Orlando Magic,84,New York Knicks,91,-129,+109
+Mon Jan 18 2021,Minnesota Timberwolves,97,Atlanta Hawks,108,+242,-299
+Mon Jan 18 2021,San Antonio Spurs,125,Portland Trail Blazers,104,-121,+102
+Mon Jan 18 2021,Phoenix Suns,104,Memphis Grizzlies,108,-204,+170
+Mon Jan 18 2021,Milwaukee Bucks,123,Brooklyn Nets,125,-164,+140
+Mon Jan 18 2021,Dallas Mavericks,93,Toronto Raptors,116,+141,-164
+Mon Jan 18 2021,Houston Rockets,120,Chicago Bulls,125,-129,+108
+Mon Jan 18 2021,Detroit Pistons,107,Miami Heat,113,+208,-257
+Mon Jan 18 2021,Golden State Warriors,115,Los Angeles Lakers,113,+344,-444
+Tue Jan 19 2021,Oklahoma City Thunder,101,Denver Nuggets,119,+391,-508
+Tue Jan 19 2021,New Orleans Pelicans,102,Utah Jazz,118,+210,-249
+Wed Jan 20 2021,Brooklyn Nets,135,Cleveland Cavaliers,147,-533,+403
+Wed Jan 20 2021,Dallas Mavericks,124,Indiana Pacers,112,-125,-103
+Wed Jan 20 2021,Boston Celtics,109,Philadelphia 76ers,117,+172,-205
+Wed Jan 20 2021,Detroit Pistons,115,Atlanta Hawks,123,+171,-198
+Wed Jan 20 2021,Miami Heat,111,Toronto Raptors,102,+148,-173
+Wed Jan 20 2021,Orlando Magic,97,Minnesota Timberwolves,96,-175,+150
+Wed Jan 20 2021,Phoenix Suns,109,Houston Rockets,103,-226,+186
+Wed Jan 20 2021,San Antonio Spurs,99,Golden State Warriors,121,-103,-115
+Wed Jan 20 2021,Sacramento Kings,96,Los Angeles Clippers,115,+480,-635
+Thu Jan 21 2021,Los Angeles Lakers,113,Milwaukee Bucks,106,-107,-114
+Thu Jan 21 2021,New York Knicks,119,Golden State Warriors,104,+177,-206
+Thu Jan 21 2021,New Orleans Pelicans,118,Utah Jazz,129,+234,-278
+Fri Jan 22 2021,Chicago Bulls,123,Charlotte Hornets,110,+125,-145
+Fri Jan 22 2021,Houston Rockets,103,Detroit Pistons,102,+122,-143
+Fri Jan 22 2021,Orlando Magic,118,Indiana Pacers,120,+171,-203
+Fri Jan 22 2021,Brooklyn Nets,113,Cleveland Cavaliers,125,-345,+279
+Fri Jan 22 2021,Boston Celtics,110,Philadelphia 76ers,122,+159,-189
+Fri Jan 22 2021,Miami Heat,81,Toronto Raptors,101,+114,-135
+Fri Jan 22 2021,Atlanta Hawks,116,Minnesota Timberwolves,98,-244,+198
+Fri Jan 22 2021,Dallas Mavericks,122,San Antonio Spurs,117,-129,+111
+Fri Jan 22 2021,Oklahoma City Thunder,106,Los Angeles Clippers,120,+734,-1172
+Fri Jan 22 2021,Denver Nuggets,130,Phoenix Suns,126,-102,-116
+Fri Jan 22 2021,New York Knicks,94,Sacramento Kings,103,+148,-171
+Sat Jan 23 2021,Miami Heat,124,Brooklyn Nets,128,+265,-332
+Sat Jan 23 2021,Philadelphia 76ers,114,Detroit Pistons,110,-408,+314
+Sat Jan 23 2021,New Orleans Pelicans,110,Minnesota Timberwolves,120,-378,+294
+Sat Jan 23 2021,Los Angeles Lakers,101,Chicago Bulls,90,-515,+383
+Sat Jan 23 2021,Houston Rockets,133,Dallas Mavericks,108,+245,-304
+Sat Jan 23 2021,Denver Nuggets,120,Phoenix Suns,112,-135,+115
+Sat Jan 23 2021,Golden State Warriors,108,Utah Jazz,127,+242,-301
+Sun Jan 24 2021,Toronto Raptors,107,Indiana Pacers,102,+160,-188
+Sun Jan 24 2021,Oklahoma City Thunder,100,Los Angeles Clippers,108,+686,-953
+Sun Jan 24 2021,Cleveland Cavaliers,103,Boston Celtics,141,+202,-247
+Sun Jan 24 2021,Charlotte Hornets,107,Orlando Magic,104,-122,+107
+Sun Jan 24 2021,Atlanta Hawks,115,Milwaukee Bucks,129,+571,-814
+Sun Jan 24 2021,Washington Wizards,101,San Antonio Spurs,121,+189,-229
+Sun Jan 24 2021,New York Knicks,113,Portland Trail Blazers,116,+149,-171
+Mon Jan 25 2021,Philadelphia 76ers,104,Detroit Pistons,119,-198,+169
+Mon Jan 25 2021,Toronto Raptors,114,Indiana Pacers,129,+114,-134
+Mon Jan 25 2021,Charlotte Hornets,108,Orlando Magic,117,-103,-119
+Mon Jan 25 2021,Miami Heat,85,Brooklyn Nets,98,+255,-317
+Mon Jan 25 2021,Los Angeles Lakers,115,Cleveland Cavaliers,108,-818,+564
+Mon Jan 25 2021,Denver Nuggets,117,Dallas Mavericks,113,-133,+113
+Mon Jan 25 2021,Boston Celtics,119,Chicago Bulls,103,-167,+143
+Mon Jan 25 2021,Minnesota Timberwolves,108,Golden State Warriors,130,+296,-381
+Mon Jan 25 2021,Oklahoma City Thunder,125,Portland Trail Blazers,122,+175,-208
+Tue Jan 26 2021,Los Angeles Clippers,99,Atlanta Hawks,108,+188,-226
+Tue Jan 26 2021,Washington Wizards,88,Houston Rockets,107,+136,-158
+Tue Jan 26 2021,New York Knicks,94,Utah Jazz,108,+491,-650
+Wed Jan 27 2021,Indiana Pacers,116,Charlotte Hornets,106,-146,+124
+Wed Jan 27 2021,Detroit Pistons,107,Cleveland Cavaliers,122,+112,-133
+Wed Jan 27 2021,Sacramento Kings,121,Orlando Magic,107,-110,-117
+Wed Jan 27 2021,Brooklyn Nets,132,Atlanta Hawks,128,-233,+192
+Wed Jan 27 2021,Denver Nuggets,109,Miami Heat,82,-244,+200
+Wed Jan 27 2021,Los Angeles Lakers,106,Philadelphia 76ers,107,-179,+153
+Wed Jan 27 2021,Milwaukee Bucks,115,Toronto Raptors,108,-255,+210
+Wed Jan 27 2021,Boston Celtics,106,San Antonio Spurs,110,-183,+160
+Wed Jan 27 2021,Washington Wizards,106,New Orleans Pelicans,124,+284,-343
+Wed Jan 27 2021,Oklahoma City Thunder,102,Phoenix Suns,97,+279,-340
+Wed Jan 27 2021,Dallas Mavericks,104,Utah Jazz,116,+110,-128
+Wed Jan 27 2021,Minnesota Timberwolves,111,Golden State Warriors,123,+326,-406
+Thu Jan 28 2021,Portland Trail Blazers,101,Houston Rockets,104,+142,-167
+Thu Jan 28 2021,Los Angeles Lakers,92,Detroit Pistons,107,-313,+252
+Thu Jan 28 2021,Los Angeles Clippers,109,Miami Heat,105,+110,-130
+Thu Jan 28 2021,Golden State Warriors,93,Phoenix Suns,114,+111,-132
+Fri Jan 29 2021,Indiana Pacers,105,Charlotte Hornets,108,-160,+140
+Fri Jan 29 2021,Atlanta Hawks,116,Washington Wizards,100,-175,+153
+Fri Jan 29 2021,Milwaukee Bucks,126,New Orleans Pelicans,131,-277,+233
+Fri Jan 29 2021,Cleveland Cavaliers,81,New York Knicks,102,+102,-122
+Fri Jan 29 2021,Sacramento Kings,126,Toronto Raptors,124,+170,-197
+Fri Jan 29 2021,Philadelphia 76ers,118,Minnesota Timberwolves,94,-429,+347
+Fri Jan 29 2021,Brooklyn Nets,147,Oklahoma City Thunder,125,-291,+245
+Fri Jan 29 2021,Los Angeles Clippers,116,Orlando Magic,90,-332,+273
+Fri Jan 29 2021,Denver Nuggets,109,San Antonio Spurs,119,-175,+153
+Fri Jan 29 2021,Dallas Mavericks,101,Utah Jazz,120,+150,-170
+Sat Jan 30 2021,Portland Trail Blazers,123,Chicago Bulls,122,+104,-122
+Sat Jan 30 2021,Milwaukee Bucks,114,Charlotte Hornets,126,-443,+343
+Sat Jan 30 2021,Sacramento Kings,104,Miami Heat,105,+218,-265
+Sat Jan 30 2021,Houston Rockets,126,New Orleans Pelicans,112,+114,-134
+Sat Jan 30 2021,Los Angeles Lakers,96,Boston Celtics,95,-167,+141
+Sat Jan 30 2021,Memphis Grizzlies,129,San Antonio Spurs,112,+141,-166
+Sat Jan 30 2021,Phoenix Suns,111,Dallas Mavericks,105,-104,-117
+Sat Jan 30 2021,Detroit Pistons,91,Golden State Warriors,118,+191,-226
+Sun Jan 31 2021,Los Angeles Clippers,129,New York Knicks,115,-425,+340
+Sun Jan 31 2021,Utah Jazz,117,Denver Nuggets,128,-156,+134
+Sun Jan 31 2021,Philadelphia 76ers,119,Indiana Pacers,110,+121,-141
+Sun Jan 31 2021,Orlando Magic,102,Toronto Raptors,115,+185,-222
+Sun Jan 31 2021,Brooklyn Nets,146,Washington Wizards,149,-243,+200
+Sun Jan 31 2021,Cleveland Cavaliers,104,Minnesota Timberwolves,109,-160,+140
+Mon Feb 1 2021,Los Angeles Lakers,107,Atlanta Hawks,99,-278,+228
+Mon Feb 1 2021,Charlotte Hornets,129,Miami Heat,121,+256,-319
+Mon Feb 1 2021,New York Knicks,102,Chicago Bulls,110,+142,-163
+Mon Feb 1 2021,Minnesota Timberwolves,98,Cleveland Cavaliers,100,+139,-159
+Mon Feb 1 2021,Portland Trail Blazers,106,Milwaukee Bucks,134,+407,-522
+Mon Feb 1 2021,Sacramento Kings,118,New Orleans Pelicans,109,+123,-141
+Mon Feb 1 2021,Houston Rockets,136,Oklahoma City Thunder,106,-202,+175
+Mon Feb 1 2021,Phoenix Suns,109,Dallas Mavericks,108,+114,-132
+Mon Feb 1 2021,Memphis Grizzlies,133,San Antonio Spurs,102,+151,-173
+Tue Feb 2 2021,Toronto Raptors,123,Orlando Magic,108,-253,+206
+Tue Feb 2 2021,Los Angeles Clippers,120,Brooklyn Nets,124,-122,+103
+Tue Feb 2 2021,Memphis Grizzlies,116,Indiana Pacers,134,+169,-200
+Tue Feb 2 2021,Portland Trail Blazers,132,Washington Wizards,121,+123,-144
+Tue Feb 2 2021,Boston Celtics,111,Golden State Warriors,107,-144,+126
+Tue Feb 2 2021,Detroit Pistons,105,Utah Jazz,117,+647,-912
+Wed Feb 3 2021,Philadelphia 76ers,118,Charlotte Hornets,111,-304,+246
+Wed Feb 3 2021,Indiana Pacers,110,Milwaukee Bucks,130,+328,-421
+Wed Feb 3 2021,Dallas Mavericks,122,Atlanta Hawks,116,-128,+110
+Wed Feb 3 2021,New York Knicks,107,Chicago Bulls,103,+111,-128
+Wed Feb 3 2021,Los Angeles Clippers,121,Cleveland Cavaliers,99,-429,+335
+Wed Feb 3 2021,Washington Wizards,103,Miami Heat,100,+328,-419
+Wed Feb 3 2021,Houston Rockets,87,Oklahoma City Thunder,104,-260,+220
+Wed Feb 3 2021,Minnesota Timberwolves,108,San Antonio Spurs,111,+274,-332
+Wed Feb 3 2021,Phoenix Suns,101,New Orleans Pelicans,123,-138,+120
+Wed Feb 3 2021,Boston Celtics,111,Sacramento Kings,116,-110,-109
+Thu Feb 4 2021,Utah Jazz,112,Atlanta Hawks,91,-526,+390
+Thu Feb 4 2021,Golden State Warriors,147,Dallas Mavericks,116,+156,-183
+Thu Feb 4 2021,Portland Trail Blazers,121,Philadelphia 76ers,105,+406,-527
+Thu Feb 4 2021,Houston Rockets,115,Memphis Grizzlies,103,+146,-167
+Thu Feb 4 2021,Denver Nuggets,93,Los Angeles Lakers,114,+173,-199
+Fri Feb 5 2021,New Orleans Pelicans,114,Indiana Pacers,113,+111,-129
+Fri Feb 5 2021,Chicago Bulls,119,Orlando Magic,123,-132,+114
+Fri Feb 5 2021,Toronto Raptors,123,Brooklyn Nets,117,+174,-204
+Fri Feb 5 2021,Milwaukee Bucks,123,Cleveland Cavaliers,105,-633,+461
+Fri Feb 5 2021,Utah Jazz,138,Charlotte Hornets,121,-364,+288
+Fri Feb 5 2021,Washington Wizards,95,Miami Heat,122,+230,-272
+Fri Feb 5 2021,Minnesota Timberwolves,106,Oklahoma City Thunder,103,-131,+111
+Fri Feb 5 2021,Detroit Pistons,92,Phoenix Suns,109,+290,-351
+Fri Feb 5 2021,Boston Celtics,119,Los Angeles Clippers,115,+186,-220
+Sat Feb 6 2021,Portland Trail Blazers,99,New York Knicks,110,-118,-103
+Sat Feb 6 2021,Denver Nuggets,114,Sacramento Kings,119,-132,+112
+Sat Feb 6 2021,Chicago Bulls,118,Orlando Magic,92,-124,+103
+Sat Feb 6 2021,Toronto Raptors,121,Atlanta Hawks,132,-122,+102
+Sat Feb 6 2021,Milwaukee Bucks,124,Cleveland Cavaliers,99,-588,+435
+Sat Feb 6 2021,San Antonio Spurs,111,Houston Rockets,106,+102,-122
+Sat Feb 6 2021,Minnesota Timberwolves,118,Oklahoma City Thunder,120,+104,-123
+Sat Feb 6 2021,Brooklyn Nets,108,Philadelphia 76ers,124,+240,-297
+Sat Feb 6 2021,Golden State Warriors,132,Dallas Mavericks,134,+155,-178
+Sat Feb 6 2021,Memphis Grizzlies,109,New Orleans Pelicans,118,-118,+102
+Sat Feb 6 2021,Detroit Pistons,129,Los Angeles Lakers,135,+884,-1514
+Sun Feb 7 2021,Washington Wizards,97,Charlotte Hornets,119,-124,+104
+Sun Feb 7 2021,Utah Jazz,103,Indiana Pacers,95,-193,+164
+Sun Feb 7 2021,Miami Heat,109,New York Knicks,103,-224,+185
+Sun Feb 7 2021,Boston Celtics,91,Phoenix Suns,100,+130,-152
+Sun Feb 7 2021,Sacramento Kings,113,Los Angeles Clippers,110,+294,-358
+Mon Feb 8 2021,Houston Rockets,94,Charlotte Hornets,119,-130,+110
+Mon Feb 8 2021,Washington Wizards,105,Chicago Bulls,101,+162,-186
+Mon Feb 8 2021,Toronto Raptors,128,Memphis Grizzlies,113,-142,+124
+Mon Feb 8 2021,Minnesota Timberwolves,122,Dallas Mavericks,127,+409,-527
+Mon Feb 8 2021,Golden State Warriors,100,San Antonio Spurs,105,+103,-120
+Mon Feb 8 2021,Cleveland Cavaliers,113,Phoenix Suns,119,+187,-220
+Mon Feb 8 2021,Milwaukee Bucks,125,Denver Nuggets,112,-130,+112
+Mon Feb 8 2021,Oklahoma City Thunder,112,Los Angeles Lakers,119,+440,-575
+Tue Feb 9 2021,Brooklyn Nets,111,Detroit Pistons,122,-235,+199
+Tue Feb 9 2021,New York Knicks,96,Miami Heat,98,+203,-240
+Tue Feb 9 2021,Houston Rockets,101,New Orleans Pelicans,130,+215,-255
+Tue Feb 9 2021,Golden State Warriors,114,San Antonio Spurs,91,-119,+103
+Tue Feb 9 2021,Orlando Magic,97,Portland Trail Blazers,106,+206,-245
+Tue Feb 9 2021,Philadelphia 76ers,119,Sacramento Kings,111,-189,+163
+Tue Feb 9 2021,Boston Celtics,108,Utah Jazz,122,+184,-216
+Wed Feb 10 2021,Toronto Raptors,137,Washington Wizards,115,-223,+183
+Wed Feb 10 2021,Atlanta Hawks,117,Dallas Mavericks,118,+142,-161
+Wed Feb 10 2021,Indiana Pacers,94,Brooklyn Nets,104,-115,-108
+Wed Feb 10 2021,Charlotte Hornets,114,Memphis Grizzlies,130,+121,-139
+Wed Feb 10 2021,Los Angeles Clippers,119,Minnesota Timberwolves,112,-410,+329
+Wed Feb 10 2021,New Orleans Pelicans,116,Chicago Bulls,129,-135,+117
+Wed Feb 10 2021,Cleveland Cavaliers,95,Denver Nuggets,133,+393,-502
+Wed Feb 10 2021,Oklahoma City Thunder,113,Los Angeles Lakers,114,+597,-818
+Wed Feb 10 2021,Milwaukee Bucks,124,Phoenix Suns,125,-175,+153
+Thu Feb 11 2021,Toronto Raptors,106,Boston Celtics,120,+120,-141
+Thu Feb 11 2021,Miami Heat,101,Houston Rockets,94,-130,+111
+Thu Feb 11 2021,Indiana Pacers,111,Detroit Pistons,95,-163,+140
+Thu Feb 11 2021,Orlando Magic,105,Golden State Warriors,111,+344,-428
+Thu Feb 11 2021,Philadelphia 76ers,114,Portland Trail Blazers,118,-230,+194
+Fri Feb 12 2021,Minnesota Timberwolves,114,Charlotte Hornets,120,+136,-160
+Fri Feb 12 2021,New York Knicks,109,Washington Wizards,91,-161,+139
+Fri Feb 12 2021,San Antonio Spurs,125,Atlanta Hawks,114,+110,-128
+Fri Feb 12 2021,New Orleans Pelicans,130,Dallas Mavericks,143,+127,-145
+Fri Feb 12 2021,Detroit Pistons,108,Boston Celtics,102,+254,-313
+Fri Feb 12 2021,Los Angeles Clippers,125,Chicago Bulls,106,-315,+255
+Fri Feb 12 2021,Oklahoma City Thunder,95,Denver Nuggets,97,+550,-799
+Fri Feb 12 2021,Milwaukee Bucks,115,Utah Jazz,129,+112,-133
+Fri Feb 12 2021,Memphis Grizzlies,105,Los Angeles Lakers,115,+297,-366
+Fri Feb 12 2021,Cleveland Cavaliers,110,Portland Trail Blazers,129,+151,-173
+Fri Feb 12 2021,Orlando Magic,123,Sacramento Kings,112,+221,-263
+Sat Feb 13 2021,Philadelphia 76ers,111,Phoenix Suns,120,-106,+100
+Sat Feb 13 2021,Indiana Pacers,125,Atlanta Hawks,113,-121,+103
+Sat Feb 13 2021,Houston Rockets,99,New York Knicks,121,-113,-105
+Sat Feb 13 2021,Brooklyn Nets,134,Golden State Warriors,117,-160,+140
+Sat Feb 13 2021,Miami Heat,94,Utah Jazz,112,+230,-275
+Sun Feb 14 2021,Boston Celtics,91,Washington Wizards,104,-293,+237
+Sun Feb 14 2021,San Antonio Spurs,122,Charlotte Hornets,110,-155,+134
+Sun Feb 14 2021,New Orleans Pelicans,112,Detroit Pistons,123,-204,+175
+Sun Feb 14 2021,Minnesota Timberwolves,116,Toronto Raptors,112,+287,-360
+Sun Feb 14 2021,Portland Trail Blazers,121,Dallas Mavericks,118,+189,-221
+Sun Feb 14 2021,Milwaukee Bucks,109,Oklahoma City Thunder,114,-797,+583
+Sun Feb 14 2021,Orlando Magic,90,Phoenix Suns,109,+543,-743
+Sun Feb 14 2021,Los Angeles Lakers,105,Denver Nuggets,122,-149,+131
+Sun Feb 14 2021,Cleveland Cavaliers,111,Los Angeles Clippers,128,+349,-434
+Sun Feb 14 2021,Memphis Grizzlies,124,Sacramento Kings,110,-125,-111
+Mon Feb 15 2021,Chicago Bulls,120,Indiana Pacers,112,+176,-205
+Mon Feb 15 2021,Houston Rockets,119,Washington Wizards,131,+103,-124
+Mon Feb 15 2021,Atlanta Hawks,112,New York Knicks,123,-128,+110
+Mon Feb 15 2021,Philadelphia 76ers,123,Utah Jazz,134,+292,-372
+Mon Feb 15 2021,Cleveland Cavaliers,98,Golden State Warriors,129,+371,-485
+Mon Feb 15 2021,Miami Heat,118,Los Angeles Clippers,125,-181,-142
+Mon Feb 15 2021,Brooklyn Nets,136,Sacramento Kings,125,-186,+160
+Tue Feb 16 2021,Denver Nuggets,99,Boston Celtics,112,+109,-129
+Tue Feb 16 2021,New Orleans Pelicans,144,Memphis Grizzlies,113,-120,+103
+Tue Feb 16 2021,Toronto Raptors,124,Milwaukee Bucks,113,+203,-241
+Tue Feb 16 2021,Los Angeles Lakers,112,Minnesota Timberwolves,104,-260,+215
+Tue Feb 16 2021,Portland Trail Blazers,115,Oklahoma City Thunder,104,-211,+176
+Tue Feb 16 2021,Brooklyn Nets,128,Phoenix Suns,124,+269,-327
+Wed Feb 17 2021,New York Knicks,89,Orlando Magic,107,-158,+135
+Wed Feb 17 2021,Atlanta Hawks,122,Boston Celtics,114,+105,-126
+Wed Feb 17 2021,Houston Rockets,113,Philadelphia 76ers,118,+295,-375
+Wed Feb 17 2021,Detroit Pistons,102,Chicago Bulls,105,+126,-146
+Wed Feb 17 2021,Indiana Pacers,134,Minnesota Timberwolves,128,-212,+178
+Wed Feb 17 2021,Denver Nuggets,128,Washington Wizards,130,-239,+191
+Wed Feb 17 2021,Oklahoma City Thunder,113,Memphis Grizzlies,122,+233,-284
+Wed Feb 17 2021,Portland Trail Blazers,126,New Orleans Pelicans,124,+153,-180
+Wed Feb 17 2021,Miami Heat,112,Golden State Warriors,120,+102,-123
+Wed Feb 17 2021,Utah Jazz,114,Los Angeles Clippers,96,-279,+230
+Thu Feb 18 2021,Toronto Raptors,110,Milwaukee Bucks,96,+244,-300
+Thu Feb 18 2021,Brooklyn Nets,109,Los Angeles Lakers,98,+130,-148
+Thu Feb 18 2021,Miami Heat,118,Sacramento Kings,110,-111,-108
+Fri Feb 19 2021,Denver Nuggets,120,Cleveland Cavaliers,103,-425,+315
+Fri Feb 19 2021,Golden State Warriors,120,Orlando Magic,124,-210,+180
+Fri Feb 19 2021,Atlanta Hawks,109,Boston Celtics,121,+170,-200
+Fri Feb 19 2021,Chicago Bulls,105,Philadelphia 76ers,112,+215,-255
+Fri Feb 19 2021,Detroit Pistons,95,Memphis Grizzlies,109,+160,-190
+Fri Feb 19 2021,Oklahoma City Thunder,85,Milwaukee Bucks,98,+440,-640
+Fri Feb 19 2021,Phoenix Suns,132,New Orleans Pelicans,114,-170,+145
+Fri Feb 19 2021,Toronto Raptors,86,Minnesota Timberwolves,81,-150,+130
+Fri Feb 19 2021,Utah Jazz,112,Los Angeles Clippers,116, , 
+Sat Feb 20 2021,Golden State Warriors,100,Charlotte Hornets,102,-135,+115
+Sat Feb 20 2021,Miami Heat,96,Los Angeles Lakers,94,+140,-160
+Sat Feb 20 2021,Sacramento Kings,114,Chicago Bulls,122,-115,-105
+Sat Feb 20 2021,Phoenix Suns,128,Memphis Grizzlies,97,-270,+225
+Sat Feb 20 2021,Washington Wizards,118,Portland Trail Blazers,111,+165,-195
+Sun Feb 21 2021,Boston Celtics,115,New Orleans Pelicans,120,-135,+115
+Sun Feb 21 2021,Oklahoma City Thunder,117,Cleveland Cavaliers,101,-145,+125
+Sun Feb 21 2021,Minnesota Timberwolves,99,New York Knicks,103,+140,-160
+Sun Feb 21 2021,Detroit Pistons,96,Orlando Magic,105,+130,-150
+Sun Feb 21 2021,Philadelphia 76ers,103,Toronto Raptors,110,-150,+130
+Sun Feb 21 2021,Denver Nuggets,115,Atlanta Hawks,123,-140,+120
+Sun Feb 21 2021,Brooklyn Nets,112,Los Angeles Clippers,108,+225,-270
+Sun Feb 21 2021,Sacramento Kings,115,Milwaukee Bucks,128,+395,-570
+Mon Feb 22 2021,Chicago Bulls,120,Houston Rockets,100,-116,-105
+Mon Feb 22 2021,Memphis Grizzlies,92,Dallas Mavericks,102,+171,-209
+Mon Feb 22 2021,Miami Heat,108,Oklahoma City Thunder,94,-267,+219
+Mon Feb 22 2021,Portland Trail Blazers,100,Phoenix Suns,132,+215,-255
+Mon Feb 22 2021,Charlotte Hornets,110,Utah Jazz,132,+620,-859
+Mon Feb 22 2021,Washington Wizards,127,Los Angeles Lakers,124,+234,-278
+Tue Feb 23 2021,Atlanta Hawks,111,Cleveland Cavaliers,112,-325,+266
+Tue Feb 23 2021,Detroit Pistons,105,Orlando Magic,93,+150,-173
+Tue Feb 23 2021,Sacramento Kings,118,Brooklyn Nets,127,+203,-238
+Tue Feb 23 2021,Boston Celtics,107,Dallas Mavericks,110,-135,+114
+Tue Feb 23 2021,Golden State Warriors,114,New York Knicks,106,-164,+140
+Tue Feb 23 2021,Philadelphia 76ers,109,Toronto Raptors,102,-133,+113
+Tue Feb 23 2021,Minnesota Timberwolves,112,Milwaukee Bucks,139,+456,-599
+Tue Feb 23 2021,Portland Trail Blazers,106,Denver Nuggets,111,+205,-244
+Tue Feb 23 2021,Washington Wizards,116,Los Angeles Clippers,135,+547,-768
+Wed Feb 24 2021,Boston Celtics,112,Atlanta Hawks,127,-130,+110
+Wed Feb 24 2021,Houston Rockets,96,Cleveland Cavaliers,112,-200,+168
+Wed Feb 24 2021,Golden State Warriors,111,Indiana Pacers,107,+111,-132
+Wed Feb 24 2021,Minnesota Timberwolves,126,Chicago Bulls,133,+166,-196
+Wed Feb 24 2021,Toronto Raptors,108,Miami Heat,116,+109,-130
+Wed Feb 24 2021,Detroit Pistons,118,New Orleans Pelicans,128,+467,-640
+Wed Feb 24 2021,San Antonio Spurs,99,Oklahoma City Thunder,102,-110,-114
+Wed Feb 24 2021,Charlotte Hornets,124,Phoenix Suns,121,+346,-443
+Wed Feb 24 2021,Los Angeles Lakers,89,Utah Jazz,114,+309,-381
+Thu Feb 25 2021,Dallas Mavericks,97,Philadelphia 76ers,111,+168,-200
+Thu Feb 25 2021,Orlando Magic,92,Brooklyn Nets,129,+303,-386
+Thu Feb 25 2021,Sacramento Kings,121,New York Knicks,140,-102,-121
+Thu Feb 25 2021,Los Angeles Clippers,94,Memphis Grizzlies,122,-325,+268
+Thu Feb 25 2021,Washington Wizards,112,Denver Nuggets,110,+278,-341
+Thu Feb 25 2021,New Orleans Pelicans,125,Milwaukee Bucks,129,+299,-365
+Fri Feb 26 2021,Indiana Pacers,112,Boston Celtics,118,+123,-144
+Fri Feb 26 2021,Houston Rockets,111,Toronto Raptors,122,+230,-280
+Fri Feb 26 2021,Phoenix Suns,106,Chicago Bulls,97,-252,+206
+Fri Feb 26 2021,Sacramento Kings,110,Detroit Pistons,107,-123,+102
+Fri Feb 26 2021,Los Angeles Clippers,119,Memphis Grizzlies,99,-336,+268
+Fri Feb 26 2021,Utah Jazz,116,Miami Heat,124,-250,+205
+Fri Feb 26 2021,Atlanta Hawks,109,Oklahoma City Thunder,118,-203,+172
+Fri Feb 26 2021,Charlotte Hornets,121,Golden State Warriors,130,+211,-250
+Fri Feb 26 2021,Portland Trail Blazers,93,Los Angeles Lakers,102,+172,-198
+Sat Feb 27 2021,Cleveland Cavaliers,112,Philadelphia 76ers,109,+476,-629
+Sat Feb 27 2021,Minnesota Timberwolves,112,Washington Wizards,128,+153,-175
+Sat Feb 27 2021,Indiana Pacers,107,New York Knicks,110,+102,-115
+Sat Feb 27 2021,Denver Nuggets,126,Oklahoma City Thunder,96,-274,+227
+Sat Feb 27 2021,Utah Jazz,124,Orlando Magic,109,-516,+401
+Sat Feb 27 2021,New Orleans Pelicans,114,San Antonio Spurs,117,-148,+126
+Sat Feb 27 2021,Dallas Mavericks,115,Brooklyn Nets,98,-112,-125
+Sun Feb 28 2021,Los Angeles Clippers,100,Milwaukee Bucks,105,+106,-124
+Sun Feb 28 2021,Washington Wizards,110,Boston Celtics,111,+217,-265
+Sun Feb 28 2021,New York Knicks,109,Detroit Pistons,90,-119,-103
+Sun Feb 28 2021,Memphis Grizzlies,133,Houston Rockets,84,-166,+146
+Sun Feb 28 2021,Golden State Warriors,91,Los Angeles Lakers,117,+126,-144
+Sun Feb 28 2021,Atlanta Hawks,99,Miami Heat,109,+120,-138
+Sun Feb 28 2021,Phoenix Suns,118,Minnesota Timberwolves,99,-559,+431
+Sun Feb 28 2021,Charlotte Hornets,127,Sacramento Kings,126,+142,-163
+Mon Mar 1 2021,Dallas Mavericks,130,Orlando Magic,124,-275,+233
+Mon Mar 1 2021,Indiana Pacers,114,Philadelphia 76ers,130,+152,-180
+Mon Mar 1 2021,Denver Nuggets,118,Chicago Bulls,112,-188,+158
+Mon Mar 1 2021,Utah Jazz,124,New Orleans Pelicans,129,-271,+230
+Mon Mar 1 2021,Brooklyn Nets,124,San Antonio Spurs,113,-178,+152
+Mon Mar 1 2021,Cleveland Cavaliers,101,Houston Rockets,90,+134,-155
+Mon Mar 1 2021,Charlotte Hornets,111,Portland Trail Blazers,123,+287,-349
+Tue Mar 2 2021,Memphis Grizzlies,125,Washington Wizards,111,-107,-113
+Tue Mar 2 2021,Los Angeles Clippers,112,Boston Celtics,117,-200,+169
+Tue Mar 2 2021,Atlanta Hawks,94,Miami Heat,80,+121,-143
+Tue Mar 2 2021,New York Knicks,93,San Antonio Spurs,119,-124,+107
+Tue Mar 2 2021,Denver Nuggets,128,Milwaukee Bucks,97,+263,-318
+Tue Mar 2 2021,Phoenix Suns,114,Los Angeles Lakers,104,-124,+105
+Wed Mar 3 2021,Indiana Pacers,114,Cleveland Cavaliers,111,-258,+217
+Wed Mar 3 2021,Utah Jazz,123,Philadelphia 76ers,131,-156,+134
+Wed Mar 3 2021,Detroit Pistons,129,Toronto Raptors,105,+268,-333
+Wed Mar 3 2021,Brooklyn Nets,132,Houston Rockets,114,-548,+407
+Wed Mar 3 2021,Charlotte Hornets,135,Minnesota Timberwolves,102,-135,+113
+Wed Mar 3 2021,Chicago Bulls,128,New Orleans Pelicans,124,+195,-231
+Wed Mar 3 2021,Atlanta Hawks,115,Orlando Magic,112,-157,+136
+Wed Mar 3 2021,Oklahoma City Thunder,78,Dallas Mavericks,87,+190,-223
+Wed Mar 3 2021,Golden State Warriors,106,Portland Trail Blazers,108,-121,-102
+Wed Mar 3 2021,Los Angeles Lakers,120,Sacramento Kings,123,+159,-185
+Thu Mar 4 2021,Toronto Raptors,125,Boston Celtics,132,+280,-353
+Thu Mar 4 2021,Los Angeles Clippers,117,Washington Wizards,119,-316,+257
+Thu Mar 4 2021,Detroit Pistons,104,New York Knicks,114,+236,-289
+Thu Mar 4 2021,Denver Nuggets,113,Indiana Pacers,103,-165,+142
+Thu Mar 4 2021,Milwaukee Bucks,112,Memphis Grizzlies,111,-248,+203
+Thu Mar 4 2021,Miami Heat,103,New Orleans Pelicans,93,-125,+105
+Thu Mar 4 2021,Oklahoma City Thunder,107,San Antonio Spurs,102,+235,-288
+Thu Mar 4 2021,Golden State Warriors,98,Phoenix Suns,120,+617,-855
+Thu Mar 4 2021,Sacramento Kings,119,Portland Trail Blazers,123,+160,-183
+Wed Mar 10 2021,Washington Wizards,112,Memphis Grizzlies,127,+130,-148
+Wed Mar 10 2021,San Antonio Spurs,104,Dallas Mavericks,115,+159,-183
+Thu Mar 11 2021,Detroit Pistons,102,Charlotte Hornets,105,+162,-194
+Thu Mar 11 2021,Boston Celtics,109,Brooklyn Nets,121,+122,-140
+Thu Mar 11 2021,Atlanta Hawks,121,Toronto Raptors,120,-148,+125
+Thu Mar 11 2021,Philadelphia 76ers,127,Chicago Bulls,105,+135,-157
+Thu Mar 11 2021,Orlando Magic,103,Miami Heat,111,+302,-382
+Thu Mar 11 2021,New York Knicks,101,Milwaukee Bucks,134,+485,-636
+Thu Mar 11 2021,Minnesota Timberwolves,135,New Orleans Pelicans,105,+288,-347
+Thu Mar 11 2021,Dallas Mavericks,108,Oklahoma City Thunder,116,-141,+121
+Thu Mar 11 2021,Golden State Warriors,104,Los Angeles Clippers,130,+243,-287
+Thu Mar 11 2021,Phoenix Suns,127,Portland Trail Blazers,121,-188,+163
+Thu Mar 11 2021,Houston Rockets,105,Sacramento Kings,125,+203,-240
+Fri Mar 12 2021,Denver Nuggets,103,Memphis Grizzlies,102,-152,+133
+Fri Mar 12 2021,Cleveland Cavaliers,82,New Orleans Pelicans,116,+243,-291
+Fri Mar 12 2021,Philadelphia 76ers,127,Washington Wizards,101,-175,+151
+Fri Mar 12 2021,Miami Heat,101,Chicago Bulls,90,-133,+114
+Fri Mar 12 2021,Orlando Magic,77,San Antonio Spurs,104,+245,-292
+Fri Mar 12 2021,Houston Rockets,99,Utah Jazz,114,+1417,-2554
+Fri Mar 12 2021,Indiana Pacers,100,Los Angeles Lakers,105,+168,-194
+Sat Mar 13 2021,New York Knicks,119,Oklahoma City Thunder,97,-188,+162
+Sat Mar 13 2021,Detroit Pistons,95,Brooklyn Nets,100,+500,-669
+Sat Mar 13 2021,Toronto Raptors,104,Charlotte Hornets,114,+121,-139
+Sat Mar 13 2021,Milwaukee Bucks,125,Washington Wizards,119,-783,+584
+Sat Mar 13 2021,Sacramento Kings,106,Atlanta Hawks,121,+147,-168
+Sat Mar 13 2021,Portland Trail Blazers,125,Minnesota Timberwolves,121,-199,+171
+Sat Mar 13 2021,Dallas Mavericks,116,Denver Nuggets,103,-102,-118
+Sat Mar 13 2021,Indiana Pacers,122,Phoenix Suns,111,+237,-282
+Sun Mar 14 2021,Memphis Grizzlies,122,Oklahoma City Thunder,128,-354,+281
+Sun Mar 14 2021,Utah Jazz,119,Golden State Warriors,131,-299,+250
+Sun Mar 14 2021,San Antonio Spurs,99,Philadelphia 76ers,134,+152,-180
+Sun Mar 14 2021,Miami Heat,102,Orlando Magic,97,-302,+247
+Sun Mar 14 2021,Cleveland Cavaliers,82,Atlanta Hawks,100,+184,-215
+Sun Mar 14 2021,Boston Celtics,134,Houston Rockets,107,-683,+511
+Sun Mar 14 2021,Portland Trail Blazers,112,Minnesota Timberwolves,114,-196,+169
+Sun Mar 14 2021,Toronto Raptors,95,Chicago Bulls,118,+141,-164
+Sun Mar 14 2021,Los Angeles Clippers,115,New Orleans Pelicans,135,-235,+198
+Mon Mar 15 2021,Sacramento Kings,116,Charlotte Hornets,122,+131,-149
+Mon Mar 15 2021,Milwaukee Bucks,133,Washington Wizards,122,-389,+306
+Mon Mar 15 2021,New York Knicks,112,Brooklyn Nets,117,+289,-351
+Mon Mar 15 2021,San Antonio Spurs,109,Detroit Pistons,99,-123,+102
+Mon Mar 15 2021,Los Angeles Clippers,109,Dallas Mavericks,99,-123,+103
+Mon Mar 15 2021,Indiana Pacers,106,Denver Nuggets,121,+153,-174
+Mon Mar 15 2021,Memphis Grizzlies,99,Phoenix Suns,122,+252,-303
+Mon Mar 15 2021,Los Angeles Lakers,128,Golden State Warriors,97,-120,+103
+Tue Mar 16 2021,Utah Jazz,117,Boston Celtics,109,-169,+144
+Tue Mar 16 2021,Oklahoma City Thunder,102,Chicago Bulls,123,+208,-255
+Tue Mar 16 2021,Atlanta Hawks,119,Houston Rockets,107,-401,+312
+Tue Mar 16 2021,Cleveland Cavaliers,98,Miami Heat,113,+470,-642
+Tue Mar 16 2021,New York Knicks,96,Philadelphia 76ers,99,+238,-291
+Tue Mar 16 2021,New Orleans Pelicans,124,Portland Trail Blazers,125,+106,-124
+Tue Mar 16 2021,Minnesota Timberwolves,121,Los Angeles Lakers,137,+277,-330
+Wed Mar 17 2021,Toronto Raptors,112,Detroit Pistons,116,-229,+188
+Wed Mar 17 2021,Brooklyn Nets,124,Indiana Pacers,115,+102,-116
+Wed Mar 17 2021,Milwaukee Bucks,109,Philadelphia 76ers,105,-243,+199
+Wed Mar 17 2021,Sacramento Kings,121,Washington Wizards,119,+115,-131
+Wed Mar 17 2021,San Antonio Spurs,106,Chicago Bulls,99,+104,-125
+Wed Mar 17 2021,Boston Celtics,110,Cleveland Cavaliers,117,-346,+277
+Wed Mar 17 2021,Golden State Warriors,108,Houston Rockets,94,-713,+509
+Wed Mar 17 2021,Charlotte Hornets,104,Denver Nuggets,129,+216,-258
+Wed Mar 17 2021,Miami Heat,85,Memphis Grizzlies,89,-115,-110
+Wed Mar 17 2021,Los Angeles Clippers,89,Dallas Mavericks,105,-135,+118
+Thu Mar 18 2021,Utah Jazz,122,Washington Wizards,131,-643,+475
+Thu Mar 18 2021,Oklahoma City Thunder,93,Atlanta Hawks,116,+276,-344
+Thu Mar 18 2021,Orlando Magic,93,New York Knicks,94,+160,-189
+Thu Mar 18 2021,Minnesota Timberwolves,123,Phoenix Suns,119,+473,-614
+Thu Mar 18 2021,New Orleans Pelicans,93,Portland Trail Blazers,101,+104,-121
+Thu Mar 18 2021,Charlotte Hornets,105,Los Angeles Lakers,116,+252,-304
+Fri Mar 19 2021,Sacramento Kings,107,Boston Celtics,96,+237,-282
+Fri Mar 19 2021,San Antonio Spurs,116,Cleveland Cavaliers,110,-188,+158
+Fri Mar 19 2021,Detroit Pistons,113,Houston Rockets,100,+116,-137
+Fri Mar 19 2021,Golden State Warriors,116,Memphis Grizzlies,103,+270,-335
+Fri Mar 19 2021,Indiana Pacers,137,Miami Heat,110,+152,-175
+Fri Mar 19 2021,Brooklyn Nets,113,Orlando Magic,121,-571,+431
+Fri Mar 19 2021,Utah Jazz,115,Toronto Raptors,112,-201,+173
+Fri Mar 19 2021,Chicago Bulls,127,Denver Nuggets,131,+245,-296
+Fri Mar 19 2021,Minnesota Timberwolves,101,Phoenix Suns,113,+486,-646
+Fri Mar 19 2021,Dallas Mavericks,119,Portland Trail Blazers,125,-145,+127
+Sat Mar 20 2021,Atlanta Hawks,99,Los Angeles Lakers,94,+147,-174
+Sat Mar 20 2021,Golden State Warriors,103,Memphis Grizzlies,111,+215,-260
+Sat Mar 20 2021,Sacramento Kings,105,Philadelphia 76ers,129,+178,-212
+Sat Mar 20 2021,San Antonio Spurs,113,Milwaukee Bucks,120,+533,-748
+Sat Mar 20 2021,Charlotte Hornets,98,Los Angeles Clippers,125,+363,-470
+Sun Mar 21 2021,Indiana Pacers,109,Miami Heat,106,+135,-159
+Sun Mar 21 2021,Oklahoma City Thunder,114,Houston Rockets,112,+168,-198
+Sun Mar 21 2021,New Orleans Pelicans,113,Denver Nuggets,108,+205,-254
+Sun Mar 21 2021,Orlando Magic,96,Boston Celtics,112,+318,-391
+Sun Mar 21 2021,Washington Wizards,106,Brooklyn Nets,113,+314,-388
+Sun Mar 21 2021,Toronto Raptors,105,Cleveland Cavaliers,116,-295,+245
+Sun Mar 21 2021,Chicago Bulls,100,Detroit Pistons,86,-156,+135
+Sun Mar 21 2021,Philadelphia 76ers,101,New York Knicks,100,-121,+102
+Sun Mar 21 2021,Los Angeles Lakers,94,Phoenix Suns,111,+428,-554
+Sun Mar 21 2021,Dallas Mavericks,132,Portland Trail Blazers,92,-128,+110
+Mon Mar 22 2021,Sacramento Kings,119,Cleveland Cavaliers,105,-175,+153
+Mon Mar 22 2021,Oklahoma City Thunder,112,Minnesota Timberwolves,103,+149,-177
+Mon Mar 22 2021,Charlotte Hornets,100,San Antonio Spurs,97,+186,-223
+Mon Mar 22 2021,Utah Jazz,120,Chicago Bulls,95,-499,+379
+Mon Mar 22 2021,Toronto Raptors,99,Houston Rockets,117,-408,+320
+Mon Mar 22 2021,Boston Celtics,126,Memphis Grizzlies,132,-101,-171
+Mon Mar 22 2021,Indiana Pacers,113,Milwaukee Bucks,140,+218,-267
+Mon Mar 22 2021,Atlanta Hawks,110,Los Angeles Clippers,119,+205,-243
+Tue Mar 23 2021,Denver Nuggets,110,Orlando Magic,99,-314,+261
+Tue Mar 23 2021,Los Angeles Lakers,111,New Orleans Pelicans,128,+193,-227
+Tue Mar 23 2021,Washington Wizards,113,New York Knicks,131,+125,-144
+Tue Mar 23 2021,Phoenix Suns,110,Miami Heat,100,-123,+104
+Tue Mar 23 2021,Philadelphia 76ers,108,Golden State Warriors,98,-182,+159
+Tue Mar 23 2021,Brooklyn Nets,116,Portland Trail Blazers,112,+117,-135
+Wed Mar 24 2021,Detroit Pistons,111,Indiana Pacers,116,+243,-298
+Wed Mar 24 2021,Boston Celtics,119,Milwaukee Bucks,121,+206,-250
+Wed Mar 24 2021,Denver Nuggets,111,Toronto Raptors,135,-129,+108
+Wed Mar 24 2021,Cleveland Cavaliers,103,Chicago Bulls,94,+234,-285
+Wed Mar 24 2021,Charlotte Hornets,122,Houston Rockets,97,-165,+146
+Wed Mar 24 2021,Dallas Mavericks,128,Minnesota Timberwolves,108,-343,+285
+Wed Mar 24 2021,Memphis Grizzlies,116,Oklahoma City Thunder,107,-250,+208
+Wed Mar 24 2021,Phoenix Suns,111,Orlando Magic,112,-429,+336
+Wed Mar 24 2021,Los Angeles Clippers,134,San Antonio Spurs,101,-244,+206
+Wed Mar 24 2021,Atlanta Hawks,108,Sacramento Kings,110,-150,+130
+Wed Mar 24 2021,Brooklyn Nets,88,Utah Jazz,118,+586,-847
+Thu Mar 25 2021,Portland Trail Blazers,125,Miami Heat,122,-142,+123
+Thu Mar 25 2021,Washington Wizards,102,New York Knicks,106,+123,-141
+Thu Mar 25 2021,Los Angeles Clippers,98,San Antonio Spurs,85,-118,+102
+Thu Mar 25 2021,Philadelphia 76ers,109,Los Angeles Lakers,101,-239,+201
+Thu Mar 25 2021,Golden State Warriors,119,Sacramento Kings,141,+157,-181
+Fri Mar 26 2021,Brooklyn Nets,113,Detroit Pistons,111,-274,+230
+Fri Mar 26 2021,Boston Celtics,122,Milwaukee Bucks,114,+191,-229
+Fri Mar 26 2021,Phoenix Suns,104,Toronto Raptors,100,-160,+139
+Fri Mar 26 2021,Miami Heat,105,Charlotte Hornets,110,-131,+113
+Fri Mar 26 2021,Houston Rockets,101,Minnesota Timberwolves,107,+152,-176
+Fri Mar 26 2021,Denver Nuggets,113,New Orleans Pelicans,108,-139,+120
+Fri Mar 26 2021,Portland Trail Blazers,112,Orlando Magic,105,-505,+396
+Fri Mar 26 2021,Indiana Pacers,109,Dallas Mavericks,94,-123,+105
+Fri Mar 26 2021,Memphis Grizzlies,114,Utah Jazz,117,+429,-556
+Fri Mar 26 2021,Atlanta Hawks,124,Golden State Warriors,108,-274,+231
+Fri Mar 26 2021,Cleveland Cavaliers,86,Los Angeles Lakers,100,+154,-177
+Sat Mar 27 2021,New York Knicks,102,Milwaukee Bucks,96,-136,+118
+Sat Mar 27 2021,Houston Rockets,129,Minnesota Timberwolves,107,+162,-187
+Sat Mar 27 2021,Detroit Pistons,92,Washington Wizards,106,+187,-219
+Sat Mar 27 2021,Chicago Bulls,104,San Antonio Spurs,120,+102,-120
+Sat Mar 27 2021,Dallas Mavericks,103,New Orleans Pelicans,112,+178,-206
+Sat Mar 27 2021,Boston Celtics,111,Oklahoma City Thunder,94,-254,+215
+Sat Mar 27 2021,Memphis Grizzlies,110,Utah Jazz,126,+333,-415
+Sat Mar 27 2021,Philadelphia 76ers,112,Los Angeles Clippers,122,+179,-207
+Sat Mar 27 2021,Cleveland Cavaliers,98,Sacramento Kings,100,+324,-402
+Sun Mar 28 2021,Phoenix Suns,101,Charlotte Hornets,97,-264,+220
+Sun Mar 28 2021,Portland Trail Blazers,122,Toronto Raptors,117,-137,+119
+Sun Mar 28 2021,Atlanta Hawks,102,Denver Nuggets,126,+172,-199
+Sun Mar 28 2021,Orlando Magic,93,Los Angeles Lakers,96,+240,-286
+Mon Mar 29 2021,Indiana Pacers,124,Washington Wizards,132,-283,+238
+Mon Mar 29 2021,New Orleans Pelicans,115,Boston Celtics,109,+125,-143
+Mon Mar 29 2021,Minnesota Timberwolves,107,Brooklyn Nets,112,+467,-609
+Mon Mar 29 2021,Miami Heat,98,New York Knicks,88,-156,+136
+Mon Mar 29 2021,Toronto Raptors,104,Detroit Pistons,118,-220,+184
+Mon Mar 29 2021,Memphis Grizzlies,120,Houston Rockets,110,-355,+292
+Mon Mar 29 2021,Dallas Mavericks,127,Oklahoma City Thunder,106,-674,+504
+Mon Mar 29 2021,Sacramento Kings,132,San Antonio Spurs,115,+119,-138
+Mon Mar 29 2021,Cleveland Cavaliers,75,Utah Jazz,114,+1149,-2010
+Mon Mar 29 2021,Chicago Bulls,102,Golden State Warriors,116,+107,-126
+Mon Mar 29 2021,Milwaukee Bucks,105,Los Angeles Clippers,129,-129,+111
+Tue Mar 30 2021,Charlotte Hornets,114,Washington Wizards,104,-183,+158
+Tue Mar 30 2021,Philadelphia 76ers,95,Denver Nuggets,104,+184,-217
+Tue Mar 30 2021,Orlando Magic,103,Los Angeles Clippers,96,+526,-700
+Tue Mar 30 2021,Atlanta Hawks,110,Phoenix Suns,117,+195,-232
+Wed Mar 31 2021,Portland Trail Blazers,124,Detroit Pistons,101,-329,+271
+Wed Mar 31 2021,Miami Heat,92,Indiana Pacers,87,-122,+104
+Wed Mar 31 2021,Dallas Mavericks,113,Boston Celtics,108,+103,-120
+Wed Mar 31 2021,Houston Rockets,108,Brooklyn Nets,120,+717,-1049
+Wed Mar 31 2021,Utah Jazz,111,Memphis Grizzlies,107,-233,+196
+Wed Mar 31 2021,New York Knicks,101,Minnesota Timberwolves,102,-149,+131
+Wed Mar 31 2021,Toronto Raptors,103,Oklahoma City Thunder,113,-304,+251
+Wed Mar 31 2021,Sacramento Kings,106,San Antonio Spurs,120,+121,-139
+Wed Mar 31 2021,Milwaukee Bucks,112,Los Angeles Lakers,97,-375,+306
+Wed Mar 31 2021,Chicago Bulls,116,Phoenix Suns,121,+298,-363
+Thu Apr 1 2021,Philadelphia 76ers,114,Cleveland Cavaliers,94,-485,+386
+Thu Apr 1 2021,Washington Wizards,91,Detroit Pistons,120,-126,-106
+Thu Apr 1 2021,Charlotte Hornets,89,Brooklyn Nets,111,+123,-142
+Thu Apr 1 2021,Golden State Warriors,109,Miami Heat,116,+129,-148
+Thu Apr 1 2021,Orlando Magic,115,New Orleans Pelicans,110,+178,-206
+Thu Apr 1 2021,Atlanta Hawks,134,San Antonio Spurs,129,+103,-119
+Thu Apr 1 2021,Denver Nuggets,101,Los Angeles Clippers,94,+108,-126
+Fri Apr 2 2021,Golden State Warriors,77,Toronto Raptors,130,+180,-212
+Fri Apr 2 2021,Houston Rockets,102,Boston Celtics,118,+582,-803
+Fri Apr 2 2021,Dallas Mavericks,99,New York Knicks,86,-207,+177
+Fri Apr 2 2021,Charlotte Hornets,114,Indiana Pacers,97,+177,-204
+Fri Apr 2 2021,Minnesota Timberwolves,108,Memphis Grizzlies,120,+228,-270
+Fri Apr 2 2021,Atlanta Hawks,126,New Orleans Pelicans,103,-115,-108
+Fri Apr 2 2021,Chicago Bulls,106,Utah Jazz,113,+570,-802
+Fri Apr 2 2021,Oklahoma City Thunder,103,Phoenix Suns,140,+751,-1104
+Fri Apr 2 2021,Milwaukee Bucks,127,Portland Trail Blazers,109,-147,+130
+Fri Apr 2 2021,Los Angeles Lakers,115,Sacramento Kings,94,+163,-188
+Sat Apr 3 2021,Dallas Mavericks,109,Washington Wizards,87,-228,+194
+Sat Apr 3 2021,New York Knicks,125,Detroit Pistons,81,-141,+122
+Sat Apr 3 2021,Cleveland Cavaliers,101,Miami Heat,115,+628,-898
+Sat Apr 3 2021,Minnesota Timberwolves,113,Philadelphia 76ers,122,+708,-1049
+Sat Apr 3 2021,Indiana Pacers,139,San Antonio Spurs,133,+223,-265
+Sat Apr 3 2021,Orlando Magic,91,Utah Jazz,137,+985,-1627
+Sat Apr 3 2021,Oklahoma City Thunder,85,Portland Trail Blazers,133,+645,-897
+Sat Apr 3 2021,Milwaukee Bucks,129,Sacramento Kings,128,-148,+129
+Sun Apr 4 2021,Brooklyn Nets,107,Chicago Bulls,115,-134,+116
+Sun Apr 4 2021,Los Angeles Lakers,86,Los Angeles Clippers,104,+452,-580
+Sun Apr 4 2021,Charlotte Hornets,86,Boston Celtics,116,+352,-438
+Sun Apr 4 2021,Memphis Grizzlies,116,Philadelphia 76ers,100,+140,-159
+Sun Apr 4 2021,Golden State Warriors,111,Atlanta Hawks,117,+104,-121
+Sun Apr 4 2021,New Orleans Pelicans,122,Houston Rockets,115,-145,+126
+Sun Apr 4 2021,Orlando Magic,109,Denver Nuggets,119,+1199,-2003
+Mon Apr 5 2021,New York Knicks,112,Brooklyn Nets,114,+210,-250
+Mon Apr 5 2021,Utah Jazz,103,Dallas Mavericks,111,-221,+188
+Mon Apr 5 2021,Sacramento Kings,106,Minnesota Timberwolves,116,-166,+145
+Mon Apr 5 2021,Detroit Pistons,132,Oklahoma City Thunder,108,-146,+127
+Mon Apr 5 2021,Cleveland Cavaliers,125,San Antonio Spurs,101,+282,-342
+Mon Apr 5 2021,Washington Wizards,101,Toronto Raptors,103,+186,-220
+Mon Apr 5 2021,Phoenix Suns,133,Houston Rockets,130,-1129,+770
+Tue Apr 6 2021,Chicago Bulls,113,Indiana Pacers,97,-128,+110
+Tue Apr 6 2021,New Orleans Pelicans,107,Atlanta Hawks,123,+137,-159
+Tue Apr 6 2021,Philadelphia 76ers,106,Boston Celtics,96,-114,-105
+Tue Apr 6 2021,Los Angeles Lakers,110,Toronto Raptors,101,-121,-101
+Tue Apr 6 2021,Memphis Grizzlies,124,Miami Heat,112,+208,-248
+Tue Apr 6 2021,Detroit Pistons,119,Denver Nuggets,134,+576,-778
+Tue Apr 6 2021,Milwaukee Bucks,121,Golden State Warriors,122,-143,+125
+Tue Apr 6 2021,Portland Trail Blazers,116,Los Angeles Clippers,133,+202,-239
+Wed Apr 7 2021,Minnesota Timberwolves,137,Indiana Pacers,141,-126,+108
+Wed Apr 7 2021,Washington Wizards,131,Orlando Magic,116,-186,+163
+Wed Apr 7 2021,New York Knicks,99,Boston Celtics,101,+133,-154
+Wed Apr 7 2021,New Orleans Pelicans,111,Brooklyn Nets,139,+308,-380
+Wed Apr 7 2021,Memphis Grizzlies,131,Atlanta Hawks,113,-114,-108
+Wed Apr 7 2021,Dallas Mavericks,93,Houston Rockets,102,-551,+426
+Wed Apr 7 2021,Charlotte Hornets,113,Oklahoma City Thunder,102,-212,+180
+Wed Apr 7 2021,San Antonio Spurs,96,Denver Nuggets,106,+174,-203
+Wed Apr 7 2021,Utah Jazz,113,Phoenix Suns,117,-143,+124
+Thu Apr 8 2021,Los Angeles Lakers,104,Miami Heat,110,+372,-465
+Thu Apr 8 2021,Chicago Bulls,122,Toronto Raptors,113,-193,+166
+Thu Apr 8 2021,Cleveland Cavaliers,129,Oklahoma City Thunder,102,-171,+149
+Thu Apr 8 2021,Milwaukee Bucks,101,Dallas Mavericks,116,+124,-143
+Thu Apr 8 2021,Phoenix Suns,103,Los Angeles Clippers,113,+194,-229
+Thu Apr 8 2021,Detroit Pistons,113,Sacramento Kings,101,+266,-317
+Thu Apr 8 2021,Portland Trail Blazers,103,Utah Jazz,122,+183,-217
+Fri Apr 9 2021,Indiana Pacers,111,Orlando Magic,106,-246,+208
+Fri Apr 9 2021,Minnesota Timberwolves,136,Boston Celtics,145,+322,-396
+Fri Apr 9 2021,Memphis Grizzlies,129,New York Knicks,133,-119,+102
+Fri Apr 9 2021,Chicago Bulls,108,Atlanta Hawks,120,+122,-140
+Fri Apr 9 2021,Philadelphia 76ers,94,New Orleans Pelicans,101,-220,+187
+Fri Apr 9 2021,San Antonio Spurs,119,Denver Nuggets,121,+229,-269
+Fri Apr 9 2021,Charlotte Hornets,127,Milwaukee Bucks,119,-147,+129
+Fri Apr 9 2021,Washington Wizards,110,Golden State Warriors,107,+158,-183
+Fri Apr 9 2021,Houston Rockets,109,Los Angeles Clippers,126,+498,-655
+Sat Apr 10 2021,Toronto Raptors,135,Cleveland Cavaliers,115,+128,-152
+Sat Apr 10 2021,Los Angeles Lakers,126,Brooklyn Nets,101,+536,-754
+Sat Apr 10 2021,Philadelphia 76ers,117,Oklahoma City Thunder,93,-580,+430
+Sat Apr 10 2021,Sacramento Kings,112,Utah Jazz,128,+544,-779
+Sat Apr 10 2021,Houston Rockets,109,Golden State Warriors,125,+244,-301
+Sat Apr 10 2021,Washington Wizards,106,Phoenix Suns,134,+713,-1077
+Sat Apr 10 2021,Detroit Pistons,103,Portland Trail Blazers,118,+517,-728
+Sun Apr 11 2021,Atlanta Hawks,105,Charlotte Hornets,101,+119,-140
+Sun Apr 11 2021,Boston Celtics,105,Denver Nuggets,87,+135,-159
+Sun Apr 11 2021,New Orleans Pelicans,116,Cleveland Cavaliers,109,-443,+341
+Sun Apr 11 2021,Milwaukee Bucks,124,Orlando Magic,87,-421,+325
+Sun Apr 11 2021,San Antonio Spurs,119,Dallas Mavericks,117,+208,-254
+Sun Apr 11 2021,Indiana Pacers,132,Memphis Grizzlies,125,+141,-167
+Sun Apr 11 2021,Chicago Bulls,117,Minnesota Timberwolves,121,-172,+143
+Sun Apr 11 2021,Toronto Raptors,96,New York Knicks,102,+135,-158
+Sun Apr 11 2021,Detroit Pistons,124,Los Angeles Clippers,131,+648,-916
+Sun Apr 11 2021,Miami Heat,107,Portland Trail Blazers,98,-111,-110
+Mon Apr 12 2021,Philadelphia 76ers,113,Dallas Mavericks,95,-167,+143
+Mon Apr 12 2021,Los Angeles Lakers,96,New York Knicks,111,+102,-123
+Mon Apr 12 2021,San Antonio Spurs,120,Orlando Magic,97,-275,+224
+Mon Apr 12 2021,Chicago Bulls,90,Memphis Grizzlies,101,+110,-132
+Mon Apr 12 2021,Sacramento Kings,110,New Orleans Pelicans,117,+111,-132
+Mon Apr 12 2021,Washington Wizards,125,Utah Jazz,121,+459,-618
+Mon Apr 12 2021,Denver Nuggets,107,Golden State Warriors,116,-212,+178
+Mon Apr 12 2021,Houston Rockets,120,Phoenix Suns,126,+627,-893
+Tue Apr 13 2021,Brooklyn Nets,127,Minnesota Timberwolves,97,-300,+243
+Tue Apr 13 2021,Los Angeles Clippers,126,Indiana Pacers,115,-150,+130
+Tue Apr 13 2021,Atlanta Hawks,108,Toronto Raptors,103,+105,-125
+Tue Apr 13 2021,Los Angeles Lakers,101,Charlotte Hornets,93,-126,+104
+Tue Apr 13 2021,Oklahoma City Thunder,96,Utah Jazz,106,+1040,-1764
+Tue Apr 13 2021,Miami Heat,86,Phoenix Suns,106,+136,-160
+Tue Apr 13 2021,Boston Celtics,116,Portland Trail Blazers,115,-103,-118
+Wed Apr 14 2021,Milwaukee Bucks,130,Minnesota Timberwolves,105,-570,+420
+Wed Apr 14 2021,Cleveland Cavaliers,103,Charlotte Hornets,90,+130,-150
+Wed Apr 14 2021,Brooklyn Nets,117,Philadelphia 76ers,123,+321,-415
+Wed Apr 14 2021,San Antonio Spurs,112,Toronto Raptors,117,-219,+181
+Wed Apr 14 2021,Orlando Magic,115,Chicago Bulls,106,+365,-484
+Wed Apr 14 2021,Los Angeles Clippers,100,Detroit Pistons,98,-125,+105
+Wed Apr 14 2021,New York Knicks,116,New Orleans Pelicans,106,+114,-136
+Wed Apr 14 2021,Indiana Pacers,132,Houston Rockets,124,-165,+141
+Wed Apr 14 2021,Golden State Warriors,147,Oklahoma City Thunder,109,-840,+606
+Wed Apr 14 2021,Dallas Mavericks,114,Memphis Grizzlies,113,-150,+130
+Wed Apr 14 2021,Miami Heat,106,Denver Nuggets,123,+170,-200
+Wed Apr 14 2021,Washington Wizards,123,Sacramento Kings,111,-129,+108
+Thu Apr 15 2021,Milwaukee Bucks,120,Atlanta Hawks,109,-180,+151
+Thu Apr 15 2021,Golden State Warriors,119,Cleveland Cavaliers,101,-220,+181
+Thu Apr 15 2021,Boston Celtics,121,Los Angeles Lakers,113,-309,+248
+Thu Apr 15 2021,Sacramento Kings,114,Phoenix Suns,122,+598,-865
+Fri Apr 16 2021,Indiana Pacers,111,Utah Jazz,119,+434,-582
+Fri Apr 16 2021,Oklahoma City Thunder,104,Detroit Pistons,110,+126,-144
+Fri Apr 16 2021,Los Angeles Clippers,103,Philadelphia 76ers,106,+159,-183
+Fri Apr 16 2021,New Orleans Pelicans,115,Washington Wizards,117,-153,+131
+Fri Apr 16 2021,Charlotte Hornets,115,Brooklyn Nets,130,+595,-819
+Fri Apr 16 2021,Orlando Magic,102,Toronto Raptors,113,+132,-153
+Fri Apr 16 2021,Memphis Grizzlies,126,Chicago Bulls,115,-169,+148
+Fri Apr 16 2021,Denver Nuggets,128,Houston Rockets,99,-428,+335
+Fri Apr 16 2021,Miami Heat,111,Minnesota Timberwolves,119,-264,+221
+Fri Apr 16 2021,Portland Trail Blazers,107,San Antonio Spurs,106,+103,-122
+Fri Apr 16 2021,New York Knicks,117,Dallas Mavericks,109,+216,-258
+Sat Apr 17 2021,Utah Jazz,115,Los Angeles Lakers,127,+106,-124
+Sat Apr 17 2021,Cleveland Cavaliers,96,Chicago Bulls,106,+131,-152
+Sat Apr 17 2021,Detroit Pistons,100,Washington Wizards,121,+161,-188
+Sat Apr 17 2021,Golden State Warriors,114,Boston Celtics,119,+131,-152
+Sat Apr 17 2021,Memphis Grizzlies,128,Milwaukee Bucks,115,+294,-365
+Sat Apr 17 2021,San Antonio Spurs,111,Phoenix Suns,85,+552,-777
+Sun Apr 18 2021,Indiana Pacers,117,Atlanta Hawks,129,+110,-129
+Sun Apr 18 2021,New Orleans Pelicans,112,New York Knicks,122,-114,-109
+Sun Apr 18 2021,Brooklyn Nets,107,Miami Heat,109,-211,+179
+Sun Apr 18 2021,Portland Trail Blazers,101,Charlotte Hornets,109,-191,+165
+Sun Apr 18 2021,Houston Rockets,114,Orlando Magic,110,-118,-103
+Sun Apr 18 2021,Oklahoma City Thunder,106,Toronto Raptors,112,+182,-216
+Sun Apr 18 2021,Sacramento Kings,121,Dallas Mavericks,107,+292,-362
+Sun Apr 18 2021,Minnesota Timberwolves,105,Los Angeles Clippers,124,+512,-716
+Mon Apr 19 2021,Cleveland Cavaliers,105,Detroit Pistons,109,-161,+140
+Mon Apr 19 2021,Chicago Bulls,102,Boston Celtics,96,+163,-190
+Mon Apr 19 2021,Golden State Warriors,107,Philadelphia 76ers,96,+165,-190
+Mon Apr 19 2021,San Antonio Spurs,109,Indiana Pacers,94,-165,+143
+Mon Apr 19 2021,Houston Rockets,91,Miami Heat,113,+165,-191
+Mon Apr 19 2021,Phoenix Suns,128,Milwaukee Bucks,127,+128,-147
+Mon Apr 19 2021,Oklahoma City Thunder,107,Washington Wizards,119,+586,-830
+Mon Apr 19 2021,Memphis Grizzlies,137,Denver Nuggets,139,+266,-324
+Mon Apr 19 2021,Utah Jazz,111,Los Angeles Lakers,97,-269,+225
+Tue Apr 20 2021,Orlando Magic,96,Atlanta Hawks,112,+617,-903
+Tue Apr 20 2021,Brooklyn Nets,134,New Orleans Pelicans,129,+130,-149
+Tue Apr 20 2021,Charlotte Hornets,97,New York Knicks,109,+171,-199
+Tue Apr 20 2021,Los Angeles Clippers,113,Portland Trail Blazers,112,-199,+168
+Tue Apr 20 2021,Minnesota Timberwolves,134,Sacramento Kings,120,+140,-160
+Wed Apr 21 2021,Chicago Bulls,105,Cleveland Cavaliers,121,-131,+113
+Wed Apr 21 2021,Oklahoma City Thunder,116,Indiana Pacers,122,+312,-390
+Wed Apr 21 2021,Phoenix Suns,116,Philadelphia 76ers,113,-147,+130
+Wed Apr 21 2021,Brooklyn Nets,103,Toronto Raptors,114,+158,-181
+Wed Apr 21 2021,Golden State Warriors,114,Washington Wizards,118,-130,+111
+Wed Apr 21 2021,Utah Jazz,112,Houston Rockets,89,-720,+518
+Wed Apr 21 2021,Atlanta Hawks,127,New York Knicks,137,-121,+103
+Wed Apr 21 2021,Detroit Pistons,117,Dallas Mavericks,127,+476,-643
+Wed Apr 21 2021,Miami Heat,107,San Antonio Spurs,87,-122,+105
+Wed Apr 21 2021,Memphis Grizzlies,105,Los Angeles Clippers,117,-179,+156
+Wed Apr 21 2021,Denver Nuggets,106,Portland Trail Blazers,105,-124,+106
+Wed Apr 21 2021,Minnesota Timberwolves,125,Sacramento Kings,128,+129,-148
+Thu Apr 22 2021,Phoenix Suns,86,Boston Celtics,99,-122,+105
+Thu Apr 22 2021,Philadelphia 76ers,117,Milwaukee Bucks,124,+221,-260
+Thu Apr 22 2021,New Orleans Pelicans,135,Orlando Magic,100,-530,+407
+Thu Apr 22 2021,Detroit Pistons,91,San Antonio Spurs,106,+240,-290
+Thu Apr 22 2021,Charlotte Hornets,91,Chicago Bulls,108,-103,-116
+Thu Apr 22 2021,Los Angeles Lakers,110,Dallas Mavericks,115,+140,-162
+Fri Apr 23 2021,Miami Heat,103,Atlanta Hawks,118,-261,+220
+Fri Apr 23 2021,Boston Celtics,104,Brooklyn Nets,109,+137,-156
+Fri Apr 23 2021,Cleveland Cavaliers,102,Charlotte Hornets,108,+100,-117
+Fri Apr 23 2021,Los Angeles Clippers,109,Houston Rockets,104,-433,+347
+Fri Apr 23 2021,Washington Wizards,129,Oklahoma City Thunder,109,-443,+352
+Fri Apr 23 2021,Denver Nuggets,97,Golden State Warriors,118,-138,+120
+Fri Apr 23 2021,Memphis Grizzlies,130,Portland Trail Blazers,128,+159,-183
+Sat Apr 24 2021,Toronto Raptors,103,New York Knicks,120,-115,-103
+Sat Apr 24 2021,Philadelphia 76ers,94,Milwaukee Bucks,132,+337,-421
+Sat Apr 24 2021,Detroit Pistons,109,Indiana Pacers,115,+155,-176
+Sat Apr 24 2021,Chicago Bulls,101,Miami Heat,106,+165,-190
+Sat Apr 24 2021,San Antonio Spurs,110,New Orleans Pelicans,108,+132,-150
+Sat Apr 24 2021,Los Angeles Lakers,93,Dallas Mavericks,108,+108,-126
+Sat Apr 24 2021,Minnesota Timberwolves,101,Utah Jazz,96,+630,-914
+Sat Apr 24 2021,Houston Rockets,116,Denver Nuggets,129,+882,-1336
+Sun Apr 25 2021,Boston Celtics,104,Charlotte Hornets,125,-335,+276
+Sun Apr 25 2021,Phoenix Suns,119,Brooklyn Nets,128,+105,-121
+Sun Apr 25 2021,Memphis Grizzlies,120,Portland Trail Blazers,113,+140,-160
+Sun Apr 25 2021,Cleveland Cavaliers,110,Washington Wizards,119,+278,-340
+Sun Apr 25 2021,Milwaukee Bucks,104,Atlanta Hawks,111,-234,+196
+Sun Apr 25 2021,Indiana Pacers,131,Orlando Magic,112,-227,+191
+Sun Apr 25 2021,Sacramento Kings,113,Golden State Warriors,117,+262,-316
+Mon Apr 26 2021,Atlanta Hawks,86,Detroit Pistons,100,-174,+152
+Mon Apr 26 2021,Los Angeles Lakers,114,Orlando Magic,103,-764,+548
+Mon Apr 26 2021,Oklahoma City Thunder,90,Philadelphia 76ers,121,+1168,-2116
+Mon Apr 26 2021,San Antonio Spurs,146,Washington Wizards,143,-132,+114
+Mon Apr 26 2021,Phoenix Suns,118,New York Knicks,110,-143,+124
+Mon Apr 26 2021,Cleveland Cavaliers,96,Toronto Raptors,112,+548,-767
+Mon Apr 26 2021,Chicago Bulls,110,Miami Heat,102,+192,-228
+Mon Apr 26 2021,Utah Jazz,104,Minnesota Timberwolves,105,-530,+408
+Mon Apr 26 2021,Los Angeles Clippers,103,New Orleans Pelicans,120,-130,+112
+Mon Apr 26 2021,Memphis Grizzlies,96,Denver Nuggets,120,+147,-168
+Mon Apr 26 2021,Dallas Mavericks,106,Sacramento Kings,113,-258,+216
+Tue Apr 27 2021,Oklahoma City Thunder,119,Boston Celtics,115,+530,-728
+Tue Apr 27 2021,Milwaukee Bucks,114,Charlotte Hornets,104,-428,+343
+Tue Apr 27 2021,Portland Trail Blazers,133,Indiana Pacers,112,-229,+193
+Tue Apr 27 2021,Brooklyn Nets,116,Toronto Raptors,103,-196,+171
+Tue Apr 27 2021,Minnesota Timberwolves,114,Houston Rockets,107,-131,+114
+Tue Apr 27 2021,Dallas Mavericks,133,Golden State Warriors,103,+142,-166
+Wed Apr 28 2021,Orlando Magic,109,Cleveland Cavaliers,104,+145,-165
+Wed Apr 28 2021,Atlanta Hawks,83,Philadelphia 76ers,127,+388,-498
+Wed Apr 28 2021,Charlotte Hornets,111,Boston Celtics,120,+214,-254
+Wed Apr 28 2021,Chicago Bulls,94,New York Knicks,113,+154,-176
+Wed Apr 28 2021,Los Angeles Lakers,107,Washington Wizards,116,-116,+102
+Wed Apr 28 2021,San Antonio Spurs,111,Miami Heat,116,+170,-196
+Wed Apr 28 2021,New Orleans Pelicans,112,Denver Nuggets,114,+146,-165
+Wed Apr 28 2021,Portland Trail Blazers,130,Memphis Grizzlies,109,+105,-123
+Wed Apr 28 2021,Los Angeles Clippers,101,Phoenix Suns,109,+165,-190
+Wed Apr 28 2021,Utah Jazz,154,Sacramento Kings,105,-383,+311
+Thu Apr 29 2021,Dallas Mavericks,115,Detroit Pistons,105,-316,+262
+Thu Apr 29 2021,Brooklyn Nets,130,Indiana Pacers,113,-214,+181
+Thu Apr 29 2021,Milwaukee Bucks,136,Houston Rockets,143,-1210,+788
+Thu Apr 29 2021,Golden State Warriors,114,Minnesota Timberwolves,126,-182,+158
+Thu Apr 29 2021,Toronto Raptors,111,Denver Nuggets,121,+166,-193
+Thu Apr 29 2021,New Orleans Pelicans,109,Oklahoma City Thunder,95,-438,+350
+Fri Apr 30 2021,Atlanta Hawks,104,Philadelphia 76ers,126,+261,-312
+Fri Apr 30 2021,San Antonio Spurs,140,Boston Celtics,143,+165,-190
+Fri Apr 30 2021,Washington Wizards,122,Cleveland Cavaliers,93,-255,+215
+Fri Apr 30 2021,Portland Trail Blazers,128,Brooklyn Nets,109,-151,+132
+Fri Apr 30 2021,Orlando Magic,75,Memphis Grizzlies,92,+663,-941
+Fri Apr 30 2021,Milwaukee Bucks,108,Chicago Bulls,98,-123,+105
+Fri Apr 30 2021,Utah Jazz,100,Phoenix Suns,121,+144,-166
+Fri Apr 30 2021,Sacramento Kings,110,Los Angeles Lakers,106,+493,-668
+Sat May 1 2021,Detroit Pistons,94,Charlotte Hornets,107,+261,-313
+Sat May 1 2021,Golden State Warriors,113,Houston Rockets,87,-397,+320
+Sat May 1 2021,Chicago Bulls,97,Atlanta Hawks,108,+290,-364
+Sat May 1 2021,Miami Heat,124,Cleveland Cavaliers,107,-726,+524
+Sat May 1 2021,New Orleans Pelicans,140,Minnesota Timberwolves,136,-163,+141
+Sat May 1 2021,Indiana Pacers,152,Oklahoma City Thunder,95,-351,+284
+Sat May 1 2021,Memphis Grizzlies,111,Orlando Magic,112,-747,+538
+Sat May 1 2021,Washington Wizards,124,Dallas Mavericks,125,+163,-187
+Sat May 1 2021,Denver Nuggets,110,Los Angeles Clippers,104,+190,-224
+Sat May 1 2021,Toronto Raptors,102,Utah Jazz,106,+223,-265
+Sun May 2 2021,Brooklyn Nets,114,Milwaukee Bucks,117,+113,-131
+Sun May 2 2021,Portland Trail Blazers,129,Boston Celtics,119,-116,-103
+Sun May 2 2021,Miami Heat,121,Charlotte Hornets,111,-213,+180
+Sun May 2 2021,Sacramento Kings,111,Dallas Mavericks,99,+229,-271
+Sun May 2 2021,New York Knicks,122,Houston Rockets,97,-628,+456
+Sun May 2 2021,Phoenix Suns,123,Oklahoma City Thunder,120,-1462,+936
+Sun May 2 2021,Philadelphia 76ers,113,San Antonio Spurs,111,-547,+420
+Sun May 2 2021,Toronto Raptors,121,Los Angeles Lakers,114,+401,-522
+Mon May 3 2021,Orlando Magic,119,Detroit Pistons,112,+109,-127
+Mon May 3 2021,Indiana Pacers,141,Washington Wizards,154,+164,-191
+Mon May 3 2021,Golden State Warriors,123,New Orleans Pelicans,108,+106,-124
+Mon May 3 2021,Portland Trail Blazers,114,Atlanta Hawks,123,+116,-135
+Mon May 3 2021,Philadelphia 76ers,106,Chicago Bulls,94,-336,+276
+Mon May 3 2021,New York Knicks,118,Memphis Grizzlies,104,+150,-172
+Mon May 3 2021,Denver Nuggets,89,Los Angeles Lakers,93,-168,+148
+Mon May 3 2021,San Antonio Spurs,99,Utah Jazz,110,+262,-315
+Tue May 4 2021,Phoenix Suns,134,Cleveland Cavaliers,118,-886,+618
+Tue May 4 2021,Charlotte Hornets,102,Detroit Pistons,99,-179,+157
+Tue May 4 2021,Brooklyn Nets,118,Milwaukee Bucks,124,+110,-128
+Tue May 4 2021,Dallas Mavericks,127,Miami Heat,113,-105,-114
+Tue May 4 2021,Golden State Warriors,103,New Orleans Pelicans,108,+109,-127
+Tue May 4 2021,Sacramento Kings,103,Oklahoma City Thunder,99,-206,+177
+Tue May 4 2021,Toronto Raptors,100,Los Angeles Clippers,105,+502,-681
+Wed May 5 2021,Boston Celtics,132,Orlando Magic,96,-883,+622
+Wed May 5 2021,Portland Trail Blazers,141,Cleveland Cavaliers,105,-801,+572
+Wed May 5 2021,Phoenix Suns,103,Atlanta Hawks,135,-113,-105
+Wed May 5 2021,Philadelphia 76ers,135,Houston Rockets,115,-1334,+850
+Wed May 5 2021,Sacramento Kings,104,Indiana Pacers,93,+207,-247
+Wed May 5 2021,Washington Wizards,134,Milwaukee Bucks,135,+150,-172
+Wed May 5 2021,Memphis Grizzlies,139,Minnesota Timberwolves,135,-158,+139
+Wed May 5 2021,New York Knicks,97,Denver Nuggets,113,+137,-156
+Wed May 5 2021,San Antonio Spurs,94,Utah Jazz,126,+223,-265
+Thu May 6 2021,Chicago Bulls,120,Charlotte Hornets,99,-187,+163
+Thu May 6 2021,Brooklyn Nets,109,Dallas Mavericks,113,-141,+123
+Thu May 6 2021,Washington Wizards,131,Toronto Raptors,129,-132,+113
+Thu May 6 2021,Memphis Grizzlies,97,Detroit Pistons,111,-447,+354
+Thu May 6 2021,Atlanta Hawks,126,Indiana Pacers,133,-247,+207
+Thu May 6 2021,Oklahoma City Thunder,97,Golden State Warriors,118,+777,-1168
+Thu May 6 2021,Los Angeles Lakers,94,Los Angeles Clippers,118,+301,-366
+Fri May 7 2021,New Orleans Pelicans,107,Philadelphia 76ers,109,+560,-780
+Fri May 7 2021,Boston Celtics,99,Chicago Bulls,121,-177,+152
+Fri May 7 2021,Orlando Magic,112,Charlotte Hornets,122,+262,-317
+Fri May 7 2021,Minnesota Timberwolves,112,Miami Heat,121,+282,-345
+Fri May 7 2021,Houston Rockets,133,Milwaukee Bucks,141,+1289,-2510
+Fri May 7 2021,Cleveland Cavaliers,90,Dallas Mavericks,110,+452,-590
+Fri May 7 2021,Denver Nuggets,120,Utah Jazz,127,+157,-179
+Fri May 7 2021,New York Knicks,105,Phoenix Suns,128,+226,-268
+Fri May 7 2021,Los Angeles Lakers,101,Portland Trail Blazers,106,+271,-325
+Fri May 7 2021,San Antonio Spurs,113,Sacramento Kings,104,-189,+165
+Sat May 8 2021,Washington Wizards,133,Indiana Pacers,132,-183,+158
+Sat May 8 2021,Detroit Pistons,104,Philadelphia 76ers,118,+342,-431
+Sat May 8 2021,Memphis Grizzlies,109,Toronto Raptors,99,-251,+210
+Sat May 8 2021,Brooklyn Nets,125,Denver Nuggets,119,-161,+142
+Sat May 8 2021,Oklahoma City Thunder,97,Golden State Warriors,136,+770,-1173
+Sat May 8 2021,San Antonio Spurs,102,Portland Trail Blazers,124,+205,-244
+Sat May 8 2021,Houston Rockets,116,Utah Jazz,124,+1042,-1692
+Sun May 9 2021,Miami Heat,130,Boston Celtics,124,+100,-112
+Sun May 9 2021,New York Knicks,106,Los Angeles Clippers,100,+263,-314
+Sun May 9 2021,New Orleans Pelicans,112,Charlotte Hornets,110,+131,-150
+Sun May 9 2021,Dallas Mavericks,124,Cleveland Cavaliers,97,-555,+421
+Sun May 9 2021,Minnesota Timberwolves,128,Orlando Magic,96,-307,+254
+Sun May 9 2021,Chicago Bulls,108,Detroit Pistons,96,-479,+376
+Sun May 9 2021,Phoenix Suns,110,Los Angeles Lakers,123,-255,+214
+Sun May 9 2021,Oklahoma City Thunder,98,Sacramento Kings,126,+327,-407
+Mon May 10 2021,Washington Wizards,124,Atlanta Hawks,125,+292,-355
+Mon May 10 2021,Indiana Pacers,111,Cleveland Cavaliers,102,-428,+344
+Mon May 10 2021,New Orleans Pelicans,110,Memphis Grizzlies,115,+366,-464
+Mon May 10 2021,Milwaukee Bucks,125,San Antonio Spurs,146,-291,+241
+Mon May 10 2021,Utah Jazz,116,Golden State Warriors,119,-128,+110
+Mon May 10 2021,Houston Rockets,129,Portland Trail Blazers,140,+959,-1526
+Tue May 11 2021,Denver Nuggets,117,Charlotte Hornets,112,-237,+200
+Tue May 11 2021,Minnesota Timberwolves,119,Detroit Pistons,100,-303,+254
+Tue May 11 2021,Miami Heat,129,Boston Celtics,121,-122,+104
+Tue May 11 2021,Los Angeles Clippers,115,Toronto Raptors,96,-1145,+752
+Tue May 11 2021,Brooklyn Nets,115,Chicago Bulls,107,-183,+160
+Tue May 11 2021,Philadelphia 76ers,94,Indiana Pacers,103,-210,+178
+Tue May 11 2021,Dallas Mavericks,104,Memphis Grizzlies,133,-157,+137
+Tue May 11 2021,Orlando Magic,102,Milwaukee Bucks,114,+928,-1497
+Tue May 11 2021,Phoenix Suns,116,Golden State Warriors,122,-191,+167
+Tue May 11 2021,New York Knicks,99,Los Angeles Lakers,101,+120,-141
+Tue May 11 2021,Oklahoma City Thunder,106,Sacramento Kings,122,+356,-447
+Wed May 12 2021,Washington Wizards,116,Atlanta Hawks,120,+237,-283
+Wed May 12 2021,San Antonio Spurs,116,Brooklyn Nets,128,+167,-192
+Wed May 12 2021,Boston Celtics,94,Cleveland Cavaliers,102,-240,+202
+Wed May 12 2021,New Orleans Pelicans,107,Dallas Mavericks,125,+370,-471
+Wed May 12 2021,Portland Trail Blazers,105,Utah Jazz,98,-104,-115
+Wed May 12 2021,Houston Rockets,122,Los Angeles Lakers,124,+380,-486
+Thu May 13 2021,Los Angeles Clippers,113,Charlotte Hornets,90,-396,+318
+Thu May 13 2021,Milwaukee Bucks,142,Indiana Pacers,133,-463,+364
+Thu May 13 2021,Orlando Magic,93,Atlanta Hawks,116,+674,-953
+Thu May 13 2021,Philadelphia 76ers,94,Miami Heat,106,+104,-122
+Thu May 13 2021,San Antonio Spurs,98,New York Knicks,102,+166,-190
+Thu May 13 2021,Toronto Raptors,102,Chicago Bulls,114,+425,-559
+Thu May 13 2021,Sacramento Kings,110,Memphis Grizzlies,116,+303,-369
+Thu May 13 2021,Denver Nuggets,114,Minnesota Timberwolves,103,-130,+112
+Thu May 13 2021,Portland Trail Blazers,117,Phoenix Suns,118,+115,-134
+Fri May 14 2021,Cleveland Cavaliers,105,Washington Wizards,120,+336,-422
+Fri May 14 2021,Denver Nuggets,104,Detroit Pistons,91,-405,+323
+Fri May 14 2021,Utah Jazz,109,Oklahoma City Thunder,93,-1455,+945
+Fri May 14 2021,Orlando Magic,97,Philadelphia 76ers,122,+857,-1379
+Fri May 14 2021,Toronto Raptors,110,Dallas Mavericks,114,+932,-1553
+Fri May 14 2021,Los Angeles Clippers,115,Houston Rockets,122,-305,+254
+Fri May 14 2021,Sacramento Kings,106,Memphis Grizzlies,107,+143,-164
+Fri May 14 2021,New Orleans Pelicans,122,Golden State Warriors,125,-102,-117
+Sat May 15 2021,Chicago Bulls,91,Brooklyn Nets,105,+532,-733
+Sat May 15 2021,Los Angeles Lakers,122,Indiana Pacers,115,-397,+319
+Sat May 15 2021,Charlotte Hornets,109,New York Knicks,118,+189,-223
+Sat May 15 2021,Boston Celtics,124,Minnesota Timberwolves,108,+169,-195
+Sat May 15 2021,Phoenix Suns,140,San Antonio Spurs,103,-643,+480
+Sat May 15 2021,Miami Heat,108,Milwaukee Bucks,122,+155,-177
+Sun May 16 2021,Boston Celtics,92,New York Knicks,96,+631,-896
+Sun May 16 2021,Indiana Pacers,125,Toronto Raptors,113,-233,+195
+Sun May 16 2021,Charlotte Hornets,110,Washington Wizards,115,+239,-287
+Sun May 16 2021,Phoenix Suns,123,San Antonio Spurs,121,-134,+114
+Sun May 16 2021,Memphis Grizzlies,101,Golden State Warriors,113,+142,-162
+Sun May 16 2021,Houston Rockets,95,Atlanta Hawks,124,+286,-343
+Sun May 16 2021,Cleveland Cavaliers,109,Brooklyn Nets,123,+822,-1183
+Sun May 16 2021,Orlando Magic,117,Philadelphia 76ers,128,+262,-309
+Sun May 16 2021,Miami Heat,120,Detroit Pistons,107,-175,+152
+Sun May 16 2021,Milwaukee Bucks,112,Chicago Bulls,118,-250,+211
+Sun May 16 2021,Dallas Mavericks,121,Minnesota Timberwolves,136,-261,+220
+Sun May 16 2021,Los Angeles Lakers,110,New Orleans Pelicans,98,-378,+298
+Sun May 16 2021,Los Angeles Clippers,112,Oklahoma City Thunder,117,-386,+316
+Sun May 16 2021,Denver Nuggets,116,Portland Trail Blazers,132,+322,-399
+Sun May 16 2021,Utah Jazz,121,Sacramento Kings,99,-829,+586
+Tue May 18 2021,Charlotte Hornets,117,Indiana Pacers,144,+136,-161
+Tue May 18 2021,Washington Wizards,100,Boston Celtics,118,+109,-127
+Wed May 19 2021,San Antonio Spurs,96,Memphis Grizzlies,100,+161,-187
+Wed May 19 2021,Golden State Warriors,100,Los Angeles Lakers,103,+209,-248
+Thu May 20 2021,Indiana Pacers,115,Washington Wizards,142,+137,-158
+Fri May 21 2021,Memphis Grizzlies,117,Golden State Warriors,112,+182,-215
+Sat May 22 2021,Miami Heat,107,Milwaukee Bucks,109,+188,-223
+Sat May 22 2021,Dallas Mavericks,113,Los Angeles Clippers,103,+199,-238
+Sat May 22 2021,Boston Celtics,93,Brooklyn Nets,104,+315,-396
+Sat May 22 2021,Portland Trail Blazers,123,Denver Nuggets,109,-104,-114
+Sun May 23 2021,Washington Wizards,118,Philadelphia 76ers,125,+278,-340
+Sun May 23 2021,Los Angeles Lakers,90,Phoenix Suns,99,+114,-132
+Sun May 23 2021,Atlanta Hawks,107,New York Knicks,105,-112,-112
+Sun May 23 2021,Memphis Grizzlies,112,Utah Jazz,109,+359,-505
+Mon May 24 2021,Miami Heat,98,Milwaukee Bucks,132,+171,-199
+Mon May 24 2021,Portland Trail Blazers,109,Denver Nuggets,128,+111,-129
+Tue May 25 2021,Boston Celtics,108,Brooklyn Nets,130,+359,-748
+Tue May 25 2021,Los Angeles Lakers,109,Phoenix Suns,102,-134,+113
+Tue May 25 2021,Dallas Mavericks,127,Los Angeles Clippers,121,+255,-307
+Wed May 26 2021,Washington Wizards,95,Philadelphia 76ers,120,+308,-382
+Wed May 26 2021,Atlanta Hawks,92,New York Knicks,101,+115,-136
+Wed May 26 2021,Memphis Grizzlies,129,Utah Jazz,141,+396,-515
+Thu May 27 2021,Milwaukee Bucks,113,Miami Heat,84,-124,+106
+Thu May 27 2021,Phoenix Suns,95,Los Angeles Lakers,109,+236,-283
+Thu May 27 2021,Denver Nuggets,120,Portland Trail Blazers,115,+148,-168
+Fri May 28 2021,New York Knicks,94,Atlanta Hawks,105,+164,-191
+Fri May 28 2021,Brooklyn Nets,119,Boston Celtics,125,-319,+262
+Fri May 28 2021,Los Angeles Clippers,118,Dallas Mavericks,108,-144,+124
+Sat May 29 2021,Milwaukee Bucks,120,Miami Heat,103,-168,+149
+Sat May 29 2021,Denver Nuggets,95,Portland Trail Blazers,115,+168,-196
+Sat May 29 2021,Philadelphia 76ers,132,Washington Wizards,103,-220,+186
+Sat May 29 2021,Utah Jazz,121,Memphis Grizzlies,111,-217,+183
+Sun May 30 2021,New York Knicks,96,Atlanta Hawks,113,+164,-203
+Sun May 30 2021,Phoenix Suns,100,Los Angeles Lakers,92,+248,-298
+Sun May 30 2021,Brooklyn Nets,141,Boston Celtics,126,-382,+309
+Sun May 30 2021,Los Angeles Clippers,106,Dallas Mavericks,81,-156,+144
+Mon May 31 2021,Philadelphia 76ers,114,Washington Wizards,122,-383,+311
+Mon May 31 2021,Utah Jazz,120,Memphis Grizzlies,113,-237,+198
+Tue Jun 1 2021,Boston Celtics,109,Brooklyn Nets,123,+670,-970
+Tue Jun 1 2021,Portland Trail Blazers,140,Denver Nuggets,147,+108,-126
+Tue Jun 1 2021,Los Angeles Lakers,85,Phoenix Suns,115,+168,-193
+Wed Jun 2 2021,Washington Wizards,112,Philadelphia 76ers,129,+202,-3534
+Wed Jun 2 2021,Atlanta Hawks,103,New York Knicks,89,-102,-117
+Wed Jun 2 2021,Memphis Grizzlies,110,Utah Jazz,126,+363,-5403
+Wed Jun 2 2021,Dallas Mavericks,105,Los Angeles Clippers,100,+268,-324
+Thu Jun 3 2021,Denver Nuggets,126,Portland Trail Blazers,115,+180,-212
+Thu Jun 3 2021,Phoenix Suns,113,Los Angeles Lakers,100,+128,-149
+Fri Jun 4 2021,Los Angeles Clippers,104,Dallas Mavericks,97,-144,+126
+Sat Jun 5 2021,Milwaukee Bucks,107,Brooklyn Nets,115,+152,-175
+Sun Jun 6 2021,Atlanta Hawks,128,Philadelphia 76ers,124,+164,-192
+Sun Jun 6 2021,Dallas Mavericks,111,Los Angeles Clippers,126,+208,-250
+Mon Jun 7 2021,Milwaukee Bucks,86,Brooklyn Nets,125,-123,+105
+Mon Jun 7 2021,Denver Nuggets,105,Phoenix Suns,122,+189,-224
+Tue Jun 8 2021,Atlanta Hawks,102,Philadelphia 76ers,118,+217,-258
+Tue Jun 8 2021,Los Angeles Clippers,109,Utah Jazz,112,+125,-143
+Wed Jun 9 2021,Denver Nuggets,98,Phoenix Suns,123,+203,-250
+Thu Jun 10 2021,Brooklyn Nets,83,Milwaukee Bucks,86,+132,-150
+Thu Jun 10 2021,Los Angeles Clippers,111,Utah Jazz,117,+130,-150
+Fri Jun 11 2021,Philadelphia 76ers,127,Atlanta Hawks,111,-127,+109
+Fri Jun 11 2021,Phoenix Suns,116,Denver Nuggets,102,+108,-127
+Sat Jun 12 2021,Utah Jazz,106,Los Angeles Clippers,132,+159,-183
+Sun Jun 13 2021,Brooklyn Nets,96,Milwaukee Bucks,107,-137,+118
+Sun Jun 13 2021,Phoenix Suns,125,Denver Nuggets,118,-159,+133
+Mon Jun 14 2021,Philadelphia 76ers,100,Atlanta Hawks,103,-146,+128
+Mon Jun 14 2021,Utah Jazz,104,Los Angeles Clippers,118,+181,-211
+Tue Jun 15 2021,Milwaukee Bucks,108,Brooklyn Nets,114,-135,-102
+Wed Jun 16 2021,Atlanta Hawks,109,Philadelphia 76ers,106,+257,-311
+Wed Jun 16 2021,Los Angeles Clippers,119,Utah Jazz,111,+308,-379
+Thu Jun 17 2021,Brooklyn Nets,89,Milwaukee Bucks,104,+165,-194
+Fri Jun 18 2021,Philadelphia 76ers,104,Atlanta Hawks,99,-156,+136
+Fri Jun 18 2021,Utah Jazz,119,Los Angeles Clippers,131,-145,+127
+Sat Jun 19 2021,Milwaukee Bucks,115,Brooklyn Nets,111,+116,-135
+Sun Jun 20 2021,Los Angeles Clippers,114,Phoenix Suns,120,+146,-165
+Sun Jun 20 2021,Atlanta Hawks,103,Philadelphia 76ers,96,+223,-267
+Tue Jun 22 2021,Los Angeles Clippers,103,Phoenix Suns,104,+157,-182
+Wed Jun 23 2021,Atlanta Hawks,116,Milwaukee Bucks,113,+280,-369
+Thu Jun 24 2021,Phoenix Suns,92,Los Angeles Clippers,106,-117,+102
+Fri Jun 25 2021,Atlanta Hawks,91,Milwaukee Bucks,125,+299,-358
+Sat Jun 26 2021,Phoenix Suns,84,Los Angeles Clippers,80,-113,-105
+Sun Jun 27 2021,Milwaukee Bucks,113,Atlanta Hawks,102,-184,+150
+Mon Jun 28 2021,Los Angeles Clippers,116,Phoenix Suns,102,+245,-292
+Tue Jun 29 2021,Milwaukee Bucks,88,Atlanta Hawks,110,-394,+315
+Wed Jun 30 2021,Phoenix Suns,130,Los Angeles Clippers,103,-119,+102
+Thu Jul 1 2021,Atlanta Hawks,112,Milwaukee Bucks,123,+173,-199
+Sat Jul 3 2021,Milwaukee Bucks,118,Atlanta Hawks,107,+136,-186
+Tue Jul 6 2021,Milwaukee Bucks,105,Phoenix Suns,118,+182,-213
+Thu Jul 8 2021,Milwaukee Bucks,108,Phoenix Suns,118,+165,-191
+Sun Jul 11 2021,Phoenix Suns,100,Milwaukee Bucks,120,+169,-195
+Wed Jul 14 2021,Phoenix Suns,103,Milwaukee Bucks,109,+165,-190
+Sat Jul 17 2021,Milwaukee Bucks,123,Phoenix Suns,119,+154,-175
+Tue Jul 20 2021,Phoenix Suns,98,Milwaukee Bucks,105,+161,-185
